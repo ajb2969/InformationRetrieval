@@ -49,9 +49,9 @@ cmake-build-*/
 
 # IntelliJ
 out/
-<<<<<<< HEAD
 .DS_Store
-.idea/
+.idea/*.xml
+.idea
 target/
 data/
 =======
@@ -96,6 +96,3 @@ fabric.properties
 .idea/**/markdown-navigator/
 
 # End of https://www.gitignore.io/api/intellij
-.idea/
-.DS_Store
->>>>>>> 432a3ceae4471cc010188f3eba198ed60759cf12
