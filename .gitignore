@@ -49,12 +49,10 @@ cmake-build-*/
 
 # IntelliJ
 out/
-<<<<<<< HEAD
 .DS_Store
 .idea/
 target/
 data/
-=======
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -98,4 +96,3 @@ fabric.properties
 # End of https://www.gitignore.io/api/intellij
 .idea/
 .DS_Store
->>>>>>> 432a3ceae4471cc010188f3eba198ed60759cf12
