@@ -10,10 +10,10 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
 
-public class DocumentWriter {
+class DocumentWriter {
     private static final String DOC_DIR = System.getProperty("user.dir") + "/documents";
 
-    public static void writeDocumentToFile(EpisodeDocument document) {
+    static void writeDocumentToFile(EpisodeDocument document) {
         new File(DOC_DIR).mkdir();
         ArrayList<String> lines = Lists.newArrayList(document.getBody().split("\n"));
         Path path = Paths.get(DOC_DIR + "/" + document.getTitle() + ".txt");

@@ -1,17 +1,21 @@
 package indexer;
 
+import com.google.common.collect.Maps;
+
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
 
 public class Index {
     private static String docs_file_path = "documents/";
     public static String output_dir = "indicies/doc-index.tsv";
 
     private static void document_level() {
-        // Map of Filename -> string of tokens
-        HashMap<String, ArrayList<String>> doc_index = new HashMap<>();
+        // Map of Filename -> <word, occurrences in file>
+        HashMap<String, Map<String, Integer>> doc_index = new HashMap<>();
         File[] files = new File(docs_file_path).listFiles();
         //brackets, parenthesis, colons, periods, commas, html tags, split on
         // spaces, remove new-line
@@ -19,7 +23,7 @@ public class Index {
             try {
                 BufferedReader br = new BufferedReader(new FileReader(f));
                 String line;
-                ArrayList<String> document_tokens = new ArrayList<>();
+                Map<String, Integer> wordOccurrences = Maps.newHashMap();
                 while ((line = br.readLine()) != null) {
                     //String [] split = line.split("[.\\[\\]!.:\"?,\s]");
 
@@ -29,9 +33,9 @@ public class Index {
                             .filter(token -> !token.isEmpty() || !token.equals(""))
                             .map(token -> token.replaceAll("[.,!?:\\[\\]]", ""))
                             .map(String::toLowerCase)
-                            .forEach(document_tokens::add);
+                            .forEach(token -> addOccurrence(token, wordOccurrences));
                 }
-                doc_index.put(f.getName(), document_tokens);
+                doc_index.put(f.getName(), wordOccurrences);
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -40,15 +44,17 @@ public class Index {
         //map of token -> files it exists in
         HashMap<String, ArrayList<String>> index = new HashMap<>();
         for (String file_name : doc_index.keySet()) {
-            for (String token : doc_index.get(file_name)) {
+            for (Entry<String, Integer> wordOccurrenceEntry : doc_index.get(file_name).entrySet()) {
+                String token = wordOccurrenceEntry.getKey();
+                String filenameWithOccurrences = file_name + ":" + String.valueOf(wordOccurrenceEntry.getValue());
                 if (!token.equals("")) {
                     if (index.containsKey(token) && !index.get(token).contains(file_name)) {
                         ArrayList<String> documents = index.get(token);
-                        documents.add(file_name);
+                        documents.add(filenameWithOccurrences);
                         index.put(token, documents);
                     } else {
                         ArrayList<String> documents = new ArrayList<>();
-                        documents.add(file_name);
+                        documents.add(filenameWithOccurrences);
                         index.put(token, documents);
                     }
                 }
@@ -59,6 +65,15 @@ public class Index {
             write_index(index);
         } catch (IOException e) {
             System.err.println("Unable to create index file");
+        }
+    }
+
+    private static void addOccurrence(String word, Map<String, Integer> wordOccurrences) {
+        if (wordOccurrences.containsKey(word)) {
+            Integer occurrences = wordOccurrences.get(word);
+            wordOccurrences.put(word, occurrences + 1);
+        } else {
+            wordOccurrences.put(word, 1);
         }
     }
 
