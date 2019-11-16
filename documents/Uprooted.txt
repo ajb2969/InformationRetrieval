@@ -1,0 +1,462 @@
+[zooming] 
+[thud!] 
+<b>Rainbow Dash</b>: Congratulations, Silverstream! You're officially the first non-Pegasus Wonderbolt! 
+<b>Silverstream</b>: Really?! That is such an honor! I don't know how to thank you, Professor Dash! 
+<b>Rainbow Dash</b>: Easy! You're kicking off our show right now! So get up there and make me proud! 
+[whoosh!] 
+<b>Silverstream</b>: Wait! I don't have my uniform! 
+<b>Ocellus</b>: Silverstream! Somehow, I missed a class all year, and the final is today! If I don't pass, I can't graduate! 
+<b>Yona</b>: [screaming] 
+[beat] 
+<b>Yona</b>: [sighs] 
+<b>Ocellus</b>: Whoa. That was weird. 
+<b>Silverstream</b>: And 
+ <i>that's</i> even weirder. 
+<b>Smolder</b>: [sips, sighs] Hmm? Uh, this isn't mine! 
+<b>Gallus</b>: [screams] Make it stop! Make it stop! [hyperventilating] Huh? 
+<b>Sandbar</b>: [panicked noises] 
+[magic sounds] 
+<b><span title="as Twilight Sparkle" style="cursor:help; border-bottom:1px dotted">Tree of Harmony</span></b>: Good. You have all answered my summons. 
+<b>Silverstream</b>: Wait. You mean this isn't 
+ <i>my</i> dream? 
+<b>Yona</b>: Friends must be dreaming together! 
+<b>Gallus</b>: More like a nightmare! 
+<b>Sandbar</b>: I know, right? How do I pick just one? They all look so good! 
+<b>Smolder</b>: 
+ <i>That's</i> your version of a bad dream? 
+<b>Ocellus</b>: But why did you bring us here, Headmare Twilight? 
+<b><span title="as Twilight Sparkle" style="cursor:help; border-bottom:1px dotted">Tree of Harmony</span></b>: I am not Twilight. I am merely the messenger. You all must hurry. The Tree of Harmony needs you. 
+[smash!] 
+[magic sounds] 
+<b>Young Six</b>: [gasp] 
+[squeaking] 
+<b>Spike</b>: [clicks tongue] Lookin' good. 
+[teleportation zap] 
+<b>Twilight Sparkle</b>: Spike! I have horrible news! 
+<b>Spike</b>: What's wrong? Is the Crystal Empire under attack again?! 
+<b>Twilight Sparkle</b>: What? No! We only have twenty highlighters! And they're all orange! How will everycreature color-code their notes?! 
+<b>Spike</b>: I'm pretty sure you're the only one that does that. 
+<b>Twilight Sparkle</b>: Still, twenty isn't enough for the new school year! 
+<b>Spike</b>: We got plenty of time to order more. The friendship students won't be back until— 
+[doors open] 
+<b>Spike</b>: Uh, now? 
+<b>Yona</b>: Whoa, whoa, whoa! 
+[thud] 
+<b>Twilight Sparkle</b>: Well, this is a surprise. Why are you all here so early? Did I send out the wrong back-to-school date?! 
+<b>Smolder</b>: Oh, we're not here for school. 
+<b>Sandbar</b>: Yeah. We're back 'cause the Tree of Harmony called us here. 
+<b>Twilight Sparkle</b>: [gasps] 
+<b>Gallus</b>: Don't feel bad it didn't reach out to you. We kinda have a special connection with it after last year. 
+<b>Twilight Sparkle</b>: But the Tree couldn't have called you. It's gone! Sombra destroyed it! 
+<b>Young Six</b>: [gasp] 
+<b>Spike</b>: Mmmmaybe next time, ease in with those truth bombs. 
+<b>Sandbar</b>: W-What about the Elements of Harmony? 
+<b>Twilight Sparkle</b>: Those are gone, too. 
+<b>Ocellus</b>: But doesn't that mean the Everfree Forest will take over Equestria?! 
+<b>Spike</b>: We've got that part under control, and Sombra won't be coming back, so... some good news, right? 
+<b>Silverstream</b>: Can we see the Tree ourselves? Or what's left of it? 
+<b>Twilight Sparkle</b>: As long as you promise to stick together. The Castle of the Two Sisters isn't the safest place, as you may remember. 
+<b>Yona</b>: Yona not scared of puckwudgies anymore! Friends save whole school from evil Pegasus! 
+<b>Spike</b>: [aside, to Twilight] She does have a point. 
+<b>Young Six</b>: [laughing] 
+<b>Ocellus</b>: Yes! 
+<b>Young Six</b>: [gasp] 
+<b>Gallus</b>: How could this happen?! 
+<b>Ocellus</b>: [gasps] If only we hadn't gone home for summer break. Maybe we could've saved the Tree. 
+<b>Smolder</b>: [huffs] I wish that Sombra guy was still around, so we could teach him a lesson! 
+<b>Yona</b>: That not bring back Tree. Or Elements of Harmony. 
+<b>Silverstream</b>: [gasps] Wait! We all saw and heard the Tree in our dream, right? How could it talk to us if it was really gone? Maybe if we close our eyes and think really strong friendship thoughts, the Tree will get better! 
+<b>Smolder</b>: Eh, I've heard worse suggestions. 
+[music] 
+[beat] 
+<b>Sandbar</b>: [loud whisper] Is it working? 
+<b>Yona</b>: No. 
+<b>Ocellus</b>: I guess the Tree really 
+ <i>is</i> gone. 
+<b>Gallus</b>: Then we need to do something to honor it! 
+<b>Smolder</b>: Ah, good idea, Gallus! 
+<b>Sandbar</b>: Hey, maybe 
+ <i>that's</i> why the Tree called us! It must've used the last of its magic to make sure we'd come here and keep its memory alive! 
+<b>Ocellus</b>: It did say it needed us. 
+<b>Thorax</b>: Ocellus! 
+[transformation noise] 
+[thud] 
+<b>Thorax</b>: There you are! The hive has been worried sick! Why did you leave without telling us? The last time you and your friends did that, it almost brought our kingdoms to war! 
+[transformation noise] 
+<b>Ocellus</b>: Uh, sorry, Thorax! It was an emergency! 
+<b>Thorax</b>: Well, next time, ask before you run off. Now, come on. Let's go home. 
+<b>Smolder</b>: Wait! She can't leave! We have a... dragon quest! 
+<b>Thorax</b>: But she's not a dragon. 
+[transformation noise] 
+<b>Thorax</b>: You know what I mean. 
+[transformation noise] 
+<b>Yona</b>: This quest for 
+ <i>all</i> Yona friends! Need to help Tree! 
+<b>Sandbar</b>: And it might take a while. 
+<b>Silverstream</b>: Can we stay, Headmare Twilight? 
+<b>Twilight Sparkle</b>: Well, as long as you get permission from your kingdoms, I suppose it's all right. 
+<b>Gallus</b>: You want that permission in triplicate, or is one enough? 
+[beat] 
+<b>Gallus</b>: What? I like to be prepared. 
+[dragons yelling] 
+<b>Smolder</b>: [straining] Yah! 
+[dragons cheering] 
+<b>Smolder</b>: [laughs] 
+[montage music] 
+<b>Yona</b>: [snorts] 
+[knocks on door] 
+<b>Grampa Gruff</b>: [coughs] 
+[door slams] 
+[music continues] 
+[inaudible dialogue] 
+<b>Sandbar</b>: Hey, you're back! Great! Since I live locally, I figured I'd do a little cleaning up while you were gone. Give us a head start, you know? 
+<b>Rest of Young Six</b>: [gasp] 
+<b>Gallus</b>: Sandbar, where's the Tree? 
+<b>Sandbar</b>: I got rid of it, to make room for a memorial. 
+<b>Smolder</b>: 
+ <i>You</i> did this?! 
+<b>Sandbar</b>: Uh, yeah. That's what you guys were thinking, right? 
+<b>Smolder</b>: [smack] 
+<b>Silverstream</b>: So not. 
+<b>Ocellus</b>: How can we remember the Tree if it's totally gone?! 
+<b>Sandbar</b>: Oh, it's not gone. Look! I planted a new tree. [grumbles] 
+<b>Ocellus</b>: Sandbar, you know that's not the same tree, right? 
+<b>Sandbar</b>: But it's a symbol, y'know? 
+<b>Yona</b>: Pony heart in right place. 
+<b>Gallus</b>: [growls] That doesn't matter! This cave was supposed to stay exactly the same so that future creatures could come visit and experience the memory of the Tree! 
+<b>Sandbar</b>: Sorry, everycreature. I thought I was helping. 
+<b>Smolder</b>: The Tree of Harmony is a huge part of Equestrian history. If we're gonna honor it, we need to do better than 
+ <i>that</i>. 
+<b>Silverstream</b>: Yeah! Like with lots of artwork that represents the symbolism and deep emotions of the Tree! 
+<b>Gallus</b>: No! It should be a museum with all the Tree's history and artifacts. 
+<b>Smolder</b>: Or a really big and imposing monument, so everycreature knows how powerful the Tree was! 
+<b>Ocellus</b>: I think we should turn this cave into a place for creatures to reflect on the Tree's true gift – the Elements of Harmony. 
+<b>Smolder</b>: Boring. 
+<b>Silverstream</b>: I like my idea better. 
+<b>Sandbar</b>: What's more perfect than another tree?! 
+<b>Ocellus</b>: What would Headmare Twilight want? 
+<b>Gallus</b>: Yona! You've been awfully quiet. Which idea do 
+ <i>you</i> like best? 
+<b>Yona</b>: Yona like when friends not argue. M-Maybe friends listen to each other and... make plan together? 
+[beat] 
+<b>Rest of Young Six</b>: Naaaah. 
+<b>Yona</b>: [groans] 
+<b>Sandbar</b>: [to sapling] Hey, little guy. Need a drink? 
+[water sprinkling] 
+<b>Gallus</b>: Step right up! Walk this way! Welcome to the one, the only, magical Tree of Harmony Museum! Come, see the birthplace of the Tree! Grown from the tears of a basilisk and tended day and night by pony magicians! This is truly one of the wonders of Equestria! 
+<b>Yona</b>: Uh, Gallus? None of that actually true. 
+<b>Gallus</b>: So? Honoring the Tree means giving it a story that creatures will care about. 
+<b>Sandbar</b>: It already 
+ <i>has</i> a great story! 
+<b>Gallus</b>: Yeah, but mine makes more sense. 
+<b>Sandbar</b>: Whatever. Can you just keep it down? My sapling doesn't like the noise. 
+<b>Gallus</b>: Good! It doesn't belong in the Tree's memorial anyway. [to tourists] 
+ <i>And</i> if you think 
+ <i>this</i> is great, just wait until you see the mystical Cave of Harmony! 
+[scraping] 
+<b>Smolder</b>: [straining] 
+[thud] 
+[crunch] 
+[whoosh] 
+<b>Yona</b>: What dragon doing? 
+<b>Smolder</b>: [straining] Making a memorial statue of the Tree. When creatures see this, they'll be super impressed! 
+<b>Yona</b>: Uh, look like rock, not tree. 
+<b>Smolder</b>: I'm not finished yet! And, honestly, I'm kinda having a hard time remembering what the Tree looked like. I can't believe I'm already forgetting. 
+[painting noises, splats and splashes, etc.] 
+<b>Silverstream</b>: Hmmm... Needs more loyalty. 
+[splash] 
+<b>Silverstream</b>: Careful, Yona! It's not dry yet. 
+<b>Yona</b>: What hippogriff painting? 
+<b>Silverstream</b>: It's the Tree, silly! See? These are the emotions its loss made me feel, dancing with the representations of Elements of Harmony! 
+[beat] 
+<b>Silverstream</b>: Maybe I should label it. 
+[creaking] 
+[splash] 
+<b>Ocellus</b>: Oops! Sorry! 
+<b>Silverstream</b>: Oh, no! Brown isn't an Element of Harmony! 
+[splashing] 
+<b>Ocellus</b>: [straining] Thanks, Yona! This fountain is heavier than I thought. 
+[thud] 
+[wind chimes] 
+[transformation zap] 
+<b>Ocellus</b>: It's for creatures to look at as they honor the Tree's memory in quiet thought and contemplation. I got some help and guidance from the counselor at our feelings forum back home. Only positive energy will bloom here. 
+<b>Gallus</b>: Wait! You can't go yet! 
+<b>Tourists</b>: [gasps] 
+<b>Gallus</b>: There's a whole puppet show of the time the Tree tested us in the catacombs under the School of Friendship! [to Smolder] Hey, stop! You can't bring that hunk of junk into my museum! 
+<b>Smolder</b>: It's not for 
+ <i>your</i> museum. It's for 
+ <i>my</i> tree memorial. 
+<b>Gallus</b>: So leave it outside! 
+<b>Smolder</b>: It belongs in 
+ <i>here</i>! 
+[crunch] 
+[crash] 
+[splash] 
+<b>Silverstream</b>: [gasps] 
+[rumbling] 
+<b>Yona</b>: [gasps] 
+[crash] 
+<b>Gallus</b>: Uh-oh. 
+<b>Silverstream</b>: [gasps] What did you do?! 
+[water flowing] 
+<b>Ocellus</b>: My meditation garden is ruined! Why couldn't you've been more careful?! 
+<b>Gallus</b>: This never would have happened if you had all just listened to me! 
+<b>Sandbar</b>: And made the Tree some kind of roadside attraction?! Uh, no thanks! 
+<b>Silverstream</b>: [hyperventilating into paper bag] Headmare Twilight is gonna be so mad when she sees what you guys did to the Cave of Harmony! 
+<b>Smolder</b>: Yeah, like some rainbow art project was better? 
+<b>Sandbar</b>: Not cool! 
+<b>Silverstream</b>: It's impressionism! 
+<b>Ocellus</b>: I'm just glad the Tree isn't here to see this. 
+<b>Smolder</b>: This is all 
+ <i>your</i> fault! 
+<b>Gallus</b>: I give up! 
+<b>Yona</b>: [grunts] 
+ <i>Quiet!</i> [stomps] Friends doing this the wrong way. All remembering Tree of Harmony for what Tree 
+ <i>was</i>, not what Tree 
+ <i>is</i>! 
+<b>Smolder</b>: You mean 'gone'? 
+<b>Yona</b>: No! Yona mean even though Tree not here here, Tree 
+ <i>here</i>. In hearts. Tree made friendship even closer. 
+<b>Ocellus</b>: That's right! We ran away to be together right above this spot! The Castle of the Two Sisters! 
+<b>Sandbar</b>: And later on, the Tree tested us to show us we're stronger as a team! 
+<b>Smolder</b>: It 
+ <i>did</i> call us all here. 
+<b>Silverstream</b>: [gasps] You mean the Tree of Harmony lives on in our friendship! 
+<b>Gallus</b>: Wow. I can't believe we just got schooled by a yak. 
+<b>Yona</b>: Yaks know things not forever. That's why smash and rebuild. 
+<b>Ocellus</b>: I think we took care of the smashing part. 
+<b>Gallus</b>: Then maybe we should start building. Together? 
+<b>Smolder</b>: Just one problem. We still haven't decided what we should do for the Tree. 
+<b>Yona</b>: Yona have idea. 
+[clanking] 
+<b>Ocellus</b>: The Tree! Where did you find it?! 
+<b>Sandbar</b>: Oh, I didn't move it 
+ <i>too</i> far. 
+[beat] 
+<b>Sandbar</b>: It was kinda heavy. 
+<b>Gallus</b>: And you're just mentioning this 
+ <i>now</i>? 
+<b>Yona</b>: What important is that Yona bring back branches so friends can rebuild! 
+<b>Smolder</b>: Rebuild what, exactly? 
+<b>Silverstream</b>: Ooh-ooh-ooh, I know! Something that represents what the Tree 
+ <i>is</i>! The gateway to our friendship! 
+<b>Yona</b>: Yes! What ponies call it? Club... home? 
+<b>Gallus</b>: A treehouse! 
+<b>Ocellus</b>: [gasps] That's a great idea! 
+<b>Smolder</b>: I know the Tree would've liked that! 
+<b>Yona</b>: Uh-huh! 
+[transformation zap] 
+<b>Sandbar</b>: [straining] Help me lift this piece! 
+<b>[Silverstream]</b> 
+ <dl>
+  <dd>
+   We celebrate our friendship 
+  </dd>
+ </dl> 
+<b>[Ocellus]</b> 
+ <dl>
+  <dd>
+   We celebrate the tree 
+  </dd>
+ </dl> 
+<b>[Sandbar]</b> 
+ <dl>
+  <dd>
+   The memories inside us 
+  </dd>
+ </dl> 
+<b>[Young Six]</b> 
+ <dl>
+  <dd>
+   We'll build for all to see 
+  </dd>
+ </dl> 
+<b>[Smolder]</b> 
+ <dl>
+  <dd>
+   The tree brought us together 
+  </dd>
+ </dl> 
+<b>[Ocellus, Silverstream, and Gallus]</b> 
+ <dl>
+  <dd>
+   (Brought us together) 
+  </dd>
+ </dl> 
+<b>[Smolder]</b> 
+ <dl>
+  <dd>
+   And even though it's gone 
+  </dd>
+ </dl> 
+<b>[Ocellus, Silverstream, and Gallus]</b> 
+ <dl>
+  <dd>
+   (Even though it's gone) 
+  </dd>
+ </dl> 
+<b>[Gallus]</b> 
+ <dl>
+  <dd>
+   Our monument of friendship 
+  </dd>
+ </dl> 
+<b>[Rest of Young Six]</b> 
+ <dl>
+  <dd>
+   (Of friendship) 
+  </dd>
+ </dl> 
+<b>[Young Six]</b> 
+ <dl>
+  <dd>
+   Can make the gift live on 
+  </dd>
+ </dl> 
+<b>[Ocellus]</b> 
+ <dl>
+  <dd>
+   A piece from me, a piece from you 
+  </dd>
+ </dl> 
+<b>[Silverstream]</b> 
+ <dl>
+  <dd>
+   We'll use the tree and we'll make do 
+  </dd>
+ </dl> 
+<b>[Gallus]</b> 
+ <dl>
+  <dd>
+   If things don't fit, there's lots of glue 
+  </dd>
+ </dl> 
+<b>[Young Six]</b> 
+ <dl>
+  <dd>
+   Friends don't quit in the end 
+  </dd>
+  <dd>
+   And together, we'll see this through 
+  </dd>
+ </dl> 
+<b>[Smolder]</b> 
+ <dl>
+  <dd>
+   It's hard to say farewell 
+  </dd>
+ </dl> 
+<b>[Sandbar]</b> 
+ <dl>
+  <dd>
+   To something you hold dear 
+  </dd>
+ </dl> 
+<b>[Silversteam, Sandbar, and Ocellus]</b> 
+ <dl>
+  <dd>
+   But goodbye isn't forever 
+  </dd>
+ </dl> 
+<b>[Young Six]</b> 
+ <dl>
+  <dd>
+   As long as we are here 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   The tree is in our memory (ahh-ahh-ahh) 
+  </dd>
+  <dd>
+   Its roots have grown deep in our hearts 
+  </dd>
+  <dd>
+   (Deep in our hearts, deep in our hearts) 
+  </dd>
+  <dd>
+   Its branches raise our spirits, together we're all bound 
+  </dd>
+  <dd>
+   Forever it stands, lost but now it's found 
+  </dd>
+ </dl> 
+<b>[Smolder]</b> 
+ <dl>
+  <dd>
+   So lift a beam and build it strong 
+  </dd>
+ </dl> 
+<b>[Silverstream]</b> 
+ <dl>
+  <dd>
+   Work as a team, it won't take long 
+  </dd>
+ </dl> 
+<b>[Yona]</b> 
+ <dl>
+  <dd>
+   Hey, Silverstream, I think that's wrong 
+  </dd>
+ </dl> 
+<b>[Silverstream, Gallus, and Yona]</b> 
+ <dl>
+  <dd>
+   We'll live the dream and sing our song 
+  </dd>
+ </dl> 
+<b>[Young Six]</b> 
+ <dl>
+  <dd>
+   And make the tree something all can see 
+  </dd>
+  <dd>
+   In a place where we belong! 
+  </dd>
+ </dl> 
+<b>Sandbar</b>: Well? What do you think? 
+<b>Ocellus</b>: It's, uh... kinda messy... 
+[bat squeaking] 
+<b>Smolder</b>: Yeah... like a bunch of different parts all smushed together. 
+<b>Silverstream</b>: Oh, it's just like us! 
+<b>Yona</b>: Yona think it perfect! 
+<b>Gallus</b>: Let's give it a try. 
+[thud] 
+<b>Young Six</b>: [giggling] 
+[rumbling] 
+<b>Sandbar</b>: Whoa! What's happening?! 
+<b>Ocellus</b>: It looks like magic! 
+<b>Smolder</b>: Everycreature out! 
+<b>Young Six</b>: [panicked panting] 
+[rumbling and creaking] 
+[crunch] 
+[creaking] 
+[shimmering sounds] 
+<b>Young Six</b>: [gasps] Whoa! 
+<b>Gallus</b>: How did 
+ <i>that</i> happen? 
+[glow] 
+<b><span title="as Twilight Sparkle" style="cursor:help; border-bottom:1px dotted">Tree of Harmony</span></b>: Because of you. The spirit of the Treehouse would have perished without your selfless deeds and caring. Whenever you seek solace, come here. Your friendship, and the friendship of future generations, will always be safe within these walls. 
+[magic zap] 
+[door opens] 
+[teleportation zap] 
+<b>Twilight Sparkle</b>: I felt a burst of magic all the way over at the school! Is everycreature okay? 
+<b>Silverstream</b>: A little confused, but definitely okay! 
+<b>Twilight Sparkle</b>: [gasps] Where did 
+ <i>this</i> come from? 
+<b>Smolder</b>: We were kinda gonna ask you the same thing. 
+<b>Spike</b>: It looks like part of the Tree of Harmony. But how? I thought it was destroyed! 
+<b>Ocellus</b>: It was. But when we used the broken parts to build something new, this happened. 
+<b>Twilight Sparkle</b>: The Tree has always been good at surprises. When Star Swirl planted the Tree's seed, he didn't even know what it would grow into. I guess the Tree is still alive, changing and adapting to be whatever Equestria needs. 
+<b>Gallus</b>: A cool place to hang out? 
+<b>Twilight Sparkle</b>: Something tells me this is more than that. It seems the Elements of Harmony may still be with us in their own way. 
+<b>Spike</b>: [sighs] That's actually really reassuring. 
+<b>Silverstream</b>: But why did the Tree need 
+ <i>our</i> help to become something new? 
+<b>Twilight Sparkle</b>: I'm not sure. If I had to guess, I'd say your friendship is more powerful than you know. 
+<b>Yona</b>: Oh, Yona know. Yona just need to remind friends. 
+<b>Spike</b>: So, who's gonna give us the tour? 
+<b>Young Six</b>: [umm-ing and uhh-ing] 
+<b>Twilight Sparkle</b>: [giggles] Why don't we all go in together? 
+<b>Young Six</b>: [laughing] 
+[credits] 

@@ -1,0 +1,353 @@
+[train puffing] 
+<b>Twilight Sparkle</b>: I hope Shining Armor and Princess Cadance don't think it's too soon for me to come back to the Crystal Empire for a visit. But I just know Flurry Heart's grown so much already. I wonder if I'll even recognize her. 
+<b>Starlight Glimmer</b>: She's the only baby they have, Twilight. I think it'll be pretty easy to figure out who she is. 
+<b>Twilight Sparkle</b>: [annoyed grunt] 
+<b>Starlight Glimmer</b>: Sorry. I know you want to visit your niece as much as possible, and I'm excited to see Sunburst again. I just don't wanna fall behind on my friendship lessons back home. 
+<b>Twilight Sparkle</b>: Starlight, your work in Ponyville isn't going anywhere. Besides, I think we all know you can learn about friendship anywhere. Right, Spike? 
+<b>Spike</b>: [deep voice] "Spike?" Who's "Spike"? 
+<b>Starlight Glimmer</b>: Pfft. Uh, 
+ <i>you're</i> Spike, Spike. And why are you dressed like that? 
+<b>Spike</b>: [groans] [normal voice] Guys, you're blowing my cover! How'd you even know it was me? 
+<b>Starlight Glimmer</b>: Because you're 
+ <i>you</i>... in a coat, hat and glasses. Also, we're the only ones here. 
+<b>Spike</b>: Right. 
+<b>Twilight Sparkle</b>: Spike, why do you need a disguise? 
+<b>Spike</b>: Last time we came to the Crystal Empire, there was a lot goin' on with the new baby and the Crystalling, but I 
+ <i>still</i> got mobbed in the street. 
+<b>Starlight Glimmer</b>: I wouldn't say mobbed. 
+<b>Spike</b>: And this is just a family visit. I wouldn't want the presence of Spike the Brave and Glorious to turn it into some kind of circus. 
+<b>Starlight Glimmer</b>: We get it. The Crystal Ponies adore you. 
+<b>Twilight Sparkle</b>: He 
+ <i>did</i> save the Empire. Twice. But still, I don't think your presence will turn our visit into a circus. 
+<b>Spike</b>: Not if I find the right disguise, it won't. 
+<b>Starlight Glimmer</b>: Uh, disguise or not, Spike, I don't think you need to worry about being mobbed. Nopony's here. 
+[wind whistling] 
+[tumbleweed drifting] 
+[bird cries] 
+<b>Spike</b>: It's like a ghost town. 
+<b>Twilight Sparkle</b>: I've got a bad feeling about this. 
+<b>Starlight Glimmer</b>: Yeah, this is weird. 
+<b>Spike</b>: I guess I don't need the disguise after all. 
+[Crystal Ponies cheering] 
+<b>Honeysparkle</b>: It's Spike the Brave and Glorious! 
+<b>Sapphire Joy</b>: He's come to save us yet again! 
+<b>Crystal Ponies</b>: Spike! Spike! Spike! Spike! 
+<b>Spike</b>: Save you from what? 
+<b>Starlight Glimmer</b>: Yeah, what's going on? 
+<b>Twilight Sparkle</b>: Why was everypony hiding? 
+<b>"Amber Laurel"</b>: Oh, it sure 
+ <i>looks</i> like Princess Twilight and her pupil. 
+<b>"Scarlet Heart"</b>: But how can we be sure? 
+<b>"Golden Väs"</b>: We can't! Either one of them could be the... you know! 
+[zip!] 
+<b>"Amber Laurel"</b>: [gasps] What if this... [gasps] isn't... [gasps] the real Spike?! 
+<b>"Scarlet Heart"</b>: Everypony, run! 
+[zip!] 
+<b>Twilight Sparkle</b>: Okay. Something strange is definitely going on. 
+<b>Spike</b>: [groans] Ya think? 
+<b>Royal guard 1</b>: Who goes there? 
+<b>Starlight Glimmer</b>: Um, you don't recognize the Princess of Friendship? 
+<b>Royal guard 1</b>: Of course we recognize her. 
+<b>Royal guard 2</b>: But that doesn't mean it's really her. 
+<b>Spike</b>: It's okay, guys. They're with me. And any friend of Spike the Brave and Glorious is a friend of the Crystal Empire, am I right? 
+<b>Royal guard 2</b>: Huh. It does look like him. 
+<b>Royal guard 1</b>: Well, it would, wouldn't it? I'm sorry, but we'll need to see some proof of identification. 
+<b>Princess Cadance</b>: We'll take care of things from here. 
+<b>Twilight Sparkle</b>: Oh, Cadance, thank goodness! What's going on? 
+<b>Shining Armor</b>: We can explain, Twily... if it really 
+ <i>is</i> you. 
+<b>Princess Cadance</b>: Sunshine, sunshine... 
+<b>Princess Cadance</b> and 
+ <b>Twilight Sparkle</b>: ...ladybugs awake! Clap your hooves and do a little shake! Mmm! 
+<b>Shining Armor</b>: It's okay, everypony. It's her. 
+<b>Starlight Glimmer</b>: Of course it's her! What's all this about? 
+<b>Sunburst</b>: A changeling's been spotted nearby. 
+<b>Twilight Sparkle</b>: A changeling?! 
+<b>Spike</b>: That's not good. 
+<b>Princess Cadance</b>: No, it's not. After Queen Chrysalis took my place at our wedding and invaded Canterlot with her army of minions, we're not taking any chances. 
+<b>Sunburst</b>: Changelings feed off of love. And ever since Flurry Heart's Crystalling, the Empire is filled with more love than anywhere in Equestria. It's possible they've come for the baby. 
+<b>Shining Armor</b>: That's why we posted the extra guards, and why we're— 
+<b>Twilight Sparkle</b>: Checking everypony's identity. 
+<b>Princess Cadance</b>: I'm sorry for all of this. Flurry Heart's really been looking forward to seeing you. 
+<b>Flurry Heart</b>: [coos] 
+<b>Twilight Sparkle</b>: Oh, she's gotten so big! Starlight and I will do whatever we can to help protect her. 
+<b>Princess Cadance</b>: To be honest, having you here is already a big relief. 
+<b>Royal guard 2</b>: [whispers indistinctly] 
+<b>Shining Armor</b>: Hmm. The royal guards were wondering if Spike the Brave and Glorious would like to join in the search for the changeling. 
+<b>Spike</b>: Really? 
+<b>Twilight Sparkle</b>: Uh, I don't know if that's such a good idea, Spike. It sounds dangerous. 
+<b>Spike</b>: Come on, Twilight, this is Spike the Brave and Glorious you're talking to. Have you ever known me to run from danger? 
+<b>Twilight Sparkle</b>: Um... 
+<b>Shining Armor</b>: He'll be safe with our guards. 
+<b>Spike</b>: Or will your guards be safe with 
+ <i>me</i>? 
+<b>Twilight Sparkle</b>: [sighs] 
+<b>Royal guard 1</b>: Spike the Brave and Glorious, you've faced the evil changelings before. What can you tell us? 
+<b>Spike</b>: Oh, uh, well, they are changelings, so they can... change. 
+<b>Royal guard 1</b>: [to other guards] You hear that? These monsters can look like any of us, so be on guard, guards! Even more than normal. 
+<b>Spike</b>: And they could be anywhere. 
+<b>Royal guards</b>: [affirming snort] 
+<b>Spike</b>: So we should cover as much ground as possible. You, search that way! 
+[whoosh] 
+<b>Spike</b>: And you, search that way! 
+[whoosh] 
+<b>Spike</b>: And... I'll... just search... here, I guess. Not many places to hide. Unless that rock 
+ <i>is</i> a changeling. Okay, rock. How do I know you're really a rock? Hmm. Not talkin', huh? Well, you can't fool me! Uhh! Ow! [screams] 
+<b>Spike</b>: Help! Help! Help! Help! Help! Help! Help! Oh! Uhh! 
+[boulder thuds] 
+<b>Spike</b>: Phew! [kisses] Okay. Maybe it's time Spike the Brave and Glorious went back to, uh, protect those guards. Gah! [sighs] Just my reflection. Huh? Ha! Ha-ha! Hmm. Just my imagination, I guess. 
+[transformation noise] 
+<b>Spike</b>: [screams] 
+<b>Spike</b>: Ch-ch-ch-ch-ch-ch-changeling! [stutters] 
+<b>Thorax</b>: No, wait! Come back! 
+<b>Spike</b>: [screaming] 
+[thud] 
+<b>Spike</b>: [screaming] This is unexpected. 
+[splat] 
+<b>Thorax</b>: The ice is pretty slippery. I wouldn't want you to get hurt because of me. 
+<b>Spike</b>: You... saved me? 
+<b>Thorax</b>: It's okay. I know you don't wanna be friends. 
+<b>Spike</b>: Wait! I don't understand. Changelings are supposed to be evil... right? 
+<b>Thorax</b>: Evil? Oh, not me. All I've ever wanted is a friend. 
+<b>Thorax</b>: [narrating] From the moment I first split my egg in the nursery hive... 
+[changeling larva hissing] 
+<b>Baby Thorax</b>: [whimpering] 
+<b>Thorax</b>: [narrating] I was part of the attack on Canterlot during the royal wedding, but I'd never seen true friendship like that! And I couldn't just steal it and feed on its love. I wanted to share it! 
+[explosion] 
+<b>Thorax</b>: After that, I knew I couldn't live with my kind anymore. I set off looking for love to share, but... 
+<b>Spike</b>: But... what? 
+<b>Thorax</b>: I'm starving! And there's so much love in the Crystal Empire right now. It's what drew me here! But it's drivin' me crazy! 
+<b>Spike</b>: That would be from the royal Crystalling. It's pretty much a giant outpouring of light and love for a new baby. 
+<b>Thorax</b>: [hisses] Oh, sorry! I'm just so hungry! If I had a friend, maybe the love we shared could sustain me, but I don't think the Crystal Ponies want to be friends. 
+<b>Spike</b>: What if I told you there was somepony they respect and admire so much, he could convince them to give it a try? 
+<b>Thorax</b>: If only that were true. 
+<b>Spike</b>: It is! I mean, 
+ <i>I</i> am! It's me, Spike! Spike the Brave and Glorious? I'm sure you've heard of me. 
+<b>Thorax</b>: Nope. But I was raised by an evil queen. I'm Thorax. I can't believe you want to help me. 
+<b>Spike</b>: Why? Hasn't anypony ever just been nice to you? 
+<b>Thorax</b>: [hisses] Uh! S-Sorry! Kindness like that kind of brings it out. Do you still wanna be my friend? 
+<b>Spike</b>: Of course! And I am one hundred percent sure I can get the whole Crystal Empire to be your friend too. 
+<b>Thorax</b>: [hisses] 
+<b>Spike</b>: But... maybe I should just, uh, talk to them first. 
+<b>Thorax</b>: [muffled grunting] 
+<b>Royal guard 1</b>: What do you mean? Did you see the changeling? 
+<b>Royal guard 2</b>: Did you defeat the evil creature? 
+<b>Spike</b>: Defeating a changeling would be brave, but do you know what would be glorious? 
+<b>Royal guard 1</b>: Defeating 
+ <i>two</i> changelings? 
+<b>Royal guard 2</b>: Defeating 
+ <i>all</i> the changelings? 
+<b>Spike</b>: Not having to fight the changeling at all! Because I made friends with him. 
+[guards laughing] 
+<b>Royal guard 1</b>: Oh, wow! For a second I thought you were serious! 
+<b>Royal guard 2</b>: [laughing] Could you imagine? Friends with a changeling? 
+<b>Spike</b>: I 
+ <i>am</i> serious. He wants to be friends! 
+[guards laughing] 
+<b>Royal guard 2</b>: Right! 
+<b>Royal guard 1</b>: Not only are you Spike the Brave and Glorious, you're also Spike the Hilarious! 
+<b>Royal guard 2</b>: [laughing] 
+<b>Spike</b>: I'm not joking! The changeling is nice! 
+[guards laughing harder] 
+<b>Shining Armor</b>: I'm sorry, but I don't think it's funny. The Changeling Queen Chrysalis kidnapped Cadance and cast a spell on me. 
+[zip!] 
+<b>Shining Armor</b>: There's no such thing as a 
+ <i>nice</i> changeling. 
+<b>Spike</b>: You're right, Shining Armor. Sorry. That was a... bad joke. 
+<b>Thorax</b>: So? So? Uh, what did they say? How many new friends do I have? 
+<b>Spike</b>: Well, it didn't go exactly the way I thought. 
+<b>Thorax</b>: [groans] I understand. Well, thanks for trying. I-I guess it's not surprising. How can you expect ponies who looks like this... [transformation noise] to trust something that looks like this? [transformation noise] 
+<b>Spike</b>: I think I might know! 
+[door opens] 
+<b>Twilight Sparkle</b>: Spike, if you're done searching for the changeling, Starlight and I could use your help. We're working on a protection spell for Flurry Heart, and nopony takes notes like you. 
+<b>Spike</b>: Uh, actually, Twilight, I, uh, wanted to introduce you to my friend, uh... Uh, Crystal, uh... Hoof! Crystal Hoof! [chuckles] My good friend, Crystal Hoof. 
+<span title="as Crystal Hoof" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span>: Nice to meet you. 
+<b>Twilight Sparkle</b>: Oh. Well, it's, uh, nice to meet you, too. How do you know Spike? 
+<span title="as Crystal Hoof" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span>: Oh, uh, Spike and I go 
+ <i>way</i> back. 
+<b>Spike</b>: To the Equestria Games! That's when we met. We've been pen pals ever since. 
+<b>Twilight Sparkle</b>: Pen pals? Spike! You could have been using my pen pal quill set! Why didn't you tell me? 
+<b>Spike</b>: Well, I... I pretty much only write to him when you and Starlight are... studying. 
+<span title="as Crystal Hoof" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span>: I like to brag to all my friends about my letters from Spike the Brave and Glorious. 
+<b>Spike</b>: Yeah. [laughs nervously] 
+<span title="as Crystal Hoof" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span> and 
+ <b>Spike</b>: [laugh nervously] 
+<b>Twilight Sparkle</b>: Well, I'm sure Starlight and I can manage, if you want to spend time with your friend. 
+<b>Spike</b>: Great! Crystal Hoof promised to take me around the city. 
+<span title="as Crystal Hoof" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span>: Oh, that was amazing! 
+<b>Spike</b>: I told ya. 
+[montage music] 
+<b>Royal guard 1</b>: [hushed] Crystal Hoof is nearly as entertaining as Spike himself. 
+<span title="as Crystal Hoof" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span>: [gasps] This place is everything I've ever dreamed of! [hushed] But I can't keep pretending to be a Crystal Pony forever, can I? 
+<b>Spike</b>: Relax. You're winning them over. Pretty soon, nopony will care that you're a changeling. 
+<b>Princess Cadance</b>: Spike! Twilight told me you were off with a friend. 
+<b>Spike</b>: [nervous laugh] 
+<b>Princess Cadance</b>: And any friend of Spike the Brave and Glorious is a friend of mine. 
+<b>Flurry Heart</b>: [coos] 
+<span title="as Crystal Hoof" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span>: Oh, she's so beautiful! There's so much l-love around her...! I... I...! 
+[transformation noise] 
+<b>Thorax</b>: [hisses] 
+<b>Princess Cadance</b>: [gasps] 
+<b>Twilight Sparkle</b> and 
+ <b>Starlight Glimmer</b>: [gasps] 
+<b>Thorax</b>: I... [hisses] I'm so... [hisses] ...sorry...! I can't... Can't [hisses] ...stop! 
+<b>Twilight Sparkle</b>: Spike! Get away from the changeling! 
+<b>Spike</b>: Wait, no! You don't understand! 
+<b>Sunburst</b>: This changeling replaced your friend to get close to the baby! What other explanation could there be?! 
+<b>Spike</b>: I... 
+<b>Thorax</b>: [hisses] 
+<b>Spike</b>: ...I don't know. 
+<b>Thorax</b>: [whimpers] 
+<b>Royal guard 1</b>: After it! Don't let the changeling escape! 
+<b>Princess Cadance</b>: I hope your friend is okay. 
+<b>Spike</b>: Yeah... Me, too. 
+<b>Royal guard 1</b>: Spike, you should go find Crystal Hoof while we hunt down the changeling. 
+<b>Spike</b>: I'm pretty sure he doesn't wanna see me. 
+<b>Shining Armor</b>: Spread out! The changeling is probably still nearby! 
+<b>Spike</b>: Actually, I'm pretty sure he ran as far away from here as possible.... But I bet I know where! 
+<b>Spike</b>: Thorax! Hello? I just want to apologize! I should have stood up for you... Aw, come on, Thorax! I know you're in here! 
+[transformation noise] 
+<b>Thorax</b>: Leave me alone! [hisses] 
+<b>Spike</b>: [yelps] [panting] Little help? 
+<b>Thorax</b>: Why do you think I would help 
+ <i>you</i>? I'm an "evil changeling"! 
+<b>Spike</b>: Because you're my friend. I just wish I had been one to you. [yelps] 
+<b>Thorax</b>: It's okay, I know it's hard. Everyone in the Crystal Empire loves 
+ <i>you</i>. I couldn't ask you to give that up for me. 
+<b>Spike</b>: You don't have to ask. 
+<b>Thorax</b>: What are you gonna do? 
+<b>Spike</b>: What I should've done in the first place. 
+<b>Royal guards</b>: Let's move! Move! Move! This way! This way! Let's go! Check there? Okay. Over here! Over here! [etc.] 
+[guards shouting] 
+<b>Royal guard</b>: Look around that corner! Over there! Over there! [etc.] 
+<b>Starlight Glimmer</b>: I know it's bad that there's a changeling around, but is all this 
+ <i>really</i> necessary? 
+<b>Princess Cadance</b>: If there's one changeling, there may well be a whole army on the way. 
+<b>Twilight Sparkle</b>: True. But Starlight has a point. This is getting a little out of hand. 
+<b>Princess Cadance</b>: [sighs] I understand, but I don't know what else we can do. 
+<b>Spike</b>: I do! 
+[ponies gasp] 
+<b>Shining Armor</b>: Spike! What are you doing?! Get away from that thing! 
+<b>Spike</b>: No. He's not a "thing"! His name is Thorax, and he's my friend! 
+<b>Royal guards</b> and 
+ <b>Shining Armor</b>: [gasp] 
+<b>Princess Cadance</b> and 
+ <b>Sunburst</b>: [gasp] 
+<b>Starlight Glimmer</b>: [gasp] 
+<b>[Spike]</b> 
+ <dl>
+  <dd>
+   Would you say I'm a hero 
+  </dd>
+  <dd>
+   Glorious and brave 
+  </dd>
+  <dd>
+   If I told you something you wouldn't believe? 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   That sometimes I'm scared 
+  </dd>
+  <dd>
+   And I can make mistakes 
+  </dd>
+  <dd>
+   And I'm not so heroic, it seems 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   But if day can turn to night 
+  </dd>
+  <dd>
+   And the darkness turn to light 
+  </dd>
+  <dd>
+   Then why can't we imagine a changeling can change? 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   No two ponies are exactly the same 
+  </dd>
+  <dd>
+   No two snowflakes ever match their design 
+  </dd>
+  <dd>
+   And I thought I was strong 
+  </dd>
+  <dd>
+   But I was nothing but wrong 
+  </dd>
+  <dd>
+   When I forgot to be friendly and kind 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   But if day can turn to night 
+  </dd>
+  <dd>
+   And the darkness turn to light 
+  </dd>
+  <dd>
+   Then why can't we imagine a changeling can change? 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   Would you say I'm a hero 
+  </dd>
+  <dd>
+   Glorious and brave 
+  </dd>
+  <dd>
+   If I told you something you wouldn't believe? 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   This changeling, it seems 
+  </dd>
+  <dd>
+   Knows the real me 
+  </dd>
+  <dd>
+   And would stay by my side 'til the end 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   So if day can turn to night 
+  </dd>
+  <dd>
+   And the darkness turn to light 
+  </dd>
+  <dd>
+   Then why can't we imagine 
+  </dd>
+  <dd>
+   Just why can't we imagine 
+  </dd>
+  <dd>
+   Then why can't we imagine a changeling can change? 
+  </dd>
+ </dl> 
+[long beat] 
+<b>Twilight Sparkle</b>: Spike, I'm so proud of you. 
+<b>Spike</b>: You are? 
+<b>Twilight Sparkle</b>: Of course! You're a celebrity here in the Crystal Empire, and you just risked all of it for a friend! I can't imagine anything more brave than that. [to others] As the Princess of Friendship, I try to set an example for all of Equestria. But today, it was Spike who taught me that a new friend can come from anywhere. I guess everypony still has things to learn about friendship. Even me! And if Spike says Thorax is his friend, then he's my friend too. 
+<b>Thorax</b>: Thank you. 
+<b>Princess Cadance</b>: On behalf of the Crystal Empire, I would like to extend my hoof in friendship, and I'm sure all of my subjects are eager to do the same. 
+[guards cheering] 
+<b>Flurry Heart</b>: [coos] 
+<b>Shining Armor</b>: Welcome to the Crystal Empire, Thorax. I'm sorry we didn't take the time to get to know you. Maybe we can change that now. 
+<b>Thorax</b>: That'd be so amazing! I want to know all about friendship, and maybe one day I can take that knowledge back to the Changeling Kingdom! If my kind learned how to create love for one another, maybe they wouldn't have to take it from others! 
+<b>Royal guard 1</b>: To Spike the Brave and Glorious! 
+[cheering] 
+<b>Starlight Glimmer</b>: Looks like you were right after all. 
+<b>Twilight Sparkle</b>: Right about what? 
+<b>Starlight Glimmer</b>: Friendship lessons can happen anywhere. 
+[credits] 

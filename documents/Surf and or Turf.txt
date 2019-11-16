@@ -1,0 +1,434 @@
+[doors open] 
+<b>Scootaloo</b>: Princess Twilight! 
+<b>Cutie Mark Crusaders</b>: We're glowing! 
+<b>Twilight Sparkle</b>: [giggling] That's what happens when you're summoned by the Map. 
+<b>Sweetie Belle</b>: Somepony needs 
+ <i>our</i> help? 
+<b>Apple Bloom</b>: 
+ <i>We're</i> being called by the Map? 
+<b>Scootaloo</b>: Did I mention we're glowing?! 
+<b>Twilight Sparkle</b>: [giggling] 
+<b>Scootaloo</b>: So where exactly in Equestria are we needed? 
+<b>Twilight Sparkle</b>: Actually, where you're going isn't even 
+ <i>in</i> Equestria. 
+<b>Sweetie Belle</b>: Wow! That's almost... off the table! 
+<b>Apple Bloom</b>: But what's way out there? 
+<b>Twilight Sparkle</b>: Mount Aris, the home of the Hippogriffs! And that's where you're headed! 
+<b>Cutie Mark Crusaders</b>: Whoa...! 
+[ponies chattering] 
+<b>Sweetie Belle</b>: You really don't need to come with us, Twilight. We can take care of this mission just fine on our own. 
+<b>Apple Bloom</b>: Mm-hmm. 
+<b>Scootaloo</b>: Yeah! 
+[thud] 
+<b>Scootaloo</b>: Oof! 
+<b>Sweetie Belle</b>: Ugh! 
+<b>Twilight Sparkle</b>: I know that. But I'm not so sure the ponies who care about you want you going off so far on your own. Besides, there's some school business I need to take care of on Mount Aris. This permission slip is for Silverstream. It's very important that her mother and father sign it, or else no field trips. 
+<b>Scootaloo</b>: [whispering, to Apple Bloom and Sweetie Belle] Sounds like somepony just wants a vacation. 
+<b>Cutie Mark Crusaders</b>: [giggling] 
+<b>Twilight Sparkle</b>: Okay, yes, I have been wanting to visit Mount Aris ever since the Hippogriffs moved back. But it's purely research. Silverstream's brother is gonna meet us there and take us to their houses. 
+<b>Apple Bloom</b>: Wow! They have more than one house? 
+<b>Twilight Sparkle</b>: I guess so. The social structure of the Hippogriffs and seaponies is a bit of a mystery. 
+<b>"All Aboard"</b>: All aboard! Last stop – the new Mount Aris Station! 
+[ponies chattering] 
+[train whistle blows] 
+[train chugging] 
+<b>Sweetie Belle</b>: I don't know if I'd like being a Hippogriff. Part bird, part pony... 
+<b>Scootaloo</b>: I'm happy with just my pony parts, thanks. 
+<b>Apple Bloom</b>: I think Hippogriffs 
+ <i>are</i> pretty neat. I learned all about them from Applejack. The Hippogriffs all once lived happily on Mount Aris. But when the Storm King invaded, they used a magic pearl to turn into seaponies and escape to the underwater safety of Seaquestria. Then, in the Battle of Canterlot, when Applejack defeated the Storm King— 
+<b>Twilight Sparkle</b>: Wait, what? She told you 
+ <i>she</i> defeated him? By herself? 
+<b>Apple Bloom</b>: Uh, maybe she didn't say that exactly. But it makes for a better story. 
+<b>Twilight Sparkle</b>: [giggling] 
+[train whistle blows] 
+<b>"All Aboard"</b>: Final stop – Mount Aris Station! 
+<b>Scootaloo</b>: [gasps] 
+<b>Cutie Mark Crusaders</b>: Whoa! 
+[train chugging] 
+[brakes hissing] 
+<b>Sweetie Belle</b>: All right. So what kind of cutie mark-related friendship problem do you think we're supposed to solve. 
+<b>Twilight Sparkle</b>: I don't know. But Hippogriffs don't have cutie marks. So it might not have anything to do with that at all. 
+<b>Apple Bloom</b>: Huh. Still, the Map called us, so it must be a kind of problem that only we can solve. 
+<b>Cutie Mark Crusaders</b>: Go, Crusaders! 
+<b>Sweetie Belle</b>: But how do we know exactly who we're supposed to help? 
+<b>Scootaloo</b>: Ahem. Attention, please! Anygriff here have a problem? 
+[beat] 
+<b>Scootaloo</b>: Eh. That's all I got. 
+<b>Apple Bloom</b>: Maybe if the Map could be a little more specific about our mission, like maybe... an address? 
+<b>Twilight Sparkle</b>: The Map doesn't really work like that. But I'm sure you and whoever needs help will find each other. 
+[water splashing] 
+<b>Terramar</b>: Excuse me! Miss Sparkle? Over here! Sorry I'm late. I'm Silverstream's brother Terramar. 
+<b>Apple Bloom</b>: A Hippogriff can have a seapony for a brother? How does that work exactly? 
+<b>Sweetie Belle</b>: Shhh! It's rude to ask a question like that! 
+[magic sounds] 
+<b>Scootaloo</b>: Whoa! 
+<b>Apple Bloom</b>: Can I ask now? 
+<b>Terramar</b>: [chuckles] It is kind of strange. See, after the Storm King was defeated, the seaponies didn't have to hide anymore. So some of them changed back to Hippogriffs and went home to Mount Aris. 
+<b>Twilight Sparkle</b>: But others got used to living under the water and stayed in Seaquestria. 
+<b>Terramar</b>: And me? Well, I kind of go back and forth with this. It's a tiny piece of the magic pearl. It was split up among our kingdoms. 
+<b>Apple Bloom</b>: Whoa! 
+<b>Sweetie Belle</b> and 
+ <b>Scootaloo</b>: Cool! 
+<b>Twilight Sparkle</b>: Well, I'm pretty eager to see the Hippogriff village. You know, to... get this form signed. And... research! So... 
+<b>Apple Bloom</b>: Hey, Terramar? Does anygriff you know up there have a problem they need help with? 
+<b>Terramar</b>: [chuckles] On Mount Aris? No. Everygriff is pretty happy up there. [sighs] It's a great place to live. 
+[Hippogriffs laughing] 
+<b>Twilight Sparkle</b>: Whoa! This looks amazing! Last time I was here, it was a ghost town! 
+<b>Terramar</b>: Yeah. Queen Novo thought it was important to return our village to its former glory. 
+[trumpet fanfare] 
+<b>Sky Beak</b>: And now, I officially open the "Glad to Be a Hippogriff" Festival! 
+[trumpet fanfare] 
+[Hippogriffs cheering] 
+[whoosh!] 
+[Hippogriffs cheering] 
+<b>Twilight Sparkle</b> and 
+ <b>Cutie Mark Crusaders</b>: Ahh! Whoa! 
+[Hippogriffs continue cheering] 
+<b>Scootaloo</b>: Wow! We picked a good day to show up! 
+<b>Terramar</b>: Not really. We do this every weekend. Hippogriffs 
+ <i>really</i> like being Hippogriffs. 
+[Hippogriffs cheering] 
+<b>Sky Beak</b>: [chuckles] There's my boy! 
+<b>Terramar</b>: Hi, Dad! 
+<b>Sky Beak</b>: Haven't seen you in days, son. Wish you'd come around more often. 
+<b>Terramar</b>: Oh! Dad, these are some of Silverstream's friends from Equestria. They came up to— 
+<b>Sky Beak</b>: [gasps] Princess Twilight Sparkle! [screeches] 
+<b>Cutie Mark Crusaders</b>: Aah! 
+<b>Sky Beak</b>: Attention, everygriff! Princess Twilight Sparkle is here! She's Silverstream's teacher! 
+[Hippogriffs gaspinng and exclaiming] 
+<b>Sky Beak</b>: Here to take in the marvel that is Mount Aris, your Highness? 
+<b>Twilight Sparkle</b>: Absolutely! 
+ <i>And</i> to have you sign a form for Silverstream. 
+<b>Sky Beak</b>: Glad to! But first, let's show the princess some real Mount Aris hospitality! To the refreshment tent for a stein of salmon juice! 
+<b>Twilight Sparkle</b>: Eh. Research. See you later! And good luck! I know you'll find your mission! 
+<b>Sweetie Belle</b>: Well, your dad's certainly... outgoing, isn't he? 
+<b>Terramar</b>: He's a great guy. All my relatives are nice. That's kind of the problem— 
+<b>Sweetie Belle</b>: Wait, stop. 
+[whimsical wind chimes] 
+<b>Sweetie Belle</b>: What's that wonderful sound? 
+<b>Terramar</b>: Those are the Harmonizing Heights. Legend says that— 
+[zoom!] 
+[whimsical wind chimes] 
+[birds chirping] 
+[water splashing] 
+<b>Sweetie Belle</b>: Woo-hoo! Yeah! Awesome! I love this! 
+<b>Terramar</b>: Uh, is she okay? 
+<b>Sweetie Belle</b>: This is absolutely the best place ever! You are so lucky! 
+<b>Scootaloo</b>: And you get to swim in the ocean! You have two great places to live! 
+<b>Apple Bloom</b>: How do you make up your mind which one to stay in? 
+<b>Terramar</b>: I can't. That's the problem. 
+<b>Apple Bloom</b>: Did you say... "problem"? 
+<b>Sweetie Belle</b>: 
+ <i>You</i> have a problem?! 
+<b>Scootaloo</b>: Yes! 
+<b>Sweetie Belle</b>: Woo-hoo! We discovered our mission! 
+<b>Scootaloo</b>: All right! 
+<b>Apple Bloom</b>: We did it! 
+<b>Sweetie Belle</b>: Woo-hoo-hoo-hoo! [chuckles nervously] 
+<b>Scootaloo</b>: Sorry. You were talking about your problem? 
+<b>Terramar</b>: Right. Like I said, Mount Aris is one great place to live. That's why Silverstream and my dad and some of my cousins came back here. But Seaquestria is another great place to live. That's where my mom is. 
+<b>Sweetie Belle</b>: Ohhhh. I-I didn't know that. 
+<b>Terramar</b>: So no matter where I am, I feel like I'm letting someone down. 
+<b>Apple Bloom</b>: No wonder you're having such a hard time deciding. 
+<b>Terramar</b>: And I have to choose soon. Every other griff my age already knows where they belong. I'm still not sure. 
+<b>Scootaloo</b>: When in doubt, chart it out! 
+<b>Scootaloo</b>: Now, we put down everything great about each place and everything not so great. Compare them, and... your decision is made for you! 
+<b>Sweetie Belle</b>: Well, it's obvious, isn't it? Mount Aris is the best of all possible worlds. Pro – it's beautiful. Con – too far from Equestria. I think that pretty much sums it up. 
+<b>Terramar</b>: But you haven't been to Seaquestria yet. How can you even compare them? 
+<b>Apple Bloom</b>: Terramar's right, Sweetie Belle. It'd be fair if we visited both places before we decide. 
+[screech] 
+<b>Twilight Sparkle</b>: Hey, everypony! This festival is fantastic! Look what I won at the ring toss booth! Ahem. But of course, I'm really here on business. Sky Beak's already signed the form. Now I just need your mom's signature. Is she around? 
+<b>Apple Bloom</b>: Um... she's a seapony. In Seaquestria. 
+<b>Twilight Sparkle</b>: 
+ <i>That's</i> what Silverstream meant by "houses"! 
+<b>Terramar</b>: Mm-hmm. If you'd like to meet my mom, we're just heading down there now. 
+<b>Apple Bloom</b>: And how exactly are we gonna visit underwater? 
+[magic sounds] 
+[water bubbling] 
+<b>Scootaloo</b>: Whoa! [giggling] Woo-hoo! Yeah! [giggling] Whoa! This must be just like flying! Woo-hoo! 
+<b>Apple Bloom</b>: Where's your mom's house, Terramar? 
+<b>Terramar</b>: Come on. It's this way. 
+<b>Scootaloo</b>: This is awesome! 
+<b>Scootaloo</b>: [giggling] 
+<b>Terramar</b>: Mom! 
+<b>Ocean Flow</b>: Terramar! Welcome home, baby! No excuses. This time, you're staying for dinner. 
+<b>Terramar</b>: [chuckles] Scootaloo, Sweetie Belle, Apple Bloom, this is my mom Ocean Flow. And this is— 
+<b>Ocean Flow</b>: [gasps] Princess Twilight Sparkle! What an honor! You know, Silverstream just raves about you. 
+<b>Twilight Sparkle</b>: Well, she is one of our most hardworking students. In fact, I brought this form for you to sign so that— 
+<b>Ocean Flow</b>: Both my children are so smart. Would you like to see their baby pictures? 
+<b>Terramar</b>: 
+ <i>Mom!</i> 
+<b>Twilight Sparkle</b>: That sounds adorable! I'd love to! And you know, to find out about aquatic pony early development and, uh... 
+<b>Cutie Mark Crusaders</b>: [giggling] Research. 
+<b>Ocean Flow</b>: Oh, well, maybe your friends would like a snack while we're gone? Some kelp chips? Fish oil tea? 
+<b>Terramar</b>: No, thanks, Mom. I'm gonna go show them around. 
+<b>Scootaloo</b>: Look out! [giggling] Can't catch me! 
+<b>Sweetie Belle</b>: Huh. Not much sunlight down here, is there? 
+<b>Scootaloo</b>: [giggling] 
+[bongo drums drumming] 
+<b>Scootaloo</b>: Boom-ba-da-boom-ba-da-boom-ba-da-boom-ba-da-boom-ba-da-boom-ba-da-boom! 
+<b>Sweetie Belle</b>: No grass to run in and no hooves to run on it with. And excuse me, but how do you keep from getting all pruney? [sighs] 
+<b>Scootaloo</b>: [laughing] 
+[thud] 
+<b>Scootaloo</b>: [bubbly] Everything sounds funny down here! 
+<b>Sweetie Belle</b>: Okay. I've seen everything I need to. So, uh, why don't we find Twilight Sparkle, finish the chart, and, uh, head back up the mountain? I have some serious field twirling to do. 
+<b>Scootaloo</b>: Where's she going? I want to stay and swim some more! [sighs] 
+[magic sounds] 
+[seagull squawking] 
+<b>Sky Beak</b>: [screeches] Princess Twilight, you're back! And just in time for the screeching competition. 
+<b>Twilight Sparkle</b>: Why not? Could be another trophy in my future! Be back soon! 
+<b>Scootaloo</b>: All right! Let's add some positives to the Seaquestria side! 
+<b>Apple Bloom</b>: Uh-huh! 
+<b>Scootaloo</b>: Swimming is like flying, multi-color fish, and did I mention the flying thing?! 
+<b>Sweetie Belle</b>: You forgot the cons. Dark, wet, sea monsters... 
+<b>Scootaloo</b>: I don't remember any sea monsters. Apple Bloom, looks like it's up to you. 
+<b>Apple Bloom</b>: Me? Well... Both places have a lot of good things about them. I can understand why it's hard for you to decide. 
+<b>[Apple Bloom]</b> 
+ <dl>
+  <dd>
+   Your heart is in two places, you can only live in one 
+  </dd>
+  <dd>
+   You're torn between the hilltops and the tide 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Thank goodness that the Cutie Mark Crusaders have begun 
+  </dd>
+  <dd>
+   To give you hope and help you to decide 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   These hills, they call to you, they say "Harmonizing Heights" 
+  </dd>
+  <dd>
+   This is your home, simple and serene 
+  </dd>
+  <dd>
+   The sun-dappled leaves or a mountain terrace 
+  </dd>
+  <dd>
+   You can see twenty-three different shades of green 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   To dare to compare anywhere to there 
+  </dd>
+  <dd>
+   Is unfair and just plain wrong 
+  </dd>
+  <dd>
+   Colt or mare or you wear feathers, fins, or hair 
+  </dd>
+  <dd>
+   This is where you belong 
+  </dd>
+ </dl> 
+<b>Scootaloo</b>: Well, on the other hoof, I can think of a place that's way more exciting and cool, not to mention more you! Come on, you know exactly where I mean! 
+<dl>
+  <dd>
+   Seaquestria's the most, you're supposed to be there 
+  </dd>
+  <dd>
+   Underneath the sea where you can feel at home 
+  </dd>
+  <dd>
+   Swimmin' with your friends, you can spend all day here 
+  </dd>
+  <dd>
+   Playin' in the bay here, splashin' in the foam 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   Sailin' through the wavy blue 
+  </dd>
+  <dd>
+   You'll view a slew of tortoises 
+  </dd>
+  <dd>
+   Forget the rest, the sea's the best 
+  </dd>
+  <dd>
+   For all intents and "porpoises" 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Build your nest here on Harmonizing Heights 
+  </dd>
+ </dl> 
+<b>[Scootaloo]</b> 
+ <dl>
+  <dd>
+   Live it up here in Seaquestria 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Nothing compares to Harmonizing Heights 
+  </dd>
+  <dd>
+   The eagles are regal 
+  </dd>
+ </dl> 
+<b>[Scootaloo]</b> 
+ <dl>
+  <dd>
+   But the schools are cooler 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Their claws are so awesome 
+  </dd>
+ </dl> 
+<b>[Scootaloo]</b> 
+ <dl>
+  <dd>
+   With their sweet maneuvers 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Star wishes every night 
+  </dd>
+ </dl> 
+<b>[Scootaloo]</b> 
+ <dl>
+  <dd>
+   Starfish by eel light 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Better 
+  </dd>
+ </dl> 
+<b>[Scootaloo]</b> 
+ <dl>
+  <dd>
+   Wetter 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Shinier 
+  </dd>
+ </dl> 
+<b>[Scootaloo]</b> 
+ <dl>
+  <dd>
+   Brinier 
+  </dd>
+  <dd>
+   Seaquestria! 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Harmonizing Heights! 
+  </dd>
+ </dl> 
+<b>[Scootaloo]</b> 
+ <dl>
+  <dd>
+   Seaquestria! 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle]</b> 
+ <dl>
+  <dd>
+   Harmonizing Heights! 
+  </dd>
+ </dl> 
+<b>[Sweetie Belle and Scootaloo]</b> 
+ <dl>
+  <dd>
+   That's it! This is the end! 
+  </dd>
+  <dd>
+   Don't ever talk to me again! 
+  </dd>
+ </dl> 
+<b>Apple Bloom</b>: Terramar, where're you goin'? 
+<b>Terramar</b>: Ugh! If you all can't even agree amongst yourselves, how am I supposed to make up 
+ <i>my</i> mind?! It's hopeless! 
+<b>Scootaloo</b>: Hmph! 
+<b>Apple Bloom</b>: Sweetie Belle said to tell you it's your fault that Terramar ran off. 
+<b>Scootaloo</b>: Well, you tell Sweetie Belle that if it weren't for her, our mission would've been over by now! 
+ <i>And</i> a success! 
+<b>Apple Bloom</b>: [sighs] Scootaloo says this whole thing is your fault. 
+<b>Sweetie Belle</b>: Well, tell 
+ <i>her</i> that 
+ <i>I'm</i> not the one who dashed all of Terramar's hopes and made him give up on the world! 
+ <i>Both</i> worlds! 
+<b>Apple Bloom</b>: [sighs] Sweetie Belle says it's your fault that Terramar ran— Oh. Wait. I already told you that, didn't I? 
+<b>Twilight Sparkle</b>: Uh, what's going on? Where's Terramar? 
+<b>Apple Bloom</b>: Uh, well... he... he kinda left. He wanted to be by himself. 
+<b>Scootaloo</b>: Which was not my fault! 
+<b>Sweetie Belle</b>: Mine, either! 
+<b>Twilight Sparkle</b>: Well, of course not. Why would you think that? 
+<b>Scootaloo</b> and 
+ <b>Sweetie Belle</b>: Because it 
+ <i>was</i> our fault. 
+<b>Scootaloo</b>: All we had to do was help him choose which world to live in. 
+<b>Sweetie Belle</b>: And we let him down. 
+<b>Twilight Sparkle</b>: Whoever said that he 
+ <i>had</i> to choose? 
+<b>Apple Bloom</b>: Well, he did. 
+<b>Twilight Sparkle</b>: Hmmm... Maybe Terramar's making it harder than it has to be. 
+<b>Ocean Flow</b>: Yoo-hoo! Princess! We're having a seashell-crafting circle. Care to join us? 
+<b>Twilight Sparkle</b>: Actually, we're right in the middle of— 
+<b>Sky Beak</b>: There you are! The flag-folding ceremony's about to begin! 
+<b>Twilight Sparkle</b>: Thank you, really. I've had a great time in both places today, but... [whispering, to Cutie Mark Crusaders] Wow. This must be how Terramar feels all the time. 
+<b>Ocean Flow</b>: Oh! Hello, Sky Beak. 
+<b>Sky Beak</b>: Ocean Flow! You're looking well. 
+[Hippogriffs and seaponies chattering] 
+<b>Sweetie Belle</b>: Hmmm... This gives me an idea. 
+[water flowing] 
+<b>Scootaloo</b>: Huh. I thought for sure he came this way. 
+<b>Sweetie Belle</b>: [gasps] He did. 
+<b>Terramar</b>: And I'm staying here, too! That way, I don't have to be on land or in the water! 
+<b>Scootaloo</b>: We're sorry. We were supposed to help you, and... 
+<b>Sweetie Belle</b>: ...we just ended up confusing you more. It's all our fault. 
+<b>Terramar</b>: Oh, great! 
+ <i>You're</i> sorry, and I'm still confused! I'm staying in my tree. 
+<b>Apple Bloom</b>: We might have somethin' worth comin' down for. 
+<b>Sweetie Belle</b>: We thought we'd get every creature together for a picnic on the beach. 
+<b>Scootaloo</b>: And we mean 
+ <i>every</i> creature! 
+[Hippogriffs and seaponies chattering] 
+[splashing] 
+<b>Twilight Sparkle</b>: [laughing] 
+<b>Sky Beak</b>: Son! There you are! Your friends told us how you've been feeling. 
+<b>Ocean Flow</b>: And we're sorry if we ever made you think you had to choose between worlds. That wasn't our intention, honey. 
+<b>Sky Beak</b>: Your Hippogriff heritage is something to be proud of, certainly. 
+<b>Ocean Flow</b>: But you're more than just where you're from or who you live with. We love you because you're you, no matter where you choose to be. 
+<b>Sky Beak</b>: You don't have to decide. You can keep doing what you've been doing – going back and forth. 
+<b>Ocean Flow</b>: And enjoying 
+ <i>both</i> places. 
+<b>Terramar</b>: [laughing] 
+<b>Scootaloo</b>: Something we forgot to add that both places have – family and friends who love you. 
+<b>Terramar</b>: Thanks for everything. Hey, uh, are you glowing? 
+[shimmering sounds] 
+<b>Cutie Mark Crusaders</b>: Yes! We did it! 
+<b>Twilight Sparkle</b>: Congratulations! Your first map mission is a success! 
+<b>Sweetie Belle</b>: Guess that means we're officially done here. I hope you come visit your sister in Equestria. 
+<b>Apple Bloom</b>: Yeah, come see us! You'll love it! 
+<b>Scootaloo</b>: Who knows? You might even want to live there! 
+[beat] 
+<b>Scootaloo</b>: Yeah, that was a joke. 
+[credits] 
