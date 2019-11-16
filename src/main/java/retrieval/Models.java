@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 abstract public class Models {
-    final String documents_path = "documents/";
+    public static final String documents_path = "documents/";
     private ArrayList<String> documents;
 
     Models() {
