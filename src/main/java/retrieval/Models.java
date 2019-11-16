@@ -2,10 +2,7 @@ package retrieval;
 
 import indexer.Index;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -27,11 +24,11 @@ abstract public class Models {
 
     public abstract ArrayList<String> retrieve(String query);
 
-    String[] extractTerms(String query) {
+    public String[] extractTerms(String query) {
         return query.split("\\s+");
     }
 
-    private HashMap<String, Entry> parse_doc_indicies() throws IOException {
+    public HashMap<String, Entry> parse_doc_indicies() throws IOException {
         //TODO update for parsing document-level TSV, will need to be
         // over-written for other indicies (i.e. window)
         HashMap<String, Entry> terms = new HashMap<>();
@@ -39,13 +36,14 @@ abstract public class Models {
         BufferedReader br = new BufferedReader(new FileReader(index));
         String line;
 
-        while ((line = br.readLine()) != null) {
+        while((line = br.readLine()) != null) {
             String[] parsed_line = line.split("\t");
             String term = parsed_line[0];
             int quantity = Integer.parseInt(parsed_line[1]);
-            ArrayList<String> documents = new ArrayList<>();
-            for (int i = 2; i < parsed_line.length; i++) {
-                documents.add(parsed_line[i]);
+            ArrayList<FileOccurrence> documents = new ArrayList<>();
+            for(int i = 2; i < parsed_line.length; i++) {
+                String[] fileAndOccurrence = parsed_line[i].split(":");
+                documents.add(new FileOccurrence(fileAndOccurrence[0], Integer.valueOf(fileAndOccurrence[1])));
             }
             terms.put(term, new Entry(quantity, documents));
         }
@@ -55,11 +53,11 @@ abstract public class Models {
 
     class Entry {
         private int size;
-        private ArrayList<String> documents;
+        private ArrayList<FileOccurrence> fileOccurrences;
 
-        Entry(int size, ArrayList<String> documents) {
+        Entry(int size, ArrayList<FileOccurrence> fileOccurrences) {
             this.size = size;
-            this.documents = documents;
+            this.fileOccurrences = fileOccurrences;
         }
 
 
@@ -71,12 +69,12 @@ abstract public class Models {
             this.size = size;
         }
 
-        public ArrayList<String> getDocuments() {
-            return documents;
+        public ArrayList<FileOccurrence> getFileOccurrences() {
+            return fileOccurrences;
         }
 
-        public void setDocuments(ArrayList<String> documents) {
-            this.documents = documents;
+        public void setFileOccurrences(ArrayList<FileOccurrence> fileOccurrences) {
+            this.fileOccurrences = fileOccurrences;
         }
     }
 }
