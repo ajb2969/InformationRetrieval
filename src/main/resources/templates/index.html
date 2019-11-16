@@ -1,6 +1,5 @@
-
 <!doctype html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -23,22 +22,18 @@
 <div class="cover-container d-flex h-100 p-3 mx-auto flex-column">
     <header class="masthead mb-auto">
         <div class="inner">
-            <h3 class="masthead-brand">Magical Searching</h3>
-            <nav class="nav nav-masthead justify-content-center">
-                <a class="nav-link active" href="#">Home</a>
-                <a class="nav-link" href="#">Features</a>
-                <a class="nav-link" href="#">Contact</a>
-            </nav>
+            <h3 align="center" class="masthead-brand">Magical Searching</h3>
         </div>
     </header>
 
 
     <main class="inner cover" role="main">
-        <img src="../img/home_page_logo.tiff" class="img-fluid" alt="Responsive image">
+        <img src="../img/home_page_logo.png" class="img-fluid" alt="Responsive image">
 
-        <div class="md-form mt-0">
-            <input class="form-control" type="text" placeholder="Search" aria-label="Search">
-        </div>
+        <form action="#" th:action="@{/query}" th:object="${query}" method="post">
+            <p><input type="text" th:field="*{content}" /></p>
+            <p><input type="submit" value="Submit" />
+        </form>
     </main>
 
     <footer class="mastfoot mt-auto">
@@ -52,7 +47,9 @@
 <!-- Bootstrap core JavaScript
 ================================================== -->
 <!-- Placed at the end of the document so the pages load faster -->
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
 <script>window.jQuery || document.write('<script src="../js/jquery-slim.min.js"><\/script>')</script>
 <script src="../js/popper.min.js"></script>
 <script src="../js/bootstrap.min.js"></script>
