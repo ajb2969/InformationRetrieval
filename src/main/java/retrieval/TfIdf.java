@@ -8,7 +8,8 @@ public class TfIdf extends Models {
     }
 
     @Override
-    public ArrayList<Integer> retrieve(String query) {
+    public ArrayList<String> retrieve(String query) {
+        System.out.println("Executed TfIdf");
         return null;
     }
 }

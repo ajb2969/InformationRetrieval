@@ -18,9 +18,10 @@ abstract public class Models {
         return documents;
     }
 
-    public abstract ArrayList<Integer> retrieve(String query);
+    public abstract ArrayList<String> retrieve(String query);
 
     public ArrayList<String> parse_documents() {
+        //TODO update for parsing document-level TSV, will need to be over-written for other indicies (i.e. window)
         ArrayList<String> documents = new ArrayList<>();
         File[] files = new File(this.documents_path).listFiles();
         for (File f : files) {

@@ -8,7 +8,8 @@ public class BM25 extends Models {
     }
 
     @Override
-    public ArrayList<Integer> retrieve(String query) {
+    public ArrayList<String> retrieve(String query) {
+        System.out.println("Executed BM25");
         return null;
     }
 }
