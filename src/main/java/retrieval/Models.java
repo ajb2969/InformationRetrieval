@@ -2,10 +2,12 @@ package retrieval;
 
 import indexer.Index;
 
-import java.io.*;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 abstract public class Models {
     private static final String indicies_path = Index.output_dir;
@@ -25,11 +27,11 @@ abstract public class Models {
 
     public abstract ArrayList<String> retrieve(String query);
 
-    public String[] extractTerms(String query) {
+    String[] extractTerms(String query) {
         return query.split("\\s+");
     }
 
-    public HashMap<String, Entry> parse_doc_indicies() throws IOException {
+    private HashMap<String, Entry> parse_doc_indicies() throws IOException {
         //TODO update for parsing document-level TSV, will need to be
         // over-written for other indicies (i.e. window)
         HashMap<String, Entry> terms = new HashMap<>();
@@ -37,12 +39,12 @@ abstract public class Models {
         BufferedReader br = new BufferedReader(new FileReader(index));
         String line;
 
-        while((line = br.readLine()) != null) {
-            String [] parsed_line = line.split("\t");
+        while ((line = br.readLine()) != null) {
+            String[] parsed_line = line.split("\t");
             String term = parsed_line[0];
             int quantity = Integer.parseInt(parsed_line[1]);
             ArrayList<String> documents = new ArrayList<>();
-            for(int i = 2; i < parsed_line.length; i++) {
+            for (int i = 2; i < parsed_line.length; i++) {
                 documents.add(parsed_line[i]);
             }
             terms.put(term, new Entry(quantity, documents));
