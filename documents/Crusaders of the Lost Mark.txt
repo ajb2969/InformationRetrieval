@@ -1,921 +1,467 @@
-<b>Apple Bloom</b>: Okay, Crusaders! Back to the business of earnin' our cutie marks! Any suggestions? 
-<b>Scootaloo</b>: No, we've tried everything! 
-<b>Sweetie Belle</b>: We've run out of ideas. 
-<b>Apple Bloom</b>: Are you kiddin' me, Crusaders? We can do better than that! 
-<b>[Apple Bloom]</b> 
- <dl>
-  <dd>
-   We've been searchin' for our cutie marks 
-  </dd>
-  <dd>
-   For a while now 
-  </dd>
-  <dd>
-   Tryin' to find out how we fit in 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   So many ways we've tried before 
-  </dd>
-  <dd>
-   But we keep on tryin' more 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   'Cause the Cutie Mark Crusaders don't give in 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   We'll make our mark 
-  </dd>
-  <dd>
-   One way or another 
-  </dd>
-  <dd>
-   We'll make our mark 
-  </dd>
-  <dd>
-   On the day that we discover 
-  </dd>
-  <dd>
-   The ultimate reward of our cutie marks! 
-  </dd>
- </dl> 
-<b>Apple Bloom</b>: Now, that's more like it! 
-<b>Pipsqueak</b>: Cutie Mark Crusaders! 
- <i>Help!</i> 
-<b>Apple Bloom</b>: What's wrong, Pipsqueak? 
-<b>Pipsqueak</b>: I'm running for student pony president, I was hoping you three would be my campaign managers! 
-<b>Apple Bloom</b>: We've never tried gettin' our cutie marks in campaign managin'! What do ya say, Crusaders? 
-<b>Cutie Mark Crusaders</b>: Yeah! Hoof! 
-<b>Apple Bloom</b>: [loudly] So, Pip, how would 
- <i>you</i> help the school if 
- <i>you</i> were elected student pony president? 
-<b>Pipsqueak</b>: Our playground equipment took quite a beating during Twilight's battle with Tirek! 
-[snap, thump] 
-<b>Pipsqueak</b>: If I'm voted in as student pony president, I'll go to the school board and right this wrong! 
-[foals cheering] 
-<b>Diamond Tiara</b>: Well, 
- <i>I</i> think that's a ridiculous waste of money! It's just like when Twist proposed to repair the window that Discord destroyed! She just wanted to repair it like a plain old 
- <i>schoolhouse</i> window. But you all know voting for 
- <i>me</i> was the best choice because 
- <i>I</i> convinced the school board to give that window 
- <i>visual appeal</i>! 
-<b>Apple Bloom</b>: 'Course, it doesn't hurt that her mother Spoiled Rich is president of the school board. 
-<b>Silver Spoon</b>: Exactly! Which is why when Diamond Tiara is voted student pony president, the school will be putting a statue of her in the center of our schoolyard! 
-<b>Diamond Tiara</b>: [through gritted teeth] 
- <i>Silver Spoon!</i> That was 
- <i>my</i> big announcement for when 
- <i>I</i> won! 
-<b>Silver Spoon</b>: I was only trying to help. 
-<b>Diamond Tiara</b>: [through gritted teeth] I don't 
- <i>need that kind of help!</i> 
-<b>Apple Bloom</b>: Haven't we all had enough of Diamond Tiara? 
-<b>Scootaloo</b>: Do we really need a big statue of her? 
-<b>Sweetie Belle</b>: Especially where our playground equipment should be? 
-[foals shocked whispering] 
-<b>Pipsqueak</b>: A vote for Pip is a vote for the playground! 
-<b>Diamond Tiara</b>: A vote for Diamond Tiara is a vote for 
- <i>more</i> Diamond Tiara! 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   It's time to make a change 
-  </dd>
-  <dd>
-   This is our chance 
-  </dd>
-  <dd>
-   Don't be afraid to do what's right 
-  </dd>
-  <dd>
-   He's it! Vote for Pip! 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   We got an opportunity 
-  </dd>
-  <dd>
-   To have fun again 
-  </dd>
-  <dd>
-   A vote for Pip, and you can join the fight 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   It's time for a new leader 
-  </dd>
-  <dd>
-   It's time to make a change 
-  </dd>
-  <dd>
-   We're here to fight for what we believe 
-  </dd>
-  <dd>
-   (Vote for Pip!) 
-  </dd>
-  <dd>
-   It's finally time we beat her 
-  </dd>
-  <dd>
-   And play a better game 
-  </dd>
-  <dd>
-   'Cause when we vote together 
-  </dd>
-  <dd>
-   There's nothing that we can't achieve 
-  </dd>
- </dl> 
-<b>[Diamond Tiara]</b> 
- <dl>
-  <dd>
-   I don't believe what I am hearing 
-  </dd>
-  <dd>
-   I'm the only one you should be cheering 
-  </dd>
-  <dd>
-   Pipsqueak? Try "Pip's weak!" Don't you think? 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   But a diamond is perfection 
-  </dd>
-  <dd>
-   It's natural selection 
-  </dd>
-  <dd>
-   So your vote better be for me, not the weakest link 
-  </dd>
- </dl> 
-<b>Apple Bloom</b>: We'll let the votin' decide! 
-<b>[Diamond Tiara]</b> 
- <dl>
-  <dd>
-   Everypony has their little secrets 
-  </dd>
- </dl> 
-I know 
- <i>you</i> do 
- <dl>
-  <dd>
-   A vote for me will help you keep them safe 
-  </dd>
- </dl> 
-Like your creepy super strength! 
-<dl>
-  <dd>
-   Or your mane extension 
-  </dd>
-  <dd>
-   A little thing I won't mention 
-  </dd>
-  <dd>
-   Or those freakish large teeth in your face! 
-  </dd>
- </dl> 
-<b>Apple Bloom</b>: Come on now, ponies! Don't listen to her! 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   You've gotta vote for change 
-  </dd>
-  <dd>
-   It's time for a new leader 
-  </dd>
-  <dd>
-   End all the tyranny 
-  </dd>
-  <dd>
-   Vote now and we can beat her 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   It's now another day 
-  </dd>
-  <dd>
-   And we believe in what's right 
-  </dd>
- </dl> 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   Vote for Pip! Vote for Pip! 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   Our victory is in sight 
-  </dd>
- </dl> 
-<b>Diamond Tiara</b>: Stop! Everypony who hasn't voted, listen up! 
-<dl>
-  <dd>
-   Pip makes promises he can't keep 
-  </dd>
-  <dd>
-   But I can do more 
-  </dd>
- </dl> 
-You could really use a new bookbag 
-<dl>
-  <dd>
-   'Cause I'll make things happen 
-  </dd>
-  <dd>
-   That none of you here can afford 
-  </dd>
- </dl> 
-To do, like, 
- <i>ever</i>! 
-<dl>
-  <dd>
-   Wouldn't you like a little something sweet? 
-  </dd>
-  <dd>
-   Here's a parasol to hide you from the heat 
-  </dd>
-  <dd>
-   Who says that I can't be nice? 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   But first there's one thing 
-  </dd>
-  <dd>
-   An itsy-bitsy little string 
-  </dd>
-  <dd>
-   And voting for me is the price! 
-  </dd>
- </dl> 
-<b>[Silver Spoon]</b> 
- <dl>
-  <dd>
-   I've a tiny suggestion 
-  </dd>
-  <dd>
-   That you should be aware 
-  </dd>
-  <dd>
-   You could probably win this election 
-  </dd>
-  <dd>
-   If you show them all you real— 
-  </dd>
- </dl> 
-<b>Diamond Tiara</b>: I don't recall asking you to speak! 
-<b>All</b>: [gasps] 
-<b>Sweetie Belle</b>: Well, if that's how you treat your best friend, then I choose Pipsqueak! 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   Vote! 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   Stand strong and don't be afraid, ponies 
-  </dd>
-  <dd>
-   Let's free ourselves from the past 
-  </dd>
- </dl> 
-Stand strong and don't be afraid, ponies 
-Let's free ourselves from the past 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   For Pip! 
-  </dd>
-  <dd>
-   Vote! 
-  </dd>
- </dl> 
-For Pip! 
-Vote! 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   He's it! Vote for Pip! Vote! 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   We'll let honor win out against the tyranny 
-  </dd>
-  <dd>
-   And make a change that will last 
-  </dd>
- </dl> 
-We'll let honor win out against the tyranny 
-And make a change that will last 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   For Pip! 
-  </dd>
-  <dd>
-   Vote! 
-  </dd>
- </dl> 
-For Pip! 
-Vote! 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   Vote for Pip! 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   It's time for a new leader 
-  </dd>
-  <dd>
-   It's time to make a change 
-  </dd>
-  <dd>
-   We're here to fight for what we believe 
-  </dd>
- </dl> 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   Vote for Pip! 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   It's finally time we beat her 
-  </dd>
-  <dd>
-   And play a better game 
-  </dd>
-  <dd>
-   'Cause when we vote together 
-  </dd>
-  <dd>
-   There's nothing that we can't achieve 
-  </dd>
- </dl> 
-<b>[Foals]</b> 
- <dl>
-  <dd>
-   Vote for Pip! 
-  </dd>
- </dl> 
-<b>Cheerilee</b>: The votes have been counted! The student pony president is... Pipsqueak! 
-<b>Diamond Tiara</b>: Huh?! 
-[foals cheering] 
-<b>Apple Bloom</b>: Oh, my gosh, Crusaders! Pip won! 
-<b>Pipsqueak</b>: I couldn't have won without the hard work of my campaign managers, the Cutie Mark Crusaders! 
-<b>Sweetie Belle</b>: Campaign manager cutie marks! 
-<b>Diamond Tiara</b>: Guess you're not as good as you thought, 
- <i>blank flanks</i>! In fact, I demand a recount! 
-<b>Cheerilee</b>: Trust me, Diamond Tiara. Pip won. 
-<b>Diamond Tiara</b>: 
- <i>I'll</i> be the judge of 
- <i>that</i>, Miss Cheerilee! 
-[beat] 
-<b>Diamond Tiara</b>: 
- <i>What?!</i> One vote! Silver Spoon! You didn't vote for me?! 
-<b>Silver Spoon</b>: No, I didn't. 
-<b>Diamond Tiara</b>: But you're my best friend! 
-<b>Silver Spoon</b>: Am I? 'Cause I tried to help by mentioning your 'surprise' statue, and suddenly I wasn't even allowed to 
- <i>speak</i>! You could have actually won this election if you just listened to me. You wanna know how? [whispering] 
- <i>Sorry. I'm not allowed to speak.</i> 
-<b>Diamond Tiara</b>: [screams in rage] 
-<b>Silver Spoon</b>: [to Cutie Mark Crusaders and Pipsqueak] What? I don't have to follow her drum any more. 
-<b>Apple Bloom</b>: I know Diamond Tiara's been pretty awful, but... we should probably make sure she's okay. Just 'cause she's never cared about anypony else's feelings doesn't mean we shouldn't care about hers. 
-[door opens] 
-<b>Spoiled Rich</b>: Diamond Tiara! Why are you making that face? 
- <i>That</i> is not the face of a 
- <i>winner</i>. 
-<b>Diamond Tiara</b>: Because... I didn't win. 
-<b>Spoiled Rich</b>: What?! You mean I hefted all these party supplies to celebrate 
- <i>nothing</i>?! 
-[thump] 
-<b>Diamond Tiara</b>: Sorry mother. 
-<b>Spoiled Rich</b>: It's bad enough you lost to that 
- <i>transplant</i> from Trottingham, but imagine if you'd lost to one of those 
- <i>blank flanks</i>. As a Rich pony, you must always think of your social standing. 
-<b>Fancy Pants</b>: Hm. 
-<b>Spoiled Rich</b>: That starts here in Ponyville and reaches all over Equestria. Don't ever forget that, Diamond Tiara. 
- <i>Ever!</i> 
-<b>[Diamond Tiara]</b> 
- <dl>
-  <dd>
-   If I'm a diamond 
-  </dd>
-  <dd>
-   Then why do I feel so rough? 
-  </dd>
-  <dd>
-   I'm as strong as a stone 
-  </dd>
-  <dd>
-   Even that's not enough 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   There's something jagged in me 
-  </dd>
-  <dd>
-   And I've made such mistakes 
-  </dd>
-  <dd>
-   I thought that diamonds were hard 
-  </dd>
-  <dd>
-   Though I feel I could break 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Would you believe 
-  </dd>
-  <dd>
-   That I've always wished I could be somepony else? 
-  </dd>
-  <dd>
-   Yet I can't see 
-  </dd>
-  <dd>
-   What I need to do to be the pony I want to be 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I've been told my whole life 
-  </dd>
-  <dd>
-   What to do, what to say 
-  </dd>
-  <dd>
-   Nopony showed me that 
-  </dd>
-  <dd>
-   There might be some better way 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   And now I feel like I'm lost 
-  </dd>
-  <dd>
-   I don't know what to do 
-  </dd>
-  <dd>
-   The ground is sinking away 
-  </dd>
-  <dd>
-   I'm about to fall through 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Would you believe 
-  </dd>
-  <dd>
-   That I've always wished I could be somepony else? 
-  </dd>
-  <dd>
-   Yet I can't see 
-  </dd>
-  <dd>
-   What I need to do to be the pony I want to be 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   To be the pony I want to be 
-  </dd>
- </dl> 
-<b>Sweetie Belle</b>: Is it weird that I feel bad for her? 
-<b>Scootaloo</b>: If it is, then... I'm weird, too. 
-<b>Apple Bloom</b>: She wants to change, but she doesn't know how. 
-<b>Sweetie Belle</b>: Seems like she could use a friend or two to help her figure it out. 
-[bell ringing] 
-[foals chattering] 
-<b>Apple Bloom</b>: Hey, Diamond Tiara! Wait up! 
-<b>Diamond Tiara</b>: What do you three want? To gloat? Rub in my defeat? 
-<b>Apple Bloom</b>: Actually, we wanted to invite you to our clubhouse to hang out. 
-<b>Diamond Tiara</b>: Really? 
-<b>Scootaloo</b>: Yeah, for real! 
-<b>Diamond Tiara</b>: Well, thanks to 
- <i>you</i> all, I don't have any important class president business to attend to or anything. So I might as well. 
-<b>Sweetie Belle</b>: That 
- <i>sounds</i> like a yes... 
-<b>Diamond Tiara</b>: So, do you three just sit around here plotting out different ways to try and get your cutie marks? 
-<b>Apple Bloom</b>: Actually, yeah. 
-<b>Diamond Tiara</b>: You three are... really lucky. 
-<b>Cutie Mark Crusaders</b>: We are?! 
-<b>Diamond Tiara</b>: Yeah! You get to explore all these options, learning who you really are before you're stuck with something you don't understand. 
-<b>Apple Bloom</b>: But... you've done that, right? 
-<b>Diamond Tiara</b>: Yeah, 'cause I 
- <i>have</i> my cutie mark! And I'm not struggling at 
- <i>all</i> to figure out 
- <i>who</i> I'm supposed to be and 
- <i>what</i> I'm supposed to be doing with this mark that's already on my flank! 
-<b>Apple Bloom</b>: Uh... are you sure about that? 
-<b>Diamond Tiara</b>: [scoffs] That's a weird question. 
-<b>Sweetie Belle</b>: Not really, since we kind of overheard you yesterday. 
-<b>Diamond Tiara</b>: Were you trying to get your cutie mark in 
- <i>spying</i>? Is 
- <i>that</i> on your little 
- <i>chart</i>? 
-<b>Sweetie Belle</b>: No! We were just worried about you when you lost the election, and then you lost your friend, and then your mom yelled at you... 
-<b>Apple Bloom</b>: We know you wanna change, and we think we can— 
-<b>Pipsqueak</b>: [muffled] 
- <i>Help!</i> 
-[door opens] 
-<b>Pipsqueak</b>: Cutie Mark Crusaders! I was at the school board meeting and they didn't approve my request for the new playground equipment! 
-<b>Sweetie Belle</b>: Why not? 
-<b>Pipsqueak</b>: There's no money in the budget! So I checked my Peggy bank to see if I had enough bits, but my little Peggy wasn't 
- <i>nearly</i> full enough! 
-<b>Sweetie Belle</b>: Don't worry, Pip! 
-<b>Scootaloo</b>: We'll meet you back at school. 
-<b>Apple Bloom</b>: And help you find a solution! 
-<b>Pipsqueak</b>: Thanks, Cutie Mark Crusaders! 
-<b>Diamond Tiara</b>: Oh, 
- <i>I</i> already 
- <i>have</i> a solution! Our new student pony president is gonna be kicked out of office, and 
- <i>I'll</i> be reinstated! 
-<b>Scootaloo</b>: Where's she going? 
-<b>Apple Bloom</b>: Where do you think?! C'mon! After her! 
-<b>Sweetie Belle</b>: Wait! I'm coming too! 
-<b>[Diamond Tiara]</b> 
- <dl>
-  <dd>
-   Cutie Mark Crusaders, get out of my way 
-  </dd>
-  <dd>
-   Those ponies need to know the truth 
-  </dd>
-  <dd>
-   And they'll hear it from me 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   Stop! Diamond Tiara, this is not the way 
-  </dd>
-  <dd>
-   You know you're better than this hostility 
-  </dd>
- </dl> 
-<b>[Diamond Tiara]</b> 
- <dl>
-  <dd>
-   You don't even know me at all 
-  </dd>
-  <dd>
-   Don't understand the meaning of my fall 
-  </dd>
-  <dd>
-   What my family would think if I ever 
-  </dd>
-  <dd>
-   Fail at anything 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I'm a diamond – that means you'll never break 
-  </dd>
-  <dd>
-   No matter what be the cost of the path I take 
-  </dd>
-  <dd>
-   Whatever I have to do to win in the end 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   Stop! This is not the answer 
-  </dd>
-  <dd>
-   Wait! And it's plainly seen 
-  </dd>
-  <dd>
-   Listen! You can redeem yourself 
-  </dd>
-  <dd>
-   But by helping others, not by being mean 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   We know you want friends who admire you 
-  </dd>
-  <dd>
-   You want to be the star with all the power too 
-  </dd>
-  <dd>
-   But there's a better way, there's a better wa-a-ay 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   There's so much more still left to 
-  </dd>
-  <dd>
-   Learn about yourself 
-  </dd>
-  <dd>
-   See the light that shines in you 
-  </dd>
-  <dd>
-   We know you can be somepony else 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   You can stop right now 
-  </dd>
-  <dd>
-   And try another start 
-  </dd>
-  <dd>
-   You'll finally free yourself from the dark 
-  </dd>
-  <dd>
-   And see the light 
-  </dd>
-  <dd>
-   And see the light of your cutie mark 
-  </dd>
- </dl> 
-<b>Diamond Tiara</b>: Everypony, I have an announcement! 
-<b>Apple Bloom</b>: Diamond Tiara! Think hard about the choice you're makin' right now! 
-<b>Scootaloo</b>: You can be a better pony! 
-[door opens] 
-<b>Spoiled Rich</b>: Diamond Tiara! I just happened to be here for the school board meeting, and 
- <i>this</i> is what I see when we adjourn? My daughter associating with confused, insignificant lowlifes? Socializing with 
- <i>their kind</i> is not how you move up in Equestria! Come, Diamond Tiara! 
-<b>Diamond Tiara</b>: No, mother! 
-<b>Spoiled Rich</b>: Excuse me?! 
-<b>Diamond Tiara</b>: You've spent your life acting like a high horse and raised me to follow in your hoofprints! At first I thought this was fine, but then I finally realized 
- <i>I</i> wanted something you 
- <i>don't</i> have – friends! 
-<b>Cutie Mark Crusaders</b>: [gasps] 
-<b>Foals and Cheerilee</b>: [gasps] 
-<b>Spoiled Rich</b>: That's enough, Diamond Tiara! Step away from those blank flanks! 
-<b>Diamond Tiara</b>: These are the Cutie Mark Crusaders, and they are my friends! You need to stop calling them such mean and hurtful names! They are working harder to get their cutie marks than anypony I've ever seen! And they will get them exactly when they discover their true talent, which I guarantee will be amazing! Now, will you please deliver this to father? 
-<b>Spoiled Rich</b>: Yes, of course, dear... 
-<b>Diamond Tiara</b>: I have to thank you, Crusaders. Obviously I've known since I got my cutie mark that my talent is getting other ponies to do what I want. I just asked my father if he could donate the money for the new playground equipment! 
-[foals chattering] 
-<b>Diamond Tiara</b>: [to Pipsqueak] I knew you were worried for a second there, weren't you? Ha! Well, I think it's all gonna work out just fine, Mister President! 
-<b>[Diamond Tiara]</b> 
- <dl>
-  <dd>
-   We'll build a playground 
-  </dd>
-  <dd>
-   For all of us to enjoy 
-  </dd>
-  <dd>
-   So full of games 
-  </dd>
-  <dd>
-   There's enough for each girl and boy 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I want to help and do 
-  </dd>
-  <dd>
-   Everything that I can 
-  </dd>
-  <dd>
-   I'm here to show you I changed 
-  </dd>
-  <dd>
-   Listen up, here's the plan 
-  </dd>
- </dl> 
-Bring it in! That's right, keep it coming! Hey there, you with the amazing strength. Can you help them move that merry-go-round across the lawn? Thank you so much! And you with the super teeth, we need you to help with that teeter-totter. You got it! That's the spirit! 
-<dl>
-  <dd>
-   There's so much I can do 
-  </dd>
-  <dd>
-   To help everypony else 
-  </dd>
-  <dd>
-   I see the light that shines in me 
-  </dd>
-  <dd>
-   I know I can be my better self 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I can free the past 
-  </dd>
-  <dd>
-   'Cause now the future's bright for me 
-  </dd>
-  <dd>
-   My cutie mark has set me free 
-  </dd>
-  <dd>
-   To do what's right and be the pony I want to be 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   And be the pony I want to be! 
-  </dd>
- </dl> 
-<b>Apple Bloom</b>: I've been thinkin', Crusaders. We spend an awful lot of time fussin' and frettin' tryin' to discover our true talent. But when we take a little time off, we end up helpin' other ponies figure out 
- <i>their</i> true talent! 
-<b>Sweetie Belle</b>: Yeah, and I think that's 
- <i>way</i> more important than worrying about our cutie marks, don't you? 
-<b>Scootaloo</b>: Absolutely! I don't care if I 
- <i>ever</i> get my cutie mark as long as I get to hang out with my best friends. 
-<b>Apple Bloom</b>: So what do you say, Crusaders? Want to just focus on helpin' others find 
- <i>their</i> cutie marks? 
-<b>Scootaloo</b> and 
- <b>Sweetie Belle</b>: Yeah! 
-[magic zaps] 
-[foals gasping] 
-<b>Sweetie Belle</b>: What happened? 
-<b>Apple Bloom</b>: What's goin' on? 
-<b>Diamond Tiara</b>: It's your cutie marks! They're 
- <i>amazing</i>! 
-<b>Cutie Mark Crusaders</b>: We all got the same cutie mark! 
- <i>Cutie Mark Crusaders forever!</i> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   We were searching for our cutie marks 
-  </dd>
-  <dd>
-   For a while there 
-  </dd>
-  <dd>
-   Trying to find out how we fit in 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   So many ways we've tried before 
-  </dd>
-  <dd>
-   But we kept on trying more 
-  </dd>
-  <dd>
-   'Cause the Cutie Mark Crusaders don't give in 
-  </dd>
- </dl> 
-<b>[Scootaloo]</b> 
- <dl>
-  <dd>
-   Now we know what it took all along 
-  </dd>
- </dl> 
-<b>[Sweetie Belle]</b> 
- <dl>
-  <dd>
-   And our journey here is never really done 
-  </dd>
- </dl> 
-<b>[Apple Bloom]</b> 
- <dl>
-  <dd>
-   For it is more than just a mark 
-  </dd>
-  <dd>
-   It's a place for us to start 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   An adventure that has only just begun 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   We'll make our mark 
-  </dd>
-  <dd>
-   Show the world what we can do 
-  </dd>
-  <dd>
-   We'll make our mark 
-  </dd>
-  <dd>
-   Helping fillies to break through 
-  </dd>
-  <dd>
-   To the ultimate reward of a cutie mark 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: All right, everypony! Get ready for the biggest cute-ceañera celebration ever! 
-[ponies cheering] 
-<b>Applejack</b>: Oh, sugarcube, if Mom and Dad were here, they'd be so proud of ya. 
-<b>Apple Bloom</b>: Oh... Thanks, Applejack. 
-<b>Applejack</b>: Now go on and party with your pals. 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   I'm so proud of you, little buddy 
-  </dd>
-  <dd>
-   You've taught me a thing or two 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   You've inspired everypony around you 
-  </dd>
-  <dd>
-   And you've inspired me too 
-  </dd>
- </dl> 
-<b>[Rainbow Dash, Rarity, and Applejack]</b> 
- <dl>
-  <dd>
-   You've made your mark 
-  </dd>
-  <dd>
-   Done Equestria so proud 
-  </dd>
-  <dd>
-   You've made your mark 
-  </dd>
-  <dd>
-   And we're here to sing it loud 
-  </dd>
-  <dd>
-   For the ultimate reward of your cutie mark 
-  </dd>
- </dl> 
-<b>Apple Bloom</b>: Well, what do you think, Crusaders? Were these cutie marks totally worth waiting for or what? 
-<b>Sweetie Belle</b>: Yeah! I can't wait to see who we're gonna help next! 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   We started out just three 
-  </dd>
-  <dd>
-   Crusaders driven to see 
-  </dd>
-  <dd>
-   What we find in our hearts 
-  </dd>
-  <dd>
-   Discover our destiny 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   And here we are, best friends 
-  </dd>
-  <dd>
-   About to start it again 
-  </dd>
-  <dd>
-   An adventure that never will end 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   We'll make our mark 
-  </dd>
-  <dd>
-   Helping fillies most in need 
-  </dd>
-  <dd>
-   We'll make our mark 
-  </dd>
-  <dd>
-   So each one of them succeeds 
-  </dd>
-  <dd>
-   'Cause the ultimate reward is a cutie mark! 
-  </dd>
- </dl> 
-[credits] 
+<b>Apple Bloom</b>: Okay, Crusaders! Back to the business of earnin' our cutie marks! Any suggestions?
+<b>Scootaloo</b>: No, we've tried everything!
+<b>Sweetie Belle</b>: We've run out of ideas.
+<b>Apple Bloom</b>: Are you kiddin' me, Crusaders? We can do better than that!
+
+<b>[Apple Bloom]</b>
+We've been searchin' for our cutie marks
+For a while now
+Tryin' to find out how we fit in
+
+So many ways we've tried before
+But we keep on tryin' more
+
+<b>[Cutie Mark Crusaders]</b>
+'Cause the Cutie Mark Crusaders don't give in
+
+We'll make our mark
+One way or another
+We'll make our mark
+On the day that we discover
+The ultimate reward of our cutie marks!
+
+<b>Apple Bloom</b>: Now, that's more like it!
+<b>Pipsqueak</b>: Cutie Mark Crusaders! <i>Help!</i>
+<b>Apple Bloom</b>: What's wrong, Pipsqueak?
+<b>Pipsqueak</b>: I'm running for student pony president, I was hoping you three would be my campaign managers!
+<b>Apple Bloom</b>: We've never tried gettin' our cutie marks in campaign managin'! What do ya say, Crusaders?
+<b>Cutie Mark Crusaders</b>: Yeah! Hoof!
+[theme song]
+<b>Apple Bloom</b>: [loudly] So, Pip, how would <i>you</i> help the school if <i>you</i> were elected student pony president?
+<b>Pipsqueak</b>: Our playground equipment took quite a beating during Twilight's battle with Tirek!
+[snap, thump]
+<b>Pipsqueak</b>: If I'm voted in as student pony president, I'll go to the school board and right this wrong!
+[foals cheering]
+<b>Diamond Tiara</b>: Well, <i>I</i> think that's a ridiculous 
+waste of money! It's just like when Twist proposed to repair the window 
+that Discord destroyed! She just wanted to repair it like a plain old <i>schoolhouse</i> window. But you all know voting for <i>me</i> was the best choice because <i>I</i> convinced the school board to give that window <i>visual appeal</i>!
+<b>Apple Bloom</b>: 'Course, it doesn't hurt that her mother Spoiled Rich is president of the school board.
+<b>Silver Spoon</b>: Exactly! Which is why when Diamond Tiara 
+is voted student pony president, the school will be putting a statue of 
+her in the center of our schoolyard!
+<b>Diamond Tiara</b>: [through gritted teeth] <i>Silver Spoon!</i> That was <i>my</i> big announcement for when <i>I</i> won!
+<b>Silver Spoon</b>: I was only trying to help.
+<b>Diamond Tiara</b>: [through gritted teeth] I don't <i>need that kind of help!</i>
+<b>Apple Bloom</b>: Haven't we all had enough of Diamond Tiara?
+<b>Scootaloo</b>: Do we really need a big statue of her?
+<b>Sweetie Belle</b>: Especially where our playground equipment should be?
+[foals shocked whispering]
+<b>Pipsqueak</b>: A vote for Pip is a vote for the playground!
+<b>Diamond Tiara</b>: A vote for Diamond Tiara is a vote for <i>more</i> Diamond Tiara!
+
+<b>[Cutie Mark Crusaders]</b>
+It's time to make a change
+This is our chance
+Don't be afraid to do what's right
+He's it! Vote for Pip!
+
+We got an opportunity
+To have fun again
+A vote for Pip, and you can join the fight
+
+It's time for a new leader
+It's time to make a change
+We're here to fight for what we believe
+(Vote for Pip!)
+It's finally time we beat her
+And play a better game
+'Cause when we vote together
+There's nothing that we can't achieve
+
+<b>[Diamond Tiara]</b>
+I don't believe what I am hearing
+I'm the only one you should be cheering
+Pipsqueak? Try "Pip's weak!" Don't you think?
+
+But a diamond is perfection
+It's natural selection
+So your vote better be for me, not the weakest link
+
+<b>Apple Bloom</b>: We'll let the votin' decide!
+<b>[Diamond Tiara]</b>
+Everypony has their little secrets
+
+I know <i>you</i> do
+A vote for me will help you keep them safe
+
+Like your creepy super strength!
+Or your mane extension
+A little thing I won't mention
+Or those freakish large teeth in your face!
+
+<b>Apple Bloom</b>: Come on now, ponies! Don't listen to her!
+<b>[Cutie Mark Crusaders]</b>
+You've gotta vote for change
+It's time for a new leader
+End all the tyranny
+Vote now and we can beat her
+
+It's now another day
+And we believe in what's right
+
+<b>[Foals]</b>
+Vote for Pip! Vote for Pip!
+
+<b>[Cutie Mark Crusaders]</b>
+Our victory is in sight
+
+<b>Diamond Tiara</b>: Stop! Everypony who hasn't voted, listen up!
+Pip makes promises he can't keep
+But I can do more
+
+You could really use a new bookbag
+'Cause I'll make things happen
+That none of you here can afford
+
+To do, like, <i>ever</i>!
+Wouldn't you like a little something sweet?
+Here's a parasol to hide you from the heat
+Who says that I can't be nice?
+
+But first there's one thing
+An itsy-bitsy little string
+And voting for me is the price!
+
+<b>[Silver Spoon]</b>
+I've a tiny suggestion
+That you should be aware
+You could probably win this election
+If you show them all you real—
+
+<b>Diamond Tiara</b>: I don't recall asking you to speak!
+<b>All</b>: [gasps]
+<b>Sweetie Belle</b>: Well, if that's how you treat your best friend, then I choose Pipsqueak!
+<b>[Foals]</b>
+Vote!
+
+<b>[Cutie Mark Crusaders]</b>
+Stand strong and don't be afraid, ponies
+Let's free ourselves from the past
+
+Stand strong and don't be afraid, ponies
+Let's free ourselves from the past
+<b>[Foals]</b>
+For Pip!
+Vote!
+
+For Pip!
+Vote!
+<b>[Foals]</b>
+He's it! Vote for Pip! Vote!
+
+<b>[Cutie Mark Crusaders]</b>
+We'll let honor win out against the tyranny
+And make a change that will last
+
+We'll let honor win out against the tyranny
+And make a change that will last
+<b>[Foals]</b>
+For Pip!
+Vote!
+
+For Pip!
+Vote!
+<b>[Foals]</b>
+Vote for Pip!
+
+<b>[Cutie Mark Crusaders]</b>
+It's time for a new leader
+It's time to make a change
+We're here to fight for what we believe
+
+<b>[Foals]</b>
+Vote for Pip!
+
+<b>[Cutie Mark Crusaders]</b>
+It's finally time we beat her
+And play a better game
+'Cause when we vote together
+There's nothing that we can't achieve
+
+<b>[Foals]</b>
+Vote for Pip!
+
+<b>Cheerilee</b>: The votes have been counted! The student pony president is... Pipsqueak!
+<b>Diamond Tiara</b>: Huh?!
+[foals cheering]
+<b>Apple Bloom</b>: Oh, my gosh, Crusaders! Pip won!
+<b>Pipsqueak</b>: I couldn't have won without the hard work of my campaign managers, the Cutie Mark Crusaders!
+<b>Sweetie Belle</b>: Campaign manager cutie marks!
+<b>Diamond Tiara</b>: Guess you're not as good as you thought, <i>blank flanks</i>! In fact, I demand a recount!
+<b>Cheerilee</b>: Trust me, Diamond Tiara. Pip won.
+<b>Diamond Tiara</b>: <i>I'll</i> be the judge of <i>that</i>, Miss Cheerilee!
+[beat]
+<b>Diamond Tiara</b>: <i>What?!</i> One vote! Silver Spoon! You didn't vote for me?!
+<b>Silver Spoon</b>: No, I didn't.
+<b>Diamond Tiara</b>: But you're my best friend!
+<b>Silver Spoon</b>: Am I? 'Cause I tried to help by mentioning your 'surprise' statue, and suddenly I wasn't even allowed to <i>speak</i>! You could have actually won this election if you just listened to me. You wanna know how? [whispering] <i>Sorry. I'm not allowed to speak.</i>
+<b>Diamond Tiara</b>: [screams in rage]
+<b>Silver Spoon</b>: [to Cutie Mark Crusaders and Pipsqueak] What? I don't have to follow her drum any more.
+<b>Apple Bloom</b>: I know Diamond Tiara's been pretty awful, 
+but... we should probably make sure she's okay. Just 'cause she's never 
+cared about anypony else's feelings doesn't mean we shouldn't care about
+ hers.
+[door opens]
+<b>Spoiled Rich</b>: Diamond Tiara! Why are you making that face? <i>That</i> is not the face of a <i>winner</i>.
+<b>Diamond Tiara</b>: Because... I didn't win.
+<b>Spoiled Rich</b>: What?! You mean I hefted all these party supplies to celebrate <i>nothing</i>?!
+[thump]
+<b>Diamond Tiara</b>: Sorry mother.
+<b>Spoiled Rich</b>: It's bad enough you lost to that <i>transplant</i> from Trottingham, but imagine if you'd lost to one of those <i>blank flanks</i>. As a Rich pony, you must always think of your social standing.
+<b>Fancy Pants</b>: Hm.
+<b>Spoiled Rich</b>: That starts here in Ponyville and reaches all over Equestria. Don't ever forget that, Diamond Tiara. <i>Ever!</i>
+<b>[Diamond Tiara]</b>
+If I'm a diamond
+Then why do I feel so rough?
+I'm as strong as a stone
+Even that's not enough
+
+There's something jagged in me
+And I've made such mistakes
+I thought that diamonds were hard
+Though I feel I could break
+
+Would you believe
+That I've always wished I could be somepony else?
+Yet I can't see
+What I need to do to be the pony I want to be
+
+I've been told my whole life
+What to do, what to say
+Nopony showed me that
+There might be some better way
+
+And now I feel like I'm lost
+I don't know what to do
+The ground is sinking away
+I'm about to fall through
+
+Would you believe
+That I've always wished I could be somepony else?
+Yet I can't see
+What I need to do to be the pony I want to be
+
+To be the pony I want to be
+
+<b>Sweetie Belle</b>: Is it weird that I feel bad for her?
+<b>Scootaloo</b>: If it is, then... I'm weird, too.
+<b>Apple Bloom</b>: She wants to change, but she doesn't know how.
+<b>Sweetie Belle</b>: Seems like she could use a friend or two to help her figure it out.
+[bell ringing]
+[foals chattering]
+<b>Apple Bloom</b>: Hey, Diamond Tiara! Wait up!
+<b>Diamond Tiara</b>: What do you three want? To gloat? Rub in my defeat?
+<b>Apple Bloom</b>: Actually, we wanted to invite you to our clubhouse to hang out.
+<b>Diamond Tiara</b>: Really?
+<b>Scootaloo</b>: Yeah, for real!
+<b>Diamond Tiara</b>: Well, thanks to <i>you</i> all, I don't have any important class president business to attend to or anything. So I might as well.
+<b>Sweetie Belle</b>: That <i>sounds</i> like a yes...
+<b>Diamond Tiara</b>: So, do you three just sit around here plotting out different ways to try and get your cutie marks?
+<b>Apple Bloom</b>: Actually, yeah.
+<b>Diamond Tiara</b>: You three are... really lucky.
+<b>Cutie Mark Crusaders</b>: We are?!
+<b>Diamond Tiara</b>: Yeah! You get to explore all these 
+options, learning who you really are before you're stuck with something 
+you don't understand.
+<b>Apple Bloom</b>: But... you've done that, right?
+<b>Diamond Tiara</b>: Yeah, 'cause I <i>have</i> my cutie mark! And I'm not struggling at <i>all</i> to figure out <i>who</i> I'm supposed to be and <i>what</i> I'm supposed to be doing with this mark that's already on my flank!
+<b>Apple Bloom</b>: Uh... are you sure about that?
+<b>Diamond Tiara</b>: [scoffs] That's a weird question.
+<b>Sweetie Belle</b>: Not really, since we kind of overheard you yesterday.
+<b>Diamond Tiara</b>: Were you trying to get your cutie mark in <i>spying</i>? Is <i>that</i> on your little <i>chart</i>?
+<b>Sweetie Belle</b>: No! We were just worried about you when 
+you lost the election, and then you lost your friend, and then your mom 
+yelled at you...
+<b>Apple Bloom</b>: We know you wanna change, and we think we can—
+<b>Pipsqueak</b>: [muffled] <i>Help!</i>
+[door opens]
+<b>Pipsqueak</b>: Cutie Mark Crusaders! I was at the school board meeting and they didn't approve my request for the new playground equipment!
+<b>Sweetie Belle</b>: Why not?
+<b>Pipsqueak</b>: There's no money in the budget! So I checked my Peggy bank to see if I had enough bits, but my little Peggy wasn't <i>nearly</i> full enough!
+<b>Sweetie Belle</b>: Don't worry, Pip!
+<b>Scootaloo</b>: We'll meet you back at school.
+<b>Apple Bloom</b>: And help you find a solution!
+<b>Pipsqueak</b>: Thanks, Cutie Mark Crusaders!
+<b>Diamond Tiara</b>: Oh, <i>I</i> already <i>have</i> a solution! Our new student pony president is gonna be kicked out of office, and <i>I'll</i> be reinstated!
+<b>Scootaloo</b>: Where's she going?
+<b>Apple Bloom</b>: Where do you think?! C'mon! After her!
+<b>Sweetie Belle</b>: Wait! I'm coming too!
+
+<b>[Diamond Tiara]</b>
+Cutie Mark Crusaders, get out of my way
+Those ponies need to know the truth
+And they'll hear it from me
+
+<b>[Cutie Mark Crusaders]</b>
+Stop! Diamond Tiara, this is not the way
+You know you're better than this hostility
+
+<b>[Diamond Tiara]</b>
+You don't even know me at all
+Don't understand the meaning of my fall
+What my family would think if I ever
+Fail at anything
+
+I'm a diamond – that means you'll never break
+No matter what be the cost of the path I take
+Whatever I have to do to win in the end
+
+<b>[Cutie Mark Crusaders]</b>
+Stop! This is not the answer
+Wait! And it's plainly seen
+Listen! You can redeem yourself
+But by helping others, not by being mean
+
+We know you want friends who admire you
+You want to be the star with all the power too
+But there's a better way, there's a better wa-a-ay
+
+There's so much more still left to
+Learn about yourself
+See the light that shines in you
+We know you can be somepony else
+
+You can stop right now
+And try another start
+You'll finally free yourself from the dark
+And see the light
+And see the light of your cutie mark
+
+<b>Diamond Tiara</b>: Everypony, I have an announcement!
+<b>Apple Bloom</b>: Diamond Tiara! Think hard about the choice you're makin' right now!
+<b>Scootaloo</b>: You can be a better pony!
+[door opens]
+<b>Spoiled Rich</b>: Diamond Tiara! I just happened to be here for the school board meeting, and <i>this</i> is what I see when we adjourn? My daughter associating with confused, insignificant lowlifes? Socializing with <i>their kind</i> is not how you move up in Equestria! Come, Diamond Tiara!
+<b>Diamond Tiara</b>: No, mother!
+<b>Spoiled Rich</b>: Excuse me?!
+<b>Diamond Tiara</b>: You've spent your life acting like a high
+ horse and raised me to follow in your hoofprints! At first I thought 
+this was fine, but then I finally realized <i>I</i> wanted something you <i>don't</i> have – friends!
+<b>Cutie Mark Crusaders</b>: [gasps]
+<b>Foals and Cheerilee</b>: [gasps]
+<b>Spoiled Rich</b>: That's enough, Diamond Tiara! Step away from those blank flanks!
+<b>Diamond Tiara</b>: These are the Cutie Mark Crusaders, and 
+they are my friends! You need to stop calling them such mean and hurtful
+ names! They are working harder to get their cutie marks than anypony 
+I've ever seen! And they will get them exactly when they discover their 
+true talent, which I guarantee will be amazing! Now, will you please 
+deliver this to father?
+<b>Spoiled Rich</b>: Yes, of course, dear...
+<b>Diamond Tiara</b>: I have to thank you, Crusaders. Obviously
+ I've known since I got my cutie mark that my talent is getting other 
+ponies to do what I want. I just asked my father if he could donate the 
+money for the new playground equipment!
+[foals chattering]
+<b>Diamond Tiara</b>: [to Pipsqueak] I knew you were worried 
+for a second there, weren't you? Ha! Well, I think it's all gonna work 
+out just fine, Mister President!
+
+<b>[Diamond Tiara]</b>
+We'll build a playground
+For all of us to enjoy
+So full of games
+There's enough for each girl and boy
+
+I want to help and do
+Everything that I can
+I'm here to show you I changed
+Listen up, here's the plan
+
+Bring it in! That's right, keep it coming! Hey there, you with 
+the amazing strength. Can you help them move that merry-go-round across 
+the lawn? Thank you so much! And you with the super teeth, we need you 
+to help with that teeter-totter. You got it! That's the spirit!
+There's so much I can do
+To help everypony else
+I see the light that shines in me
+I know I can be my better self
+
+I can free the past
+'Cause now the future's bright for me
+My cutie mark has set me free
+To do what's right and be the pony I want to be
+
+And be the pony I want to be!
+
+<b>Apple Bloom</b>: I've been thinkin', Crusaders. We spend an 
+awful lot of time fussin' and frettin' tryin' to discover our true 
+talent. But when we take a little time off, we end up helpin' other 
+ponies figure out <i>their</i> true talent!
+<b>Sweetie Belle</b>: Yeah, and I think that's <i>way</i> more important than worrying about our cutie marks, don't you?
+<b>Scootaloo</b>: Absolutely! I don't care if I <i>ever</i> get my cutie mark as long as I get to hang out with my best friends.
+<b>Apple Bloom</b>: So what do you say, Crusaders? Want to just focus on helpin' others find <i>their</i> cutie marks?
+<b>Scootaloo</b> and <b>Sweetie Belle</b>: Yeah!
+[magic zaps]
+[foals gasping]
+<b>Sweetie Belle</b>: What happened?
+<b>Apple Bloom</b>: What's goin' on?
+<b>Diamond Tiara</b>: It's your cutie marks! They're <i>amazing</i>!
+<b>Cutie Mark Crusaders</b>: We all got the same cutie mark! <i>Cutie Mark Crusaders forever!</i>
+
+<b>[Cutie Mark Crusaders]</b>
+We were searching for our cutie marks
+For a while there
+Trying to find out how we fit in
+
+So many ways we've tried before
+But we kept on trying more
+'Cause the Cutie Mark Crusaders don't give in
+
+<b>[Scootaloo]</b>
+Now we know what it took all along
+
+<b>[Sweetie Belle]</b>
+And our journey here is never really done
+
+<b>[Apple Bloom]</b>
+For it is more than just a mark
+It's a place for us to start
+
+<b>[Cutie Mark Crusaders]</b>
+An adventure that has only just begun
+
+We'll make our mark
+Show the world what we can do
+We'll make our mark
+Helping fillies to break through
+To the ultimate reward of a cutie mark
+
+<b>Pinkie Pie</b>: All right, everypony! Get ready for the biggest cute-ceañera celebration ever!
+[ponies cheering]
+<b>Applejack</b>: Oh, sugarcube, if Mom and Dad were here, they'd be so proud of ya.
+<b>Apple Bloom</b>: Oh... Thanks, Applejack.
+<b>Applejack</b>: Now go on and party with your pals.
+<b>[Rainbow Dash]</b>
+I'm so proud of you, little buddy
+You've taught me a thing or two
+
+<b>[Rarity]</b>
+You've inspired everypony around you
+And you've inspired me too
+
+<b>[Rainbow Dash, Rarity, and Applejack]</b>
+You've made your mark
+Done Equestria so proud
+You've made your mark
+And we're here to sing it loud
+For the ultimate reward of your cutie mark
+
+<b>Apple Bloom</b>: Well, what do you think, Crusaders? Were these cutie marks totally worth waiting for or what?
+<b>Sweetie Belle</b>: Yeah! I can't wait to see who we're gonna help next!
+<b>[Cutie Mark Crusaders]</b>
+We started out just three
+Crusaders driven to see
+What we find in our hearts
+Discover our destiny
+
+And here we are, best friends
+About to start it again
+An adventure that never will end
+
+We'll make our mark
+Helping fillies most in need
+We'll make our mark
+So each one of them succeeds
+'Cause the ultimate reward is a cutie mark!
+
+[credits]

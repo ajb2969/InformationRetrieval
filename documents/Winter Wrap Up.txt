@@ -1,570 +1,366 @@
-[crickets] 
-<b>Spike</b>: [snore] 
-<b>Twilight Sparkle</b>: [gasp] Spike, wake up. Wake up, wake up, it's Winter Wrap Up day! 
-<b>Spike</b>: Huh? Mommy? 
-<b>Twilight Sparkle</b>: Winter Wrap Up! 
-<b>Spike</b>: You're not mommy. 
-<b>Twilight Sparkle</b>: Spike, the first day of spring is tomorrow, so everypony in Ponyville needs to clean up winter. Now help me get ready. 
-<b>Spike</b>: Clean up winter? Who cleans up winter? Don't they just use magic to change the seasons like they do in Canterlot? 
-<b>Twilight Sparkle</b>: No Spike, Ponyville was started by Earth ponies, so for hundreds of years they've never used magic to clean up winter. It's traditional. [sigh] 
-<b>Spike</b>: It's ridiculous. No magic... Fuh. 
-<b>Twilight Sparkle</b>: Okay, let's see: scarf, check; saddle, check; boots, check; Spike refusing to get up and going back to sleep, check. It's a good thing I'm so organized, 
- <i>I'm ready</i>. Bright and early. Oh... maybe a little too early. 
-<b>Twilight Sparkle</b>: Those must be the team vests Rarity designed. Blue for the weather team, green for the plant team, and tan for the animal team. I wonder which team vest I'll be wearing. 
-<b>Spike</b>: I'll take a blue vest, same color as my blankie, which I think I hear calling my name. "Spike! Spike! Come to bed!" Ugh, it's too early. 
-<b>Mayor Mare</b>: Thank you, everypony, for being here bright and early. We need every single pony's help to wrap up winter, and bring in spring. 
-[ponies cheer] 
-<b>Mayor Mare</b>: Now, all of you have your vests, and have been assigned to your teams, so let's do even better than last year, and have the quickest Winter Wrap Up ever! 
-[ponies cheer] 
-<b>Twilight Sparkle</b>: Oh, this is so exciting. 
-<b>Mayor Mare</b>: All right everypony, find your team leader, and let's get galloping! 
-<b>Twilight Sparkle</b>: Oh gosh, where should I go? I'm not sure where I fit in. What exactly does everypony do? 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   Three months of winter coolness 
-  </dd>
-  <dd>
-   And awesome holidays 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   We've kept our hoofsies warm at home 
-  </dd>
-  <dd>
-   Time off from work to play 
-  </dd>
- </dl> 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   But the food we've stored is runnin' out 
-  </dd>
-  <dd>
-   And we can't grow in this cold 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   And even though I love my boots 
-  </dd>
-  <dd>
-   This fashion's getting old 
-  </dd>
- </dl> 
-<b>[Twilight Sparkle]</b> 
- <dl>
-  <dd>
-   The time has come to welcome spring 
-  </dd>
-  <dd>
-   And all things warm and green 
-  </dd>
-  <dd>
-   But it's also time to say goodbye 
-  </dd>
-  <dd>
-   It's winter we must clean 
-  </dd>
-  <dd>
-   How can I help? I'm new, you see 
-  </dd>
-  <dd>
-   What does everypony do? 
-  </dd>
-  <dd>
-   How do I fit in without magic? 
-  </dd>
-  <dd>
-   I haven't got a clue! 
-  </dd>
- </dl> 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   Let's finish our holiday cheer 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
- </dl> 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   'Cause tomorrow spring– 
-  </dd>
- </dl> 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   –is here! 
-  </dd>
- </dl> 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   'Cause tomorrow spring is here! 
-  </dd>
- </dl> 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   Bringing home the southern birds 
-  </dd>
-  <dd>
-   A Pegasus' job begins 
-  </dd>
-  <dd>
-   And clearing all the gloomy skies 
-  </dd>
-  <dd>
-   To let the sunshine in 
-  </dd>
-  <dd>
-   We move the clouds 
-  </dd>
-  <dd>
-   And we melt the white snow 
-  </dd>
- </dl> 
-<b>[Rainbow Dash and Pinkie Pie]</b> 
- <dl>
-  <dd>
-   When the sun comes up 
-  </dd>
-  <dd>
-   Its warmth and beauty will glow! 
-  </dd>
- </dl> 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   Let's finish our holiday cheer 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here! 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   Little critters hibernate 
-  </dd>
-  <dd>
-   Under the snow and ice 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   We wake up all their sleepy heads 
-  </dd>
-  <dd>
-   So quietly and nice 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   We help them gather up their food 
-  </dd>
-  <dd>
-   Fix their homes below 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   We welcome back the southern birds 
-  </dd>
- </dl> 
-<b>[Fluttershy and Rarity]</b> 
- <dl>
-  <dd>
-   So their families can grow! 
-  </dd>
- </dl> 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! (
-   <b>[Rarity]</b> Winter, winter) 
-  </dd>
-  <dd>
-   Let's finish our holiday cheer 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! (
-   <b>[Rarity]</b> Winter, winter) 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! (
-   <b>[Rarity]</b> Winter, winter) 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here! 
-  </dd>
- </dl> 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   No easy task to clear the ground 
-  </dd>
-  <dd>
-   Plant our tiny seeds 
-  </dd>
-  <dd>
-   With proper care and sunshine 
-  </dd>
-  <dd>
-   Everyone it feeds 
-  </dd>
-  <dd>
-   Apples, carrots, celery stalks 
-  </dd>
-  <dd>
-   Colorful flowers too 
-  </dd>
-  <dd>
-   We must work so very hard 
-  </dd>
- </dl> 
-<b>[Applejack, Cherry Berry, and Golden Harvest]</b> 
- <dl>
-  <dd>
-   It's just so much to do! 
-  </dd>
- </dl> 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   Let's finish our holiday cheer 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
- </dl> 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   'Cause tomorrow spring is here! 
-  </dd>
- </dl> 
-<b>[Twilight Sparkle]</b> 
- <dl>
-  <dd>
-   Now that I know what they all do 
-  </dd>
-  <dd>
-   I have to find my place 
-  </dd>
-  <dd>
-   And help with all of my heart 
-  </dd>
-  <dd>
-   Tough task ahead I face 
-  </dd>
-  <dd>
-   How will I do without my magic 
-  </dd>
-  <dd>
-   Help the Earth pony way 
-  </dd>
-  <dd>
-   I wanna belong so I must 
-  </dd>
-  <dd>
-   Do my best today, 
-  </dd>
-  <dd>
-   Do my best today! 
-  </dd>
- </dl> 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   Let's finish our holiday cheer 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   Winter Wrap Up! Winter Wrap Up! 
-  </dd>
- </dl> 
-<b>[Twilight Sparkle]</b> 
- <dl>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here 
-  </dd>
-  <dd>
-   'Cause tomorrow spring is here! 
-  </dd>
- </dl> 
-<b>Twilight Sparkle</b>: Everypony belongs to a team. What should 
- <i>I</i> do? Where should 
- <i>I</i> go? 
-<b>Rainbow Dash</b>: All right team, you're clear for takeoff. 
-<b>Twilight Sparkle</b>: Rainbow Dash! 
-<b>Rainbow Dash</b>: Oh, hey Twilight, what's up? 
-<b>Twilight Sparkle</b>: What are 
- <i>you</i> doing? 
-<b>Rainbow Dash</b>: Sending off one of my flight crews to retrieve the birds that have flown south for the winter. 
-<b>Twilight Sparkle</b>: Oh, can I help? How about if I help clear out the clouds? 
-<b>Rainbow Dash</b>: Um... 
-<b>Twilight Sparkle</b>: Right. No wings. 
-<b>Rainbow Dash</b>: Sorry, Twilight. 
-<b>Twilight Sparkle</b>: [gasp] Great, now what do we do? 
-<b>Spike</b>: I don't know about you, but I'm gonna be nappin'. [snore] 
-<b>Twilight Sparkle</b>: Come on Spike, this is serious business. Winter needs to be wrapped up, and I'm determined to do my part. Somehow. 
-<b>Twilight Sparkle</b>: Rarity, please tell me there's something, 
- <i>anything</i> I can help you with. 
-<b>Rarity</b>: Well, how would you like to help create Ponyville's finest birds' nests? 
-<b>Twilight Sparkle</b>: Birds' nests? 
-<b>Rarity</b>: Why yes. When the weather team guides the birds back north for the spring, they'll need a place to live and lay their eggs. 
-<b>Twilight Sparkle</b>: Wow, Rarity, that one's really beautiful. 
-<b>Rarity</b>: Oh why, thank you most sincerely. Would you like to try your hoof at a nest? 
-<b>Twilight Sparkle</b>: 
- <i>Would I</i>? Yes! Where do I begin? 
-<b>Rarity</b>: Okay. Now... uh, take some of that straw and hay over there, and a little bit of branch. Now, weave them through there, 
- <i>yes</i>. Uh, take some ribbon, 
- <i>yes</i>, oh uh, n... not there, oooh, yes, uh, tuck it in over there, uh but be careful not to... I don't know I guess that would do... oh dear. 
-<b>Twilight Sparkle</b>: 
- <i>There</i>! It looks just like... yours. Oh my. 
-<b>Spike</b>: That nest needs to be condemned. 
-<b>Rarity</b>: Oh, Spa-ha-hike, it's not so bad, ah, maybe birds can use it as a... 
-<b>Spike</b>: An outhouse? 
-<b>Rarity</b>: 
- <i>Spike</i>. It's just fine. It's just a little rough around the edges. Let me lend you a hoof. Let's just untie this ribbon, and let me take out these sticks here, we'll shave this... [mumbling] 
-<b>Twilight Sparkle</b>: Hw... 
-<b>Spike</b>: I think we lost her. 
-<b>Rarity</b>: Ah, and we need to weave the string... 
-<b>Pinkie Pie</b>: Hellooooooo, Twilight! Wheeeeeeee! 
-<b>Twilight Sparkle</b>: Wow, Pinkie Pie, you're quite the skater. Probably the best skater I've ever seen. 
-<b>Pinkie Pie</b>: Thanks Twilight, I've been doing this since I was an itty-bitty little-wittle Twinkie-Pinkie. Just comes natural. Which is probably why they designated me the lake scorer. I cut lines in the lakes with my skates. That way, when the rest of the weather team comes here to break the ice, it'll be easy as 
- <i>pie</i>. 
-<b>Twilight Sparkle</b>: How clever. When the thick ice begins to melt, it'll break along the lines. Well, you sure have a lot of work ahead of you, there's quite a few lakes in Ponyville. 
-<b>Pinkie Pie</b>: Ha, tell me about it. Hey, Twilight, wanna help me out? 
-<b>Twilight Sparkle</b>: 
- <i>Would I</i>? 
-<b>Pinkie Pie</b>: Come on, put on those skates over there. I bet you'll be a natural too. 
-<b>Twilight Sparkle</b>: Okay. 
-<b>Pinkie Pie</b>: Yaaaaay! [cheers] 
-<b>Twilight Sparkle</b>: Uh... maybe on second thought. 
-<b>Spike</b>: What are you talking about? You said you wanted to be helpful. 
-<b>Pinkie Pie</b>: Yippie! 
-<b>Spike</b>: Now get out there. 
-<b>Twilight Sparkle</b>: Oh no, whoa, wow... 
-<b>Pinkie Pie</b>: Twilight, steer! Steer! 
-<b>Twilight Sparkle</b>: Yaaaaa! 
-<b>Pinkie Pie</b>: Oh boy... 
-[screams] 
-<b>Spike</b>: Pwuh. 
-<b>Pinkie Pie</b>: [blips] 
-<b>Spike</b>: Ha ha, you are a natural, Twilight. A natural 
- <i>disaster</i>. [laughter] 
-<b>Pinkie Pie</b>: Twilight, you did a great job your first time around. I'm sure my first time was just as wobbly and bobbly and crasheriffic as yours. 
-<b>Twilight Sparkle</b>: 
- <i>Really</i>? 
-<b>Pinkie Pie</b>: No. 
-<b>Spike</b>: [chuckles] 
-<b>Pinkie Pie</b>: But did I make you feel better? 
-<b>Twilight Sparkle</b>: Mm-hmm, yeah, I guess. 
-<b>Pinkie Pie</b>: I think you'll be super awesome at something that keeps your hooves on the ground. I know, Fluttershy could probably use your help with the critters. 
-<b>Twilight Sparkle</b>: Well... I'm pretty good with little animals. Yeah, I'll go help 
- <i>her</i>. 
-<b>Pinkie Pie</b>: Uh... it's, ah, that a-way. 
-<b>Twilight Sparkle</b>: Yaaaaaa! 
-<b>Spike</b>: [chuckles] 
-<b>Fluttershy</b>: Wake up, little sleepy heads. Hope you had some wonderful dreams and restful hibernation, but it's time to get up now, spring is coming. 
-<b>Hedgehogs</b>: [yawn] 
-<b>Twilight Sparkle</b>: Awww, how cute. 
-<b>Fluttershy</b>: Aren't they? This is my favorite task the whole season, when I get to see all my little animal friends again. 
-<b>Spike</b>: Uh, what's "hibernation"? 
-<b>Fluttershy</b>: It's like a long sleep. 
-<b>Spike</b>: 
- <i>Long sleep</i>? 
-<b>Fluttershy</b>: 
- <i>Yes</i>. [bell rings] Wake up, little porcupines. Animals often hibernate through the winter to save their energy and eat less food. 
-<b>Spike</b>: I definitely like the idea of hibernation, uh, except for the "eat less food" part. 
-<b>Porcupines</b>: [yawn] [yelp] 
-<b>Fluttershy</b>: Oh, would you just look at all these warrens and dens? I'm worried that I won't be able to wake up every animal before spring comes. 
-<b>Twilight Sparkle</b>: Well, I'll help, Fluttershy. 
-<b>Fluttershy</b>: You 
- <i>will</i>? Oh, that would be wonderful. 
-<b>Twilight Sparkle</b>: Okay, let's start there. 
-[bell rings] 
-<b>Twilight Sparkle</b>: Hello? Wake up little friends, wherever you are. Spring is coming. [bell rings] I wonder which cute little furry creatures I've awoken. 
-<b>Snakes</b>: [hiss] 
-<b>Twilight Sparkle</b>: Waaa! Snakes! Snakes! [scream] Ugh! [grunt] [scream] Ugh! 
-<b>Fluttershy</b>: Good morning, friends. 
-<b>Twilight Sparkle</b>: [groan] 
-<b>Twilight Sparkle</b>: [sigh] All this Winter Wrap Up stuff is a lot harder than it looks. 
-<b>Spike</b>: [nasally] Right, because there's no magic. Why don't you just use 
- <i>magic</i>, Twilight, and get it done the right way? 
-<b>Twilight Sparkle</b>: No, Spike, I have to do it the traditional way. Ponyville has never needed magic to wrap up winter. 
-<b>Spike</b>: [nasally] Well, they never had 
- <i>you</i> here before, either. Think how much quicker they could wrap up winter with your magic. 
-<b>Twilight Sparkle</b>: No, no, 
- <i>no</i>! I'm gonna find some other way that I can help out if it kills me. [grunt] 
-<b>Applejack</b>: Keep pushin', Caramel. That's it, Bumpkin. I know it's hard work, but you guys are doin' great. Yee-haw! 
-<b>Twilight Sparkle</b>: Hey, Applejack. How's everything going? 
-<b>Applejack</b>: Oh, just 
- <i>dandy</i>. A little slow startin', but peachy all the same. There's a lot of ground to clear, ya hear? We can't even start the plantin' and the waterin' until we git all these heap a' snow hightailed outta here. 
-<b>Twilight Sparkle</b>: Well, I'd like to help. 
-<b>Applejack</b>: Well, I... I dunno Twilight. 
-<b>Twilight Sparkle</b>: Just give me a 
- <i>chance</i>. 
-<b>Applejack</b>: Well, I never turn down a hard worker, but... 
-<b>Twilight Sparkle</b>: [struggle] Ugh... [struggle] Ugh... [gasp] 
-<b>Spike</b>: 
- <i>Think of how much quicker they could wrap up winter with your magic.</i> 
-<b>Twilight Sparkle</b>: I 
- <i>could</i> use a come-to-life spell. Hwww... Here goes... 
-<b>Applejack</b>: Hmm. She's awful strong for such a little pony. 
-<b>Spike</b>: That's my girl, following my advice. 
-<b>Applejack</b>: And what in tarnation does that mean? 
-<b>Twilight Sparkle</b>: [gasp] Uh-oh. Slow down. 
- <i>Slow down</i>! 
-<b>Spike</b>: [yelp] 
-<b>Spike</b> and 
- <b>Applejack</b>: Whoa-oa-oa! 
-<b>Applejack</b>: What's going on? Wha'd'ya do? You used magic, didn't you? 
-<b>Applejack</b>: Nuts, Twilight, 
- <i>you used magic</i>. 
-<b>Spike</b>: The 
- <i>nerve</i>. Can you believe her? 
-<b>Applejack</b>: That's not how we do it 'round here, Twilight, and especially not on MY FARM! 
-<b>Twilight Sparkle</b>: Well, see, I just wanted to... [whine] 
-<b>Spike</b>: Come on, Twilight. Come on out. 
-<b>Twilight Sparkle</b>: I'm a winter mess up. 
-<b>Spike</b>: Well you're good at a lot of things, just not nest-making, ice-skating, animal-waking, snow-clearing. 
-<b>Twilight Sparkle</b>: [whine] Thanks a lot for making me feel 
- <i>so</i> much better. 
-<b>Spike</b>: That's what I'm here for, sister. 
-<b>Applejack</b>: Rainbow Dash, y'all on the weather team need to melt the rest of the snow here on the ground and the trees, pronto. 
-<b>Rainbow Dash</b>: Got it. 
-<b>Fluttershy</b>: Wait. My poor little animals' homes will get flooded if the snow melts too fast. 
-<b>Rainbow Dash</b>: Got it. 
-<b>Applejack</b>: I'm tellin' you, Rainbow, you gotta melt that snow 
- <i>now</i>. 
-<b>Fluttershy</b>: No, you simply must wait. 
-<b>Rainbow Dash</b>: Okay. 
-<b>Applejack</b>: Go. 
-<b>Fluttershy</b>: Stop. 
-<b>Applejack</b>: 
- <i>Go</i>. 
-<b>Fluttershy</b>: 
- <i>Stop</i>. 
-<b>Applejack</b>: GO! 
-<b>Fluttershy</b>: STOP! 
-<b>Rainbow Dash</b>: Ugh! Make up your minds! 
-<b>Mayor Mare</b>: Oh! What in Equestria are all you arguing about? This sort of silliness is why we were 
- <i>late</i> for spring 
- <i>last year</i>, and the year before that, and the year before 
- <i>that</i>. 
-<b>Twilight Sparkle</b>: Did she say 
- <i>late</i>? 
-<b>Mayor Mare</b>: I was hoping my amazingly inspirational speech would urge everyone to do better than last year, but now it looks like we're going to be later than 
- <i>ever</i>. I mean just look at this catastrophe. The ice scorers made the ice chunks too big to melt. The nest designer is horrendously behind, we need several hundred, and she's only made 
- <i>one.</i> 
-<b>Rarity</b>: [sob] 
-<b>Mayor Mare</b>: And don't get me started on all the clouds in the sky, the icicles on the trees... This isn't good, 
- <i>not</i> at 
- <i>all</i>! 
-<b>Applejack</b>: And it's gonna be all to pieces disastrous if we can't get our seeds all planted. 
-<b>Rainbow Dash</b>: Chillax Applejack, we're bustin' our chops as fast as we can. 
-<b>Fluttershy</b>: No, not 
- <i>fast</i>, we have to wake animals 
- <i>slowly</i>. 
-<b>Big McIntosh</b>: Uh, AJ? 
-<b>Applejack</b>: Oh good gravy, Caramel lost the grass seeds again, didn't he? 
-<b>Big McIntosh</b>: Eeyup. 
-<b>Caramel</b>: [whimpers] 
-<b>Rainbowshine</b>: [grunt] Ditzy Doo accidentally went 
- <i>north</i> to get the 
- <i>southern</i> birds! 
-<b>Rainbow Dash</b>: Oh that featherbrain. Didn't she learn her lesson last year when she went west? 
-[ponies grumble and complain] 
-<b>Mayor Mare</b>: Stop this at once. We don't have time to argue. It's almost sundown. Spring is going to be late again. Another year of scandal and shame. If only we could be 
- <i>more organized</i>. 
-<b>Twilight Sparkle</b>: Spike! Get my checklist and clipboard, STAT! 
-<b>Spike</b>: Eh, yes, ma'am. 
-<b>Twilight Sparkle</b>: Stop, everypony! 
-[ponies argue] 
-<b>Twilight Sparkle</b>: Stop! 
-[bird chirps] 
-<b>Twilight Sparkle</b>: Sorry. I know you all want to complete your jobs on time, but arguing is no way to go about it. What you need is 
- <i>organization</i>, and I'm just the pony for the job. 
-[Winter Wrap Up instrumental] 
-<b>Mayor Mare</b>: I can't believe it. Spring is here! 
- <i>On time</i>! And we have you to thank for it. If it weren't for your organizing skills we would still be arguing. 
-<b>Big McIntosh</b>: Eeyup. 
-[laughter] 
-<b>Twilight Sparkle</b>: It was a team effort. 
-<b>Mayor Mare</b>: And since you helped every team, we have an official vest for you. We give you the title, "All-Team Organizer". 
-<b>Twilight Sparkle</b>: Gosh, I don't even know what to say. Thank you, everypony. 
-<b>Mayor Mare</b>: And hereby I declare that winter is... wrapped up 
- <i>on time</i>. 
-[cheers] 
-<b>Applejack</b>: Spike's sure gonna be in for a hog-sized surprised when that last piece a' ice melts. 
-[laughter] 
-<b>Twilight Sparkle</b>: 
- <i>Dear Princess Celestia,</i> 
-<i>Winter Wrap Up was one of the most special things I've ever been a part of here in Ponyville. It helped me to learn we all have hidden talents, and if we're patient and diligent, we're sure to find them, and as always, with good friendship and teamwork, ponies can accomplish anything.</i> How's that, Spike? 
- <i>Spike</i>? 
-<b>Spike</b>: [snore] 
-<b>Twilight Sparkle</b>: Oh, Spike. [laughter] 
-[music] 
-[credits] 
+[crickets]
+<b>Spike</b>: [snore]
+<b>Twilight Sparkle</b>: [gasp] Spike, wake up. Wake up, wake up, it's Winter Wrap Up day!
+<b>Spike</b>: Huh? Mommy?
+<b>Twilight Sparkle</b>: Winter Wrap Up!
+<b>Spike</b>: You're not mommy.
+<b>Twilight Sparkle</b>: Spike, the first day of spring is tomorrow, so everypony in Ponyville needs to clean up winter. Now help me get ready.
+<b>Spike</b>: Clean up winter? Who cleans up winter? Don't they just use magic to change the seasons like they do in Canterlot?
+<b>Twilight Sparkle</b>: No Spike, Ponyville was started by 
+Earth ponies, so for hundreds of years they've never used magic to clean
+ up winter. It's traditional. [sigh]
+<b>Spike</b>: It's ridiculous. No magic... Fuh.
+<b>Twilight Sparkle</b>: Okay, let's see: scarf, check; saddle,
+ check; boots, check; Spike refusing to get up and going back to sleep, 
+check. It's a good thing I'm so organized, <i>I'm ready</i>. Bright and early. Oh... maybe a little too early.
+[theme song]
+<b>Twilight Sparkle</b>: Those must be the team vests Rarity 
+designed. Blue for the weather team, green for the plant team, and tan 
+for the animal team. I wonder which team vest I'll be wearing.
+<b>Spike</b>: I'll take a blue vest, same color as my blankie, 
+which I think I hear calling my name. "Spike! Spike! Come to bed!" Ugh, 
+it's too early.
+<b>Mayor Mare</b>: Thank you, everypony, for being here bright 
+and early. We need every single pony's help to wrap up winter, and bring
+ in spring.
+[ponies cheer]
+<b>Mayor Mare</b>: Now, all of you have your vests, and have 
+been assigned to your teams, so let's do even better than last year, and
+ have the quickest Winter Wrap Up ever!
+[ponies cheer]
+<b>Twilight Sparkle</b>: Oh, this is so exciting.
+<b>Mayor Mare</b>: All right everypony, find your team leader, and let's get galloping!
+<b>Twilight Sparkle</b>: Oh gosh, where should I go? I'm not sure where I fit in. What exactly does everypony do?
+<b>[Rainbow Dash]</b>
+Three months of winter coolness
+And awesome holidays
+
+<b>[Pinkie Pie]</b>
+We've kept our hoofsies warm at home
+Time off from work to play
+
+<b>[Applejack]</b>
+But the food we've stored is runnin' out
+And we can't grow in this cold
+
+<b>[Rarity]</b>
+And even though I love my boots
+This fashion's getting old
+
+<b>[Twilight Sparkle]</b>
+The time has come to welcome spring
+And all things warm and green
+But it's also time to say goodbye
+It's winter we must clean
+How can I help? I'm new, you see
+What does everypony do?
+How do I fit in without magic?
+I haven't got a clue!
+
+<b>[Choir]</b>
+Winter Wrap Up! Winter Wrap Up!
+Let's finish our holiday cheer
+Winter Wrap Up! Winter Wrap Up!
+
+<b>[Applejack]</b>
+'Cause tomorrow spring–
+
+<b>[Rainbow Dash]</b>
+–is here!
+
+<b>[Choir]</b>
+'Cause tomorrow spring is here!
+
+<b>[Rainbow Dash]</b>
+Bringing home the southern birds
+A Pegasus' job begins
+And clearing all the gloomy skies
+To let the sunshine in
+We move the clouds
+And we melt the white snow
+
+<b>[Rainbow Dash and Pinkie Pie]</b>
+When the sun comes up
+Its warmth and beauty will glow!
+
+<b>[Choir]</b>
+Winter Wrap Up! Winter Wrap Up!
+Let's finish our holiday cheer
+Winter Wrap Up! Winter Wrap Up!
+'Cause tomorrow spring is here
+Winter Wrap Up! Winter Wrap Up!
+'Cause tomorrow spring is here
+'Cause tomorrow spring is here!
+
+<b>[Rarity]</b>
+Little critters hibernate
+Under the snow and ice
+
+<b>[Fluttershy]</b>
+We wake up all their sleepy heads
+So quietly and nice
+
+<b>[Rarity]</b>
+We help them gather up their food
+Fix their homes below
+
+<b>[Fluttershy]</b>
+We welcome back the southern birds
+
+<b>[Fluttershy and Rarity]</b>
+So their families can grow!
+
+<b>[Choir]</b>
+Winter Wrap Up! Winter Wrap Up! (<b>[Rarity]</b> Winter, winter)
+Let's finish our holiday cheer
+Winter Wrap Up! Winter Wrap Up! (<b>[Rarity]</b> Winter, winter)
+'Cause tomorrow spring is here
+Winter Wrap Up! Winter Wrap Up! (<b>[Rarity]</b> Winter, winter)
+'Cause tomorrow spring is here
+'Cause tomorrow spring is here!
+
+<b>[Applejack]</b>
+No easy task to clear the ground
+Plant our tiny seeds
+With proper care and sunshine
+Everyone it feeds
+Apples, carrots, celery stalks
+Colorful flowers too
+We must work so very hard
+
+<b>[Applejack, Cherry Berry, and Golden Harvest]</b>
+It's just so much to do!
+
+<b>[Choir]</b>
+Winter Wrap Up! Winter Wrap Up!
+Let's finish our holiday cheer
+Winter Wrap Up! Winter Wrap Up!
+'Cause tomorrow spring is here
+Winter Wrap Up! Winter Wrap Up!
+
+<b>[Pinkie Pie]</b>
+'Cause tomorrow spring is here
+
+<b>[Choir]</b>
+'Cause tomorrow spring is here!
+
+<b>[Twilight Sparkle]</b>
+Now that I know what they all do
+I have to find my place
+And help with all of my heart
+Tough task ahead I face
+How will I do without my magic
+Help the Earth pony way
+I wanna belong so I must
+Do my best today,
+Do my best today!
+
+<b>[Choir]</b>
+Winter Wrap Up! Winter Wrap Up!
+Let's finish our holiday cheer
+Winter Wrap Up! Winter Wrap Up!
+'Cause tomorrow spring is here
+Winter Wrap Up! Winter Wrap Up!
+
+<b>[Twilight Sparkle]</b>
+'Cause tomorrow spring is here
+'Cause tomorrow spring is here
+'Cause tomorrow spring is here!
+
+<b>Twilight Sparkle</b>: Everypony belongs to a team. What should <i>I</i> do? Where should <i>I</i> go?
+<b>Rainbow Dash</b>: All right team, you're clear for takeoff.
+<b>Twilight Sparkle</b>: Rainbow Dash!
+<b>Rainbow Dash</b>: Oh, hey Twilight, what's up?
+<b>Twilight Sparkle</b>: What are <i>you</i> doing?
+<b>Rainbow Dash</b>: Sending off one of my flight crews to retrieve the birds that have flown south for the winter.
+<b>Twilight Sparkle</b>: Oh, can I help? How about if I help clear out the clouds?
+<b>Rainbow Dash</b>: Um...
+<b>Twilight Sparkle</b>: Right. No wings.
+<b>Rainbow Dash</b>: Sorry, Twilight.
+<b>Twilight Sparkle</b>: [gasp] Great, now what do we do?
+<b>Spike</b>: I don't know about you, but I'm gonna be nappin'. [snore]
+<b>Twilight Sparkle</b>: Come on Spike, this is serious business. Winter needs to be wrapped up, and I'm determined to do my part. Somehow.
+<b>Twilight Sparkle</b>: Rarity, please tell me there's something, <i>anything</i> I can help you with.
+<b>Rarity</b>: Well, how would you like to help create Ponyville's finest birds' nests?
+<b>Twilight Sparkle</b>: Birds' nests?
+<b>Rarity</b>: Why yes. When the weather team guides the birds back north for the spring, they'll need a place to live and lay their eggs.
+<b>Twilight Sparkle</b>: Wow, Rarity, that one's really beautiful.
+<b>Rarity</b>: Oh why, thank you most sincerely. Would you like to try your hoof at a nest?
+<b>Twilight Sparkle</b>: <i>Would I</i>? Yes! Where do I begin?
+<b>Rarity</b>: Okay. Now... uh, take some of that straw and hay over there, and a little bit of branch. Now, weave them through there, <i>yes</i>. Uh, take some ribbon, <i>yes</i>,
+ oh uh, n... not there, oooh, yes, uh, tuck it in over there, uh but be 
+careful not to... I don't know I guess that would do... oh dear.
+<b>Twilight Sparkle</b>: <i>There</i>! It looks just like... yours. Oh my.
+<b>Spike</b>: That nest needs to be condemned.
+<b>Rarity</b>: Oh, Spa-ha-hike, it's not so bad, ah, maybe birds can use it as a...
+<b>Spike</b>: An outhouse?
+<b>Rarity</b>: <i>Spike</i>. It's just fine. It's just a little
+ rough around the edges. Let me lend you a hoof. Let's just untie this 
+ribbon, and let me take out these sticks here, we'll shave this... 
+[mumbling]
+<b>Twilight Sparkle</b>: Hw...
+<b>Spike</b>: I think we lost her.
+<b>Rarity</b>: Ah, and we need to weave the string...
+<b>Pinkie Pie</b>: Hellooooooo, Twilight! Wheeeeeeee!
+<b>Twilight Sparkle</b>: Wow, Pinkie Pie, you're quite the skater. Probably the best skater I've ever seen.
+<b>Pinkie Pie</b>: Thanks Twilight, I've been doing this since I
+ was an itty-bitty little-wittle Twinkie-Pinkie. Just comes natural. 
+Which is probably why they designated me the lake scorer. I cut lines in
+ the lakes with my skates. That way, when the rest of the weather team 
+comes here to break the ice, it'll be easy as <i>pie</i>.
+<b>Twilight Sparkle</b>: How clever. When the thick ice begins 
+to melt, it'll break along the lines. Well, you sure have a lot of work 
+ahead of you, there's quite a few lakes in Ponyville.
+<b>Pinkie Pie</b>: Ha, tell me about it. Hey, Twilight, wanna help me out?
+<b>Twilight Sparkle</b>: <i>Would I</i>?
+<b>Pinkie Pie</b>: Come on, put on those skates over there. I bet you'll be a natural too.
+<b>Twilight Sparkle</b>: Okay.
+<b>Pinkie Pie</b>: Yaaaaay! [cheers]
+<b>Twilight Sparkle</b>: Uh... maybe on second thought.
+<b>Spike</b>: What are you talking about? You said you wanted to be helpful.
+<b>Pinkie Pie</b>: Yippie!
+<b>Spike</b>: Now get out there.
+<b>Twilight Sparkle</b>: Oh no, whoa, wow...
+<b>Pinkie Pie</b>: Twilight, steer! Steer!
+<b>Twilight Sparkle</b>: Yaaaaa!
+<b>Pinkie Pie</b>: Oh boy...
+[screams]
+<b>Spike</b>: Pwuh.
+<b>Pinkie Pie</b>: [blips]
+<b>Spike</b>: Ha ha, you are a natural, Twilight. A natural <i>disaster</i>. [laughter]
+<b>Pinkie Pie</b>: Twilight, you did a great job your first 
+time around. I'm sure my first time was just as wobbly and bobbly and 
+crasheriffic as yours.
+<b>Twilight Sparkle</b>: <i>Really</i>?
+<b>Pinkie Pie</b>: No.
+<b>Spike</b>: [chuckles]
+<b>Pinkie Pie</b>: But did I make you feel better?
+<b>Twilight Sparkle</b>: Mm-hmm, yeah, I guess.
+<b>Pinkie Pie</b>: I think you'll be super awesome at something
+ that keeps your hooves on the ground. I know, Fluttershy could probably
+ use your help with the critters.
+<b>Twilight Sparkle</b>: Well... I'm pretty good with little animals. Yeah, I'll go help <i>her</i>.
+<b>Pinkie Pie</b>: Uh... it's, ah, that a-way.
+<b>Twilight Sparkle</b>: Yaaaaaa!
+<b>Spike</b>: [chuckles]
+<b>Fluttershy</b>: Wake up, little sleepy heads. Hope you had 
+some wonderful dreams and restful hibernation, but it's time to get up 
+now, spring is coming.
+<b>Hedgehogs</b>: [yawn]
+<b>Twilight Sparkle</b>: Awww, how cute.
+<b>Fluttershy</b>: Aren't they? This is my favorite task the whole season, when I get to see all my little animal friends again.
+<b>Spike</b>: Uh, what's "hibernation"?
+<b>Fluttershy</b>: It's like a long sleep.
+<b>Spike</b>: <i>Long sleep</i>?
+<b>Fluttershy</b>: <i>Yes</i>. [bell rings] Wake up, little porcupines. Animals often hibernate through the winter to save their energy and eat less food.
+<b>Spike</b>: I definitely like the idea of hibernation, uh, except for the "eat less food" part.
+<b>Porcupines</b>: [yawn] [yelp]
+<b>Fluttershy</b>: Oh, would you just look at all these warrens
+ and dens? I'm worried that I won't be able to wake up every animal 
+before spring comes.
+<b>Twilight Sparkle</b>: Well, I'll help, Fluttershy.
+<b>Fluttershy</b>: You <i>will</i>? Oh, that would be wonderful.
+<b>Twilight Sparkle</b>: Okay, let's start there.
+[bell rings]
+<b>Twilight Sparkle</b>: Hello? Wake up little friends, 
+wherever you are. Spring is coming. [bell rings] I wonder which cute 
+little furry creatures I've awoken.
+<b>Snakes</b>: [hiss]
+<b>Twilight Sparkle</b>: Waaa! Snakes! Snakes! [scream] Ugh! [grunt] [scream] Ugh!
+<b>Fluttershy</b>: Good morning, friends.
+<b>Twilight Sparkle</b>: [groan]
+<b>Twilight Sparkle</b>: [sigh] All this Winter Wrap Up stuff is a lot harder than it looks.
+<b>Spike</b>: [nasally] Right, because there's no magic. Why don't you just use <i>magic</i>, Twilight, and get it done the right way?
+<b>Twilight Sparkle</b>: No, Spike, I have to do it the traditional way. Ponyville has never needed magic to wrap up winter.
+<b>Spike</b>: [nasally] Well, they never had <i>you</i> here before, either. Think how much quicker they could wrap up winter with your magic.
+<b>Twilight Sparkle</b>: No, no, <i>no</i>! I'm gonna find some other way that I can help out if it kills me. [grunt]
+<b>Applejack</b>: Keep pushin', Caramel. That's it, Bumpkin. I know it's hard work, but you guys are doin' great. Yee-haw!
+<b>Twilight Sparkle</b>: Hey, Applejack. How's everything going?
+<b>Applejack</b>: Oh, just <i>dandy</i>. A little slow 
+startin', but peachy all the same. There's a lot of ground to clear, ya 
+hear? We can't even start the plantin' and the waterin' until we git all
+ these heap a' snow hightailed outta here.
+<b>Twilight Sparkle</b>: Well, I'd like to help.
+<b>Applejack</b>: Well, I... I dunno Twilight.
+<b>Twilight Sparkle</b>: Just give me a <i>chance</i>.
+<b>Applejack</b>: Well, I never turn down a hard worker, but...
+<b>Twilight Sparkle</b>: [struggle] Ugh... [struggle] Ugh... [gasp]
+<b>Spike</b>: <i>Think of how much quicker they could wrap up winter with your magic.</i>
+<b>Twilight Sparkle</b>: I <i>could</i> use a come-to-life spell. Hwww... Here goes...
+<b>Applejack</b>: Hmm. She's awful strong for such a little pony.
+<b>Spike</b>: That's my girl, following my advice.
+<b>Applejack</b>: And what in tarnation does that mean?
+<b>Twilight Sparkle</b>: [gasp] Uh-oh. Slow down. <i>Slow down</i>!
+<b>Spike</b>: [yelp]
+<b>Spike</b> and <b>Applejack</b>: Whoa-oa-oa!
+<b>Applejack</b>: What's going on? Wha'd'ya do? You used magic, didn't you?
+<b>Applejack</b>: Nuts, Twilight, <i>you used magic</i>.
+<b>Spike</b>: The <i>nerve</i>. Can you believe her?
+<b>Applejack</b>: That's not how we do it 'round here, Twilight, and especially not on MY FARM!
+<b>Twilight Sparkle</b>: Well, see, I just wanted to... [whine]
+<b>Spike</b>: Come on, Twilight. Come on out.
+<b>Twilight Sparkle</b>: I'm a winter mess up.
+<b>Spike</b>: Well you're good at a lot of things, just not nest-making, ice-skating, animal-waking, snow-clearing.
+<b>Twilight Sparkle</b>: [whine] Thanks a lot for making me feel <i>so</i> much better.
+<b>Spike</b>: That's what I'm here for, sister.
+<b>Applejack</b>: Rainbow Dash, y'all on the weather team need to melt the rest of the snow here on the ground and the trees, pronto.
+<b>Rainbow Dash</b>: Got it.
+<b>Fluttershy</b>: Wait. My poor little animals' homes will get flooded if the snow melts too fast.
+<b>Rainbow Dash</b>: Got it.
+<b>Applejack</b>: I'm tellin' you, Rainbow, you gotta melt that snow <i>now</i>.
+<b>Fluttershy</b>: No, you simply must wait.
+<b>Rainbow Dash</b>: Okay.
+<b>Applejack</b>: Go.
+<b>Fluttershy</b>: Stop.
+<b>Applejack</b>: <i>Go</i>.
+<b>Fluttershy</b>: <i>Stop</i>.
+<b>Applejack</b>: GO!
+<b>Fluttershy</b>: STOP!
+<b>Rainbow Dash</b>: Ugh! Make up your minds!
+<b>Mayor Mare</b>: Oh! What in Equestria are all you arguing about? This sort of silliness is why we were <i>late</i> for spring <i>last year</i>, and the year before that, and the year before <i>that</i>.
+<b>Twilight Sparkle</b>: Did she say <i>late</i>?
+<b>Mayor Mare</b>: I was hoping my amazingly inspirational 
+speech would urge everyone to do better than last year, but now it looks
+ like we're going to be later than <i>ever</i>. I mean just look at this
+ catastrophe. The ice scorers made the ice chunks too big to melt. The 
+nest designer is horrendously behind, we need several hundred, and she's
+ only made <i>one.</i>
+<b>Rarity</b>: [sob]
+<b>Mayor Mare</b>: And don't get me started on all the clouds in the sky, the icicles on the trees... This isn't good, <i>not</i> at <i>all</i>!
+<b>Applejack</b>: And it's gonna be all to pieces disastrous if we can't get our seeds all planted.
+<b>Rainbow Dash</b>: Chillax Applejack, we're bustin' our chops as fast as we can.
+<b>Fluttershy</b>: No, not <i>fast</i>, we have to wake animals <i>slowly</i>.
+<b>Big McIntosh</b>: Uh, AJ?
+<b>Applejack</b>: Oh good gravy, Caramel lost the grass seeds again, didn't he?
+<b>Big McIntosh</b>: Eeyup.
+<b>Caramel</b>: [whimpers]
+<b>Rainbowshine</b>: [grunt] Ditzy Doo accidentally went <i>north</i> to get the <i>southern</i> birds!
+<b>Rainbow Dash</b>: Oh that featherbrain. Didn't she learn her lesson last year when she went west?
+[ponies grumble and complain]
+<b>Mayor Mare</b>: Stop this at once. We don't have time to 
+argue. It's almost sundown. Spring is going to be late again. Another 
+year of scandal and shame. If only we could be <i>more organized</i>.
+<b>Twilight Sparkle</b>: Spike! Get my checklist and clipboard, STAT!
+<b>Spike</b>: Eh, yes, ma'am.
+<b>Twilight Sparkle</b>: Stop, everypony!
+[ponies argue]
+<b>Twilight Sparkle</b>: Stop!
+[bird chirps]
+<b>Twilight Sparkle</b>: Sorry. I know you all want to complete your jobs on time, but arguing is no way to go about it. What you need is <i>organization</i>, and I'm just the pony for the job.
+[Winter Wrap Up instrumental]
+<b>Mayor Mare</b>: I can't believe it. Spring is here! <i>On time</i>! And we have you to thank for it. If it weren't for your organizing skills we would still be arguing.
+<b>Big McIntosh</b>: Eeyup.
+[laughter]
+<b>Twilight Sparkle</b>: It was a team effort.
+<b>Mayor Mare</b>: And since you helped every team, we have an official vest for you. We give you the title, "All-Team Organizer".
+<b>Twilight Sparkle</b>: Gosh, I don't even know what to say. Thank you, everypony.
+<b>Mayor Mare</b>: And hereby I declare that winter is... wrapped up <i>on time</i>.
+[cheers]
+<b>Applejack</b>: Spike's sure gonna be in for a hog-sized surprised when that last piece a' ice melts.
+[laughter]
+<b>Twilight Sparkle</b>: <i>Dear Princess Celestia,</i>
+<i>Winter Wrap Up was one of the most special things I've ever been a part of here in Ponyville. It helped me to learn we all have hidden talents, and if we're patient and diligent, we're sure to find them, and as always, with good friendship and teamwork, ponies can accomplish anything.</i> How's that, Spike? <i>Spike</i>?
+<b>Spike</b>: [snore]
+<b>Twilight Sparkle</b>: Oh, Spike. [laughter]
+[music]
+[credits]

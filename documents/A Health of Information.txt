@@ -1,0 +1,315 @@
+<b>Fluttershy</b>: Thank you so much, Zecora. I never would've found the crisscross moss without you.
+<b>Zecora</b>: Of course. I know where it grows, so it's not much to ask. Though retrieving it has been a difficult task.
+<b>Fluttershy</b>: Oh, but the oxen visiting Sweet Feather Sanctuary next week will surely appreciate it. It really adds a shine to their coat.
+[splut]
+<b>Zecora</b>: There we go. Now, that wasn't so tough. Fluttershy, tell me, will <i>this</i> be enough?
+<b>Fluttershy</b>: Gee, I don't know. It's a pretty big pack. 
+So maybe enough to fill up this sack? [gasps, laughs] Oh, my! You're 
+rubbing off on me, Zecora!
+<b>Zecora</b>: Whoa. Whoa!
+[branch snaps]
+[splash]
+<b>Fluttershy</b>: [screams] Oh, no, oh, no, oh, no!
+<b>Zecora</b>: [gasps]
+<b>Fluttershy</b>: Zecora, are you all right?
+<b>Zecora</b>: No need to fret. I only got wet. At least now I can easily grab all the crisscross moss there is to be had.
+[poof]
+<b>Fluttershy</b>: [gasps] What's happening to you?
+<b>Zecora</b>: Honestly, it's hard to tell. But suddenly, I don't feel so well...
+<b>Fluttershy</b>: [gasps deeply]
+[theme song]
+<b>Dr. Horse</b>: All right, Zecora. Let's have a listen to the old ticker.
+[jazz drum solo]
+<b>Dr. Horse</b>: Hmm. Hmm. <i>Hmm.</i>
+<b>Fluttershy</b>: Do you think it's serious, doctor?
+<b>Dr. Horse</b>: Well, that wasn't a <i>good</i> sign.
+<b>Fluttershy</b>: I can't believe a flower did this. I take back thinking it was pretty!
+<b>Zecora</b>: [coughing]
+<b>Dr. Horse</b>: Mm-hmm. We're looking for any color other than red.
+<b>Fluttershy</b>: Phew. [gasps loudly]
+<b>Dr. Horse</b>: Oh, it's just as I thought. I'm afraid you have a very rare disease called... [echoing] <i>Swamp Fever!</i>
+[thunder and lightning]
+<b>Zecora</b>: Tell me, doctor. What should I do? I've never heard of Swamp Fever, mind you.
+<b>Dr. Horse</b>: Unfortunately, very little is known about the
+ disease. Except, of course, its symptoms – change of coat, coughing 
+bubbles, shock sneezing, confusion, and the last stage, the afflicted 
+turn into the very trees that drop the disease-spreading flower.
+<b>Zecora</b>: Oh! Is there anything that can be done for such a terrible conundrum?!
+<b>Dr. Horse</b>: A cure has yet to be discovered. I'm sorry, Zecora.
+<b>Zecora</b>: Hmmm.
+<b>Dr. Horse</b>: It's a lot to take in. I'll leave you two to discuss.
+[door closes]
+<b>Fluttershy</b>: Zecora, this is all my fault! If you hadn't 
+been helping me get the crisscross moss, you wouldn't have gotten Swamp 
+Fever. I'm so sorry.
+<b>Zecora</b>: Fluttershy, you are not to blame. These things happen all the same.
+<b>Fluttershy</b>: I refuse to accept that! There has to be <i>some</i>pony who can help you!
+<b>Zecora</b>: Oh. There's a healer of legend who never would 
+fail. But I only know her from ancient folktales. Mystical and masked, 
+she came in the night and cured everything from hoof cough to fur 
+blight. What became of the healer, nopony knows, for she disappeared 
+ages and ages ago.
+<b>Fluttershy</b>: The Mystical Mask! Of course! My parents would tell me about her whenever I was sick in bed.
+<b>Zecora</b>: There's so many accounts of her power to heal. She can't just be a legend. I think she's real.
+<b>Fluttershy</b>: If that's who we need to cure you, then I'm going to find her! And I know just the pony who can help!
+<b>Fluttershy</b>: [pants] Oh.
+[door opens]
+<b>Fluttershy</b>: Twilight? Twilight? Twilight! Oh, I'm so sorry to bother— Are... Are you cooking?
+<b>Twilight Sparkle</b>: Yeah! Spike and I are having a cook-off!
+<b>Spike</b>: My cauliflower bites blew her sweet potato muffins out of the water!
+<b>Twilight Sparkle</b>: I'm glad you're here, Fluttershy, because we're gonna need a second opinion about that.
+<b>Fluttershy</b>: [grunts, gulps, grunts, gulps] Um, they're 
+both delicious, but... [quickly] 
+Zecora-has-Swamp-Fever-and-there's-no-cure-and-it's-all-my-fault-and-the-only-pony-who-can-cure-it-is-the-Mystical-Mask-and-I-need-your-help-to-find-her!
+<b>Twilight Sparkle</b>: Uh...
+<b>Spike</b>: So, what'd she pick? The cauliflower bites, right?
+[pages flipping]
+<b>Twilight Sparkle</b>: [sighs] That's the last book on ancient ponies, and still no mention of the Mystical Mask.
+<b>Fluttershy</b>: Hmm. Did we check the unabridged versions?
+<b>Twilight Sparkle</b>: Yes, and the books on rare diseases, the books on rare plants, and the entire section on bog habitation.
+<b>Fluttershy</b>: Well, we might have to look through every book in the entire library, but I know we'll figure it out.
+<b>Twilight Sparkle</b>: Oh.
+[music]
+<b>Fluttershy</b>: [sighs] Another dead end. Have you found anything yet, Twilight?
+<b>Twilight Sparkle</b>: [snoring]
+<b>Fluttershy</b>: Twilight?
+<b>Twilight Sparkle</b>: Aah!
+[thud]
+<b>Fluttershy</b>: Goodness! Are you okay?
+<b>Twilight Sparkle</b>: [sighs] I'm fine. Fluttershy, you know
+ that I want to help Zecora. But I think we'd be a lot better off if we 
+got some sleep. We've been at this for hours.
+<b>Fluttershy</b>: Oh, I'm so sorry. I didn't realize how late it had gotten.
+<b>Twilight Sparkle</b>: No problem. I'll grab you a pillow and—
+<b>Fluttershy</b>: Oh, no-no-no. I meant <i>you</i> should sleep. I can't rest until Zecora is healed.
+<b>Twilight Sparkle</b>: I understand how you feel, but I still
+ think we'd have more luck if we tried again in the morning. Just 
+promise me you'll take a break soon.
+<b>Fluttershy</b>: [not listening] Mm-hmm.
+<b>Twilight Sparkle</b>: [yawns] Good night, Fluttershy.
+[door closes]
+<b>Twilight Sparkle</b>: [snoring] 9-by-13-inch pan...
+[thud!]
+<b>Fluttershy</b>: Twilight!
+<b>Twilight Sparkle</b>: [awake] <i>Nonstick pans!</i>
+<b>Spike</b>: [groans] What's all the commotion in here, ladies?
+<b>Fluttershy</b>: Sorry, but I figured out who the Mystical Mask is!
+<b>Twilight Sparkle</b>: [gasps] You did?!
+<b>Fluttershy</b>: All I had to do was cross-reference a book 
+about masks with another book on ancient Equestrian healers, then use a 
+third book to translate it all from Olde Ponish, and there it was! 
+Zecora was right! The Mystical Mask wasn't just a legend. The Mystical 
+Mask was Mage Meadowbrook!
+<b>Twilight Sparkle</b>: [gasps deeply] The ancient sorceress from Hayseed Swamp? We studied her at Celestia's school! Are you sure?
+<b>Fluttershy</b>: Absolutely! Mage Meadowbrook wasn't just a 
+sorceress. She was also a healer, and back then, healers wore masks so 
+they wouldn't get sick themselves!
+<b>Twilight Sparkle</b>: Fluttershy, I am so incredibly proud 
+of you for using your research skills to figure this out! But 
+Meadowbrook lived ages ago, and didn't she disappear?
+<b>Fluttershy</b>: Mm-hmm. But if we go to Hayseed Swamp, maybe we can find something she left behind! Something that could lead to a cure!
+<b>Twilight Sparkle</b>: It seems like a long shot, but I guess it's possible.
+[pyow!]
+<b>Fluttershy</b>: [grunting] We have to try! I've got a route all planned out, and on the way, we can check up on Zecora, and then—
+<b>Twilight Sparkle</b>: Whoa, whoa, whoa. We're leaving <i>now</i>?
+<b>Fluttershy</b>: Of course! Every second we spend waiting is a second Zecora is coughing bubbles!
+<b>Twilight Sparkle</b>: But Fluttershy, you haven't slept! And that's a long journey!
+<b>Fluttershy</b>: There's no use trying to talk me out of this, Twilight! [grunts] We've got no time to waste!
+<b>Twilight Sparkle</b>: Can we at least grab some breakfast?
+<b>Fluttershy</b>: I packed cauliflower bites.
+<b>Twilight Sparkle</b>: Aw. No sweet potato muffins?
+<b>Spike</b>: I, uh, ate them all. They were actually really good. [chuckles]
+<b>Fluttershy</b>: And that's when I realized the Mystical Mask was actually Mage Meadowbrook!
+<b>Zecora</b>: [coughs] That's marvelous, Fluttershy. I am 
+quite impressed. While you are gone on your journey, I'll try not to 
+be... worried.
+<b>Fluttershy</b>: [gasps] Oh, no. Zecora, you didn't rhyme! You must be getting worse.
+<b>Zecora</b>: Oh. No, no, no, not at all. Something... something... ball? [sneezes]
+[electricity crackles]
+<b>Fluttershy</b>: [gasps] That's it! We have to go now!
+<b>Twilight Sparkle</b>: Lead the way, Fluttershy.
+[thud]
+[circling birdies]
+<b>Fluttershy</b>: [groans]
+[door opens]
+[door closes]
+[thump]
+[music]
+<b>Twilight Sparkle</b>: So... [chuckles nervously] where do you think Meadowbrook lived?
+<b>Fluttershy</b>: [yawns] I'm not sure. Maybe there's somepony we can ask.
+<b>Twilight Sparkle</b>: I think we might be the only ponies here.
+[beat]
+<b>Fluttershy</b>: Wait! I recognize that tree! [gasps] Yes! This <i>has</i> to be it! It's just like the illustrations of her home!
+<b>Twilight Sparkle</b>: Anypony who lives in a tree is okay by me.
+<b>Fluttershy</b>: [grunts] Phew. Well, if the doorway is 
+sealed up, we'll just have to dig our way in. Back up, Twilight! I don't
+ want you to get hurt! [grunting]
+<b>Twilight Sparkle</b>: Or we could try the handle.
+<b>Fluttershy</b>: [laughs nervously] It really blends in with the bark.
+<b>Twilight Sparkle</b>: Easy to miss.
+[door opens]
+<b>Fluttershy</b>: Wow. It looks like this place has been 
+abandoned for years. [gasps] Twilight, look! It's the same kind of 
+lilypad that gave Zecora Swamp Fever! Hmm. I wonder if Meadowbrook was 
+looking for a cure for Swamp Fever, too. [gasps] Do you think she found 
+it?
+<b>Twilight Sparkle</b>: I hope so, but let's not get ahead of ourselves.
+[loud squeak]
+<b>Twilight Sparkle</b>: That's exactly what I'm talking about. You're making your excited squeaking noise!
+<b>Fluttershy</b>: Uh, I wasn't making my excited squeaking noise.
+[loud squeak]
+<b>Twilight Sparkle</b> and <b>Fluttershy</b>: [scream]
+<b>Cattail</b>: [Cajun accent] Y'all can stop screamin' now. Didn't mean to scare ya. I do that a lot.
+<b>Twilight Sparkle</b>: Scare ponies or rock creepily in the dark?
+<b>Cattail</b>: Well, both, I s'pose. Name's Cattail. Pleased to meet ya.
+<b>Fluttershy</b>: Likewise, but, um, may I ask, why are you in Mage Meadowbrook's home?
+<b>Cattail</b>: Oh, I take care of the place. I ain't much of a
+ cleaner, but from what I hear, my kin wasn't neither. So I doubt they'd
+ mind a few cobwebs in our ancestral home.
+<b>Fluttershy</b>: [gasps] You're related to Mage Meadowbrook?
+<b>Cattail</b>: Mm-hmm.
+<b>Fluttershy</b>: Oh, my goodness, Twilight, we did it! Not 
+only did we find Mage Meadowbrook's old house – we actually found one of
+ her descendants!
+<b>Twilight Sparkle</b>: Honestly, I would not have guessed it.
+<b>Cattail</b>: So you're lookin' for some kind o' cure, huh? 
+Well, now, I know Meadowbrook was known to always be writin' in her 
+journals. If she had the cure you want, I reckon that's where it'd be. 
+Come on. I'll show ya the library.
+<b>Twilight Sparkle</b>: Library?! Now we're talkin'!
+[beat]
+<b>Twilight Sparkle</b>: Oh. Well... [chuckles] Libraries come in all shapes and sizes.
+<b>Fluttershy</b>: This is good. It'll take us less time to go through everything.
+[thud]
+<b>Fluttershy</b>: [blows air, reading] "Today, my mom made me 
+eat peas. Peas are yucky." And we can probably skip this one, unless she
+ found a cure when she was a foal.
+<b>Twilight Sparkle</b>: [reading] "I met a colt today. He pulled my mane, so I put a frog on his head." Also not helpful, but I <i>do</i> kinda want to see where it goes. [grumbles]
+<b>Fluttershy</b>: Wait! Listen to this! [reading] "Today, I tried again to brew an unsniffle elixir..."
+<b>Fluttershy</b> and <b>Mage Meadowbrook</b>: [crossfading] [Cajun accent] ...and I finally got it right!
+<b>Chipmunk</b>: [sneezing]
+[sipping noise]
+<b>Chipmunk</b>: [sighs]
+<b>Meadowbrook's Mother</b>: Meadowbrook, I think it's time you had this.
+[thumping]
+<b>Mage Meadowbrook</b>: [gasps] My very own healer's mask! You think I'm ready, mother?
+<b>Meadowbrook's Mother</b>: Mm-hm.
+[knocking]
+[door opens]
+<b>Meadowbrook's Mother</b>: [gasps] What caused this?
+<b>Mage Meadowbrook</b>: [narrating] <i>Mother calls it Swamp Fever. We've been tryin' to find a cure, but it hasn't been easy.</i>
+[lily puffs]
+<b>Meadowbrook's Mother</b>: [coughing]
+[knocking]
+[door opens]
+<b>Royal Pin</b>: [coughs]
+<b>Mage Meadowbrook</b>: [narrating] <i>The fever spread like wildfire.</i>
+[ponies sneezing and coughing]
+<b>Meadowbrook's Mother</b>: [coughing]
+<b>Mage Meadowbrook</b>: [narrating] <i>I fear if we don't find a cure soon, everypony will be in grave danger!</i>
+<b>Meadowbrook's Mother</b>: [coughing]
+<b>Mage Meadowbrook</b>: [narrating] <i>With mother sick, I didn't think I'd ever find a cure. But starin' at those cursed flowers today, I saw somethin'.</i>
+[flash bees buzzing]
+[lilies puffing]
+<b>Mage Meadowbrook</b>: [gasps] Flash bees! [narrating] <i>I realized the flowers' poison didn't affect the flash bees. And if they were immune to Swamp Fever, their honey could be the cure!</i>
+[flash bees buzzing]
+[branch snaps]
+[flash bees buzzing]
+[zaps]
+<b>Mage Meadowbrook</b>: [narrating] <i>But they were so aggressive defendin' their hive, I didn't know how I was gonna get it!</i>
+[flash bees buzzing]
+<b>Mage Meadowbrook</b>: Here goes nothin'!
+<b>Mage Meadowbrook</b>: [narrating] <i>Today, I cured mother...</i>
+<b>Fluttershy</b> and <b>Mage Meadowbrook</b>: [crossfading] ...and the rest of the bayou!
+<b>Fluttershy</b>: [reading] "It was the greatest feeling I've 
+ever experienced, and I promise to dedicate my life to curing ponies all
+ over Equestria!"
+<b>Cattail</b>: And she did just that. Right up 'til she disappeared without a trace.
+<b>Fluttershy</b>: So all we have to do is find those 
+aggressive flash bees and get them to give us their honey! Of course, it
+ doesn't say how she did that...
+[beat]
+<b>Fluttershy</b>: What? Is my mane messy? I know I haven't slept in a while, but... [gasps] Oh, no! I've caught Swamp Fever!
+<b>Fluttershy</b>: Huh?
+[thump, thump]
+<b>Twilight Sparkle</b>: [slightly muffled] Are you sure these are necessary?
+<b>Fluttershy</b>: What?
+<b>Twilight Sparkle</b>: I said, are you sure these are necessary?
+<b>Fluttershy</b>: Yes! I won't risk infecting you or Cattail!
+<b>Twilight Sparkle</b>: What you can't risk is getting any sicker! If you don't rest, your symptoms will only get worse!
+<b>Fluttershy</b>: [coughs]
+<b>Cattail</b>: Mm-hmm. You really should rest up before going up against those flash bees. They are nasty critters.
+<b>Fluttershy</b>: Um, you don't know this about me, but I'm pretty good with animals. And besides, Dogtail—
+<b>Cattail</b>: Cattail.
+<b>Fluttershy</b>: Um, Zecora is counting on me. I have to help her, just like Meadowbrook helped her mother and all those bayou ponies long ago!
+<b>Twilight Sparkle</b>: But Fluttershy, as much as Meadowbrook took care of other ponies, I'm sure she also took care of herself.
+<b>Fluttershy</b>: [strained] You're not gonna change my mind, Twilight!
+<b>Cattail</b>: Ooh. For bein' sick, she sure is strong.
+<b>Cattail</b>: The flash beehive is just up yonder.
+<b>Twilight Sparkle</b>: Are you sure you don't want me to come with you?
+<b>Fluttershy</b>: No! It's too dangerous, Twilight. Besides, 
+I've already gotten one friend hurt. I won't let it happen to another. 
+[exhales] Okay, Fluttershy, you can do this! [coughs]
+<b>Fluttershy</b>: [panting] [straining] Mind over matter! [grunts] [straining, panting]
+[flash bees buzzing]
+<b>Fluttershy</b>: Hello, flash bees! I was hoping I could get some of your honey.
+[flash bees buzzing]
+<b>Fluttershy</b>: Oh! I see. You don't let others have any. Well, I'm sorry, but I <i>really</i> need it.
+[zap]
+<b>Fluttershy</b>: [squeaks] I didn't want it to have to come to this, but I'll just have to use... the Stare!
+[flash bees buzzing]
+[zap, zap, zap]
+<b>Fluttershy</b>: [shrieks] [coughs] You really are aggressive! [coughs] Oh, dear. [whimpers]
+<b>Fluttershy</b>: [groans] What happened? Where am I?
+<b>Twilight Sparkle</b>: [exhales] I'm so glad you're okay. You're still in Meadowbrook's tree.
+<b>Cattail</b>: You fainted, but Twilight shot some magic up and caught ya. It was crazy.
+<b>Fluttershy</b>: Goodness gracious! [coughs] Have you heard from Zecora? Is she okay?
+<b>Twilight Sparkle</b>: Uh...
+<b>Cattail</b>: We got word your zebra friend has started sproutin' leaves.
+<b>Fluttershy</b>: She's already turning into a tree?! I thought we'd have more time!
+<b>Twilight Sparkle</b>: Actually, you've been asleep for three days.
+<b>Fluttershy</b>: Three days?!
+<b>Twilight Sparkle</b>: Mm-hmm. You were asleep so long, we 
+were afraid you wouldn't be able to move when you woke up. But 
+thankfully, you just wore yourself down!
+<b>Fluttershy</b>: Oh, dear. We have to get back to the hive! I've wasted so much time, and—!
+<b>Cattail</b>: Now hang on there, Fluttershy. Those flash bee critters are tricky.
+<b>Twilight Sparkle</b>: Cattail's right. I can't even use magic to calm them down. We'll have to find another way to get the honey.
+<b>Cattail</b>: We've tried everything from disguises to things I won't even speak of. [shudders]
+<b>Twilight Sparkle</b>: He's been through a lot these past three days.
+<b>Fluttershy</b>: Wait... Disguises...
+[flash bee buzzing]
+<b>Fluttershy</b>: [gasps] That's it! I know how she did it! I know how Meadowbrook got the honey!
+[flash bees buzzing]
+<b>Fluttershy</b>: <i>This</i> is how Meadowbrook got the honey from the flash bees!
+<b>Cattail</b>: She threw a mask at 'em? I wouldn't recommend that.
+<b>Fluttershy</b>: No. The male bees aren't aggressive around the queen bee, and this mask has the same stripes that she does.
+<b>Twilight Sparkle</b>: Fluttershy, that's brilliant!
+<b>Fluttershy</b>: [sneezes]
+[zap]
+<b>Cattail</b>: Whoa!
+<b>Fluttershy</b>: There's no time to waste!
+<b>Twilight Sparkle</b>: Hooves crossed!
+<b>Cattail</b>: Oh, golly! I can't watch!
+<b>Fluttershy</b>: [coughs] Mind over matter!
+[flash bees buzzing]
+<b>Fluttershy</b>: [buzzing]
+[splat]
+<b>Fluttershy</b>: Twilight... It's working!
+<b>Zecora</b>: [gulps]
+[leaves rustling]
+<b>Twilight Sparkle</b>: I think she's cured now, Fluttershy.
+<b>Zecora</b>: Ohhh, I do feel fine, and this honey is divine.
+<b>Fluttershy</b>: Oh, you're rhyming again! Welcome back, my friend!
+<b>Zecora</b>: Thank you, Fluttershy, for all you endured. If not for you, I would not be cured.
+<b>Fluttershy</b>: Oh, if it wasn't for me, you wouldn't have been sick in the first place.
+<b>Zecora</b>: Regret is not what you should feel, because on this journey, you've learned a great deal.
+<b>Fluttershy</b>: That's true. I certainly learned that if you
+ don't take care of yourself, you won't be able to take care of anypony 
+else. In fact, if I had rested like Twilight had suggested all along, 
+maybe I would have thought to use Meadowbrook's mask sooner.
+[window squeaking]
+<b>Dr. Horse</b>: [coughing]
+[bubbles popping]
+<b>Dr. Horse</b>: Please tell me you found the cure! [sneezes, sneezes]
+[credits]

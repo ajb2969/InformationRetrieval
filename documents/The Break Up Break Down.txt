@@ -1,316 +1,365 @@
-[oven timer ticks] 
-<b>Big McIntosh</b>: [groans] 
-<b>Spike</b>: You said it, Big Mac. This is taking forever! I know it's wrong to cut corners when it comes to gifts from the heart, but this is an emergency, right? 
-<b>Big McIntosh</b>: Eeyup. 
-<b>Spike</b>: Discord? A little help? Discord! 
-[beat] 
-<b>Spike</b>: [sighs] 
-<b>Big McIntosh</b>: [whispering] 
-<b>Spike</b>: Yeah? Oh! Good idea! [clears throat] Captain Wuzz! Are you prepared to enter the world of 
- <i>Ogres &amp; Oubliettes</i>? 
-[poof!] 
-<b>Discord</b>: Huzzah, fellow adventurers! Shall we storm the ramparts of Squizard's castle to reclaim Calico's Ring of Imperceptibility? 
-[beat] 
-<b>Discord</b>: You 
- <i>did</i> summon me for a rousing Guys' Night of 
- <i>Ogres &amp; Oubliettes</i>, did you not? 
-<b>Spike</b>: Uh, sort of. But do you think you could magically hurry up this pie real quick first? 
-<b>Discord</b>: You seem to be mixing up [poof!] the Lord of Chaos [poof!] with a second-rate clown magician for hire. 
-<b>Big McIntosh</b>: Eee... wait! 
-<b>Spike</b>: This needs to go in the mail today, or it'll never get to Sugar Belle in time for Hearts and Hooves Day! 
-<b>Big McIntosh</b>: [embarrassed giggling] 
-<b>Discord</b>: Please. Can't you see that that holiday is a commercialized ruse pushed on you by the greeting card industry? 
-<b>Big McIntosh</b>: [clears throat irritably] 
-<b>Discord</b>: Fine. You owe me for this. [snaps fingers] 
-[poof!] 
-[poof!] 
-<b>Discord</b>: Keep your eye on the pie. [à la Doug Henning] It's magic time! 
-[poof!] 
-<b>Discord</b>: [sniffing] This smells... uh... palatable. 
-<b>Spike</b>: Well, pies really are Sugar Belle's thing. But I think that makes this all the more special. It shows you're interested in what she cares about. 
-<b>Big McIntosh</b>: Eeyup! 
-<b>Spike</b>: 
- <i>And</i> he's planning a big romantic Hearts and Hooves dinner. It was my idea to bake the invitation inside. 
-<b>Discord</b>: [snaps fingers] 
-[poof!] 
-<b>Discord</b>: [reading] "Happy Hearts and Hooves Day, Sugar Belle. Meet me in my barn at sunset for a surprise." 
-<b>Spike</b>: Pretty clever, huh? 
-<b>Big McIntosh</b>: Eeyup. [chuckling] 
-<b>Discord</b>: Ugh. [snaps fingers] 
-[paper wrapping] 
-<b>Spike</b>: Awww. "Sugar Belle". See? 
-<b>Discord</b>: Well, you two certainly have bought into this romance nonsense hook, line, and sinker. 
-<b>Spike</b>: For a formerly friendless immortal despot, you're pretty cynical. 
-<b>Discord</b>: I'm a realist. And love, like all things warm and fuzzy, isn't real. 
-<b>Spike</b>: Aw, come on. You act tough, but deep down, you're a softie. I mean, you don't have tea with Fluttershy every weekend because you like tea. 
-<b>Discord</b>: But I 
- <i>do</i> like tea! Every tea! All the teas! Chamomile, Earl Grey, green, white, yellow, mate, lemon, ginger, chai, spearmint, peppermint, hibiscus... [inhale] ...cinnamon, pumpkin spice. 
-<b>Big McIntosh</b>: [groans] 
-[door opens] 
-<b>Spike</b>: Tell you what. While Big Mac mails his incredibly romantic gesture, I'll show you the splendors of Hearts and Hooves Day in Ponyville. I bet I can prove you believe in love. 
-<b>Discord</b>: Fine. Call it a gentleman's wager. Loser mows my lawn for eternity. 
-<b>Spike</b>: Is it, like, a riding mower or...? 
-<b>Discord</b>: Tweezers! 
-<b>Spike</b>: [gulps] 
-[montage music] 
-<b>Apple Bloom</b>: Hear ye, hear ye! This special Hearts and Hooves Day meetin' of the Cutie Mark Crusaders is now in session! First order of business – helpin' my big brother decorate the barn for his big date with Sugar Belle tonight, and... Hello? 
-<b>Sweetie Belle</b>: It seems like everypony's got somepony special but us. 
-<b>Scootaloo</b>: When's it gonna be our turn? 
-[knocking on door] 
-<b>Sweetie Belle</b> and 
- <b>Scootaloo</b>: Huh? 
-[door opens] 
-<b>Apple Bloom</b>: Huh? 
-<b>Scootaloo</b>: [gasps] Who's it from? 
-<b>Apple Bloom</b>: Can't tell. It's all smudged, but it looks like it's addressed to... "Belle"? Hmmm... 
-<b>Sweetie Belle</b>: [gasps] "Sweetie Belle"! 
-[paper tearing] 
-<b>Sweetie Belle</b>: Somepony certainly went through a lot of trouble for me! On Hearts and Hooves Day! 
-<b>Scootaloo</b>: [gasps] You don't think... 
-<b>Sweetie Belle</b>: Could it be...? 
-<b>Apple Bloom</b>: Hang on a minute. Mysterious package, smudged address, no idea who it's from... Hm. I know what this is. You've got a secret admirer! 
-<b>Cutie Mark Crusaders</b>: [cheering and laughing] 
-<b>Spike</b>: [sighs] Another Hearts and Hooves Day. Love is in the air, Discord. Look at all these happy couples. 
-<b>Discord</b>: How can they be happy if they aren't playing 
- <i>Ogres &amp; Oubliettes</i>? 
-<b>Spike</b>: As a great dragon poet once wrote to his beloved, "I love you with the utmost clarity. I love you, dear. My sweet, sweet Rarity—" Are you even listening?! 
-<b>Discord</b>: Of course. "Love is... something-something, and Discord is great." I don't know. Can we play 
- <i>O&amp;O</i> now? 
-<b>Spike</b>: Sure, after you admit you believe in love and... Sugar Belle! 
-[bushes rustle] 
-<b>Spike</b>: Big Mac's girlfriend. What's she doing in town so early? 
-<b>Mrs. Cake</b>: Well, Sugar Belle, I'm sure Big Mac won't be expecting it. 
-<b>Spike</b>: [gasps] She's planning her own romantic surprise for Big Mac? What if she goes to Sweet Apple Acres before Big Mac's ready with 
- <i>his</i> surprise? We've gotta warn him! 
-<b>Discord</b>: [scoffs, snaps fingers] 
-[poof!] 
-<b>Big McIntosh</b>: [singing] ...ffle, cookin' a souffle... 
-[poof!] 
-<b>Spike</b>: Aah! 
-[thud] 
-<b>Big McIntosh</b>: Whoa! 
-<b>Spike</b>: [slurring] Mig Bac... Mig Bac...! [groans] I mean, Big Mac! We just saw Sugar Belle! She's at Sugarcube Corner! But I think she's on her way over here now! You gotta keep her away from here until the barn's finished! 
-<b>Big McIntosh</b>: [gasps] Eeyup! 
-<b>Spike</b>: I wonder what she has planned for him. 
-<b>Discord</b>: [chuckles] We don't have to wonder. [snaps fingers] 
-[poof!] 
-[poof!] 
-<b>Spike</b>: Aah! 
-[bushes rustle] 
-<b>Spike</b>: Ugh! Will you warn me next time you do that? 
-[door opens] 
-[clop, clop, clop] 
-<b>Mrs. Cake</b>: Just be honest with him. I'm sure Big Mac will... [continues indistinctly] 
-<b>Spike</b>: Ohhhh. She hasn't seen him yet. Take note, Discord. 
- <i>This</i> is what love is all about. 
-[poof!] 
-<b>Discord</b>: "Spike – Love is about spying in the bushes." 
-<b>Spike</b>: Make fun of me all you want. But look at Big Mac's face and tell me you don't believe in love. 
-[romantic music] 
-<b>Discord</b>: [scoffs] 
-<b>Sugar Belle</b>: I hope he'll be okay without me. 
-[screech!] 
-<b>Big McIntosh</b>: [panicked noises] 
-[bushes rustle] 
-<b>Spike</b>: Oh. Hey. We're just... not spying— 
-<b>Big McIntosh</b>: Hush! 
-<b>Sugar Belle</b>: I mean, he 
- <i>has</i> been on his own before. So he'll be fine, right? [sighs] How should I tell Big Mac tonight? "You won't need to come visit me in my village anymore"? "We need to talk." 
-<b>Mrs. Cake</b>: Just be honest with him. 
-<b>Sugar Belle</b>: You're right. Okay! "We're finished." 
-<b>Big McIntosh</b>: [gasps] 
-[heart beating] 
-[crack] 
-[thud] 
-<b>Discord</b>: You're right. She 
- <i>did</i> surprise him. 
-<b>Spike</b>: Ugh. 
-<b>Big McIntosh</b>: [wailing loudly, gulping] 
-<b>Spike</b>: Okay. Things seem bad. Maybe they're really not. Maybe "we're finished" was about the day. Ponies say that, right? Like-like, "Hey, remember yesterday? That's finished, 'cause it's today!" 
-[beat] 
-<b>Spike</b>: Maybe not that. Oh, I know! Maybe Sugar Belle has a wacky cousin who's never been on his own, and she has to leave him in charge of her shop while she apprentices with Mrs. Cake, who does that, like, two days a week. N-No, no, three. That's why she won't need you to come to her village anymore, because... she'll already be here! 
-[beat] 
-<b>Spike</b>: Nah. 
- <i>I</i> don't even buy that one. 
-<b>Big McIntosh</b>: [continues wailing, gulping] She takes pie-bakin'&nbsp;seriously! Why'd I even try?! I bet she thought I... I was makin'&nbsp;fun of her! [continues wailing] 
-[poof!] 
-<b>Discord</b>: Oh, I hate seeing you like this, Big Mac. And over a girl, no less. I'm calling an emergency Guys' Night [poof!] right now to cheer you up. 
-<b>Big McIntosh</b>: [blows nose] 
-<b>Discord</b>: Besides, we can't have you ruining any more of my thousand-year-old monogrammed handkerchiefs. These 
- <i>are</i> silk, you know. [snaps fingers] 
-[poof!] 
-[poof!] 
-<b>Discord</b>: Class is now in session. 
-[poof!] 
-<b>Discord</b>: Lesson one – nothing can break your heart if you only love yourself. You've got to show everypony that you're too cool to be bothered with so-called love. Observe. 
-[poof!] 
-<b>Discord</b>: This is how cool guys 
- <i>lean</i> against things. When you see a guy 
- <i>leaning</i> against a thing looking this cool, you think, "Wow! That guy doesn't have a care in Equestria. Not a guy who 
- <i>leans</i> on things that cool." 
-<b>Spike</b>: I don't think leaning's gonna help. Am I doing it right? Whoa! 
-[thud] 
-<b>Big McIntosh</b>: [sighs] 
-<b>Spike</b>: We're not like you, Discord. We can't put on a front and pretend not to love. It's impossible. 
-<b>Discord</b>: Lesson two – plenty of ponies in the pasture. Right, Big Mac? I know just the gal to make you forget all about Sugar Belle. 
-<b>Big McIntosh</b>: You... said... her... [wailing] naaaaaaame! 
-<b>Discord</b>: Oy vey... [snaps fingers] 
-[poof!] 
-[ponies chattering] 
-<b>Apple Bloom</b>: Okay. We finished decoratin' the barn for Big Mac, which means we got the rest of the day to ourselves. There's a whole town of possible admirers out there and only three of us. But together, we're gonna get to the bottom of this! Ready? Break! Excuse me! Pipsqueak? Mind answerin' a few questions? No? Late for somethin'? 
- <i>Are you Sweetie Belle's secret admirer?!</i> 
-<b>Scootaloo</b>: [to Button Mash] Excuse me! I'm doing a research survey about sending pie in the mail anonymously. Would you say you're pro-that or anti-that? 
-<b>Sweetie Belle</b>: [to Snips and Snails] Happy Hearts and Hooves Day! Did you boys happen to send any packages to me recently? It's okay to say no! I won't be offended! [whispering] Please say no, please say no, please say no. 
-[poof!] 
-<b>Discord</b>: [snaps fingers] 
-[poof!] 
-<b>Discord</b>: Sir McBigguns, meet Skellinore. She's a Level 18 Bone Warrior in Squizard's mage army, but only to pay off skeleton student loan debts. Get to know each other, why don't you? [snaps fingers] 
-[poof!] 
-<b>Spike</b>: Wow. You're really going all out to cheer up Big Mac. I'm impressed. 
-<b>Discord</b>: Yes, yes, I'm amazing. Anyway, since we're in the neighborhood, care for a quick game of 
- <i>Ogres &amp; Oubliettes</i>? Like I've been wanting to play all week?! 
-<b>Spike</b>: I take it back. 
-<b>Discord</b>: I'm helping our friend first and foremost. See for yourself. 
-<b>Spike</b>: I think he's showing her a picture of Sugar Belle. 
-<b>Discord</b>: What? 
-<b>Spike</b>: And now he's crying. 
-<b>Discord</b>: No-no-no-no-no-no-no-no-no. No, he's not. Let me see that. 
-<b>Spike</b>: Don't touch it! I'm looking! 
-<b>Discord</b>: Give me that! 
-<b>Spike</b>: Cut it out! Discord, quit it! 
-[poof!] 
-<b>Big McIntosh</b>: She used to do this thing where her-her nose would wrinkle when she laughed. Right there, in that hole where your nose used to be. I never told her how much I loved wrinkle-nose cutie-face... [wailing] and now I never will! 
-<b>Discord</b>: Ugh. [snaps fingers] 
-[poof!] 
-[poof!] 
-[thud] 
-<b>Big McIntosh</b>: [crying] 
-<b>Spike</b>: Okay. I think we've had enough of the aloof master of chaos remedies for a broken heart. You know what I do when I have a problem too big to solve? I hide from it! When she can't find you, she'll realize how much she misses you. Plus, if she can't find you, she can't break up with you. 
-<b>Big McIntosh</b>: Eeyup. Hup! 
-<b>Spike</b>: Ha! 
-<b>Discord</b>: [snaps fingers] 
-[poof!] 
-[door opens] 
-<b>Scootaloo</b>: [sighs] I don't get it. We asked every stallion in Ponyville. 
-<b>Apple Bloom</b>: [groans] There's gotta be somepony we're missin'. Somepony obvious. Somepony right in front of our noses. 
-<b>Sweetie Belle</b>: Oh, well. At least the barn's looking great for Big Mac's date. 
-[poof!] 
-<b>Discord</b>: Too bad there won't be a date. 
-<b>Sweetie Belle</b>: Sugar Belle is so lucky to have a non-secret admirer like Big Mac. 
-<b>Discord</b>: Well, she certainly doesn't seem to have appreciated it. 
-<b>Apple Bloom</b>: I bet she's gonna take one look at this barn and say, "What did I ever do to deserve this?" 
-<b>Discord</b>: [whispering] Yes, what 
- <i>did</i> she do to deserve this? 
-<b>Big McIntosh</b>: She broke my heart. 
-<b>Discord</b>: Well, not yet, technically. In fact, she can't break your heart if you break hers first. 
-<b>Big McIntosh</b>: [angrily] Eeyup! 
-<b>Sugar Belle</b>: Thanks for the tour of Ponyville, Mrs. Cake. 
-<b>Mrs. Cake</b>: Oh, my pleasure. 
-<b>Sugar Belle</b>: I'm off to surprise Big Mac with the news. Imagine the look on his face when I tell him, "We need to talk." 
-<b>Mrs. Cake</b>: Oh, dear me, no! I told you, don't say it that way or he'll think you're breaking up with him. 
-<b>Sugar Belle</b>: Break up with him? Never! Why, without my favorite delivery pony, I couldn't imagine being happy ever again. He knows that. 
-<b>Mrs. Cake</b>: Good! Save your mix-up for cake batter – that's what I always say! [chuckles] 
-<b>Sugar Belle</b>: He's a good listener, that pony. I promise you, no mix-ups. 
-[poof!] 
-<b>Sugar Belle</b>: Ah! Big Mac! 
-<b>Big McIntosh</b>: Sugar Belle... we need to talk. 
-<b>Big McIntosh</b>: I know why you're here. 
-<b>Sugar Belle</b>: You do? 
-<b>Big McIntosh</b>: But I have somethin' to tell 
- <i>you</i> first. 
-<b>Sugar Belle</b>: Oh, can I go first? I'm gonna be— 
-<b>Big McIntosh</b>: Stop. 
-<b>Sugar Belle</b>: Oh. Why don't we tell each other on three? One— 
-<b>Big McIntosh</b>: It's over! 
-<b>Sugar Belle</b>: What's over? 
-<b>Big McIntosh</b>: You and me. It's over. 
-<b>Sugar Belle</b>: Ah... What? 
-<b>Big McIntosh</b>: We're breakin' up! 
-<b>Sugar Belle</b>: I... don't understand. Why are you breaking up with me? And why are you leaning like that? 
-<b>Big McIntosh</b>: I... don't know! 
-<b>Sugar Belle</b>: Big Mac, please. Talk to me. 
-<b>Big McIntosh</b>: I... You... [loud groan] This is why I don't like talkin'! Words can hurt! 
- <i>Words hurt!</i> Goodbye, Sugar Belle! 
-[door slams] 
-<b>Sugar Belle</b>: [crying] 
-[sad montage music] 
-[door opens] 
-<b>Apple Bloom</b>: Big Mac! Oh, thank goodness! You gotta help us with this. 
-[rustling] 
-<b>Spike</b>: Ugh. Dude, how long have you been 
- <i>not</i> hiding? 
-[poof!] 
-<b>Discord</b>: Oh. I should probably have said something. 
-<b>Big McIntosh</b>: Y'all should go. 
-<b>Spike</b>: Did ya...? Did she...? Are ya...? 
-<b>Apple Bloom</b>: Big Mac, what's goin' on? Where's Sugar Belle? 
-<b>Big McIntosh</b>: Just go! 
-<b>Sweetie Belle</b>: But we worked so hard on this chart. I think we've almost cracked it. If you could just— 
-<b>Big McIntosh</b>: Not right now! 
-<b>Sweetie Belle</b>: But I can't stand having a secret admirer who's too scared to tell me who he is! 
-<b>Big McIntosh</b>: Maybe he doesn't like talkin'! 
-<b>Sweetie Belle</b>: But that doesn't make any sense! 
-<b>Big McIntosh</b>: Maybe he used to talk too much, and it only ever got him into trouble! 
-<b>Spike</b>: [sighs] What if you're right, Discord? What if love isn't real at all? 
-[ding!] 
-[poof!] 
-<b>Big McIntosh</b>: I'm sorry, Sweetie Belle. I'm just mad, and I'm takin' it out on you. 
-<b>Sweetie Belle</b>: That's okay. I bet it felt good to get it out though. 
-<b>Big McIntosh</b>: Actually, it did. Tellin' you how I felt just then... I gotta go! 
-<b>Spike</b>: Big Mac! Where are ya goin'? 
-<b>Big McIntosh</b>: I gotta talk to Sugar Belle! 
-<b>Spike</b>: Discord, you gotta use your magic and...! Guess you have better things to do. Big Mac's gonna need a miracle. 
-<b>Sugar Belle</b>: [sighs] 
-[clatter] 
-<b>Sugar Belle</b>: Oh. All the rotten luck... 
-[splash] 
-<b>Big McIntosh</b>: Caught ya just in time! We both know I don't like to say much, but I'm gonna say somethin' now. [sighs] Even though I'm hurtin', I wouldn't trade this feelin' for anythin'. Because it'd mean givin' up the good times we had, too. I only broke up with you because you were gonna break up with me. I respect your decision, and you should know you'll always be in my heart. 
-<b>Sugar Belle</b>: I didn't want to break up with you. 
-<b>Big McIntosh</b>: But... you said you didn't need me to visit anymore. You said I'm gonna be on my own. I-I heard you said "we're finished" when I was hidin' in the bushes. 
-[beat] 
-<b>Big McIntosh</b>: That sounds worse than it is. 
-<b>Sugar Belle</b>: Oh, Big Mac! I was talking about my cousin! I have this wacky cousin who's never been on his own, but I have to let him run my shop on weekends. Which is why you won't be delivering to my village anymore because I'll already be here apprenticing with Mrs. Cake, who does that two days a week. No, three. 
-<b>Big McIntosh</b>: Wait 'til I tell Spike! 
-<b>Sugar Belle</b>: I'd never break up with you! I suppose there's a lesson here somewhere about communication, talking instead of assuming, or eavesdropping is wrong. Wouldn't you say? 
-<b>Big McIntosh</b>: Eeeeyup! 
-<b>Sugar Belle</b>: [giggles, snorts] 
-<b>Big McIntosh</b>: Hee-hee. Wrinkle-nose cutie-face. [kisses] You must've been awful confused at my breakin' up with you after you got my pie. 
-<b>Sugar Belle</b>: What pie? 
-<b>Big McIntosh</b>: You didn't get the pie I sent? 
-<b>Sugar Belle</b>: Mm-mm. 
-<b>Big McIntosh</b>: Or the invitation? 
-<b>Sugar Belle</b>: Uh-uh. 
-<b>Big McIntosh</b>: Well, in that case... allow me to escort you to a Hearts and Hooves Day surprise! 
-<b>Sugar Belle</b>: [giggles, snorts] 
-[birds chirping] 
-<b>Sweetie Belle</b>: [sighs] 
-<b>Apple Bloom</b>: Mind if we join ya? 
-<b>Sweetie Belle</b>: [chomp] [reading] "Happy Hearts and Hooves Day, Sugar Belle. Meet me—" 
-<b>Cutie Mark Crusaders</b>: 
- <i>Sugar</i> Belle?! 
-<b>Scootaloo</b>: You have got to be pulling our hooves! 
-<b>Sweetie Belle</b>: It was all a mix-up?! 
-<b>Cutie Mark Crusaders</b>: [laughing] 
-<b>Sweetie Belle</b>: Oh, it's funny. I've been sitting here feeling sorry for myself for not having a special pony on Hearts and Hooves Day. But remembering all the fun we had, I think I have 
- <i>two</i> special ponies – my two best friends. 
-<b>Apple Bloom</b> and 
- <b>Scootaloo</b>: Awwwww... 
-<b>Spike</b>: [sighs] And so ends another Hearts and Hooves Day. Despite a bumpy start... and middle... and ending... lot of bumps today... love was in the air. 
-<b>Discord</b>: So was confusion, apparently, and a fair number of assumptions. 
-<b>Spike</b>: But you have to admit, after seeing everything Big Mac went through, love is a hundred percent real. 
-<b>Discord</b>: [humming] 
-<b>Spike</b>: Seriously?! Discord, come on! I can't believe you! 
-<b>Discord</b>: Who do you think broke Sugar Belle's wagon wheel? 
-[thud] 
-<b>Discord</b>: Ta-da! Happy Hearts and Hooves Day! 
-<b>Spike</b>: You old softie. [laughs] I knew you had a heart. 
-<b>Discord</b>: Speaking of how great I am, are you busy for the rest of the night? [snaps fingers] 
-[poof!] 
-<b>Discord</b>: Calico's Ring of Imperceptibility isn't going to reclaim itself, you know. 
-<b>Spike</b>: 
- <i>Ogres &amp; Oubliettes</i>? I thought you'd never ask! Oh, and... just wondering. No biggie, but... is Skellinore gonna be there? 
-<b>Discord</b>: Spike, she's an imaginary one-dimensional paper cutout skeleton. 
-<b>Spike</b>: Well, nopony's perfect. 
-<b>Discord</b>: [snaps fingers] 
-[poof!] 
-[credits] 
+[oven timer ticks]
+<b>Big McIntosh</b>: [groans]
+<b>Spike</b>: You said it, Big Mac. This is taking forever! I 
+know it's wrong to cut corners when it comes to gifts from the heart, 
+but this is an emergency, right?
+<b>Big McIntosh</b>: Eeyup.
+<b>Spike</b>: Discord? A little help? Discord!
+[beat]
+<b>Spike</b>: [sighs]
+<b>Big McIntosh</b>: [whispering]
+<b>Spike</b>: Yeah? Oh! Good idea! [clears throat] Captain Wuzz! Are you prepared to enter the world of <i>Ogres &amp; Oubliettes</i>?
+[poof!]
+<b>Discord</b>: Huzzah, fellow adventurers! Shall we storm the ramparts of Squizard's castle to reclaim Calico's Ring of Imperceptibility?
+[beat]
+<b>Discord</b>: You <i>did</i> summon me for a rousing Guys' Night of <i>Ogres &amp; Oubliettes</i>, did you not?
+<b>Spike</b>: Uh, sort of. But do you think you could magically hurry up this pie real quick first?
+<b>Discord</b>: You seem to be mixing up [poof!] the Lord of Chaos [poof!] with a second-rate clown magician for hire.
+<b>Big McIntosh</b>: Eee... wait!
+<b>Spike</b>: This needs to go in the mail today, or it'll never get to Sugar Belle in time for Hearts and Hooves Day!
+<b>Big McIntosh</b>: [embarrassed giggling]
+<b>Discord</b>: Please. Can't you see that that holiday is a commercialized ruse pushed on you by the greeting card industry?
+<b>Big McIntosh</b>: [clears throat irritably]
+<b>Discord</b>: Fine. You owe me for this. [snaps fingers]
+[poof!]
+[poof!]
+<b>Discord</b>: Keep your eye on the pie. [à la Doug Henning] It's magic time!
+[poof!]
+[theme song]
+<b>Discord</b>: [sniffing] This smells... uh... palatable.
+<b>Spike</b>: Well, pies really are Sugar Belle's thing. But I 
+think that makes this all the more special. It shows you're interested 
+in what she cares about.
+<b>Big McIntosh</b>: Eeyup!
+<b>Spike</b>: <i>And</i> he's planning a big romantic Hearts and Hooves dinner. It was my idea to bake the invitation inside.
+<b>Discord</b>: [snaps fingers]
+[poof!]
+<b>Discord</b>: [reading] "Happy Hearts and Hooves Day, Sugar Belle. Meet me in my barn at sunset for a surprise."
+<b>Spike</b>: Pretty clever, huh?
+<b>Big McIntosh</b>: Eeyup. [chuckling]
+<b>Discord</b>: Ugh. [snaps fingers]
+[paper wrapping]
+<b>Spike</b>: Awww. "Sugar Belle". See?
+<b>Discord</b>: Well, you two certainly have bought into this romance nonsense hook, line, and sinker.
+<b>Spike</b>: For a formerly friendless immortal despot, you're pretty cynical.
+<b>Discord</b>: I'm a realist. And love, like all things warm and fuzzy, isn't real.
+<b>Spike</b>: Aw, come on. You act tough, but deep down, you're
+ a softie. I mean, you don't have tea with Fluttershy every weekend 
+because you like tea.
+<b>Discord</b>: But I <i>do</i> like tea! Every tea! All the 
+teas! Chamomile, Earl Grey, green, white, yellow, mate, lemon, ginger, 
+chai, spearmint, peppermint, hibiscus... [inhale] ...cinnamon, pumpkin 
+spice.
+<b>Big McIntosh</b>: [groans]
+[door opens]
+<b>Spike</b>: Tell you what. While Big Mac mails his incredibly
+ romantic gesture, I'll show you the splendors of Hearts and Hooves Day 
+in Ponyville. I bet I can prove you believe in love.
+<b>Discord</b>: Fine. Call it a gentleman's wager. Loser mows my lawn for eternity.
+<b>Spike</b>: Is it, like, a riding mower or...?
+<b>Discord</b>: Tweezers!
+<b>Spike</b>: [gulps]
+[montage music]
+<b>Apple Bloom</b>: Hear ye, hear ye! This special Hearts and 
+Hooves Day meetin' of the Cutie Mark Crusaders is now in session! First 
+order of business – helpin' my big brother decorate the barn for his big
+ date with Sugar Belle tonight, and... Hello?
+<b>Sweetie Belle</b>: It seems like everypony's got somepony special but us.
+<b>Scootaloo</b>: When's it gonna be our turn?
+[knocking on door]
+<b>Sweetie Belle</b> and <b>Scootaloo</b>: Huh?
+[door opens]
+<b>Apple Bloom</b>: Huh?
+<b>Scootaloo</b>: [gasps] Who's it from?
+<b>Apple Bloom</b>: Can't tell. It's all smudged, but it looks like it's addressed to... "Belle"? Hmmm...
+<b>Sweetie Belle</b>: [gasps] "Sweetie Belle"!
+[paper tearing]
+<b>Sweetie Belle</b>: Somepony certainly went through a lot of trouble for me! On Hearts and Hooves Day!
+<b>Scootaloo</b>: [gasps] You don't think...
+<b>Sweetie Belle</b>: Could it be...?
+<b>Apple Bloom</b>: Hang on a minute. Mysterious package, 
+smudged address, no idea who it's from... Hm. I know what this is. 
+You've got a secret admirer!
+<b>Cutie Mark Crusaders</b>: [cheering and laughing]
+<b>Spike</b>: [sighs] Another Hearts and Hooves Day. Love is in the air, Discord. Look at all these happy couples.
+<b>Discord</b>: How can they be happy if they aren't playing <i>Ogres &amp; Oubliettes</i>?
+<b>Spike</b>: As a great dragon poet once wrote to his beloved,
+ "I love you with the utmost clarity. I love you, dear. My sweet, sweet 
+Rarity—" Are you even listening?!
+<b>Discord</b>: Of course. "Love is... something-something, and Discord is great." I don't know. Can we play <i>O&amp;O</i> now?
+<b>Spike</b>: Sure, after you admit you believe in love and... Sugar Belle!
+[bushes rustle]
+<b>Spike</b>: Big Mac's girlfriend. What's she doing in town so early?
+<b>Mrs. Cake</b>: Well, Sugar Belle, I'm sure Big Mac won't be expecting it.
+<b>Spike</b>: [gasps] She's planning her own romantic surprise 
+for Big Mac? What if she goes to Sweet Apple Acres before Big Mac's 
+ready with <i>his</i> surprise? We've gotta warn him!
+<b>Discord</b>: [scoffs, snaps fingers]
+[poof!]
+<b>Big McIntosh</b>: [singing] ...ffle, cookin' a souffle...
+[poof!]
+<b>Spike</b>: Aah!
+[thud]
+<b>Big McIntosh</b>: Whoa!
+<b>Spike</b>: [slurring] Mig Bac... Mig Bac...! [groans] I 
+mean, Big Mac! We just saw Sugar Belle! She's at Sugarcube Corner! But I
+ think she's on her way over here now! You gotta keep her away from here
+ until the barn's finished!
+<b>Big McIntosh</b>: [gasps] Eeyup!
+<b>Spike</b>: I wonder what she has planned for him.
+<b>Discord</b>: [chuckles] We don't have to wonder. [snaps fingers]
+[poof!]
+[poof!]
+<b>Spike</b>: Aah!
+[bushes rustle]
+<b>Spike</b>: Ugh! Will you warn me next time you do that?
+[door opens]
+[clop, clop, clop]
+<b>Mrs. Cake</b>: Just be honest with him. I'm sure Big Mac will... [continues indistinctly]
+<b>Spike</b>: Ohhhh. She hasn't seen him yet. Take note, Discord. <i>This</i> is what love is all about.
+[poof!]
+<b>Discord</b>: "Spike – Love is about spying in the bushes."
+<b>Spike</b>: Make fun of me all you want. But look at Big Mac's face and tell me you don't believe in love.
+[romantic music]
+<b>Discord</b>: [scoffs]
+<b>Sugar Belle</b>: I hope he'll be okay without me.
+[screech!]
+<b>Big McIntosh</b>: [panicked noises]
+[bushes rustle]
+<b>Spike</b>: Oh. Hey. We're just... not spying—
+<b>Big McIntosh</b>: Hush!
+<b>Sugar Belle</b>: I mean, he <i>has</i> been on his own 
+before. So he'll be fine, right? [sighs] How should I tell Big Mac 
+tonight? "You won't need to come visit me in my village anymore"? "We 
+need to talk."
+<b>Mrs. Cake</b>: Just be honest with him.
+<b>Sugar Belle</b>: You're right. Okay! "We're finished."
+<b>Big McIntosh</b>: [gasps]
+[heart beating]
+[crack]
+[thud]
+<b>Discord</b>: You're right. She <i>did</i> surprise him.
+<b>Spike</b>: Ugh.
+<b>Big McIntosh</b>: [wailing loudly, gulping]
+<b>Spike</b>: Okay. Things seem bad. Maybe they're really not. 
+Maybe "we're finished" was about the day. Ponies say that, right? 
+Like-like, "Hey, remember yesterday? That's finished, 'cause it's 
+today!"
+[beat]
+<b>Spike</b>: Maybe not that. Oh, I know! Maybe Sugar Belle has
+ a wacky cousin who's never been on his own, and she has to leave him in
+ charge of her shop while she apprentices with Mrs. Cake, who does that,
+ like, two days a week. N-No, no, three. That's why she won't need you 
+to come to her village anymore, because... she'll already be here!
+[beat]
+<b>Spike</b>: Nah. <i>I</i> don't even buy that one.
+<b>Big McIntosh</b>: [continues wailing, gulping] She takes 
+pie-bakin' seriously! Why'd I even try?! I bet she thought I... I 
+was makin' fun of her! [continues wailing]
+[poof!]
+<b>Discord</b>: Oh, I hate seeing you like this, Big Mac. And 
+over a girl, no less. I'm calling an emergency Guys' Night [poof!] right
+ now to cheer you up.
+<b>Big McIntosh</b>: [blows nose]
+<b>Discord</b>: Besides, we can't have you ruining any more of my thousand-year-old monogrammed handkerchiefs. These <i>are</i> silk, you know. [snaps fingers]
+[poof!]
+[poof!]
+<b>Discord</b>: Class is now in session.
+[poof!]
+<b>Discord</b>: Lesson one – nothing can break your heart if 
+you only love yourself. You've got to show everypony that you're too 
+cool to be bothered with so-called love. Observe.
+[poof!]
+<b>Discord</b>: This is how cool guys <i>lean</i> against things. When you see a guy <i>leaning</i> against a thing looking this cool, you think, "Wow! That guy doesn't have a care in Equestria. Not a guy who <i>leans</i> on things that cool."
+<b>Spike</b>: I don't think leaning's gonna help. Am I doing it right? Whoa!
+[thud]
+<b>Big McIntosh</b>: [sighs]
+<b>Spike</b>: We're not like you, Discord. We can't put on a front and pretend not to love. It's impossible.
+<b>Discord</b>: Lesson two – plenty of ponies in the pasture. Right, Big Mac? I know just the gal to make you forget all about Sugar Belle.
+<b>Big McIntosh</b>: You... said... her... [wailing] naaaaaaame!
+<b>Discord</b>: Oy vey... [snaps fingers]
+[poof!]
+[ponies chattering]
+<b>Apple Bloom</b>: Okay. We finished decoratin' the barn for 
+Big Mac, which means we got the rest of the day to ourselves. There's a 
+whole town of possible admirers out there and only three of us. But 
+together, we're gonna get to the bottom of this! Ready? Break! Excuse 
+me! Pipsqueak? Mind answerin' a few questions? No? Late for somethin'? <i>Are you Sweetie Belle's secret admirer?!</i>
+<b>Scootaloo</b>: [to Button Mash] Excuse me! I'm doing a 
+research survey about sending pie in the mail anonymously. Would you say
+ you're pro-that or anti-that?
+<b>Sweetie Belle</b>: [to Snips and Snails] Happy Hearts and 
+Hooves Day! Did you boys happen to send any packages to me recently? 
+It's okay to say no! I won't be offended! [whispering] Please say no, 
+please say no, please say no.
+[poof!]
+<b>Discord</b>: [snaps fingers]
+[poof!]
+<b>Discord</b>: Sir McBigguns, meet Skellinore. She's a Level 
+18 Bone Warrior in Squizard's mage army, but only to pay off skeleton 
+student loan debts. Get to know each other, why don't you? [snaps 
+fingers]
+[poof!]
+<b>Spike</b>: Wow. You're really going all out to cheer up Big Mac. I'm impressed.
+<b>Discord</b>: Yes, yes, I'm amazing. Anyway, since we're in the neighborhood, care for a quick game of <i>Ogres &amp; Oubliettes</i>? Like I've been wanting to play all week?!
+<b>Spike</b>: I take it back.
+<b>Discord</b>: I'm helping our friend first and foremost. See for yourself.
+<b>Spike</b>: I think he's showing her a picture of Sugar Belle.
+<b>Discord</b>: What?
+<b>Spike</b>: And now he's crying.
+<b>Discord</b>: No-no-no-no-no-no-no-no-no. No, he's not. Let me see that.
+<b>Spike</b>: Don't touch it! I'm looking!
+<b>Discord</b>: Give me that!
+<b>Spike</b>: Cut it out! Discord, quit it!
+[poof!]
+<b>Big McIntosh</b>: She used to do this thing where her-her 
+nose would wrinkle when she laughed. Right there, in that hole where 
+your nose used to be. I never told her how much I loved wrinkle-nose 
+cutie-face... [wailing] and now I never will!
+<b>Discord</b>: Ugh. [snaps fingers]
+[poof!]
+[poof!]
+[thud]
+<b>Big McIntosh</b>: [crying]
+<b>Spike</b>: Okay. I think we've had enough of the aloof 
+master of chaos remedies for a broken heart. You know what I do when I 
+have a problem too big to solve? I hide from it! When she can't find 
+you, she'll realize how much she misses you. Plus, if she can't find 
+you, she can't break up with you.
+<b>Big McIntosh</b>: Eeyup. Hup!
+<b>Spike</b>: Ha!
+<b>Discord</b>: [snaps fingers]
+[poof!]
+[door opens]
+<b>Scootaloo</b>: [sighs] I don't get it. We asked every stallion in Ponyville.
+<b>Apple Bloom</b>: [groans] There's gotta be somepony we're missin'. Somepony obvious. Somepony right in front of our noses.
+<b>Sweetie Belle</b>: Oh, well. At least the barn's looking great for Big Mac's date.
+[poof!]
+<b>Discord</b>: Too bad there won't be a date.
+<b>Sweetie Belle</b>: Sugar Belle is so lucky to have a non-secret admirer like Big Mac.
+<b>Discord</b>: Well, she certainly doesn't seem to have appreciated it.
+<b>Apple Bloom</b>: I bet she's gonna take one look at this barn and say, "What did I ever do to deserve this?"
+<b>Discord</b>: [whispering] Yes, what <i>did</i> she do to deserve this?
+<b>Big McIntosh</b>: She broke my heart.
+<b>Discord</b>: Well, not yet, technically. In fact, she can't break your heart if you break hers first.
+<b>Big McIntosh</b>: [angrily] Eeyup!
+<b>Sugar Belle</b>: Thanks for the tour of Ponyville, Mrs. Cake.
+<b>Mrs. Cake</b>: Oh, my pleasure.
+<b>Sugar Belle</b>: I'm off to surprise Big Mac with the news. Imagine the look on his face when I tell him, "We need to talk."
+<b>Mrs. Cake</b>: Oh, dear me, no! I told you, don't say it that way or he'll think you're breaking up with him.
+<b>Sugar Belle</b>: Break up with him? Never! Why, without my favorite delivery pony, I couldn't imagine being happy ever again. He knows that.
+<b>Mrs. Cake</b>: Good! Save your mix-up for cake batter – that's what I always say! [chuckles]
+<b>Sugar Belle</b>: He's a good listener, that pony. I promise you, no mix-ups.
+[poof!]
+<b>Sugar Belle</b>: Ah! Big Mac!
+<b>Big McIntosh</b>: Sugar Belle... we need to talk.
+<b>Big McIntosh</b>: I know why you're here.
+<b>Sugar Belle</b>: You do?
+<b>Big McIntosh</b>: But I have somethin' to tell <i>you</i> first.
+<b>Sugar Belle</b>: Oh, can I go first? I'm gonna be—
+<b>Big McIntosh</b>: Stop.
+<b>Sugar Belle</b>: Oh. Why don't we tell each other on three? One—
+<b>Big McIntosh</b>: It's over!
+<b>Sugar Belle</b>: What's over?
+<b>Big McIntosh</b>: You and me. It's over.
+<b>Sugar Belle</b>: Ah... What?
+<b>Big McIntosh</b>: We're breakin' up!
+<b>Sugar Belle</b>: I... don't understand. Why are you breaking up with me? And why are you leaning like that?
+<b>Big McIntosh</b>: I... don't know!
+<b>Sugar Belle</b>: Big Mac, please. Talk to me.
+<b>Big McIntosh</b>: I... You... [loud groan] This is why I don't like talkin'! Words can hurt! <i>Words hurt!</i> Goodbye, Sugar Belle!
+[door slams]
+<b>Sugar Belle</b>: [crying]
+[sad montage music]
+[door opens]
+<b>Apple Bloom</b>: Big Mac! Oh, thank goodness! You gotta help us with this.
+[rustling]
+<b>Spike</b>: Ugh. Dude, how long have you been <i>not</i> hiding?
+[poof!]
+<b>Discord</b>: Oh. I should probably have said something.
+<b>Big McIntosh</b>: Y'all should go.
+<b>Spike</b>: Did ya...? Did she...? Are ya...?
+<b>Apple Bloom</b>: Big Mac, what's goin' on? Where's Sugar Belle?
+<b>Big McIntosh</b>: Just go!
+<b>Sweetie Belle</b>: But we worked so hard on this chart. I think we've almost cracked it. If you could just—
+<b>Big McIntosh</b>: Not right now!
+<b>Sweetie Belle</b>: But I can't stand having a secret admirer who's too scared to tell me who he is!
+<b>Big McIntosh</b>: Maybe he doesn't like talkin'!
+<b>Sweetie Belle</b>: But that doesn't make any sense!
+<b>Big McIntosh</b>: Maybe he used to talk too much, and it only ever got him into trouble!
+<b>Spike</b>: [sighs] What if you're right, Discord? What if love isn't real at all?
+[ding!]
+[poof!]
+<b>Big McIntosh</b>: I'm sorry, Sweetie Belle. I'm just mad, and I'm takin' it out on you.
+<b>Sweetie Belle</b>: That's okay. I bet it felt good to get it out though.
+<b>Big McIntosh</b>: Actually, it did. Tellin' you how I felt just then... I gotta go!
+<b>Spike</b>: Big Mac! Where are ya goin'?
+<b>Big McIntosh</b>: I gotta talk to Sugar Belle!
+<b>Spike</b>: Discord, you gotta use your magic and...! Guess you have better things to do. Big Mac's gonna need a miracle.
+<b>Sugar Belle</b>: [sighs]
+[clatter]
+<b>Sugar Belle</b>: Oh. All the rotten luck...
+[splash]
+<b>Big McIntosh</b>: Caught ya just in time! We both know I 
+don't like to say much, but I'm gonna say somethin' now. [sighs] Even 
+though I'm hurtin', I wouldn't trade this feelin' for anythin'. Because 
+it'd mean givin' up the good times we had, too. I only broke up with you
+ because you were gonna break up with me. I respect your decision, and 
+you should know you'll always be in my heart.
+<b>Sugar Belle</b>: I didn't want to break up with you.
+<b>Big McIntosh</b>: But... you said you didn't need me to 
+visit anymore. You said I'm gonna be on my own. I-I heard you said 
+"we're finished" when I was hidin' in the bushes.
+[beat]
+<b>Big McIntosh</b>: That sounds worse than it is.
+<b>Sugar Belle</b>: Oh, Big Mac! I was talking about my cousin!
+ I have this wacky cousin who's never been on his own, but I have to let
+ him run my shop on weekends. Which is why you won't be delivering to my
+ village anymore because I'll already be here apprenticing with Mrs. 
+Cake, who does that two days a week. No, three.
+<b>Big McIntosh</b>: Wait 'til I tell Spike!
+<b>Sugar Belle</b>: I'd never break up with you! I suppose 
+there's a lesson here somewhere about communication, talking instead of 
+assuming, or eavesdropping is wrong. Wouldn't you say?
+<b>Big McIntosh</b>: Eeeeyup!
+<b>Sugar Belle</b>: [giggles, snorts]
+<b>Big McIntosh</b>: Hee-hee. Wrinkle-nose cutie-face. [kisses] You must've been awful confused at my breakin' up with you after you got my pie.
+<b>Sugar Belle</b>: What pie?
+<b>Big McIntosh</b>: You didn't get the pie I sent?
+<b>Sugar Belle</b>: Mm-mm.
+<b>Big McIntosh</b>: Or the invitation?
+<b>Sugar Belle</b>: Uh-uh.
+<b>Big McIntosh</b>: Well, in that case... allow me to escort you to a Hearts and Hooves Day surprise!
+<b>Sugar Belle</b>: [giggles, snorts]
+[birds chirping]
+<b>Sweetie Belle</b>: [sighs]
+<b>Apple Bloom</b>: Mind if we join ya?
+<b>Sweetie Belle</b>: [chomp] [reading] "Happy Hearts and Hooves Day, Sugar Belle. Meet me—"
+<b>Cutie Mark Crusaders</b>: <i>Sugar</i> Belle?!
+<b>Scootaloo</b>: You have got to be pulling our hooves!
+<b>Sweetie Belle</b>: It was all a mix-up?!
+<b>Cutie Mark Crusaders</b>: [laughing]
+<b>Sweetie Belle</b>: Oh, it's funny. I've been sitting here 
+feeling sorry for myself for not having a special pony on Hearts and 
+Hooves Day. But remembering all the fun we had, I think I have <i>two</i> special ponies – my two best friends.
+<b>Apple Bloom</b> and <b>Scootaloo</b>: Awwwww...
+<b>Spike</b>: [sighs] And so ends another Hearts and Hooves Day.
+ Despite a bumpy start... and middle... and ending... lot of bumps 
+today... love was in the air.
+<b>Discord</b>: So was confusion, apparently, and a fair number of assumptions.
+<b>Spike</b>: But you have to admit, after seeing everything Big Mac went through, love is a hundred percent real.
+<b>Discord</b>: [humming]
+<b>Spike</b>: Seriously?! Discord, come on! I can't believe you!
+<b>Discord</b>: Who do you think broke Sugar Belle's wagon wheel?
+[thud]
+<b>Discord</b>: Ta-da! Happy Hearts and Hooves Day!
+<b>Spike</b>: You old softie. [laughs] I knew you had a heart.
+<b>Discord</b>: Speaking of how great I am, are you busy for the rest of the night? [snaps fingers]
+[poof!]
+<b>Discord</b>: Calico's Ring of Imperceptibility isn't going to reclaim itself, you know.
+<b>Spike</b>: <i>Ogres &amp; Oubliettes</i>? I thought you'd never ask! Oh, and... just wondering. No biggie, but... is Skellinore gonna be there?
+<b>Discord</b>: Spike, she's an imaginary one-dimensional paper cutout skeleton.
+<b>Spike</b>: Well, nopony's perfect.
+<b>Discord</b>: [snaps fingers]
+[poof!]
+[credits]

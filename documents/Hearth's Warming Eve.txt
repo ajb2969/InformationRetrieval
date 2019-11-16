@@ -1,330 +1,329 @@
-[train whistle] 
-<b>Twilight Sparkle</b>: We're getting closer! 
-<b>Rainbow Dash</b>: I can hardly wait! 
-<b>Fluttershy</b>: I'm so excited, I-I feel like shouting! [softly] Woo-hoo! 
-<b>Applejack</b>: Hooo-wee! Canterlot, here we come! 
-<b>Rarity</b>: Oh, I do hope I look festive enough! 
-<b>Pinkie Pie</b>: There it is! Canterlot! 
-<b>Main cast</b>: Oooh... 
-<b>Twilight Sparkle</b>: Oh, isn't Canterlot wonderful this time of year? 
-<b>Rainbow Dash</b>: Yeah, I wish it was Hearth's Warming Eve every day. 
-<b>Applejack</b>: There's so much to look at! I feel like my durned eyes are gonna pop right out of my head! 
-<b>Twilight Sparkle</b>: I have an idea, let's play 'I spy with my little eye' as we walk! I'll go first. I spy... an eight-foot candy cane. 
-<b>Rainbow Dash</b>: I spy a snowpony! 
-<b>Pinkie Pie</b>: I spy somepony eating a gingerbread house... 
-[cash register ringing] 
-<b>Pinkie Pie</b>: [munching] ...and it's me! 
-<b>Main cast</b>: [laughs] 
-[ponies chattering] 
-[orchestra warming up] 
-<b>Twilight Sparkle</b>: I can't believe that Princess Celestia chose 
- <i>us</i> to put on the most important play of the season! Do you guys know what an honor this is? For all of us? 
-<b>Fluttershy</b>: Oh, I wish she hadn't honored me quite so much... I can't go onstage! 
- <i>I don't want everypony looking at me</i>! 
-<b>Rarity</b>: Fluttershy, darling, there's nothing to feel nervous about. 
-<b>Fluttershy</b>: No? 
-<b>Rarity</b>: Of course not. All across Equestria, ponies are preparing their own pageants for Hearth's Warming Eve in their own towns. It's tradition. 
-<b>Fluttershy</b>: So you're saying they'll be too busy to come to 
- <i>our</i> play? 
-<b>Rarity</b>: Well, no. We're in the Canterlot pageant, the biggest, most important production in all of Equestria. A 
- <i>lot</i> of ponies will come to watch us. 
-<b>Fluttershy</b>: A lot? 
-<b>Rarity</b>: Hundreds. 
-<b>Fluttershy</b>: Hundreds? 
-<b>Rarity</b>: [gasps] Maybe even thousands! 
-<b>Fluttershy</b>: [yelps] 
-[wind rushing] 
-<b>Rarity</b>: Oh, my hair! Applejack? Be a dear and shut those windows, will you? 
-<b>Rainbow Dash</b>: Aaah! Rain-bow-Dash! Rain-bow-Dash! Aaaah! Thank you, thank you! 
-<b>Applejack</b>: It's a reenactment of the founding of Equestria. It's not the 'Rainbow Dash Show'. 
-<b>Rainbow Dash</b>: Well it 
- <i>should</i> be the 'Rainbow Dash Show'! 
- <i>I'm</i> the star! 
-<b>Twilight Sparkle</b>: Fluttershy, you've got to come out of there! 
-<b>Spike</b>: Curtain in two minutes! 
-<b>Pinkie Pie</b>: Twilight, let me handle this. 
-<b>Rarity</b>: My hair! 
-<b>Twilight Sparkle</b>: 
- <i>PINKIE</i>! 
-<b>Pinkie Pie</b>: [shivers] 
-<b>Applejack</b>: The Hearth's Warming Eve pageant is about harmony and friendship. 
-<b>Other main cast</b>: 
- <i>Shut the window</i>! 
-<b>Spike</b>: [sighs] 
-[music] 
-<b>Spike</b>: [with a faux British accent] Once upon a time, long before the peaceful rule of Celestia, and before ponies discovered our beautiful land of Equestria, ponies did not know harmony. It was a strange and dark time. A time when ponies were torn apart... by hatred! 
-<b>Audience</b>: [gasp] 
-<b>Spike</b>: [normal voice] I know. Can you believe it? [accent] During this frightful age, each of the three tribes – the Pegasi, the unicorns, and the Earth ponies – cared not for what befell the other tribes, but only for their own welfare. In those troubled times, as now, the Pegasi were the stewards of the weather. But they demanded something in return. Food that could only be grown by the Earth ponies. 
-<b>Audience</b>: [whispering] 
-<b>Spike</b>: The unicorns demanded the same, in return for magically bringing forth day and night. And so, mistrust between the tribes festered, until one fateful day, it came to a boil. And what prompted the ponies to clash? 'Twas a mysterious blizzard that overtook the land, and toppled the tribes' precarious peace. 
-<b>Spike</b>: The normally industrious Earth ponies were unable to farm their land. 
-[wind blowing] 
-<b>Spike</b>: The Earth ponies were freezing. The home of the Pegasi fared no better. The Pegasi were hungry. And the unicorns were freezing 
- <i>and</i> hungry. Even the unicorns' magic was powerless against the storm. Each tribe blamed the others for their suffering, and the angrier everypony grew, the worse the blizzard became. And so it was decided that a grand summit would be held to figure out a way to cope with the blizzard. 
-<b>Spike</b>: Each tribe sent their leaders. 
-[fanfare] 
-<b>Spike</b>: Daughter of the unicorn king, Princess Platinum. 
-[fanfare] 
-<b>Spike</b>: Ruler of the Pegasi, Commander Hurricane. And lastly... 
-[fanfare with kazoos] 
-<b>Spike</b>: ...leader of the Earth ponies, Chancellor Puddinghead. Perhaps the three tribes could finally settle their differences, and agree on a way to get through this disaster. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>, 
- <span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span> and 
- <span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: [arguing] 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: All I wanna know is why the Earth ponies are hogging all the food! 
-<b>Pegasi</b>: [shouting] 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: 
- <i>Us</i>?! We're not hogging all the food, 
- <i>you</i> are! Oh, wait. You're right. It's us. Well, it's only 'cause you mean old Pegasusususes are making it 
- <i>snow like crazy</i>! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: For the hundredth time, it's not us! We're not making it snow! It must be the unicorns! They're doing it with their freaky magic! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: [gasps] How 
- <i>dare</i> you! Unlike you Pegasi ruffians, we unicorns would never stoop to such a thing! H-m-ph! 
-<b>Unicorns</b>: Hmph! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Well, if you non-Earths aren't gonna stop using your weirdo powers to freeze us all, then I'm just plum out of ideas. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: What a shocker. An Earth pony with no ideas. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Commander Hurricane, please cease with the insults! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: You're not the boss of me, your royal snootiness! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: 
- <i>I beg your pardon</i>?! I am a princess! I won't be spoken to that way! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Well, I'm leaving first! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: No, 
- <i>I'm</i> first! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>, 
- <span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span> and 
- <span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: [arguing] 
-<b>Spike</b>: And the blizzard raged on. 
-[windigos whinnying] 
-<b>Spike</b>: So the summit of the tribes did not turn out as well as hoped, and the three leaders returned home to lick their wounds, and basically complain. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Atten-tion! Well? Aren't you curious about how it went? 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Oh! Commander Hurricane, sir! How did it go, sir? 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: 
- <i>Horribly</i>! Those other tribe leaders are so disrespectful! Don't they realize that we are a mighty tribe of warriors, and should not be crossed? We have got to break ranks with those weak foals! 
-[splat] 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: [shivering] Clover the Clever! I need you! 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Yes, your Majesty. Did the other pony tribes see reason as I predicted? 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Those other tribes are impossible! I, for one, can no longer bear to be anywhere near those lowly creatures. The unicorns are noble and majestic. We will no longer consort with the likes of them! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Wouldn't it have been easier to use the door, Chancellor? 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Maybe for you, Smart Cookie. But 
- <i>I</i> am a chancellor. I was elected because I know how to think outside the box. Which means [slightly echoes] I can also think 
- <i>inside the chimney</i>. Can 
- <i>you</i> think inside a chimney? 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Uh... 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: I didn't think so. 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Ugh. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Ohmygosh. Hold on to your hooves! I am 
- <i>just about to be brilliant</i>! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: [under her breath] That'd be a first. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: I have decided that the Earth ponies are gonna go it alone! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Aw, so you mean the other tribes didn't come around? Shoot... I really thought we could get through to 'em if we– 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Don't worry about them. We're the ones with all the food, 
- <i>right</i>? 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Actually, we're all out. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Fine, then we'll have to go somewhere new where we can grow some new food. And with me as our fearless leader, what could go wrong? 
-[crump] 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: [under her breath] Where should I start? 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: The point is... 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>, 
- <span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span> and 
- <span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: We must find a new land! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: C'mon, Private Pansy, let's get a move on! Hup-one, hup-two! 
-[lightning cracks] 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: [yelps] 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Get a hold of yourself, Private! We cannot let anything distract us from the mission at hand. To find, and if necessary, to conquer a new land! 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Conquer, sir? 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: You never know where enemies might be lurking. 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: I don't see any enemies, Commander. Just... snow. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: A-ha! What's that?! [fighting noises] 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: [yelps] 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Okay. This is getting old. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Oh, this is simply taking forever. My hooves are killing me! How long have we been walking for? 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: About five minutes, your highness. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Oh, I never imagined finding a new land would be so hard. But it'll all be worth it, don't you agree? 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: I actually think that the three tribes could've tried harder. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: 
- <i>Stoooooop</i>! 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: What's wrong? 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: 
- <i>That</i> is what's wrong! 
-[water rushing] 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Your Highness, it's just a stream. We can cross it easily. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: I refuse to get my gown wet. I have no intention of arriving at my new land looking like a bedraggled Earth pony, or worse yet a rough-and-tumble 
- <i>Pegasus</i>. I, for one, have no intention of stooping down to their level. On the other hand, I have no trouble watching 
- <i>you</i> stoop down. 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: [groans] 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: And do watch the gown, darling. It's worth more than 
- <i>all</i> of the books in your library. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Yes, yes. This is definitely the right direction. 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: It feels like we're going in circles. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: But that's impossible. Are you suggesting that I'm reading the map wrong? 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Absolutely not, your chancellorness. It's just that there are holes in the map, and– 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Of course! How else could I see where I was going? 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Yeah, uh– 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Or talk? I need to be able to talk! I mean, how would we survive if I just suddenly shut up? 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Heaven forbid that should happen, your chancellorship. Heh. It's just that... the map is also upside down. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: I got a newsflash for you, Cookie. The Earth is round. There is no up or down. 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: You're right! It's 
- <i>such</i> a relief to me that you're in charge of this map... 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Relief? You don't need relief! If anypony needs relief around here, it's me! I'm a chancellor! I'm a bigshot! You're just my, um... my, uh... 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Secretary. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Whatever. You take the map, while I enjoy some relief. 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Yes, Chancellor Puddinghead. 
-<b>Spike</b>: [accent] And so, each leader encountered obstacles along the way, but eventually, they all arrived in a new and wondrous land. Nopony had ever seen paradise before. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: This is the new land we've been searching for! 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: What a view... I can see my future house from here. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: I proclaim this new land to be... 
- <i>Pegasopolis</i>! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: I've never seen such jewels! This ruby is dazzling. This whole 
- <i>land</i> is dazzling. I'm double dazzled! [squeals] In the name of the unicorns, I hereby dub this land 
- <i>Unicornia</i>! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: The air! The trees! The dirt! This dirt is the dirtiest dirt in the whole dirt world! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: And fertile, too. Perfect for growing food. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: In the name of the Earth ponies, I think I'm gonna call this new place... uh... 
- <i>Dirtville</i>. 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: How about "Earth"? 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: 
- <i>Earth</i>! Congratulations to me for thinking of it. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>, 
- <span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span> and 
- <span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: We found our new home! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: I planted my flag first! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Did not! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Did too! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: I planted mine earlier than first. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: All of you riffraff are trespassing in Unicornia! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: The name is Pegasopolis! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Earth! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Pegasopolis! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Unicornia! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: I say we fight for the land. May the best pony win! 
-[wind blows] 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: That's barbaric. Clover the Clever? Throw that brute into the dungeon! 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: What dungeon? Look, perhaps if we all calmed down... 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: I agree. Let's all calm down. 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: I vote for calm. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: I'll have you court-martialed for insubordination, Private! We settle this on the battlefield! 
-[whack] 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: [laughs] 
-[whack] 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: [laughs] 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Who 
- <i>dares</i> throw a snowball at royalty?! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Wait a minute, where'd all this snow come from anyway? 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Oh no. Not again. 
-[wind blowing] 
-[windigos roaring] 
-<b>Spike</b>: [accent] And so the paradise that the ponies had found was soon lost, buried beneath a thick blanket of snow 
- <i>and</i> hard feelings. Instead of beautiful, it was blizzardy. Instead of wonderful, it was wintry! Instead of spectacular, it was snow-tacular! Instead of– 
-<b>Shoeshine</b>: We get it! Move on! 
-<b>Spike</b>: [laughs nervously] [clears throat] [accent] Everypony was forced to seek shelter. They searched high and low, but the only shelter for miles was a cold and desolate cave. And, of course, the three tribes had to share it, and nopony was too happy about that. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Please, Commander Hothead. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: It's Commander Hurricane. 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: [clears throat] Please, 
- <i>Commander</i>, could you just stand back and give me my royal space? 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: You mean like 
- <i>this</i>, your highness? 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Indeed not! You see this invisible line? 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Private? Outline our territory for everypony to see. See this real, 
- <i>non</i>-invisible line? No unicorns 
- <i>or</i> Earth ponies are allowed to cross it! This is the sovereign territory of Pegasopolis! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Clover the Clever? 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Uh... Smart Cookie! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: I know, I know. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: What are you doing? Don't go around the rock, go over it! I'm not giving up an inch of territory to the enemy! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: That rock is clearly on the Unicornia side of the cave, and it belongs to us! [under her breath] Who knows? there could be jewels inside. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: [groans] I claim this rock for Pegasopolis! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Unhand that rock this instant, you scoundrel! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Oh, look, you found my rock. I've been looking for it everywhere. 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Hey! You invaded our territory! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Finders keepers, losers weepers! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: That's the last straw! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: 
- <i>Give me my rock</i>! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>, 
- <span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span> and 
- <span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: [arguing] 
-[wind blowing] 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Look, everypony! The entrance! 
-[ice cracking] 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Great. Now there's no way out! We're trapped! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: You two deserve this horrible fate. You've done nothing but argue and fight with each other! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: You've been fighting too, 
- <i>your Highness</i>. 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Yeah! Worse! I haven't been fighting nearly as much as you! 
-[ice cracking] 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: How ridiculous! A unicorn never stoops to fighting! 
-<span title="as Commander Hurricane" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: That's just 'cause you wimpy unicorns know you'd never win! Earth ponies are numbskulls! 
-<span title="as Princess Platinum" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Pegasi are brutes! 
-<span title="as Chancellor Puddinghead" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Unicorns are snobs! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>, 
- <span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span> and 
- <span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: [gasp] [sigh] 
-[windigo roaring] 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>, 
- <span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span> and 
- <span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: [screams] 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: W-W-What is that... thing? 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: They must be... windigos! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span> and 
- <span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Windigos? 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: My mentor Star Swirl the Bearded taught me about them. They're winter spirits that feed off fighting and hatred. The more hate the spirit feels, the colder things become! 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Then... this is our fault. We three tribes... we brought this blizzard to our home by fightin' and not trustin' each other. Now it's destroyin' this land, too. 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: And now our bodies will become as cold as our hearts... 
- <i>all because we were foolish enough to hate.</i> 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Well, I don't hate 
- <i>you</i>... I actually hate Commander Hurricane a lot more than I hate you guys. 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span> and 
- <span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: [giggling] 
-[windigo snorts] 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Actually, I don't really hate her, I just really, really, really, really, really, really, really, really, really, really dislike her. 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span> and 
- <span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: [laughing] 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Well, I don't hate you guys either. 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Nor do I. 
-[windigo whinnying] 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: No matter what our differences, we're all ponies. 
-[ice cracking] 
-[ice shatters] 
-<span title="as Private Pansy" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: What was that? 
-<span title="as Smart Cookie" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: I didn't know unicorns could do that. 
-<span title="as Clover the Clever" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: I didn't either. Nothing like this has ever happened before. But I know it couldn't have been just me. It came from all three of us, joined together, in friendship. 
-<b>Spike</b>: [accent] All through the night, the three ponies kept the fire of friendship alive by telling stories to one another and by singing songs, which of course became the winter carols that we all still sing today. Eventually, the warmth of the fire and singing and laughing reached the leaders, and their bodies began to thaw. [normal voice] And it even began to melt their hearts. 
-[rumbling] 
-<b>Spike</b>: [accent] The three leaders agreed to share the beautiful land, and live in harmony ever afterwards. And together, they named their new land... 
-<b>Main cast</b>: 
- <i>Equestria</i>! 
-<b>Audience</b>: [cheering] 
-<b>[Choir]</b> 
- <dl>
-  <dd>
-   The fire of friendship lives in our hearts 
-  </dd>
-  <dd>
-   As long as it burns, we cannot drift apart 
-  </dd>
-  <dd>
-   Though quarrels arise, their numbers are few 
-  </dd>
-  <dd>
-   Laughter and singing will see us through (will see us through) 
-  </dd>
-  <dd>
-   We are a circle of pony friends 
-  </dd>
-  <dd>
-   A circle of friends we'll be to the very end 
-  </dd>
- </dl> 
-<b>Audience</b>: [cheering] 
-<b>Twilight Sparkle</b>: We should be so honored that Princess Celestia chose 
- <i>us</i>! She must really think we exemplify what good friends are! 
-[wind blowing] 
-<b>Rarity</b>: Applejack, I thought you closed all the windows. 
-<b>Applejack</b>: Don't blame me. Rainbow Dash should've flown up there and shut it. After all, she's got wings. 
-<b>Rainbow Dash</b>: Why do I always have to do all the high up chores? Why can't Twilight use her magic for a change! 
-<b>Main cast</b>: [arguing] 
-[windigo roars] 
-<b>Rainbow Dash</b>: Y'know what? I got it. 
-<b>Main cast</b>: [laughing] 
-[music] 
-[credits] 
+[train whistle]
+<b>Twilight Sparkle</b>: We're getting closer!
+<b>Rainbow Dash</b>: I can hardly wait!
+<b>Fluttershy</b>: I'm so excited, I-I feel like shouting! [softly] Woo-hoo!
+<b>Applejack</b>: Hooo-wee! Canterlot, here we come!
+<b>Rarity</b>: Oh, I do hope I look festive enough!
+<b>Pinkie Pie</b>: There it is! Canterlot!
+<b>Main cast</b>: Oooh...
+<b>Twilight Sparkle</b>: Oh, isn't Canterlot wonderful this time of year?
+<b>Rainbow Dash</b>: Yeah, I wish it was Hearth's Warming Eve every day.
+<b>Applejack</b>: There's so much to look at! I feel like my durned eyes are gonna pop right out of my head!
+<b>Twilight Sparkle</b>: I have an idea, let's play 'I spy with my little eye' as we walk! I'll go first. I spy... an eight-foot candy cane.
+<b>Rainbow Dash</b>: I spy a snowpony!
+<b>Pinkie Pie</b>: I spy somepony eating a gingerbread house...
+[cash register ringing]
+<b>Pinkie Pie</b>: [munching] ...and it's me!
+<b>Main cast</b>: [laughs]
+[theme song]
+[ponies chattering]
+[orchestra warming up]
+<b>Twilight Sparkle</b>: I can't believe that Princess Celestia chose <i>us</i> to put on the most important play of the season! Do you guys know what an honor this is? For all of us?
+<b>Fluttershy</b>: Oh, I wish she hadn't honored me quite so much... I can't go onstage! <i>I don't want everypony looking at me</i>!
+<b>Rarity</b>: Fluttershy, darling, there's nothing to feel nervous about.
+<b>Fluttershy</b>: No?
+<b>Rarity</b>: Of course not. All across Equestria, ponies are 
+preparing their own pageants for Hearth's Warming Eve in their own 
+towns. It's tradition.
+<b>Fluttershy</b>: So you're saying they'll be too busy to come to <i>our</i> play?
+<b>Rarity</b>: Well, no. We're in the Canterlot pageant, the biggest, most important production in all of Equestria. A <i>lot</i> of ponies will come to watch us.
+<b>Fluttershy</b>: A lot?
+<b>Rarity</b>: Hundreds.
+<b>Fluttershy</b>: Hundreds?
+<b>Rarity</b>: [gasps] Maybe even thousands!
+<b>Fluttershy</b>: [yelps]
+[wind rushing]
+<b>Rarity</b>: Oh, my hair! Applejack? Be a dear and shut those windows, will you?
+<b>Rainbow Dash</b>: Aaah! Rain-bow-Dash! Rain-bow-Dash! Aaaah! Thank you, thank you!
+<b>Applejack</b>: It's a reenactment of the founding of Equestria. It's not the 'Rainbow Dash Show'.
+<b>Rainbow Dash</b>: Well it <i>should</i> be the 'Rainbow Dash Show'! <i>I'm</i> the star!
+<b>Twilight Sparkle</b>: Fluttershy, you've got to come out of there!
+<b>Spike</b>: Curtain in two minutes!
+<b>Pinkie Pie</b>: Twilight, let me handle this.
+<b>Rarity</b>: My hair!
+<b>Twilight Sparkle</b>: <i>PINKIE</i>!
+<b>Pinkie Pie</b>: [shivers]
+<b>Applejack</b>: The Hearth's Warming Eve pageant is about harmony and friendship.
+<b>Other main cast</b>: <i>Shut the window</i>!
+<b>Spike</b>: [sighs]
+[music]
+<b>Spike</b>: [with a faux British accent] Once upon a time, 
+long before the peaceful rule of Celestia, and before ponies discovered 
+our beautiful land of Equestria, ponies did not know harmony. It was a 
+strange and dark time. A time when ponies were torn apart... by hatred!
+<b>Audience</b>: [gasp]
+<b>Spike</b>: [normal voice] I know. Can you believe it? 
+[accent] During this frightful age, each of the three tribes – the 
+Pegasi, the unicorns, and the Earth ponies – cared not for what befell 
+the other tribes, but only for their own welfare. In those troubled 
+times, as now, the Pegasi were the stewards of the weather. But they 
+demanded something in return. Food that could only be grown by the Earth
+ ponies.
+<b>Audience</b>: [whispering]
+<b>Spike</b>: The unicorns demanded the same, in return for 
+magically bringing forth day and night. And so, mistrust between the 
+tribes festered, until one fateful day, it came to a boil. And what 
+prompted the ponies to clash? 'Twas a mysterious blizzard that overtook 
+the land, and toppled the tribes' precarious peace.
+<b>Spike</b>: The normally industrious Earth ponies were unable to farm their land.
+[wind blowing]
+<b>Spike</b>: The Earth ponies were freezing. The home of the 
+Pegasi fared no better. The Pegasi were hungry. And the unicorns were 
+freezing <i>and</i> hungry. Even the unicorns' magic was powerless 
+against the storm. Each tribe blamed the others for their suffering, and
+ the angrier everypony grew, the worse the blizzard became. And so it 
+was decided that a grand summit would be held to figure out a way to 
+cope with the blizzard.
+<b>Spike</b>: Each tribe sent their leaders.
+[fanfare]
+<b>Spike</b>: Daughter of the unicorn king, Princess Platinum.
+[fanfare]
+<b>Spike</b>: Ruler of the Pegasi, Commander Hurricane. And lastly...
+[fanfare with kazoos]
+<b>Spike</b>: ...leader of the Earth ponies, Chancellor 
+Puddinghead. Perhaps the three tribes could finally settle their 
+differences, and agree on a way to get through this disaster.
+<b>Pinkie Pie</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: [arguing]
+<b>Rainbow Dash</b>: All I wanna know is why the Earth ponies are hogging all the food!
+<b>Pegasi</b>: [shouting]
+<b>Pinkie Pie</b>: <i>Us</i>?! We're not hogging all the food, <i>you</i> are! Oh, wait. You're right. It's us. Well, it's only 'cause you mean old Pegasusususes are making it <i>snow like crazy</i>!
+<b>Rainbow Dash</b>:
+ For the hundredth time, it's not us! We're not making it snow! It must 
+be the unicorns! They're doing it with their freaky magic!
+<b>Rarity</b>: [gasps] How <i>dare</i> you! Unlike you Pegasi ruffians, we unicorns would never stoop to such a thing! H-m-ph!
+<b>Unicorns</b>: Hmph!
+<b>Pinkie Pie</b>: Well, if you non-Earths aren't gonna stop using your weirdo powers to freeze us all, then I'm just plum out of ideas.
+<b>Rainbow Dash</b>: What a shocker. An Earth pony with no ideas.
+<b>Rarity</b>: Commander Hurricane, please cease with the insults!
+<b>Rainbow Dash</b>: You're not the boss of me, your royal snootiness!
+<b>Rarity</b>: <i>I beg your pardon</i>?! I am a princess! I won't be spoken to that way!
+<b>Rainbow Dash</b>: Well, I'm leaving first!
+<b>Pinkie Pie</b>: No, <i>I'm</i> first!
+<b>Pinkie Pie</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: [arguing]
+<b>Spike</b>: And the blizzard raged on.
+[windigos whinnying]
+<b>Spike</b>: So the summit of the tribes did not turn out as 
+well as hoped, and the three leaders returned home to lick their wounds,
+ and basically complain.
+<b>Rainbow Dash</b>: Atten-tion! Well? Aren't you curious about how it went?
+<b>Fluttershy</b>: Oh! Commander Hurricane, sir! How did it go, sir?
+<b>Rainbow Dash</b>: <i>Horribly</i>!
+ Those other tribe leaders are so disrespectful! Don't they realize that
+ we are a mighty tribe of warriors, and should not be crossed? We have 
+got to break ranks with those weak foals!
+[splat]
+<b>Rarity</b>: [shivering] Clover the Clever! I need you!
+<b>Twilight Sparkle</b>: Yes, your Majesty. Did the other pony tribes see reason as I predicted?
+<b>Rarity</b>:
+ Those other tribes are impossible! I, for one, can no longer bear to be
+ anywhere near those lowly creatures. The unicorns are noble and 
+majestic. We will no longer consort with the likes of them!
+<b>Applejack</b>: Wouldn't it have been easier to use the door, Chancellor?
+<b>Pinkie Pie</b>: Maybe for you, Smart Cookie. But <i>I</i> am a chancellor. I was elected because I know how to think outside the box. Which means [slightly echoes] I can also think <i>inside the chimney</i>. Can <i>you</i> think inside a chimney?
+<b>Applejack</b>: Uh...
+<b>Pinkie Pie</b>: I didn't think so.
+<b>Applejack</b>: Ugh.
+<b>Pinkie Pie</b>: Ohmygosh. Hold on to your hooves! I am <i>just about to be brilliant</i>!
+<b>Applejack</b>: [under her breath] That'd be a first.
+<b>Pinkie Pie</b>: I have decided that the Earth ponies are gonna go it alone!
+<b>Applejack</b>: Aw, so you mean the other tribes didn't come around? Shoot... I really thought we could get through to 'em if we–
+<b>Pinkie Pie</b>: Don't worry about them. We're the ones with all the food, <i>right</i>?
+<b>Applejack</b>: Actually, we're all out.
+<b>Pinkie Pie</b>:
+ Fine, then we'll have to go somewhere new where we can grow some new 
+food. And with me as our fearless leader, what could go wrong?
+[crump]
+<b>Applejack</b>: [under her breath] Where should I start?
+<b>Pinkie Pie</b>: The point is...
+<b>Pinkie Pie</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: We must find a new land!
+<b>Rainbow Dash</b>: C'mon, Private Pansy, let's get a move on! Hup-one, hup-two!
+[lightning cracks]
+<b>Fluttershy</b>: [yelps]
+<b>Rainbow Dash</b>:
+ Get a hold of yourself, Private! We cannot let anything distract us 
+from the mission at hand. To find, and if necessary, to conquer a new 
+land!
+<b>Fluttershy</b>: Conquer, sir?
+<b>Rainbow Dash</b>: You never know where enemies might be lurking.
+<b>Fluttershy</b>: I don't see any enemies, Commander. Just... snow.
+<b>Rainbow Dash</b>: A-ha! What's that?! [fighting noises]
+<b>Fluttershy</b>: [yelps]
+<b>Rainbow Dash</b>: Okay. This is getting old.
+<b>Rarity</b>: Oh, this is simply taking forever. My hooves are killing me! How long have we been walking for?
+<b>Twilight Sparkle</b>: About five minutes, your highness.
+<b>Rarity</b>: Oh, I never imagined finding a new land would be so hard. But it'll all be worth it, don't you agree?
+<b>Twilight Sparkle</b>: I actually think that the three tribes could've tried harder.
+<b>Rarity</b>: <i>Stoooooop</i>!
+<b>Twilight Sparkle</b>: What's wrong?
+<b>Rarity</b>: <i>That</i> is what's wrong!
+[water rushing]
+<b>Twilight Sparkle</b>: Your Highness, it's just a stream. We can cross it easily.
+<b>Rarity</b>:
+ I refuse to get my gown wet. I have no intention of arriving at my new 
+land looking like a bedraggled Earth pony, or worse yet a 
+rough-and-tumble <i>Pegasus</i>. I, for one, have no intention of stooping down to their level. On the other hand, I have no trouble watching <i>you</i> stoop down.
+<b>Twilight Sparkle</b>: [groans]
+<b>Rarity</b>: And do watch the gown, darling. It's worth more than <i>all</i> of the books in your library.
+<b>Pinkie Pie</b>: Yes, yes. This is definitely the right direction.
+<b>Applejack</b>: It feels like we're going in circles.
+<b>Pinkie Pie</b>: But that's impossible. Are you suggesting that I'm reading the map wrong?
+<b>Applejack</b>: Absolutely not, your chancellorness. It's just that there are holes in the map, and–
+<b>Pinkie Pie</b>: Of course! How else could I see where I was going?
+<b>Applejack</b>: Yeah, uh–
+<b>Pinkie Pie</b>: Or talk? I need to be able to talk! I mean, how would we survive if I just suddenly shut up?
+<b>Applejack</b>: Heaven forbid that should happen, your chancellorship. Heh. It's just that... the map is also upside down.
+<b>Pinkie Pie</b>: I got a newsflash for you, Cookie. The Earth is round. There is no up or down.
+<b>Applejack</b>: You're right! It's <i>such</i> a relief to me that you're in charge of this map...
+<b>Pinkie Pie</b>:
+ Relief? You don't need relief! If anypony needs relief around here, 
+it's me! I'm a chancellor! I'm a bigshot! You're just my, um... my, 
+uh...
+<b>Applejack</b>: Secretary.
+<b>Pinkie Pie</b>: Whatever. You take the map, while I enjoy some relief.
+<b>Applejack</b>: Yes, Chancellor Puddinghead.
+<b>Spike</b>: [accent] And so, each leader encountered obstacles
+ along the way, but eventually, they all arrived in a new and wondrous 
+land. Nopony had ever seen paradise before.
+<b>Rainbow Dash</b>: This is the new land we've been searching for!
+<b>Fluttershy</b>: What a view... I can see my future house from here.
+<b>Rainbow Dash</b>: I proclaim this new land to be... <i>Pegasopolis</i>!
+<b>Rarity</b>: I've never seen such jewels! This ruby is dazzling. This whole <i>land</i> is dazzling. I'm double dazzled! [squeals] In the name of the unicorns, I hereby dub this land <i>Unicornia</i>!
+<b>Pinkie Pie</b>: The air! The trees! The dirt! This dirt is the dirtiest dirt in the whole dirt world!
+<b>Applejack</b>: And fertile, too. Perfect for growing food.
+<b>Pinkie Pie</b>: In the name of the Earth ponies, I think I'm gonna call this new place... uh... <i>Dirtville</i>.
+<b>Applejack</b>: How about "Earth"?
+<b>Pinkie Pie</b>: <i>Earth</i>! Congratulations to me for thinking of it.
+<b>Pinkie Pie</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: We found our new home!
+<b>Rainbow Dash</b>: I planted my flag first!
+<b>Rarity</b>: Did not!
+<b>Rainbow Dash</b>: Did too!
+<b>Pinkie Pie</b>: I planted mine earlier than first.
+<b>Rarity</b>: All of you riffraff are trespassing in Unicornia!
+<b>Rainbow Dash</b>: The name is Pegasopolis!
+<b>Pinkie Pie</b>: Earth!
+<b>Rainbow Dash</b>: Pegasopolis!
+<b>Rarity</b>: Unicornia!
+<b>Rainbow Dash</b>: I say we fight for the land. May the best pony win!
+[wind blows]
+<b>Rarity</b>: That's barbaric. Clover the Clever? Throw that brute into the dungeon!
+<b>Twilight Sparkle</b>: What dungeon? Look, perhaps if we all calmed down...
+<b>Applejack</b>: I agree. Let's all calm down.
+<b>Fluttershy</b>: I vote for calm.
+<b>Rainbow Dash</b>: I'll have you court-martialed for insubordination, Private! We settle this on the battlefield!
+[whack]
+<b>Rarity</b>: [laughs]
+[whack]
+<b>Rainbow Dash</b>: [laughs]
+<b>Rarity</b>: Who <i>dares</i> throw a snowball at royalty?!
+<b>Pinkie Pie</b>: Wait a minute, where'd all this snow come from anyway?
+<b>Rainbow Dash</b>: Oh no. Not again.
+[wind blowing]
+[windigos roaring]
+<b>Spike</b>: [accent] And so the paradise that the ponies had found was soon lost, buried beneath a thick blanket of snow <i>and</i>
+ hard feelings. Instead of beautiful, it was blizzardy. Instead of 
+wonderful, it was wintry! Instead of spectacular, it was snow-tacular! 
+Instead of–
+<b>Shoeshine</b>: We get it! Move on!
+<b>Spike</b>: [laughs nervously] [clears throat] [accent] 
+Everypony was forced to seek shelter. They searched high and low, but 
+the only shelter for miles was a cold and desolate cave. And, of course,
+ the three tribes had to share it, and nopony was too happy about that.
+<b>Rarity</b>: Please, Commander Hothead.
+<b>Rainbow Dash</b>: It's Commander Hurricane.
+<b>Rarity</b>: [clears throat] Please, <i>Commander</i>, could you just stand back and give me my royal space?
+<b>Rainbow Dash</b>: You mean like <i>this</i>, your highness?
+<b>Rarity</b>: Indeed not! You see this invisible line?
+<b>Rainbow Dash</b>: Private? Outline our territory for everypony to see. See this real, <i>non</i>-invisible line? No unicorns <i>or</i> Earth ponies are allowed to cross it! This is the sovereign territory of Pegasopolis!
+<b>Rarity</b>: Clover the Clever?
+<b>Pinkie Pie</b>: Uh... Smart Cookie!
+<b>Applejack</b>: I know, I know.
+<b>Rainbow Dash</b>: What are you doing? Don't go around the rock, go over it! I'm not giving up an inch of territory to the enemy!
+<b>Rarity</b>:
+ That rock is clearly on the Unicornia side of the cave, and it belongs 
+to us! [under her breath] Who knows? there could be jewels inside.
+<b>Rainbow Dash</b>: [groans] I claim this rock for Pegasopolis!
+<b>Rarity</b>: Unhand that rock this instant, you scoundrel!
+<b>Pinkie Pie</b>: Oh, look, you found my rock. I've been looking for it everywhere.
+<b>Rainbow Dash</b>: Hey! You invaded our territory!
+<b>Pinkie Pie</b>: Finders keepers, losers weepers!
+<b>Rainbow Dash</b>: That's the last straw!
+<b>Rarity</b>: <i>Give me my rock</i>!
+<b>Pinkie Pie</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: [arguing]
+[wind blowing]
+<b>Twilight Sparkle</b>: Look, everypony! The entrance!
+[ice cracking]
+<b>Rainbow Dash</b>: Great. Now there's no way out! We're trapped!
+<b>Rarity</b>: You two deserve this horrible fate. You've done nothing but argue and fight with each other!
+<b>Rainbow Dash</b>: You've been fighting too, <i>your Highness</i>.
+<b>Pinkie Pie</b>: Yeah! Worse! I haven't been fighting nearly as much as you!
+[ice cracking]
+<b>Rarity</b>: How ridiculous! A unicorn never stoops to fighting!
+<b>Rainbow Dash</b>: That's just 'cause you wimpy unicorns know you'd never win! Earth ponies are numbskulls!
+<b>Rarity</b>: Pegasi are brutes!
+<b>Pinkie Pie</b>: Unicorns are snobs!
+<b>Applejack</b>, <b>Fluttershy</b> and <b>Twilight Sparkle</b>: [gasp] [sigh]
+[windigo roaring]
+<b>Applejack</b>, <b>Fluttershy</b> and <b>Twilight Sparkle</b>: [screams]
+<b>Fluttershy</b>: W-W-What is that... thing?
+<b>Twilight Sparkle</b>: They must be... windigos!
+<b>Applejack</b> and <b>Fluttershy</b>: Windigos?
+<b>Twilight Sparkle</b>:
+ My mentor Star Swirl the Bearded taught me about them. They're winter 
+spirits that feed off fighting and hatred. The more hate the spirit 
+feels, the colder things become!
+<b>Applejack</b>:
+ Then... this is our fault. We three tribes... we brought this blizzard 
+to our home by fightin' and not trustin' each other. Now it's destroyin'
+ this land, too.
+<b>Twilight Sparkle</b>: And now our bodies will become as cold as our hearts... <i>all because we were foolish enough to hate.</i>
+<b>Fluttershy</b>: Well, I don't hate <i>you</i>... I actually hate Commander Hurricane a lot more than I hate you guys.
+<b>Applejack</b> and <b>Twilight Sparkle</b>: [giggling]
+[windigo snorts]
+<b>Fluttershy</b>:
+ Actually, I don't really hate her, I just really, really, really, 
+really, really, really, really, really, really, really dislike her.
+<b>Applejack</b> and <b>Twilight Sparkle</b>: [laughing]
+<b>Applejack</b>: Well, I don't hate you guys either.
+<b>Twilight Sparkle</b>: Nor do I.
+[windigo whinnying]
+<b>Applejack</b>: No matter what our differences, we're all ponies.
+[ice cracking]
+[ice shatters]
+<b>Fluttershy</b>: What was that?
+<b>Applejack</b>: I didn't know unicorns could do that.
+<b>Twilight Sparkle</b>:
+ I didn't either. Nothing like this has ever happened before. But I know
+ it couldn't have been just me. It came from all three of us, joined 
+together, in friendship.
+<b>Spike</b>: [accent] All through the night, the three ponies 
+kept the fire of friendship alive by telling stories to one another and 
+by singing songs, which of course became the winter carols that we all 
+still sing today. Eventually, the warmth of the fire and singing and 
+laughing reached the leaders, and their bodies began to thaw. [normal 
+voice] And it even began to melt their hearts.
+[rumbling]
+<b>Spike</b>: [accent] The three leaders agreed to share the 
+beautiful land, and live in harmony ever afterwards. And together, they 
+named their new land...
+<b>Main cast</b>: <i>Equestria</i>!
+<b>Audience</b>: [cheering]
+<b>[Choir]</b>
+The fire of friendship lives in our hearts
+As long as it burns, we cannot drift apart
+Though quarrels arise, their numbers are few
+Laughter and singing will see us through (will see us through)
+We are a circle of pony friends
+A circle of friends we'll be to the very end
+
+<b>Audience</b>: [cheering]
+<b>Twilight Sparkle</b>: We should be so honored that Princess Celestia chose <i>us</i>! She must really think we exemplify what good friends are!
+[wind blowing]
+<b>Rarity</b>: Applejack, I thought you closed all the windows.
+<b>Applejack</b>: Don't blame me. Rainbow Dash should've flown up there and shut it. After all, she's got wings.
+<b>Rainbow Dash</b>: Why do I always have to do all the high up chores? Why can't Twilight use her magic for a change!
+<b>Main cast</b>: [arguing]
+[windigo roars]
+<b>Rainbow Dash</b>: Y'know what? I got it.
+<b>Main cast</b>: [laughing]
+[music]
+[credits]
