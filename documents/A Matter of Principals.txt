@@ -1,310 +1,365 @@
-[chest opens] 
-<b>Twilight Sparkle</b>: Who can tell me what these are? 
-<b>Sandbar</b>: Whoa... 
-<b>Gallus</b>: Me likey... 
-<b>Yona</b>: Shiny! 
-<b>Smolder</b>: Treasure? 
-<b>Ocellus</b>: Nope! They're all legendary magical artifacts! 
-[beat] 
-<b>Ocellus</b>: Heh-heh. I've read ahead in  <i>Equestrian Cultures and Camaraderie: Volume Seven</i>. 
-<b>Twilight Sparkle</b>: You're right, Ocellus. This is the Amulet of Aurora, the Talisman of Mirage, the Helm of Yksler, the Crown of Grover, Knuckerbocker's Shell, and Clover the Clever's Cloak. 
-<b>Spike</b>: And the gems are real! Eh, not that I... tasted them. 
-<b>Twilight Sparkle</b>: Princess Celestia gifted these to our school, since they each represent one of the cultures our students come from. And we'll learn all about them in a Spell-venger Hunt! 
-[beat] 
-<b>Smolder</b>: [aside, to Sandbar] Is that a pony thing? 
-<b>Sandbar</b>: Eh. 
-<b>Twilight Sparkle</b>: It's a magical scavenger hunt. Each of you will work in pairs to try to find where in the school these artifacts are hidden. 
-<b>Spike</b>: The team that finds the most wins a private tour of the Canterlot Archives with Princess Celestia. 
-<b>Twilight Sparkle</b>: [giggles] 
-<b>Silverstream</b>: [excited squeal] Learning  <i>and</i> fun?! Does it get any better than that?! 
-<b>Gallus</b>: You've been underwater a long time, haven't you? 
-<b>Twilight Sparkle</b>: Gallus and Silverstream, sounds like you're our first pair! 
-<b>Students</b>: [gasp] 
-<b>Twilight Sparkle</b>: What? They'll make a great team. 
-[cutie mark glowing] 
-<b>Yona</b>: Um, why pony glowing? [doors open] 
-<b>Twilight Sparkle</b>: Wait. You all were called on this friendship quest, too? 
-<b>Fluttershy</b>: It must be a really important one. 
-<b>Rarity</b>: And terribly far away. 
-<b>Rainbow Dash</b>: Just getting there will take days! 
-<b>Applejack</b>: Do y'all know what this means? There won't be any teachers left to run the school! 
-<b>Mane Six except Applejack</b>: [gasp] <b>Fluttershy</b>: Should we send our students home? 
-<b>Pinkie Pie</b>: I say we take 'em with us! Road trip! 
-<b>Rarity</b>: In the middle of my friendship quilting class? I think not! All of those unfinished seams! [faints] 
-<b>Applejack</b>: Problem is we don't even know how long we'll be gone. 
-<b>Twilight Sparkle</b>: Don't worry, everypony. I already have a seventy-point plan in place for this very situation. <b>Starlight Glimmer</b>: You want  <i>me</i> to be headmare?! 
-<b>Twilight Sparkle</b>: You're the  <i>perfect</i> choice! You're a good leader and an expert in friendship. I trust you to run this school exactly as I would. 
-<b>Starlight Glimmer</b>: Uh, that's a pretty big responsibility, Twilight. 
-<b>Twilight Sparkle</b>: Which is why I've prepared everything you need. 
-[bell ringing] 
-[door opens] 
-<b>Twilight Sparkle</b>: The curriculum, rules for the Spell-venger Hunt, dining hall menus for the next six months... 
-<b>Spike</b>: Six  <i>months</i>?! You're not  <i>really</i> gonna be gone  <i>that</i> long, are you? 
-<b>Twilight Sparkle</b>: ...and Spike. Anything that isn't covered in my files, he'll be able to help you with. 
-<b>Starlight Glimmer</b>: Then why not put  <i>him</i> in charge? 
-<b>Spike</b>: No-ho-ho, thanks. Eh, being a princess for Twilight was hard enough. 
-<b>Starlight Glimmer</b>: I'm gonna pretend that made sense. But if you're sure it's what you really want, I promise I won't let you down. 
-<b>Twilight Sparkle</b>: I  <i>knew</i> I could count on you. 
-[door closes] 
-<b>Spike</b>: [yells] 
-<b>Starlight Glimmer</b>: Great. What could possibly go wrong? [galloping] 
-<b>Spike</b>: Goodbye, Rarity! A-And everypony! 
-<b>Starlight Glimmer</b>: Come back soon! Please! 
-<b>Discord</b>: [blows nose] 
-<b>Starlight Glimmer</b>: Huh? 
-<b>Discord</b>: [through mock tears] I hate goodbyes, don't you? I just go to pieces. 
-[pop!] 
-<b>Starlight Glimmer</b>: Discord! What a... heh... nice surprise! This is your first time at our new school, isn't it? 
-<b>Discord 1</b>: Oh, was I not invited to the grand opening? 
-<b>Discord 2</b>: Friends and Family Day? 
-<b>Discord 3</b>: Baccalaureate? 
-<b>All three Discords</b>: I hadn't noticed. 
-[flash] 
-<b>Starlight Glimmer</b>: Well, at least you're here now. Um, why  <i>are</i> you here now? 
-<b>Discord</b>: To fill in for Twilight, of course, as head-draconequus. I seem to recall a whole song about how this school is where you make your own rules. Now, who better at that than me? 
-<b>Spike</b>: Then you  <i>also</i> must've heard Starlight is in charge now. 
-<b>Discord</b>: Really? I thought there must be some mistake. 
-[flick] 
-<b>Starlight Glimmer</b>: Nope. Twilight picked me for the job. And she left pretty detailed instructions for me to follow. 
-<b>Discord</b>: Well, I'm sure that she wouldn't mind a few tiny suggestions. [snaps fingers] 
-[flash] 
-<b>Discord</b>: [writing] "Item one – Gravity is optional." 
-[warbling] 
-<b>Starlight Glimmer</b>: Whoa-oa! 
-<b>Discord</b>: "Item two – The school's new mascot is an ambidextrous marmoset." 
-[marmoset mascot squeaks] 
-<b>Discord</b>: "Item three—" 
-<b>Starlight Glimmer</b>: Not gonna happen. I promised Twilight I'd handle this her way. So thanks, but no thanks. 
-<b>Discord</b>: Reeeeeeally? Well, we'll see if you change your mind. [snaps fingers] 
-[flash] 
-[splash] 
-<b>Spike</b>: Uh-oh. When we play  <i>Ogres &amp; Oubliettes</i> and he puts that many E's in "really", the things don't usually end well. 
-<b>Starlight Glimmer</b>: Don't worry, Spike. Discord and I are old "save Equestria" buddies. He'll be fine. Now, what's next on Twilight's list? 
-[door opens] <b>Spike</b>: Okay. I hid the artifacts for the Spell-venger Hunt and ordered school supplies for the week. All you have to worry about is teaching class. 
-<b>Starlight Glimmer</b>: [sighs] Thanks, Spike. Maybe we  <i>will</i> get through this okay. 
-[doors open] 
-[peacocks call] 
-[Castle Thunder] 
-[typewriter clicking] 
-<b>Discord</b>: Come in, come in. You'll let the twittermites out. [munches] 
-<b>Spike</b>: Twittermites? 
-[swarming] 
-<b>Spike</b>: Ow! 
-[splash] 
-<b>Starlight Glimmer</b>: Discord! What are you doing?! 
-<b>Spike</b>: [gasps for air] 
-<b>Discord</b>: Nopony was at your desk. Imagine what Twilight would say. [imitating Twilight] Oh, how could you, Starlight?! You've broken my trust and failed me completely! [normal voice] Oh, don't worry. I'll cover for you. By the way, I hope you like Limburger cheese. I got a month's supply for the teacher's lounge. [snaps fingers] 
-[flash] 
-[crate opening] 
-<b>Spike</b>: [screams] 
-[squish!] 
-<b>Spike</b>: [sniffs, gags] 
-<b>Starlight Glimmer</b>: [gags] We'll take it from here, Discord. Go relax. Have a cup of tea. At home. 
-[door stops] 
-<b>Discord</b>: Oh! Some thanks for all my help. And after I hired all those substitute teachers for you. 
-[splat] 
-<b>Spike</b>: Actually, that does sound kinda helpful. And it was next on our to-do list. 
-<b>Starlight Glimmer</b>: Which teachers did you hire? [stomp] 
-<b>Iron Will</b>: They call it "making friends", because you have to  <i>make</i> creatures be your friends! Show me what you've got, yak! 
-<b>Yona</b>: [clears throat, quietly] Be my friend. 
-<b>Iron Will</b>: If you're quiet, I don't buy it! 
-<b>Yona</b>: [louder] Be my friend! 
-<b>Iron Will</b>: I've heard pudding that's more convincing! 
-<b>Yona</b>: [huffs, even louder]  <i>Be! My! Friend!</i> 
-[zip!] 
-<b>Starlight Glimmer</b>: [quietly] That's not how Twilight teaches friendship. <b>Cranky Doodle Donkey</b>: Some field trip! Where's my iced tea?! [sips, gulps, spits] This is too cold! [sips, gulps, spits] Now it's too hot! 
-[pours] 
-<b>Cranky Doodle Donkey</b>: [sips, gulps, spits] Now it's too tea-flavored! 
-[clatter] 
-<b>Cranky Doodle Donkey</b>: You call yourselves friends?! 
-<b>Spike</b>: That is definitely not how Twilight teaches friendship. 
-<b>Discord</b>: [sips] <b>Starlight Glimmer</b>: You hired a  <i>tree</i> as a teacher?! 
-<b>Discord</b>: Its schedule was free. 
-<b>Spike</b>: Uh, guys? That's not just  <i>any</i> tree. 
-<b>Smolder</b>: [sneezes] 
-<b>Students</b>: [scream] 
-<b>Spike</b>: [blows nose] It's a dragon-sneeze tree. 
-<b>Smolder</b>: [sneezes] 
-<b>Students</b>: [scream] 
-<b>Starlight Glimmer</b>: W-W-W-Wait! Calm down, everycreature! It's gonna be okay! 
-<b>Yona</b>: [yells]  <i>BE MY FRIEEEEENNNND!</i> 
-<b>Discord</b>: Mmmm, my, my, my. You do seem like you're in over your head. Won't Twilight be so disappointed with how you're ruining—I mean,  <i>running</i> her school? <b>Students</b>: [screaming] 
-<b>Starlight Glimmer</b>: Discord! 
-<b>Discord</b>: [munching] 
-<b>Starlight Glimmer</b>: This is all  <i>your</i> fault! 
-<b>Discord</b>:  <i>Mine?</i> I thought  <i>you</i> were in charge here. But I'm happy to pitch in if you need me. 
-[flash] 
-<b>Starlight Glimmer</b>: What I  <i>need</i> is for you to leave! 
-<b>Discord</b>: [snaps fingers] 
-[flash] 
-<b>Discord</b>: Happy now? 
-<b>Spike</b>: Come on, Discord. You know that's not what she means. 
-<b>Discord</b>: Fine! From now on, I won't try to help. At! All! 
-<b>Starlight Glimmer</b>: [groans] Thanks, Spike. Let's just hope he stays gone. 
-<b>Spike</b>: I wouldn't count on it. I think Discord's trying to test you. 
-<b>Starlight Glimmer</b>: But why? I thought we were friends. 
-<b>Spike</b>: Well, it's kinda what he does. Even to ponies or dragons he cares about. 
-<b>Starlight Glimmer</b>: Oh, well, I'm ready for him. I told Twilight I'd run her school right, and I'm gonna keep that promise. No matter what. [nighttime ambience] <b>Starlight Glimmer</b>: Good morning, students! I know there's been a little bit of adjustment since the professors left for their trip. But I've brought in  <i>new</i> new teachers. And now everything should run smoothly. Now it's time for class. And don't forget, this afternoon is the Spell-venger Hunt! 
-<b>Students</b>: [chattering] [door slams open] 
-[stock gasp sound] 
-<b>Discord</b>: [California accent] Yo! Greetings, fellow creatures! 
-[flash] 
-<b>Discord</b>: Is this seat taken? 
-<b>Ocellus</b>: [laughs nervously] 
-[poof] 
-<b>Trixie</b>: Welcome, class! You may call me the Great and Powerful  <i>Professor</i> Trrrrrri— 
-[phone ringing] 
-<b>Discord</b>: Shhh! Really, that's so inconsiderate! 
-[phone ringing] 
-[bananaphone ringing] 
-<b>Discord</b>: Oh, I better take this. Hello? 
-<b>Voice on bananaphone</b>: [garbled sped-up gibberish] 
-<b>Discord</b>: Oh, he did not! And what did you say? 
-<b>Voice on bananaphone</b>: [garbled sped-up gibberish] 
-<b>Discord</b>: [gasps] You did  <i>not</i>! 
-<b>Trixie</b>: Discord! Why are  <i>you</i> here?! 
-<b>Discord</b>: Why, I'm a student of friendship, of course. Unless you don't think you're good enough to teach me. 
-<b>Trixie</b>: Of course I am! No fruit calls in my class! 
-[banana peels] 
-<b>Discord</b>: [gulps] 
-<b>Trixie</b>: Magic is the most important element of friendship. So, today I, the Great and Powerful Trixie, will put on a magic show! 
-<b>Discord</b>: [snaps fingers] 
-[Pigasus squeals] 
-[ursa major roaring] 
-<b>Students</b>: [scream] 
-<b>Discord</b>: [chuckles] I'm learning  <i>so</i> much. Aren't  <i>you</i>? 
-<b>Trixie</b>: [growls]  <i>Discord!</i> 
-[doors close] 
-[bananaphone ringing] 
-[beep] 
-<b>Trixie</b>: Eh, hello? 
-<b>Voice on bananaphone</b>: [garbled sped-up gibberish] 
-<b>Trixie</b>: Um, what exactly  <i>is</i> a long-distance plan? <b>Yona</b>: [pants] 
-<b>Discord</b>: Take a lap, team! 
-<b>Sandbar</b>: Uh, actually, we just finished Professor Spitfire's workout. 
-<b>Discord</b>: Sounds like somepony needs a little motivation. [blows whistle] 
-[flash] 
-<b>Students</b>: [gasp, scream] 
-[bugbear growls] 
-<b>Silverstream</b>: I've never run so fast in my life! Oh, this is great! 
-<b>Sandbar</b>: [pants] Hey, coach, we need a break. 
-<b>Discord</b>: Friendship is about honesty. So believe me when I say...  <i>we're not stopping!</i> [blows whistle] 
-<b>Sandbar</b>: [yelps, pants] 
-[bugbear growls] 
-<b>Yona</b>: [panting] Yona... can't run... faster...! [grunts] 
-[bugbear growls] 
-[zap!] 
-[bugbear whimpers] 
-<b>Starlight Glimmer</b>: Discord, that's enough! Endangering students crosses the line! I don't know  <i>why</i> you're trying to ruin this school, but it stops now! 
-[flash] 
-<b>Discord</b>: I wouldn't be so sure. 
-<b>Starlight Glimmer</b>: This is your last warning. 
-<b>Spike</b>: Hey-hey-hey! Take it easy, Starlight! Discord's your friend, remember? 
-<b>Starlight Glimmer</b>: Well, he's not acting like it! 
-<b>Spike</b>: [huffs] She's right, Discord. What's your problem? 
-<b>Discord</b>:  <i>My</i> problem? How is the fact that Twilight decided to put an incompetent, power-hungry unicorn in charge of her school  <i>my problem?!</i> 
-<b>Starlight Glimmer</b>: [gasps, yells] 
-[zap!] 
-[crackles] 
-<b>Students</b>: [shudder] 
-<b>Starlight Glimmer</b>: [nervous laughter] Don't worry. I just banished him from school grounds forever. He's fine. 
-<b>Spike</b>: That probably made things worse. Why didn't you just talk to Discord? 
-<b>Starlight Glimmer</b>: Because he's right about  <i>one</i> thing. I've been doing a terrible job as headmare. 
-<b>Spike</b>: No, you haven't. Discord is just bein'... Discord. 
-<b>Starlight Glimmer</b>: Maybe. But I wonder why me being in charge bothers him so much. 
-[school bell rings] 
-<b>Spike</b>: We can figure that out  <i>after</i> the Spell-venger Hunt. C'mon! [doors open] 
-<b>Starlight Glimmer</b>: For this afternoon's Spell-venger Hunt, you'll need to use the artifacts' history to find where they're hidden in the castle. When you spot one, touch it with a magic shield to keep track of your score. 
-<b>Spike</b>: Twilight left the list of your hunt partners before she left. I'll pass out the shields. 
-<b>Starlight Glimmer</b>: Ready... set... Spell-venger Hunt! 
-[gong strikes] 
-<b>Students</b>: [chattering] 
-<b>Spike</b>: C'mon! We can use Twilight's observatory to watch the teams! <b>Students</b>: [chatter continues] 
-<b>Smolder</b>: I hope you know where you're going. 
-<b>Ocellus</b>: To the Helm of Yksler! 
-<b>Smolder</b>: Eh, works for me. 
-<b>Ocellus</b>: In our book, it says Yksler was an honorable yak warrior. Any enemies that saw him put down their weapons in peace. I think his artifact must be in one of these suits of armor. 
-<b>Smolder</b>: I'm guessing that one. 
-[shields flash] 
-<b>Ocellus</b>: Yes! One down, five to go! 
-[slaps] <b>Starlight Glimmer</b>: Awww, Ocellus and Smolder found their first artifact! Wait. What's that? <b>Ocellus</b>: Uh, I don't think that's part of the Spell-venger Hunt! 
-<b>Ocellus</b> and  <b>Smolder</b>: [scream] 
-<b>Ocellus</b>: The school is haunted! 
-<b>Smolder</b>: And not cool! <b>Starlight Glimmer</b> and  <b>Spike</b>: [gasp] <b>Silverstream</b>: We're totally gonna win this Spell-venger Hunt! 
-<b>Gallus</b>: Yeah, I doubt that. But at least I know where one of the artifacts is. Saw Spike hide it yesterday. 
-[thud] 
-<b>Gallus</b>: The Crown of Grover! Score! 
-[shimmer!] 
-<b>Gallus</b>: They say it's magic  <i>and</i> King Grover used it to become the first ruler of Griffonstone. I know, pretty sweet, right? 
-<b>Silverstream</b>: You paid attention in class! 
-<b>Gallus</b>: What?! I-If you ever tell an— 
-[slam!] 
-<b>Gallus</b>: Whoa! 
-<b>Silverstream</b>: 3D painting! 
-<b>King Grover Painting</b>: [screeches] 
-<b>Gallus</b> and  <b>Silverstream</b>: [scream] 
-<b>Changeling Painting</b>: [hisses] 
-[students screaming] 
-<b>Pony Painting</b>: [hisses] 
-[students screaming] 
-<b>Discord's Ghost</b>: [laughing] <b>Starlight Glimmer</b>: Yup, that's definitely Discord. This is not good. 
-<b>Spike</b>: I thought you banished him from the school. 
-<b>Starlight Glimmer</b>: Only his body. Apparently, his ghost can come and go just fine. Let's go. We have to stop this. 
-[lift clanking] 
-<b>Spike</b>: How? No offense, but I don't think magic is the answer against Discord. 
-<b>Starlight Glimmer</b>: This time, I'm not using magic. <b>Yona</b>: Hmm... What Yona look for? 
-<b>Sandbar</b>: The Shell of Knuckerbocker. It's like a seashell, but if you blow into it, you call a dragon! There's a sweet poem in our book about it. "Climb to the heights with dragon flight." [gasps] Like flight of stairs! 
-<b>Yona</b>: Yona take pony word for it. 
-[squish] 
-<b>Yona</b>: Huh? 
-<b>Sandbar</b>: [grunts] What's happening?! 
-<b>Yona</b>: Ugh! Yona not know! But Yona  <i>do</i> know Yona not like Spell-venger Hunt! 
-<b>Discord's Ghost</b>: [laughing] Boo! Boo! Boo! 
-[students screaming] 
-<b>Ocellus</b>: [yelps] Whoa! 
-<b>Starlight Glimmer</b>: Everycreature, stop! 
-<b>Silverstream</b>: B-B-B-But the school is haunted! 
-<b>Starlight Glimmer</b>: It's not haunted. It's Discord. 
-[poof!] 
-<b>Discord's Ghost</b>: Headmare Starlight! Look at me! Look! I won the Spell-venger Hunt! Well done, me! Now what's my prize? 
-<b>Spike</b>: Detention. 
-<b>Discord's Ghost</b>: Well, that's disappointing. 
-<b>Starlight Glimmer</b>: Discord, you can't keep messing up the school. 
-<b>Discord's Ghost</b>: On the contrary. I think I rather can. And will. 
-<b>Starlight Glimmer</b>: Then I have just one thing to say to you. 
-<b>Discord's Ghost</b>: Oh, do go on. 
-<b>Starlight Glimmer</b>: I'm sorry. 
-<b>Discord's Ghost</b>: What? 
-[zap!] 
-<b>Starlight Glimmer</b>: I had to stop thinking like a headmare and start thinking like a guidance counselor to finally understand. You felt left out. 
-<b>Discord</b>: Uh... [stuttering] I don't know what you're getting at. 
-<b>Starlight Glimmer</b>: Nopony ever invited you to the school. And when you offered to help, I didn't listen. I was so worried about doing things Twilight's way, I didn't stop to think about being a good friend. I'd like to apologize for that. And offer you the job of vice headmare. 
-<b>Spike</b>: Huh? 
-<b>Silverstream</b>: Really?! 
-<b>Gallus</b>: What?! 
-<b>Ocellus</b>: Why?! 
-<b>Yona</b>: No! 
-<b>Smolder</b>: Him?! 
-<b>Sandbar</b>: Totally confused. 
-<b>Discord</b>: I accept! I mean, I-I-I suppose I can find some time in my busy schedule to help you out. But I will need my own office, expense account, parking space... 
-<b>Spike</b>: You're new to the world of education, aren't you? 
-<b>Starlight Glimmer</b>: Next time you want something, just ask for it, all right? 
-<b>Discord</b>: But then we'd miss out on all those delightful misadventures. 
-<b>Spike</b>: Hey! Watch the wings! 
-<b>Starlight Glimmer</b>: Now, Vice Headmare Discord, if you'll help me get this Spell-venger Hunt back in order. 
-<b>Discord</b>: [snaps fingers] Everything is re-hidden. 
-[rattling] 
-<b>Silverstream</b>: [screams] 
-<b>Discord</b>: [chuckles] Well, with a few surprises. 
-[doors open] 
-<b>Twilight Sparkle</b>:  <i>Discord!</i> I can't believe you tricked us into going on a friendship quest that wasn't real! 
-<b>Discord</b>: Oh, back so soon? 
-<b>Rarity</b>: A glamour spell on our cutie marks? 
-<b>Rainbow Dash</b>: A fake summons from the map? 
-<b>Pinkie Pie</b>: Hey, at least we got to go spelunking in that really creepy cave with all those eyeless worm creatures chasing us. 
-<b>Yona</b>: Oh, Yona so glad ponies back! 
-<b>Applejack</b>: Uh, y'all get the feelin' we missed somethin'? 
-<b>Twilight Sparkle</b>: Thanks for taking care of the school, Starlight. 
-<b>Starlight Glimmer</b>: It was a challenge. Heh. But I think things turned out just the way you'd have handled them. 
-<b>Spike</b>: [to Discord] Guess this means you're not vice headmare anymore. 
-<b>Discord</b>: Oh, poo! I just ordered business cards! [credits] 
+[chest opens]
+<b>Twilight Sparkle</b>: Who can tell me what these are?
+<b>Sandbar</b>: Whoa...
+<b>Gallus</b>: Me likey...
+<b>Yona</b>: Shiny!
+<b>Smolder</b>: Treasure?
+<b>Ocellus</b>: Nope! They're all legendary magical artifacts!
+[beat]
+<b>Ocellus</b>: Heh-heh. I've read ahead in <i>Equestrian Cultures and Camaraderie: Volume Seven</i>.
+<b>Twilight Sparkle</b>: You're right, Ocellus. This is the 
+Amulet of Aurora, the Talisman of Mirage, the Helm of Yksler, the Crown 
+of Grover, Knuckerbocker's Shell, and Clover the Clever's Cloak.
+<b>Spike</b>: And the gems are real! Eh, not that I... tasted them.
+<b>Twilight Sparkle</b>: Princess Celestia gifted these to our 
+school, since they each represent one of the cultures our students come 
+from. And we'll learn all about them in a Spell-venger Hunt!
+[beat]
+<b>Smolder</b>: [aside, to Sandbar] Is that a pony thing?
+<b>Sandbar</b>: Eh.
+<b>Twilight Sparkle</b>: It's a magical scavenger hunt. Each of you will work in pairs to try to find where in the school these artifacts are hidden.
+<b>Spike</b>: The team that finds the most wins a private tour of the Canterlot Archives with Princess Celestia.
+<b>Twilight Sparkle</b>: [giggles]
+<b>Silverstream</b>: [excited squeal] Learning <i>and</i> fun?! Does it get any better than that?!
+<b>Gallus</b>: You've been underwater a long time, haven't you?
+<b>Twilight Sparkle</b>: Gallus and Silverstream, sounds like you're our first pair!
+<b>Students</b>: [gasp]
+<b>Twilight Sparkle</b>: What? They'll make a great team.
+[cutie mark glowing]
+<b>Yona</b>: Um, why pony glowing?
+[doors open]
+<b>Twilight Sparkle</b>: Wait. You all were called on this friendship quest, too?
+<b>Fluttershy</b>: It must be a really important one.
+<b>Rarity</b>: And terribly far away.
+<b>Rainbow Dash</b>: Just getting there will take days!
+<b>Applejack</b>: Do y'all know what this means? There won't be any teachers left to run the school!
+<b>Mane Six except Applejack</b>: [gasp]
+[theme song]
+<b>Fluttershy</b>: Should we send our students home?
+<b>Pinkie Pie</b>: I say we take 'em with us! Road trip!
+<b>Rarity</b>: In the middle of my friendship quilting class? I think not! All of those unfinished seams! [faints]
+<b>Applejack</b>: Problem is we don't even know how long we'll be gone.
+<b>Twilight Sparkle</b>: Don't worry, everypony. I already have a seventy-point plan in place for this very situation.
+<b>Starlight Glimmer</b>: You want <i>me</i> to be headmare?!
+<b>Twilight Sparkle</b>: You're the <i>perfect</i> choice! You're a good leader and an expert in friendship. I trust you to run this school exactly as I would.
+<b>Starlight Glimmer</b>: Uh, that's a pretty big responsibility, Twilight.
+<b>Twilight Sparkle</b>: Which is why I've prepared everything you need.
+[bell ringing]
+[door opens]
+<b>Twilight Sparkle</b>: The curriculum, rules for the Spell-venger Hunt, dining hall menus for the next six months...
+<b>Spike</b>: Six <i>months</i>?! You're not <i>really</i> gonna be gone <i>that</i> long, are you?
+<b>Twilight Sparkle</b>: ...and Spike. Anything that isn't covered in my files, he'll be able to help you with.
+<b>Starlight Glimmer</b>: Then why not put <i>him</i> in charge?
+<b>Spike</b>: No-ho-ho, thanks. Eh, being a princess for Twilight was hard enough.
+<b>Starlight Glimmer</b>: I'm gonna pretend that made sense. But if you're sure it's what you really want, I promise I won't let you down.
+<b>Twilight Sparkle</b>: I <i>knew</i> I could count on you.
+[door closes]
+<b>Spike</b>: [yells]
+<b>Starlight Glimmer</b>: Great. What could possibly go wrong?
+[galloping]
+<b>Spike</b>: Goodbye, Rarity! A-And everypony!
+<b>Starlight Glimmer</b>: Come back soon! Please!
+<b>Discord</b>: [blows nose]
+<b>Starlight Glimmer</b>: Huh?
+<b>Discord</b>: [through mock tears] I hate goodbyes, don't you? I just go to pieces.
+[pop!]
+<b>Starlight Glimmer</b>: Discord! What a... heh... nice surprise! This is your first time at our new school, isn't it?
+<b>Discord 1</b>: Oh, was I not invited to the grand opening?
+<b>Discord 2</b>: Friends and Family Day?
+<b>Discord 3</b>: Baccalaureate?
+<b>All three Discords</b>:  I hadn't noticed.
+[flash]
+<b>Starlight Glimmer</b>: Well, at least you're here now. Um, why <i>are</i> you here now?
+<b>Discord</b>: To fill in for Twilight, of course, as 
+head-draconequus. I seem to recall a whole song about how this school is
+ where you make your own rules. Now, who better at that than me?
+<b>Spike</b>: Then you <i>also</i> must've heard Starlight is in charge now.
+<b>Discord</b>: Really? I thought there must be some mistake.
+[flick]
+<b>Starlight Glimmer</b>: Nope. Twilight picked me for the job. And she left pretty detailed instructions for me to follow.
+<b>Discord</b>: Well, I'm sure that she wouldn't mind a few tiny suggestions. [snaps fingers]
+[flash]
+<b>Discord</b>: [writing] "Item one – Gravity is optional."
+[warbling]
+<b>Starlight Glimmer</b>: Whoa-oa!
+<b>Discord</b>: "Item two – The school's new mascot is an ambidextrous marmoset."
+[marmoset mascot squeaks]
+<b>Discord</b>: "Item three—"
+<b>Starlight Glimmer</b>: Not gonna happen. I promised Twilight I'd handle this her way. So thanks, but no thanks.
+<b>Discord</b>: Reeeeeeally? Well, we'll see if you change your mind. [snaps fingers]
+[flash]
+[splash]
+<b>Spike</b>: Uh-oh. When we play <i>Ogres &amp; Oubliettes</i> and he puts that many E's in "really", the things don't usually end well.
+<b>Starlight Glimmer</b>: Don't worry, Spike. Discord and I are old "save Equestria" buddies. He'll be fine. Now, what's next on Twilight's list?
+[door opens]
+<b>Spike</b>: Okay. I hid the artifacts for the Spell-venger 
+Hunt and ordered school supplies for the week. All you have to worry 
+about is teaching class.
+<b>Starlight Glimmer</b>: [sighs] Thanks, Spike. Maybe we <i>will</i> get through this okay.
+[doors open]
+[peacocks call]
+[Castle Thunder]
+[typewriter clicking]
+<b>Discord</b>: Come in, come in. You'll let the twittermites out. [munches]
+<b>Spike</b>: Twittermites?
+[swarming]
+<b>Spike</b>: Ow!
+[splash]
+<b>Starlight Glimmer</b>: Discord! What are you doing?!
+<b>Spike</b>: [gasps for air]
+<b>Discord</b>: Nopony was at your desk. Imagine what Twilight 
+would say. [imitating Twilight] Oh, how could you, Starlight?! You've 
+broken my trust and failed me completely! [normal voice] Oh, don't 
+worry. I'll cover for you. By the way, I hope you like Limburger cheese.
+ I got a month's supply for the teacher's lounge. [snaps fingers]
+[flash]
+[crate opening]
+<b>Spike</b>: [screams]
+[squish!]
+<b>Spike</b>: [sniffs, gags]
+<b>Starlight Glimmer</b>: [gags] We'll take it from here, Discord. Go relax. Have a cup of tea. At home.
+[door stops]
+<b>Discord</b>: Oh! Some thanks for all my help. And after I hired all those substitute teachers for you.
+[splat]
+<b>Spike</b>: Actually, that does sound kinda helpful. And it was next on our to-do list.
+<b>Starlight Glimmer</b>: Which teachers did you hire?
+[stomp]
+<b>Iron Will</b>: They call it "making friends", because you have to <i>make</i> creatures be your friends! Show me what you've got, yak!
+<b>Yona</b>: [clears throat, quietly] Be my friend.
+<b>Iron Will</b>: If you're quiet, I don't buy it!
+<b>Yona</b>: [louder] Be my friend!
+<b>Iron Will</b>: I've heard pudding that's more convincing!
+<b>Yona</b>: [huffs, even louder] <i>Be! My! Friend!</i>
+[zip!]
+<b>Starlight Glimmer</b>: [quietly] That's not how Twilight teaches friendship.
+<b>Cranky Doodle Donkey</b>: Some field trip! Where's my iced tea?! [sips, gulps, spits] This is too cold! [sips, gulps, spits] Now it's too hot!
+[pours]
+<b>Cranky Doodle Donkey</b>: [sips, gulps, spits] Now it's too tea-flavored!
+[clatter]
+<b>Cranky Doodle Donkey</b>: You call yourselves friends?!
+<b>Spike</b>: That is definitely not how Twilight teaches friendship.
+<b>Discord</b>: [sips]
+<b>Starlight Glimmer</b>: You hired a <i>tree</i> as a teacher?!
+<b>Discord</b>: Its schedule was free.
+<b>Spike</b>: Uh, guys? That's not just <i>any</i> tree.
+<b>Smolder</b>: [sneezes]
+<b>Students</b>: [scream]
+<b>Spike</b>: [blows nose] It's a dragon-sneeze tree.
+<b>Smolder</b>: [sneezes]
+<b>Students</b>: [scream]
+<b>Starlight Glimmer</b>: W-W-W-Wait! Calm down, everycreature! It's gonna be okay!
+<b>Yona</b>: [yells] <i>BE MY FRIEEEEENNNND!</i>
+<b>Discord</b>: Mmmm, my, my, my. You do seem like you're in 
+over your head. Won't Twilight be so disappointed with how you're 
+ruining—I mean, <i>running</i> her school?
+<b>Students</b>: [screaming]
+<b>Starlight Glimmer</b>: Discord!
+<b>Discord</b>: [munching]
+<b>Starlight Glimmer</b>: This is all <i>your</i> fault!
+<b>Discord</b>: <i>Mine?</i> I thought <i>you</i> were in charge here. But I'm happy to pitch in if you need me.
+[flash]
+<b>Starlight Glimmer</b>: What I <i>need</i> is for you to leave!
+<b>Discord</b>: [snaps fingers]
+[flash]
+<b>Discord</b>: Happy now?
+<b>Spike</b>: Come on, Discord. You know that's not what she means.
+<b>Discord</b>: Fine! From now on, I won't try to help. At! All!
+<b>Starlight Glimmer</b>: [groans] Thanks, Spike. Let's just hope he stays gone.
+<b>Spike</b>: I wouldn't count on it. I think Discord's trying to test you.
+<b>Starlight Glimmer</b>: But why? I thought we were friends.
+<b>Spike</b>: Well, it's kinda what he does. Even to ponies or dragons he cares about.
+<b>Starlight Glimmer</b>: Oh, well, I'm ready for him. I told Twilight I'd run her school right, and I'm gonna keep that promise. No matter what.
+[nighttime ambience]
+<b>Starlight Glimmer</b>: Good morning, students! I know there's
+ been a little bit of adjustment since the professors left for their 
+trip. But I've brought in <i>new</i> new teachers. And now everything 
+should run smoothly. Now it's time for class. And don't forget, this 
+afternoon is the Spell-venger Hunt!
+<b>Students</b>: [chattering]
+[door slams open]
+[stock gasp sound]
+<b>Discord</b>: [California accent] Yo! Greetings, fellow creatures!
+[flash]
+<b>Discord</b>: Is this seat taken?
+<b>Ocellus</b>: [laughs nervously]
+[poof]
+<b>Trixie</b>: Welcome, class! You may call me the Great and Powerful <i>Professor</i> Trrrrrri—
+[phone ringing]
+<b>Discord</b>: Shhh! Really, that's so inconsiderate!
+[phone ringing]
+[bananaphone ringing]
+<b>Discord</b>: Oh, I better take this. Hello?
+<b>Voice on bananaphone</b>: [garbled sped-up gibberish]
+<b>Discord</b>: Oh, he did not! And what did you say?
+<b>Voice on bananaphone</b>: [garbled sped-up gibberish]
+<b>Discord</b>: [gasps] You did <i>not</i>!
+<b>Trixie</b>: Discord! Why are <i>you</i> here?!
+<b>Discord</b>: Why, I'm a student of friendship, of course. Unless you don't think you're good enough to teach me.
+<b>Trixie</b>: Of course I am! No fruit calls in my class!
+[banana peels]
+<b>Discord</b>: [gulps]
+<b>Trixie</b>: Magic is the most important element of friendship. So, today I, the Great and Powerful Trixie, will put on a magic show!
+<b>Discord</b>: [snaps fingers]
+[Pigasus squeals]
+[ursa major roaring]
+<b>Students</b>: [scream]
+<b>Discord</b>: [chuckles] I'm learning <i>so</i> much. Aren't <i>you</i>?
+<b>Trixie</b>: [growls] <i>Discord!</i>
+[doors close]
+[bananaphone ringing]
+[beep]
+<b>Trixie</b>: Eh, hello?
+<b>Voice on bananaphone</b>: [garbled sped-up gibberish]
+<b>Trixie</b>: Um, what exactly <i>is</i> a long-distance plan?
+<b>Yona</b>: [pants]
+<b>Discord</b>: Take a lap, team!
+<b>Sandbar</b>: Uh, actually, we just finished Professor Spitfire's workout.
+<b>Discord</b>: Sounds like somepony needs a little motivation. [blows whistle]
+[flash]
+<b>Students</b>: [gasp, scream]
+[bugbear growls]
+<b>Silverstream</b>: I've never run so fast in my life! Oh, this is great!
+<b>Sandbar</b>: [pants] Hey, coach, we need a break.
+<b>Discord</b>: Friendship is about honesty. So believe me when I say... <i>we're not stopping!</i> [blows whistle]
+<b>Sandbar</b>: [yelps, pants]
+[bugbear growls]
+<b>Yona</b>: [panting] Yona... can't run... faster...! [grunts]
+[bugbear growls]
+[zap!]
+[bugbear whimpers]
+<b>Starlight Glimmer</b>: Discord, that's enough! Endangering students crosses the line! I don't know <i>why</i> you're trying to ruin this school, but it stops now!
+[flash]
+<b>Discord</b>: I wouldn't be so sure.
+<b>Starlight Glimmer</b>: This is your last warning.
+<b>Spike</b>: Hey-hey-hey! Take it easy, Starlight! Discord's your friend, remember?
+<b>Starlight Glimmer</b>: Well, he's not acting like it!
+<b>Spike</b>: [huffs] She's right, Discord. What's your problem?
+<b>Discord</b>: <i>My</i> problem? How is the fact that Twilight decided to put an incompetent, power-hungry unicorn in charge of her school <i>my problem?!</i>
+<b>Starlight Glimmer</b>: [gasps, yells]
+[zap!]
+[crackles]
+<b>Students</b>: [shudder]
+<b>Starlight Glimmer</b>: [nervous laughter] Don't worry. I just banished him from school grounds forever. He's fine.
+<b>Spike</b>: That probably made things worse. Why didn't you just talk to Discord?
+<b>Starlight Glimmer</b>: Because he's right about <i>one</i> thing. I've been doing a terrible job as headmare.
+<b>Spike</b>: No, you haven't. Discord is just bein'... Discord.
+<b>Starlight Glimmer</b>: Maybe. But I wonder why me being in charge bothers him so much.
+[school bell rings]
+<b>Spike</b>: We can figure that out <i>after</i> the Spell-venger Hunt. C'mon!
+[doors open]
+<b>Starlight Glimmer</b>: For this afternoon's Spell-venger 
+Hunt, you'll need to use the artifacts' history to find where they're 
+hidden in the castle. When you spot one, touch it with a magic shield to
+ keep track of your score.
+<b>Spike</b>: Twilight left the list of your hunt partners before she left. I'll pass out the shields.
+<b>Starlight Glimmer</b>: Ready... set... Spell-venger Hunt!
+[gong strikes]
+<b>Students</b>: [chattering]
+<b>Spike</b>: C'mon! We can use Twilight's observatory to watch the teams!
+<b>Students</b>: [chatter continues]
+<b>Smolder</b>: I hope you know where you're going.
+<b>Ocellus</b>: To the Helm of Yksler!
+<b>Smolder</b>: Eh, works for me.
+<b>Ocellus</b>: In our book, it says Yksler was an honorable 
+yak warrior. Any enemies that saw him put down their weapons in peace. I
+ think his artifact must be in one of these suits of armor.
+<b>Smolder</b>: I'm guessing that one.
+[shields flash]
+<b>Ocellus</b>: Yes! One down, five to go!
+[slaps]
+<b>Starlight Glimmer</b>: Awww, Ocellus and Smolder found their first artifact! Wait. What's that?
+<b>Ocellus</b>: Uh, I don't think that's part of the Spell-venger Hunt!
+<b>Ocellus</b> and <b>Smolder</b>: [scream]
+<b>Ocellus</b>: The school is haunted!
+<b>Smolder</b>: And not cool!
+<b>Starlight Glimmer</b> and <b>Spike</b>: [gasp]
+<b>Silverstream</b>: We're totally gonna win this Spell-venger Hunt!
+<b>Gallus</b>: Yeah, I doubt that. But at least I know where one of the artifacts is. Saw Spike hide it yesterday.
+[thud]
+<b>Gallus</b>: The Crown of Grover! Score!
+[shimmer!]
+<b>Gallus</b>: They say it's magic <i>and</i> King Grover used it to become the first ruler of Griffonstone. I know, pretty sweet, right?
+<b>Silverstream</b>: You paid attention in class!
+<b>Gallus</b>: What?! I-If you ever tell an—
+[slam!]
+<b>Gallus</b>: Whoa!
+<b>Silverstream</b>: 3D painting!
+<b>King Grover Painting</b>: [screeches]
+<b>Gallus</b> and <b>Silverstream</b>: [scream]
+<b>Changeling Painting</b>: [hisses]
+[students screaming]
+<b>Pony Painting</b>: [hisses]
+[students screaming]
+<b>Discord's Ghost</b>: [laughing]
+<b>Starlight Glimmer</b>: Yup, that's definitely Discord. This is not good.
+<b>Spike</b>: I thought you banished him from the school.
+<b>Starlight Glimmer</b>: Only his body. Apparently, his ghost can come and go just fine. Let's go. We have to stop this.
+[lift clanking]
+<b>Spike</b>: How? No offense, but I don't think magic is the answer against Discord.
+<b>Starlight Glimmer</b>: This time, I'm not using magic.
+<b>Yona</b>: Hmm... What Yona look for?
+<b>Sandbar</b>: The Shell of Knuckerbocker. It's like a 
+seashell, but if you blow into it, you call a dragon! There's a sweet 
+poem in our book about it. "Climb to the heights with dragon flight." 
+[gasps] Like flight of stairs!
+<b>Yona</b>: Yona take pony word for it.
+[squish]
+<b>Yona</b>: Huh?
+<b>Sandbar</b>: [grunts] What's happening?!
+<b>Yona</b>: Ugh! Yona not know! But Yona <i>do</i> know Yona not like Spell-venger Hunt!
+<b>Discord's Ghost</b>: [laughing] Boo! Boo! Boo!
+[students screaming]
+<b>Ocellus</b>: [yelps] Whoa!
+<b>Starlight Glimmer</b>: Everycreature, stop!
+<b>Silverstream</b>: B-B-B-But the school is haunted!
+<b>Starlight Glimmer</b>: It's not haunted. It's Discord.
+[poof!]
+<b>Discord's Ghost</b>: Headmare Starlight! Look at me! Look! I won the Spell-venger Hunt! Well done, me! Now what's my prize?
+<b>Spike</b>: Detention.
+<b>Discord's Ghost</b>: Well, that's disappointing.
+<b>Starlight Glimmer</b>: Discord, you can't keep messing up the school.
+<b>Discord's Ghost</b>: On the contrary. I think I rather can. And will.
+<b>Starlight Glimmer</b>: Then I have just one thing to say to you.
+<b>Discord's Ghost</b>: Oh, do go on.
+<b>Starlight Glimmer</b>: I'm sorry.
+<b>Discord's Ghost</b>: What?
+[zap!]
+<b>Starlight Glimmer</b>: I had to stop thinking like a headmare and start thinking like a guidance counselor to finally understand. You felt left out.
+<b>Discord</b>: Uh... [stuttering] I don't know what you're getting at.
+<b>Starlight Glimmer</b>: Nopony ever invited you to the 
+school. And when you offered to help, I didn't listen. I was so worried 
+about doing things Twilight's way, I didn't stop to think about being a 
+good friend. I'd like to apologize for that. And offer you the job of 
+vice headmare.
+<b>Spike</b>: Huh?
+<b>Silverstream</b>: Really?!
+<b>Gallus</b>: What?!
+<b>Ocellus</b>: Why?!
+<b>Yona</b>: No!
+<b>Smolder</b>: Him?!
+<b>Sandbar</b>: Totally confused.
+<b>Discord</b>: I accept! I mean, I-I-I suppose I can find some
+ time in my busy schedule to help you out. But I will need my own 
+office, expense account, parking space...
+<b>Spike</b>: You're new to the world of education, aren't you?
+<b>Starlight Glimmer</b>: Next time you want something, just ask for it, all right?
+<b>Discord</b>: But then we'd miss out on all those delightful misadventures.
+<b>Spike</b>: Hey! Watch the wings!
+<b>Starlight Glimmer</b>: Now, Vice Headmare Discord, if you'll help me get this Spell-venger Hunt back in order.
+<b>Discord</b>: [snaps fingers] Everything is re-hidden.
+[rattling]
+<b>Silverstream</b>: [screams]
+<b>Discord</b>: [chuckles] Well, with a few surprises.
+[doors open]
+<b>Twilight Sparkle</b>: <i>Discord!</i> I can't believe you tricked us into going on a friendship quest that wasn't real!
+<b>Discord</b>: Oh, back so soon?
+<b>Rarity</b>: A glamour spell on our cutie marks?
+<b>Rainbow Dash</b>: A fake summons from the map?
+<b>Pinkie Pie</b>: Hey, at least we got to go spelunking in that really creepy cave with all those eyeless worm creatures chasing us.
+<b>Yona</b>: Oh, Yona so glad ponies back!
+<b>Applejack</b>: Uh, y'all get the feelin' we missed somethin'?
+<b>Twilight Sparkle</b>: Thanks for taking care of the school, Starlight.
+<b>Starlight Glimmer</b>: It was a challenge. Heh. But I think things turned out just the way you'd have handled them.
+<b>Spike</b>: [to Discord] Guess this means you're not vice headmare anymore.
+<b>Discord</b>: Oh, poo! I just ordered business cards!
+[credits]

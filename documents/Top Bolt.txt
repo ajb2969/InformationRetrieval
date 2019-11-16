@@ -1,247 +1,316 @@
-[locker door opens] 
-<b>Rainbow Dash</b>: Spring training was awesome, but I can't wait to see my friends! 
-[locker door closes] 
-<b>Rainbow Dash</b>: I'm gonna catch up on some  <i>Daring Do</i> with Twilight, help Applejack make my favorite cider, and have a sleepover with Pinkie! 
-<b>Misty Fly</b>: We get it. You have a fun week planned. 
-<b>Spitfire</b>: Meanwhile, I'm stuck here running trials week at the Academy. 
-<b>Rainbow Dash</b>: But you love yelling and blowing your whistle. 
-<b>Spitfire</b>: Yeah. I do. 
-<b>Rainbow Dash</b>: See you gals later! 
-[whoosh] 
-<b>Rainbow Dash</b>: [chuckles] 
-[whoosh] <b>Rainbow Dash</b>: [sighs] 
-[cutie mark ringing] 
-<b>Rainbow Dash</b>: Huh? Oh, the map! <b>Rainbow Dash</b>: Hey, Twilight! So where am I going? The Crystal Mountains? Vanhoover? Here? Please say here. 
-<b>Twilight Sparkle</b>: Well, the good news is we both got called by the map! 
-<b>Rainbow Dash</b>: Awesome! [beat] Does that mean there's bad news? 
-<b>Twilight Sparkle</b>: No. Well, not exactly. 
-<b>Rainbow Dash</b>: [groans] I was just there! [whoosh] 
-<b>Twilight Sparkle</b>: Ooh! 
-<b>Rainbow Dash</b>: Ahem. 
-<b>Spitfire</b>: All right, newbies! Welcome to trials week for the Wonderbolt Academy! You'll be judged on your speed, strength, agility, and technique, culminating in a final evaluation. Will it be hard? Yes! Will you cry? Maybe. Will you fly so much your wings fall off? That has only happened once. 
-<b>Angel Wings</b>: She's just exaggerating to make a point, right? I mean, wings can't really fall off... can they? 
-<b>Spitfire</b>: You think you've got what it takes to be an elite flyer? 
-<b>Sky Stinger</b>: Yes, ma'am. 
-<b>Rest of recruits</b>: Yes, ma'am! 
-<b>Spitfire</b>: Well, lemme tell you. You don't! 
-<b>Rainbow Dash</b>: [sighs wistfully] I remember when she said that to me. 
-<b>Recruits</b>: [muttering in awe] 
-<b>Angel Wings</b>: You don't think Rainbow Dash is the pony whose wings fell off, do you? 
-<b>Spitfire</b>: [blows whistle] Quit your whispering and give me five hundred laps! Go, go, go! 
-[whooshes] 
-<b>Angel Wings</b>: Um, I just wanted you to know, you two are my favorite ponies in all of Equestria. 
-<b>Spitfire</b>: Well, isn't that sweet?  <i>Now get going on those laps!</i> 
-[whoosh] 
-<b>Spitfire</b>: Welcome, Princess Twilight. [to Rainbow Dash] What are you doing back so soon? 
-<b>Rainbow Dash</b>: Official friendship business. 
-<b>Twilight Sparkle</b>: Have you noticed anypony having a hard time with their friends? 
-<b>Spitfire</b>: Not really, but it's not my job to worry about their relationships. I'm here to make them elite flyers. 
-<b>Rainbow Dash</b>: [sighs] Adorable. They're so full of hope and competition. Eh, their technique could use some work, though. 
-<b>Twilight Sparkle</b>: You should tell them. I'm sure they'd appreciate any notes from you. 
-<b>Rainbow Dash</b>: Nah. I wouldn't want to mess with their confidence. 
-<b>Twilight Sparkle</b>: But they'll never get better if they don't know what to work on. 
-<b>Spitfire</b>: Sloppy wing placement, crooked lines... I'm gonna have to drill them on basic technique in the classroom portion. 
-<b>Twilight Sparkle</b>: Classroom portion? 
-<b>Spitfire</b>: Yeah, it's everypony's least favorite part of trial week, but it has to be done. 
-<b>Twilight Sparkle</b>: Maybe we  <i>can</i> help! 
-<b>Rainbow Dash</b>: We can? 
-<b>Twilight Sparkle</b>: Absolutely! Between  <i>your</i> flying skills and  <i>my</i> teaching expertise, they could learn a lot! Plus, once they get to know us, they'll be more comfortable coming to us with their friendship problems! 
-<b>Rainbow Dash</b>: Count us in! 
-<b>Spitfire</b>: Great! [blows whistle] 
-[whooshes, thud] 
-<b>Spitfire</b>: You have your work cut out for you. <b>Twilight Sparkle</b>: Thank goodness I had time to whip up a few charts on flight patterns and wing symmetry! It's fresh in my mind from when I learned to fly!  <i>This is so exciting!</i> 
-<b>Rainbow Dash</b>: Maybe for you. I practically fell asleep when I went through this. Tell you what. I'll leave the teaching stuff to you, and I'll just make sure they stay awake! [blows airhorn] 
-[Twilight's ears ringing] 
-<b>Twilight Sparkle</b>: I'm pretty sure their thirst for knowledge will keep them bright-eyed and bushy-tailed. 
-<b>Rainbow Dash</b>: [chuckles] Good one, Twilight. [door opens] 
-<b>Rainbow Dash</b>: [blows airhorn] 
-<b>Recruits</b>: [gasping] 
-<b>Rainbow Dash</b>: Wake up, newbies! Class is in session! 
-<b>Twilight Sparkle</b>: Hello, students! I'm Twilight Sparkle, and this is Rainbow Dash. 
-<b>Rainbow Dash</b>: But you can call us "T-Sparks" and "The Dashinator"! 
-<b>Twilight Sparkle</b>: [clears throat] 
-<b>Rainbow Dash</b>: [laughs nervously] Just kidding. 
-<b>Twilight Sparkle</b>: And we're here to go over basic flying technique. 
-<b>Sky Stinger</b>: [groans] 
-<b>Rainbow Dash</b>: Who said that?! 
-<b>Sky Stinger</b>: Me. I mean, we're here because we're amazingly awesome crazy-good flyers. We're  <i>way</i> past basics. 
-<b>Rainbow Dash</b>: What's your name? 
-<b>Sky Stinger</b>: Sky Stinger. You've, uh, never heard of me? 
-<b>Vapor Trail</b>: He set the record for the fastest vertical acceleration rate! Five hundred feet in two seconds! 
-<b>Rainbow Dash</b>: [unimpressed] Huh. That's pretty impressive. 
-<b>Vapor Trail</b>: It's amazing. 
-<b>Twilight Sparkle</b>: [clears throat] It  <i>is</i>, and we can talk personal records after class, Ms...? 
-<b>Sky Stinger</b>: Vapor Trail. She's my wingpony. I never fly without her. 
-<b>Rainbow Dash</b>: But you'll have to in the solo trials. 
-<b>Vapor Trail</b>: There are... [gulps] ...solo trials? 
-<b>Rainbow Dash</b>: Yup. It's a part of your final evaluation. 
-<b>Sky Stinger</b>: [scoffs] We'll ace that test with our wings tied behind our flanks. My picture will go right up there, next to yours. 
-<b>Rainbow Dash</b>: That's a mighty big claim, considering everypony here is an amazingly awesome crazy-good flyer. 
-<b>Sky Stinger</b>: I know. 
-<b>Twilight Sparkle</b>: [clears throat] Okay! Let's get back on track. Now, who can tell me the best wing angle to achieve minimal air resistance? 
-<b>Rainbow Dash</b>: [snoring] 
-<b>Twilight Sparkle</b>: [blows airhorn] 
-<b>Rainbow Dash</b>: [quickly] Wake up newbies! Class is in session! [door opens] 
-<b>Recruits</b>: [chattering] 
-<b>Twilight Sparkle</b>: Well, there were a few hiccups, but overall, that went pretty well. 
-<b>Rainbow Dash</b>: [cricks neck, yawns] Yeah, nopony fell asleep. What? I'm not a student! 
-<b>Sky Stinger</b>: Hey, Teach! 
-<b>Rainbow Dash</b>: Me or Twilight? Probably Twilight. 
-<b>Sky Stinger</b>: Um, uh, both. About the solo test. I'm actually kinda worried about it. 
-<b>Twilight Sparkle</b>: Aw, that's all right. We all have moments where we doubt ourselves. 
-<b>Sky Stinger</b>: No, no. I've absolutely zero doubts about myself. I'm a strong flyer. Like, really, really,  <i>really</i> strong. This isn't about me. I'm worried for Vapor. 
-<b>Twilight Sparkle</b>: Oh, well, that is very... kind of you? 
-<b>Rainbow Dash</b>: Tell you what. It's almost time for your freestyle training. Why don't you grab her and show us what you got? 
-<b>Sky Stinger</b>: Yes! Prepare to be impressed! 
-[whoosh] 
-<b>Sky Stinger</b>: By me. 
-[whoosh] 
-<b>Sky Stinger</b>: Like I said, Vapor still needs work. 
-[whoosh] [whooshing] 
-<b>Twilight Sparkle</b>: Well, he may be full of himself, but I have to admit, Sky is an excellent flyer. He must have shot up two hundred feet! 
-<b>Rainbow Dash</b>: But did you see Vapor Trail? Her wing was under his. I think she gave him a boost. 
-<b>Twilight Sparkle</b>: I guess I didn't even notice Vapor. I was too busy watching Sky. 
-[whooshing] 
-<b>Twilight Sparkle</b>: [gasps] I think you're right! Vapor just created a gust of wind that caught Sky's wing at a forty-five degree angle, propelling him into a flipping loop! [beat] Somepony paid attention in class! 
-<b>Rainbow Dash</b>: Sky obviously has no idea he's not actually amazingly awesome. 
-<b>Twilight Sparkle</b>: And Vapor's so busy making her friend look good, she's not focused on her own flying at all. [gasps] This must be our friendship problem! And there's only one thing to do! <b>Rainbow Dash</b>: 
-Fix it without telling them. <b>Twilight Sparkle</b>: 
-Tell them the truth. [distant whooshing] 
-<b>Twilight Sparkle</b>: You don't want to tell them? 
-<b>Rainbow Dash</b>: Of course not! Flying is like thirty percent skill and seventy percent confidence! You can't mess with a flyer's confidence! 
-<b>Twilight Sparkle</b>: But you can't improve if you don't think you have to! Besides, Vapor's keeping a pretty big secret from Sky, and that could lead to trouble! 
-<b>Rainbow Dash</b>: Yeah, but if we tell them that they've been holding each other back, that could be trouble too! 
-<b>Sky Stinger</b>: Ah, I nailed that flipping loop. I'm actually surprised you're still here. Thought I blew you away. 
-<b>Vapor Trail</b>: [out of breath] You were... great, Sky. 
-[thud] 
-<b>Spitfire</b>: Come on, Vapor Trail! You're gonna have to build up your endurance if you want a shot at the Academy! Wonderbolts don't get winded! Angel Wings, you call that cloud-busting?! That cloud barely knew you were there! I love my job. 
-<b>Sky Stinger</b>: We'll keep working, and who knows? One day, you might come close to being almost as good as me. 
-<b>Vapor Trail</b>: Oh, I don't think so. You were voted Stratusburg's most promising flyer! I was voted best sneeze. [sneezes] 
-<b>Sky Stinger</b>: You do have a really great sneeze. 
-<b>Vapor Trail</b>: Thanks, Sky, but I don't think I can sneeze my way into the Academy. [sighs] I'm pretty beat. I'm gonna hit the showers. 
-<b>Sky Stinger</b>: You  <i>have</i> to help her. 
-<b>Twilight Sparkle</b>: Actually, she's not the one— 
-<b>Rainbow Dash</b>: Will do! [locker opens] 
-<b>Rainbow Dash</b>: Hey, you did great. You're a really strong flyer. 
-<b>Vapor Trail</b>: Uh, me? 
-<b>Twilight Sparkle</b>: Vapor Trail, we know what you've been doing. 
-<b>Rainbow Dash</b>: You've been doing  <i>great</i>! 
-<b>Twilight Sparkle</b>: [groans] You've been helping Sky! 
-<b>Vapor Trail</b>: Uh, I don't know what you're talking about! Sky doesn't need anypony's help. He's amazing. 
-[poink poink] 
-<b>Rainbow Dash</b>: [sighs] Not without you. And it's gonna be pretty obvious during the solo trials when he can't get enough air to do a flipping loop. 
-<b>Vapor Trail</b>: Oh, no! I can't let that happen! I mean, ah, uh... Aw, sugarcubes! 
-<b>Twilight Sparkle</b>: Why are you doing this for him? 
-<b>Vapor Trail</b>: [sighs] It started when we were kids. You have to understand... <b>Vapor Trail</b>: [narrating] ...Sky grew up with a lot of siblings. It was tough. He was always trying to get his parents' attention. Meanwhile, I was an only child who hated all the attention I got from mine. 
-<b>"Twirly Whirly"</b>: Vapor Trail! Where are you? Do you need a snack? Do you wanna do homework? 
-<b>"Steer Straight"</b>: Or we can just spend some time together! All day is never enough! 
-<b>Young Vapor Trail</b>: [sighs] 
-<b>Young Sky Stinger</b>: Mom, Dad, I'm here! Look, look, look-look-look-look, hey! Mom, Dad, can you see? 
-[wind blowing] 
-[whooshing, baby crying] 
-<b>Young Sky Stinger</b>: [sighs] 
-<b>Young Vapor Trail</b>: Whoa, that was amazing! 
-[whoosh] <b>Vapor Trail</b>: [narrating] Flying together gave us both what we wanted! But I never told Sky how much I was helping him. It started with a small boost here or a little gust of wind there, but I didn't think my help could actually hurt his chances. 
-<b>Twilight Sparkle</b>: I understand. But now you're  <i>both</i> in trouble! 
-<b>Rainbow Dash</b>: You need to work on your tricks, and Sky needs to be able to fly without you or he won't make it. 
-<b>Vapor Trail</b>: Oh, but he has to! Flying with the Wonderbolts has been Sky's dream ever since he was a colt! 
-<b>Twilight Sparkle</b>: What about you? 
-<b>Vapor Trail</b>: I... I guess I haven't thought about it. I just want to be with my best friend. 
-<b>Rainbow Dash</b>: Then we have to find a way to help both of you. 
-<b>Twilight Sparkle</b>: Starting with telling Sky the truth. 
-<b>Vapor Trail</b>: No, you can't! Sky will be crushed! And without his confidence, he won't fly as well! 
-<b>Twilight Sparkle</b>: [sighs] Then I guess we'll give Dash's method a shot. 
-<b>Rainbow Dash</b>: Yes! Hah-hah! I love being right! Okay, here's what we do. Sky needs to build his strength. Air drills, wing lifts, all that boring methodical stuff. 
-<b>Twilight Sparkle</b>: Sounds like my cup of oats. 
-<b>Vapor Trail</b>: But how will we get him to do that? He doesn't think he needs practice. 
-<b>Rainbow Dash</b>: We'll just tell Sky that he should practice with Twilight so you won't feel so self-conscious about getting special training from me. 
-<b>Vapor Trail</b>: With you? Really?! You'd do that for me? 
-<b>Rainbow Dash</b>: Hah. You say that like it's not gonna be a blast. [montage music] 
-[thud] <b>Vapor Trail</b>: Whooa... Ah! [clang, clang, clang, clang] [whooshing] [wind blowing] [tires screeching] 
-<b>Rainbow Dash</b>: Oh, you were awesome! 
-<b>Vapor Trail</b>: Really? Thanks! I can't believe I was able to keep up! 
-<b>Rainbow Dash</b>: That's the first nice thing I've heard you say about yourself. 
-<b>Sky Stinger</b>: Hey, can we switch now? I want to do tricks with Rainbow Dash! 
-<b>Vapor Trail</b>: You can't! I mean, uh, you're already so good at the fancy stuff! 
-<b>Sky Stinger</b>: Heh. And the basic stuff. [beat] You're right, I don't need to practice at all. 
-<b>Vapor Trail</b>: Um, maybe, Sky, you should... 
-<b>Sky Stinger</b>: I'm already the best and everypony's gonna know it when I'm asked to join the Academy tomorrow. 
-<b>Vapor Trail</b>: But not if you don't practice...! 
-<b>Sky Stinger</b>: Heh. I wouldn't be surprised if they asked me to become a Wonderbolt straight out of the trials. Boom, dream achieved. 
-<b>Vapor Trail</b>: [squealing]  <i>Sky, you're not as good as you think you are!</i> [gasps] 
-[beat] 
-<b>Sky Stinger</b>: What did you say? 
-<b>Vapor Trail</b>: [sighs] Sky, I want you to get in as much as anypony, and you're amazing, but... 
-<b>Sky Stinger</b>: But what? 
-<b>Vapor Trail</b>: I've been... helping you. 
-<b>Sky Stinger</b>: [scoffs] Puh-lease! I don't need  <i>your</i> help! Watch! [straining] 
-<b>Rainbow Dash</b>: Gyuh... 
-[thud] 
-<b>Sky Stinger</b>: [panting] How can you do this to me? Did you  <i>all</i> know? Oh, great. So everypony but me knows I'm a joke. Was this your plan the whole time? To embarrass me? 
-<b>Vapor Trail</b>: What? No! Don't you know me at all? 
-<b>Sky Stinger</b>: I guess not, since it took me this long to find out you're a terrible wingpony! 
-<b>Vapor Trail</b>: [gasps] I can't believe you! 
-<b>Sky Stinger</b>:  <i>I</i> can't believe I was ever your friend! 
-[whoosh] 
-<b>Vapor Trail</b>: Thanks a lot. [Dizzitron whirring] 
-<b>Rainbow Dash</b>: Do you think they're still mad? 
-[beat] 
-<b>Rainbow Dash</b>: Yeah, they're still mad. 
-<b>Twilight Sparkle</b>: This is all my fault. If we'd just done things your way, maybe we could have avoided this whole mess. 
-<b>Rainbow Dash</b>: No, it's  <i>my</i> fault. It hit me when I was watching Sky train with you. He wasn't even trying! 
-[Dizzitron whirring] 
-[thud] 
-<b>Rainbow Dash</b>: Oh, no. He's lost his confidence. 
-<b>Spitfire</b>: Do you want to tell me why one of my most promising students is flying like a balloon with a hole in it?! 
-<b>Rainbow Dash</b>: Uh, it's a long story, but we'll fix it. 
-<b>Spitfire</b>: Yes, you will. [blows whistle] 
-[thud] 
-<b>Rainbow Dash</b>: [groans] We really messed up, huh? 
-<b>Twilight Sparkle</b>: I have a plan. <b>Sky Stinger</b>: [straining] 
-<b>Twilight Sparkle</b>: Hey, Sky. I thought I might find you here. 
-<b>Sky Stinger</b>: Well, apparently, I need a lot of practice. Guess I'm not the natural I thought I was. 
-<b>Twilight Sparkle</b>: No, you're not. 
-<b>Sky Stinger</b>: [sarcastic] Thanks. Good pep talk. 
-<b>Twilight Sparkle</b>: I wasn't a natural at friendship. But with some practice and help from my friends, I got better, and now I'm the Princess of Friendship! 
-<b>Sky Stinger</b>: So you're saying I can be the... Princess of Flying? [whoosh] 
-<b>Rainbow Dash</b>: You know, you're really good. You're lead pony material. 
-<b>Vapor Trail</b>: Hm. That's sweet of you, but no. I couldn't handle all the attention. 
-<b>Rainbow Dash</b>: But you'll never become a Wonderbolt if you're too afraid to shine. That  <i>is</i> what you want, right? 
-<b>Vapor Trail</b>: Well, not at first. I just wanted to be with Sky. But learning to do all those fun tricks with you? It made me realize this  <i>is</i> something I want for myself! 
-<b>Rainbow Dash</b>: I was hoping you'd say that. Come with me. <b>Sky Stinger</b>: What's  <i>she</i> doing here? 
-<b>Rainbow Dash</b>: Sky, Vapor was never trying to steal your spotlight. She thought she was helping you. 
-<b>Twilight Sparkle</b>: And Vapor, you shouldn't have been so content to take a back seat. 
-<b>Rainbow Dash</b>: Now, you can either stay mad, or help each other and become two of the greatest flyers the Wonderbolt Academy has ever seen! [beat] Please pick the second option. I don't want Spitfire to be mad at me. 
-[whoosh] [wind blowing] 
-<b>Vapor Trail</b>: You got this, Sky! <b>Sky Stinger</b>: Focus on a cloud when you spin! It'll help you fly straight when you come out of it! 
-<b>Vapor Trail</b>: Uh-huh! 
-[whoosh] [scribbling] 
-[whoosh] 
-[stopwatch ticking] 
-<b>Vapor Trail</b>: [whooping] 
-[tires screeching] [whoosh] 
-<b>Sky Stinger</b>: Whoo, yeah! [laughs] 
-[tires screeching] [whooshing] 
-<b>Rainbow Dash</b> and  <b>Twilight Sparkle</b>: [cheering] 
-[tires screeching] 
-<b>Recruits</b>: [cheering] 
-<b>Spitfire</b>: Congratulations! You've both made it into the Wonderbolt Academy! 
-[flump] 
-<b>Spitfire</b>: Whatever you did, it worked. They still have a lot of potential. Who knows? They might even be better than you, Crash. 
-<b>Rainbow Dash</b>: [laughing] Okay, let's not get carried away. 
-<b>Angel Wings</b>: Um, I just wanted you to know, you two are my new favorite ponies in all of Equestria. 
-<b>Rainbow Dash</b>: Hey, I heard that! 
-<b>Vapor Trail</b>: I can't believe we did it! 
-<b>Sky Stinger</b>: You were great! Even though you can out-fly me, you can be my wingpony anytime. 
-<b>Vapor Trail</b>: Aw. [chuckles] And you can be mine. 
-[cutie marks ringing] [doors open] 
-<b>Rainbow Dash</b>: [spine clicking] 
-[doors close] 
-<b>Twilight Sparkle</b>: Phew. It's good to be home. 
-<b>Rainbow Dash</b>: [sighs] You're telling me. Now we can finally catch up with some  <i>Daring Do</i>, I can make cider with Applejack— 
-[knocking] 
-[door opens] 
-<b>Misty Fly</b>: Dash! I've been looking all over for you! Wonderbolt emergency! We got to get back to HQ. 
-<b>Rainbow Dash</b>: You've gotta be kidding me!  <i>I was just there!</i> [sighs] 
-[thud] 
-<b>Twilight Sparkle</b>: [laughing] [credits] 
+[locker door opens]
+<b>Rainbow Dash</b>: Spring training was awesome, but I can't wait to see my friends!
+[locker door closes]
+<b>Rainbow Dash</b>: I'm gonna catch up on some <i>Daring Do</i> with Twilight, help Applejack make my favorite cider, and have a sleepover with Pinkie!
+<b>Misty Fly</b>: We get it. You have a fun week planned.
+<b>Spitfire</b>: Meanwhile, I'm stuck here running trials week at the Academy.
+<b>Rainbow Dash</b>: But you love yelling and blowing your whistle.
+<b>Spitfire</b>: Yeah. I do.
+<b>Rainbow Dash</b>: See you gals later!
+[whoosh]
+<b>Rainbow Dash</b>: [chuckles]
+[whoosh]
+<b>Rainbow Dash</b>: [sighs]
+[cutie mark ringing]
+<b>Rainbow Dash</b>: Huh? Oh, the map!
+<b>Rainbow Dash</b>: Hey, Twilight! So where am I going? The Crystal Mountains? Vanhoover? Here? Please say here.
+<b>Twilight Sparkle</b>: Well, the good news is we both got called by the map!
+<b>Rainbow Dash</b>: Awesome! [beat] Does that mean there's bad news?
+<b>Twilight Sparkle</b>: No. Well, not exactly.
+<b>Rainbow Dash</b>: [groans] I was just there!
+[theme song]
+[whoosh]
+<b>Twilight Sparkle</b>: Ooh!
+<b>Rainbow Dash</b>: Ahem.
+<b>Spitfire</b>: All right, newbies! Welcome to trials week for
+ the Wonderbolt Academy! You'll be judged on your speed, strength, 
+agility, and technique, culminating in a final evaluation. Will it be 
+hard? Yes! Will you cry? Maybe. Will you fly so much your wings fall 
+off? That has only happened once.
+<b>Angel Wings</b>: She's just exaggerating to make a point, right? I mean, wings can't really fall off... can they?
+<b>Spitfire</b>: You think you've got what it takes to be an elite flyer?
+<b>Sky Stinger</b>: Yes, ma'am.
+<b>Rest of recruits</b>: Yes, ma'am!
+<b>Spitfire</b>: Well, lemme tell you. You don't!
+<b>Rainbow Dash</b>: [sighs wistfully] I remember when she said that to me.
+<b>Recruits</b>: [muttering in awe]
+<b>Angel Wings</b>: You don't think Rainbow Dash is the pony whose wings fell off, do you?
+<b>Spitfire</b>: [blows whistle] Quit your whispering and give me five hundred laps! Go, go, go!
+[whooshes]
+<b>Angel Wings</b>: Um, I just wanted you to know, you two are my favorite ponies in all of Equestria.
+<b>Spitfire</b>: Well, isn't that sweet? <i>Now get going on those laps!</i>
+[whoosh]
+<b>Spitfire</b>: Welcome, Princess Twilight. [to Rainbow Dash] What are you doing back so soon?
+<b>Rainbow Dash</b>: Official friendship business.
+<b>Twilight Sparkle</b>: Have you noticed anypony having a hard time with their friends?
+<b>Spitfire</b>: Not really, but it's not my job to worry about their relationships. I'm here to make them elite flyers.
+<b>Rainbow Dash</b>: [sighs] Adorable. They're so full of hope and competition. Eh, their technique could use some work, though.
+<b>Twilight Sparkle</b>: You should tell them. I'm sure they'd appreciate any notes from you.
+<b>Rainbow Dash</b>: Nah. I wouldn't want to mess with their confidence.
+<b>Twilight Sparkle</b>: But they'll never get better if they don't know what to work on.
+<b>Spitfire</b>: Sloppy wing placement, crooked lines... I'm gonna have to drill them on basic technique in the classroom portion.
+<b>Twilight Sparkle</b>: Classroom portion?
+<b>Spitfire</b>: Yeah, it's everypony's least favorite part of trial week, but it has to be done.
+<b>Twilight Sparkle</b>: Maybe we <i>can</i> help!
+<b>Rainbow Dash</b>: We can?
+<b>Twilight Sparkle</b>: Absolutely! Between <i>your</i> flying skills and <i>my</i>
+ teaching expertise, they could learn a lot! Plus, once they get to know
+ us, they'll be more comfortable coming to us with their friendship 
+problems!
+<b>Rainbow Dash</b>: Count us in!
+<b>Spitfire</b>: Great! [blows whistle]
+[whooshes, thud]
+<b>Spitfire</b>: You have your work cut out for you.
+<b>Twilight Sparkle</b>: Thank goodness I had time to whip up a 
+few charts on flight patterns and wing symmetry! It's fresh in my mind 
+from when I learned to fly! <i>This is so exciting!</i>
+<b>Rainbow Dash</b>: Maybe for you. I practically fell asleep 
+when I went through this. Tell you what. I'll leave the teaching stuff 
+to you, and I'll just make sure they stay awake! [blows airhorn]
+[Twilight's ears ringing]
+<b>Twilight Sparkle</b>: I'm pretty sure their thirst for knowledge will keep them bright-eyed and bushy-tailed.
+<b>Rainbow Dash</b>: [chuckles] Good one, Twilight.
+[door opens]
+<b>Rainbow Dash</b>: [blows airhorn]
+<b>Recruits</b>: [gasping]
+<b>Rainbow Dash</b>: Wake up, newbies! Class is in session!
+<b>Twilight Sparkle</b>: Hello, students! I'm Twilight Sparkle, and this is Rainbow Dash.
+<b>Rainbow Dash</b>: But you can call us "T-Sparks" and "The Dashinator"!
+<b>Twilight Sparkle</b>: [clears throat]
+<b>Rainbow Dash</b>: [laughs nervously] Just kidding.
+<b>Twilight Sparkle</b>: And we're here to go over basic flying technique.
+<b>Sky Stinger</b>: [groans]
+<b>Rainbow Dash</b>: Who said that?!
+<b>Sky Stinger</b>: Me. I mean, we're here because we're amazingly awesome crazy-good flyers. We're <i>way</i> past basics.
+<b>Rainbow Dash</b>: What's your name?
+<b>Sky Stinger</b>: Sky Stinger. You've, uh, never heard of me?
+<b>Vapor Trail</b>: He set the record for the fastest vertical acceleration rate! Five hundred feet in two seconds!
+<b>Rainbow Dash</b>: [unimpressed] Huh. That's pretty impressive.
+<b>Vapor Trail</b>: It's amazing.
+<b>Twilight Sparkle</b>: [clears throat] It <i>is</i>, and we can talk personal records after class, Ms...?
+<b>Sky Stinger</b>: Vapor Trail. She's my wingpony. I never fly without her.
+<b>Rainbow Dash</b>: But you'll have to in the solo trials.
+<b>Vapor Trail</b>: There are... [gulps] ...solo trials?
+<b>Rainbow Dash</b>: Yup. It's a part of your final evaluation.
+<b>Sky Stinger</b>: [scoffs] We'll ace that test with our wings tied behind our flanks. My picture will go right up there, next to yours.
+<b>Rainbow Dash</b>: That's a mighty big claim, considering everypony here is an amazingly awesome crazy-good flyer.
+<b>Sky Stinger</b>: I know.
+<b>Twilight Sparkle</b>: [clears throat] Okay! Let's get back on track. Now, who can tell me the best wing angle to achieve minimal air resistance?
+<b>Rainbow Dash</b>: [snoring]
+<b>Twilight Sparkle</b>: [blows airhorn]
+<b>Rainbow Dash</b>: [quickly] Wake up newbies! Class is in session!
+[door opens]
+<b>Recruits</b>: [chattering]
+<b>Twilight Sparkle</b>: Well, there were a few hiccups, but overall, that went pretty well.
+<b>Rainbow Dash</b>: [cricks neck, yawns] Yeah, nopony fell asleep. What? I'm not a student!
+<b>Sky Stinger</b>: Hey, Teach!
+<b>Rainbow Dash</b>: Me or Twilight? Probably Twilight.
+<b>Sky Stinger</b>: Um, uh, both. About the solo test. I'm actually kinda worried about it.
+<b>Twilight Sparkle</b>: Aw, that's all right. We all have moments where we doubt ourselves.
+<b>Sky Stinger</b>: No, no. I've absolutely zero doubts about myself. I'm a strong flyer. Like, really, really, <i>really</i> strong. This isn't about me. I'm worried for Vapor.
+<b>Twilight Sparkle</b>: Oh, well, that is very... kind of you?
+<b>Rainbow Dash</b>: Tell you what. It's almost time for your freestyle training. Why don't you grab her and show us what you got?
+<b>Sky Stinger</b>: Yes! Prepare to be impressed!
+[whoosh]
+<b>Sky Stinger</b>: By me.
+[whoosh]
+<b>Sky Stinger</b>: Like I said, Vapor still needs work.
+[whoosh]
+[whooshing]
+<b>Twilight Sparkle</b>: Well, he may be full of himself, but I have to admit, Sky is an excellent flyer. He must have shot up two hundred feet!
+<b>Rainbow Dash</b>: But did you see Vapor Trail? Her wing was under his. I think she gave him a boost.
+<b>Twilight Sparkle</b>: I guess I didn't even notice Vapor. I was too busy watching Sky.
+[whooshing]
+<b>Twilight Sparkle</b>: [gasps] I think you're right! Vapor 
+just created a gust of wind that caught Sky's wing at a forty-five 
+degree angle, propelling him into a flipping loop! [beat] Somepony paid 
+attention in class!
+<b>Rainbow Dash</b>: Sky obviously has no idea he's not actually amazingly awesome.
+<b>Twilight Sparkle</b>: And Vapor's so busy making her friend 
+look good, she's not focused on her own flying at all. [gasps] This must
+ be our friendship problem! And there's only one thing to do!
+<b>Rainbow Dash</b>:
+Fix it without telling them.
+<b>Twilight Sparkle</b>:
+Tell them the truth.
+[distant whooshing]
+<b>Twilight Sparkle</b>: You don't want to tell them?
+<b>Rainbow Dash</b>: Of course not! Flying is like thirty percent skill and seventy percent confidence! You can't mess with a flyer's confidence!
+<b>Twilight Sparkle</b>: But you can't improve if you don't 
+think you have to! Besides, Vapor's keeping a pretty big secret from 
+Sky, and that could lead to trouble!
+<b>Rainbow Dash</b>: Yeah, but if we tell them that they've been holding each other back, that could be trouble too!
+<b>Sky Stinger</b>: Ah, I nailed that flipping loop. I'm actually surprised you're still here. Thought I blew you away.
+<b>Vapor Trail</b>: [out of breath] You were... great, Sky.
+[thud]
+<b>Spitfire</b>: Come on, Vapor Trail! You're gonna have to 
+build up your endurance if you want a shot at the Academy! Wonderbolts 
+don't get winded! Angel Wings, you call that cloud-busting?! That cloud 
+barely knew you were there! I love my job.
+<b>Sky Stinger</b>: We'll keep working, and who knows? One day, you might come close to being almost as good as me.
+<b>Vapor Trail</b>: Oh, I don't think so. You were voted Stratusburg's most promising flyer! I was voted best sneeze. [sneezes]
+<b>Sky Stinger</b>: You do have a really great sneeze.
+<b>Vapor Trail</b>: Thanks, Sky, but I don't think I can sneeze my way into the Academy. [sighs] I'm pretty beat. I'm gonna hit the showers.
+<b>Sky Stinger</b>: You <i>have</i> to help her.
+<b>Twilight Sparkle</b>: Actually, she's not the one—
+<b>Rainbow Dash</b>: Will do!
+[locker opens]
+<b>Rainbow Dash</b>: Hey, you did great. You're a really strong flyer.
+<b>Vapor Trail</b>: Uh, me?
+<b>Twilight Sparkle</b>: Vapor Trail, we know what you've been doing.
+<b>Rainbow Dash</b>: You've been doing <i>great</i>!
+<b>Twilight Sparkle</b>: [groans] You've been helping Sky!
+<b>Vapor Trail</b>: Uh, I don't know what you're talking about! Sky doesn't need anypony's help. He's amazing.
+[poink poink]
+<b>Rainbow Dash</b>: [sighs] Not without you. And it's gonna be
+ pretty obvious during the solo trials when he can't get enough air to 
+do a flipping loop.
+<b>Vapor Trail</b>: Oh, no! I can't let that happen! I mean, ah, uh... Aw, sugarcubes!
+<b>Twilight Sparkle</b>: Why are you doing this for him?
+<b>Vapor Trail</b>: [sighs] It started when we were kids. You have to understand...
+<b>Vapor Trail</b>: [narrating] ...Sky grew up with a lot of 
+siblings. It was tough. He was always trying to get his parents' 
+attention. Meanwhile, I was an only child who hated all the attention I 
+got from mine.
+<b>"Twirly Whirly"</b>: Vapor Trail! Where are you? Do you need a snack? Do you wanna do homework?
+<b>"Steer Straight"</b>: Or we can just spend some time together! All day is never enough!
+<b>Young Vapor Trail</b>: [sighs]
+<b>Young Sky Stinger</b>: Mom, Dad, I'm here! Look, look, look-look-look-look, hey! Mom, Dad, can you see?
+[wind blowing]
+[whooshing, baby crying]
+<b>Young Sky Stinger</b>: [sighs]
+<b>Young Vapor Trail</b>: Whoa, that was amazing!
+[whoosh]
+<b>Vapor Trail</b>: [narrating] Flying together gave us both 
+what we wanted! But I never told Sky how much I was helping him. It 
+started with a small boost here or a little gust of wind there, but I 
+didn't think my help could actually hurt his chances.
+<b>Twilight Sparkle</b>: I understand. But now you're <i>both</i> in trouble!
+<b>Rainbow Dash</b>: You need to work on your tricks, and Sky needs to be able to fly without you or he won't make it.
+<b>Vapor Trail</b>: Oh, but he has to! Flying with the Wonderbolts has been Sky's dream ever since he was a colt!
+<b>Twilight Sparkle</b>: What about you?
+<b>Vapor Trail</b>: I... I guess I haven't thought about it. I just want to be with my best friend.
+<b>Rainbow Dash</b>: Then we have to find a way to help both of you.
+<b>Twilight Sparkle</b>: Starting with telling Sky the truth.
+<b>Vapor Trail</b>: No, you can't! Sky will be crushed! And without his confidence, he won't fly as well!
+<b>Twilight Sparkle</b>: [sighs] Then I guess we'll give Dash's method a shot.
+<b>Rainbow Dash</b>: Yes! Hah-hah! I love being right! Okay, 
+here's what we do. Sky needs to build his strength. Air drills, wing 
+lifts, all that boring methodical stuff.
+<b>Twilight Sparkle</b>: Sounds like my cup of oats.
+<b>Vapor Trail</b>: But how will we get him to do that? He doesn't think he needs practice.
+<b>Rainbow Dash</b>: We'll just tell Sky that he should 
+practice with Twilight so you won't feel so self-conscious about getting
+ special training from me.
+<b>Vapor Trail</b>: With you? Really?! You'd do that for me?
+<b>Rainbow Dash</b>: Hah. You say that like it's not gonna be a blast.
+[montage music]
+[thud]
+<b>Vapor Trail</b>: Whooa... Ah!
+[clang, clang, clang, clang]
+[whooshing]
+[wind blowing]
+[tires screeching]
+<b>Rainbow Dash</b>: Oh, you were awesome!
+<b>Vapor Trail</b>: Really? Thanks! I can't believe I was able to keep up!
+<b>Rainbow Dash</b>: That's the first nice thing I've heard you say about yourself.
+<b>Sky Stinger</b>: Hey, can we switch now? I want to do tricks with Rainbow Dash!
+<b>Vapor Trail</b>: You can't! I mean, uh, you're already so good at the fancy stuff!
+<b>Sky Stinger</b>: Heh. And the basic stuff. [beat] You're right, I don't need to practice at all.
+<b>Vapor Trail</b>: Um, maybe, Sky, you should...
+<b>Sky Stinger</b>: I'm already the best and everypony's gonna know it when I'm asked to join the Academy tomorrow.
+<b>Vapor Trail</b>: But not if you don't practice...!
+<b>Sky Stinger</b>: Heh. I wouldn't be surprised if they asked me to become a Wonderbolt straight out of the trials. Boom, dream achieved.
+<b>Vapor Trail</b>: [squealing] <i>Sky, you're not as good as you think you are!</i> [gasps]
+[beat]
+<b>Sky Stinger</b>: What did you say?
+<b>Vapor Trail</b>: [sighs] Sky, I want you to get in as much as anypony, and you're amazing, but...
+<b>Sky Stinger</b>: But what?
+<b>Vapor Trail</b>: I've been... helping you.
+<b>Sky Stinger</b>: [scoffs] Puh-lease! I don't need <i>your</i> help! Watch! [straining]
+<b>Rainbow Dash</b>: Gyuh...
+[thud]
+<b>Sky Stinger</b>: [panting] How can you do this to me? Did you <i>all</i> know? Oh, great. So everypony but me knows I'm a joke. Was this your plan the whole time? To embarrass me?
+<b>Vapor Trail</b>: What? No! Don't you know me at all?
+<b>Sky Stinger</b>: I guess not, since it took me this long to find out you're a terrible wingpony!
+<b>Vapor Trail</b>: [gasps] I can't believe you!
+<b>Sky Stinger</b>: <i>I</i> can't believe I was ever your friend!
+[whoosh]
+<b>Vapor Trail</b>: Thanks a lot.
+[Dizzitron whirring]
+<b>Rainbow Dash</b>: Do you think they're still mad?
+[beat]
+<b>Rainbow Dash</b>: Yeah, they're still mad.
+<b>Twilight Sparkle</b>: This is all my fault. If we'd just done things your way, maybe we could have avoided this whole mess.
+<b>Rainbow Dash</b>: No, it's <i>my</i> fault. It hit me when I was watching Sky train with you. He wasn't even trying!
+[Dizzitron whirring]
+[thud]
+<b>Rainbow Dash</b>: Oh, no. He's lost his confidence.
+<b>Spitfire</b>: Do you want to tell me why one of my most promising students is flying like a balloon with a hole in it?!
+<b>Rainbow Dash</b>: Uh, it's a long story, but we'll fix it.
+<b>Spitfire</b>: Yes, you will. [blows whistle]
+[thud]
+<b>Rainbow Dash</b>: [groans] We really messed up, huh?
+<b>Twilight Sparkle</b>: I have a plan.
+<b>Sky Stinger</b>: [straining]
+<b>Twilight Sparkle</b>: Hey, Sky. I thought I might find you here.
+<b>Sky Stinger</b>: Well, apparently, I need a lot of practice. Guess I'm not the natural I thought I was.
+<b>Twilight Sparkle</b>: No, you're not.
+<b>Sky Stinger</b>: [sarcastic] Thanks. Good pep talk.
+<b>Twilight Sparkle</b>: I wasn't a natural at friendship. But 
+with some practice and help from my friends, I got better, and now I'm 
+the Princess of Friendship!
+<b>Sky Stinger</b>: So you're saying I can be the... Princess of Flying?
+[whoosh]
+<b>Rainbow Dash</b>: You know, you're really good. You're lead pony material.
+<b>Vapor Trail</b>: Hm. That's sweet of you, but no. I couldn't handle all the attention.
+<b>Rainbow Dash</b>: But you'll never become a Wonderbolt if you're too afraid to shine. That <i>is</i> what you want, right?
+<b>Vapor Trail</b>: Well, not at first. I just wanted to be with Sky. But learning to do all those fun tricks with you? It made me realize this <i>is</i> something I want for myself!
+<b>Rainbow Dash</b>: I was hoping you'd say that. Come with me.
+<b>Sky Stinger</b>: What's <i>she</i> doing here?
+<b>Rainbow Dash</b>: Sky, Vapor was never trying to steal your spotlight. She thought she was helping you.
+<b>Twilight Sparkle</b>: And Vapor, you shouldn't have been so content to take a back seat.
+<b>Rainbow Dash</b>: Now, you can either stay mad, or help each
+ other and become two of the greatest flyers the Wonderbolt Academy has 
+ever seen! [beat] Please pick the second option. I don't want Spitfire 
+to be mad at me.
+[whoosh]
+[wind blowing]
+<b>Vapor Trail</b>: You got this, Sky!
+<b>Sky Stinger</b>: Focus on a cloud when you spin! It'll help you fly straight when you come out of it!
+<b>Vapor Trail</b>: Uh-huh!
+[whoosh]
+[scribbling]
+[whoosh]
+[stopwatch ticking]
+<b>Vapor Trail</b>: [whooping]
+[tires screeching]
+[whoosh]
+<b>Sky Stinger</b>: Whoo, yeah! [laughs]
+[tires screeching]
+[whooshing]
+<b>Rainbow Dash</b> and <b>Twilight Sparkle</b>: [cheering]
+[tires screeching]
+<b>Recruits</b>: [cheering]
+<b>Spitfire</b>: Congratulations! You've both made it into the Wonderbolt Academy!
+[flump]
+<b>Spitfire</b>: Whatever you did, it worked. They still have a lot of potential. Who knows? They might even be better than you, Crash.
+<b>Rainbow Dash</b>: [laughing] Okay, let's not get carried away.
+<b>Angel Wings</b>: Um, I just wanted you to know, you two are my new favorite ponies in all of Equestria.
+<b>Rainbow Dash</b>: Hey, I heard that!
+<b>Vapor Trail</b>: I can't believe we did it!
+<b>Sky Stinger</b>: You were great! Even though you can out-fly me, you can be my wingpony anytime.
+<b>Vapor Trail</b>: Aw. [chuckles] And you can be mine.
+[cutie marks ringing]
+[doors open]
+<b>Rainbow Dash</b>: [spine clicking]
+[doors close]
+<b>Twilight Sparkle</b>: Phew. It's good to be home.
+<b>Rainbow Dash</b>: [sighs] You're telling me. Now we can finally catch up with some <i>Daring Do</i>, I can make cider with Applejack—
+[knocking]
+[door opens]
+<b>Misty Fly</b>: Dash! I've been looking all over for you! Wonderbolt emergency! We got to get back to HQ.
+<b>Rainbow Dash</b>: You've gotta be kidding me! <i>I was just there!</i> [sighs]
+[thud]
+<b>Twilight Sparkle</b>: [laughing]
+[credits]

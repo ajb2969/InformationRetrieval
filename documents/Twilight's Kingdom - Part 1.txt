@@ -1,157 +1,312 @@
-[train whistle] 
-<b>Spike</b>: Seems like only yesterday I was saving this place from being totally destroyed. Hey, you guys remember that? 
-<b>Rainbow Dash</b>: You only mentioned it about fifteen times on the train here. 
-<b>Rarity</b>: [sarcastically, to Rainbow Dash] Yes, and we never hear a peep out of you about  <i>your</i> exploits. 
-<b>Rainbow Dash</b>: Heh, point taken. 
-<b>Twilight Sparkle</b>: I'm glad you all wanted to come, but I don't think it's gonna be that exciting. I pretty much just have to smile and wave as the dignitaries arrive. 
-<b>Rarity</b>: Yes, but you get to smile and wave like a princess. 
-<b>Applejack</b>: How exactly is that different than smilin' and wavin' like  <i>not</i> a princess? 
-<b>Twilight Sparkle</b>: It isn't. 
-<b>Fluttershy</b>: What's wrong, Twilight? 
-<b>Pinkie Pie</b>: Why the looooooooong face? 
-<b>Twilight Sparkle</b>: I've just been feeling a little unsure about things lately. It doesn't seem that my new role as a princess equates to all that much. 
-<b>Applejack</b>: That's just silly. You've got a real important role in Equestria. 
-<b>Fluttershy</b>: Princess Celestia wouldn't have asked you to come today if she didn't think so. 
-<b>Twilight Sparkle</b>: I guess you're right. 
-<b>Rarity</b>: Of course we are. Now hurry along! You don't want to risk having that important role diminished because you were tardy for your regal meet-and-greet. [fanfare] 
-<b>Flash Sentry</b>: The Duke and Duchess of Maretonia! 
-<b>Spike</b>: That was  <i>it</i>? Princess Celestia had you come all the way to the Crystal Empire just to do  <i>that</i>? I mean, whoa, really regal and important! [laughs nervously] 
-[thwack] [doors open] 
-<b>Duke of Maretonia</b>: Your highness. Thank you for understanding our desire to keep the number of those privy to these confidential discussions to a minimum. 
-<b>Twilight Sparkle</b>: Of course. 
-[doors open and close] 
-<b>Twilight Sparkle</b>: Is there anything else I can do to assist with their visit? 
-<b>Princess Cadance</b>: I'm sorry, Twilight, but their visit is already over. 
-<b>Twilight Sparkle</b>: Oh. 
-<b>Princess Luna</b>: Something wrong? 
-<b>Twilight Sparkle</b>: I guess I just don't really understand why I'm here. Couldn't one of the royal guard have unfurled the banner? 
-<b>Princess Celestia</b>: Having all four of us in the Empire to greet them lets the dignitaries know that their visit is considered an important one. 
-<b>Princess Cadance</b>: Plus, it gives me an opportunity to see my favorite sister-in-law. 
-<b>Twilight Sparkle</b>: And I'm happy to see you. All of you. 
-<b>Princess Cadance</b>: But...? 
-<b>Twilight Sparkle</b>: But I... well, it's just that Princess Luna raises the moon, Princess Celestia raises the sun, you protect the Crystal Empire, and all I seem to do is... smile and wave. 
+[train whistle]
+<b>Spike</b>: Seems like only yesterday I was saving this place from being totally destroyed. Hey, you guys remember that?
+<b>Rainbow Dash</b>: You only mentioned it about fifteen times on the train here.
+<b>Rarity</b>: [sarcastically, to Rainbow Dash] Yes, and we never hear a peep out of you about <i>your</i> exploits.
+<b>Rainbow Dash</b>: Heh, point taken.
+<b>Twilight Sparkle</b>: I'm glad you all wanted to come, but I
+ don't think it's gonna be that exciting. I pretty much just have to 
+smile and wave as the dignitaries arrive.
+<b>Rarity</b>: Yes, but you get to smile and wave like a princess.
+<b>Applejack</b>: How exactly is that different than smilin' and wavin' like <i>not</i> a princess?
+<b>Twilight Sparkle</b>: It isn't.
+<b>Fluttershy</b>: What's wrong, Twilight?
+<b>Pinkie Pie</b>: Why the looooooooong face?
+<b>Twilight Sparkle</b>: I've just been feeling a little unsure
+ about things lately. It doesn't seem that my new role as a princess 
+equates to all that much.
+<b>Applejack</b>: That's just silly. You've got a real important role in Equestria.
+<b>Fluttershy</b>: Princess Celestia wouldn't have asked you to come today if she didn't think so.
+<b>Twilight Sparkle</b>: I guess you're right.
+<b>Rarity</b>: Of course we are. Now hurry along! You don't 
+want to risk having that important role diminished because you were 
+tardy for your regal meet-and-greet.
+[fanfare]
+<b>Flash Sentry</b>: The Duke and Duchess of Maretonia!
+<b>Spike</b>: That was <i>it</i>? Princess Celestia had you come all the way to the Crystal Empire just to do <i>that</i>? I mean, whoa, really regal and important! [laughs nervously]
+[thwack]
+[theme song]
+[doors open]
+<b>Duke of Maretonia</b>: Your highness. Thank you for 
+understanding our desire to keep the number of those privy to these 
+confidential discussions to a minimum.
+<b>Twilight Sparkle</b>: Of course.
+[doors open and close]
+<b>Twilight Sparkle</b>: Is there anything else I can do to assist with their visit?
+<b>Princess Cadance</b>: I'm sorry, Twilight, but their visit is already over.
+<b>Twilight Sparkle</b>: Oh.
+<b>Princess Luna</b>: Something wrong?
+<b>Twilight Sparkle</b>: I guess I just don't really understand why I'm here. Couldn't one of the royal guard have unfurled the banner?
+<b>Princess Celestia</b>: Having all four of us in the Empire to greet them lets the dignitaries know that their visit is considered an important one.
+<b>Princess Cadance</b>: Plus, it gives me an opportunity to see my favorite sister-in-law.
+<b>Twilight Sparkle</b>: And I'm happy to see you. All of you.
+<b>Princess Cadance</b>: But...?
+<b>Twilight Sparkle</b>: But I... well, it's just that Princess
+ Luna raises the moon, Princess Celestia raises the sun, you protect the
+ Crystal Empire, and all I seem to do is... smile and wave.
 
-<b>[Twilight Sparkle]</b>  <dl>  <dd>   It isn't that I'm ungrateful   </dd>  <dd>   For all the things that I've earned,   </dd>  <dd>   For all the journeys I have taken,   </dd>  <dd>   All the lessons that I have learned   </dd> </dl> <dl>  <dd>   But I wonder where I'm going now,   </dd>  <dd>   What my role is meant to be   </dd>  <dd>   I don't know how to travel   </dd>  <dd>   To a future that I can't see   </dd> </dl> <dl>  <dd>   I have my wings, I wear this crown   </dd>  <dd>   I'm a princess, this is true   </dd>  <dd>   But it's still unclear to me   </dd>  <dd>   Just what I am meant to do   </dd> </dl> <dl>  <dd>   I wanna&nbsp;have a purpose   </dd>  <dd>   Wanna do all that I can   </dd>  <dd>   I wanna make a contribution   </dd>  <dd>   I want to be a part of the plan   </dd> </dl> <b>[Princess Celestia]</b>  <dl>  <dd>   Your destiny's uncertain   </dd>  <dd>   And that's sometimes hard to take   </dd>  <dd>   But it will become much clearer   </dd>  <dd>   With every new choice you make   </dd> </dl> <b>[Princess Luna]</b>  <dl>  <dd>   Patience is never easy   </dd>  <dd>   I understand wanting more   </dd>  <dd>   I know how hard it is to wait   </dd>  <dd>   To spread out your wings and soar   </dd> </dl> <b>[Princess Cadance]</b>  <dl>  <dd>   But you stand here for a reason   </dd>  <dd>   You're gifted and you are strong   </dd>  <dd>   That crown is upon your head because   </dd>  <dd>   You belong   </dd> </dl> <b>[Princesses Celestia, Luna, and Cadance]</b>  <dl>  <dd>   Know that your time is coming soon   </dd>  <dd>   As the sun rises, so does the moon   </dd>  <dd>   As love finds a place in every heart   </dd>  <dd>   You are a princess; you'll play your part   </dd> </dl> <b>[Princess Luna]</b>  <dl>  <dd>   We understand you wanting more   </dd>  <dd>   A chance to shine, a chance to soar   </dd> </dl> <b>[Princess Cadance]</b>  <dl>  <dd>   Soon will come the day it turns around   </dd> </dl> <b>[Princesses Celestia, Luna, and Cadance]</b>  <dl>  <dd>   Know that your time is coming soon   </dd>  <dd>   As the sun rises, so does the moon   </dd>  <dd>   As love finds a place in every heart   </dd>  <dd>   You are a princess; you'll play your part   </dd> </dl> <b>[Princess Celestia]</b>  <dl>  <dd>   You are a princess; you'll play your part   </dd> </dl> 
-<b>Princess Celestia</b>: Your time will come. [can clanking] 
-<b>Lord Tirek</b>: [heavy breathing] 
-<b>Rare Find</b>: Very sorry. [chuckles] You came out of nowhere. 
-<b>Lord Tirek</b>: "Is he friend or is he foe?", the pony wonders. I can assure you... I am no friend. I am Lord Tirek, and I will take what should have been mine long ago. [laughing] <b>Princess Celestia</b>: [gasps] 
-<b>Princess Luna</b>: Sister, are you alright?! 
-<b>Princess Celestia</b>: I've just had the most terrible dream. 
-<b>Princess Luna</b>: Why do you think  <i>I'm</i> here? You know as well as I that this was not a dream, but a vision. 
-<b>Princess Celestia</b>: Then we haven't much time. The stronger  <i>he</i> becomes, the more we are  <i>all</i> in danger. [pages turning] 
-<b>Princess Celestia</b>: [narrating] Tirek and his brother Scorpan came here from a distant land, intent on stealing Equestrian magic. But Scorpan soon came to appreciate the ways of Equestria, even befriending a young unicorn wizard. 
-<b>Princess Luna</b>: [narrating] Scorpan urged his brother to abandon their plans. When Tirek refused, Scorpan alerted us to Tirek's intentions. 
-<b>Princess Celestia</b>: [narrating] Scorpan returned to his own land, and Tirek was sent to Tartarus for his crimes. But it appears he has found a way to escape. 
-<b>Princess Luna</b>: We believe it happened when Cerberus left his post at the gates. 
-<b>Twilight Sparkle</b>: But that was a long time ago. Why is he just now starting to steal magic? 
-<b>Princess Celestia</b>: His time in Tartarus left him very weak. He has just now gained enough strength to use his dark powers. 
-<b>Princess Luna</b>: But with each passing moment, he grows stronger still. 
-<b>Princess Cadance</b>: And I know just the princess who can stop him. 
-<b>Twilight Sparkle</b>: Yes. I'll find him and– 
-<b>Princess Celestia</b>: No, Twilight. I'm afraid I must call in another to stop Tirek. Discord. 
-<b>Twilight Sparkle</b>,  <b>Princess Luna</b>,  <b>Princess Cadance</b>: [gasps] <b>Applejack</b>: ...As in  <i>Discord</i> Discord? 
-<b>Twilight Sparkle</b>: Yes! 
-<b>Fluttershy</b>: I don't think it's that big of a surprise. He can be very helpful. 
-[beat] 
-<b>Twilight Sparkle</b>: He can sense when there's a magical imbalance. The next time Tirek steals magic, Discord will be able to track him down! 
-<b>Rainbow Dash</b>: So what are you supposed to do in the meantime? 
-<b>Twilight Sparkle</b>: [sighs] Nothing. Unless of course one of you needs me to smile and wave. 
-<b>Spike</b>: Where are you going? 
-<b>Twilight Sparkle</b>: To the Castle of the Two Sisters. I'm not really needed anywhere else. Might as well catch up on some of my reading. 
-<b>Rainbow Dash</b>: You want some company? 
-<b>Applejack</b>:&nbsp;It has been a while since we visited the castle. Might be fun! 
-<b>Twilight Sparkle</b>: Maybe I could use a little company right now. <b>Rainbow Dash</b>: [sighs] I still can't believe we had to give back the Elements. 
-<b>Rarity</b>: It had to be done or the Tree of Harmony wouldn't have survived. 
-<b>Fluttershy</b>: But Twilight was right. Even without the Elements, our friendship is as strong as ever. 
-<b>Applejack</b>: I just hope another 'friend' of ours never makes us sorry we had to give them up. 
-<b>Discord</b>: [laughs] Oh, you're talking about me, I presume? 
-<b>Applejack</b>: How'd you guess? 
-<b>Discord</b>: My ears were burning. 
-[splash] 
-<b>Rainbow Dash</b>: What are you even doing here, Discord? 
-<b>Discord</b>: Oh, just a bit of light reading before I head off on my  <i>extremely</i> important mission. I suppose you all know that I've been tasked to capture a certain escapee. 
-<b>Spike</b>: Big deal. 
-<b>Discord</b>: You're right, Spike. It  <i>is</i> a big deal. Seems I possess a magic that gives me quite an important role in Equestria. Maybe they should make  <i>me</i> an Alicorn princess. 
-[cheering offscreen] 
-<b>Discord</b>: Mmwah! Mmwah! 
-<b>Rainbow Dash</b>: In your dreams! 
-[bonk!] 
-<b>Discord</b>: Oh, I never dream of such things. Ask Princess Luna. 
-<b>Applejack</b>: Don't you have a creepy magic-stealin' villain to track down? 
-<b>Discord</b>: Yes, yes, yes, of course. It's just that I couldn't help but notice that Twilight hasn't yet opened this little chest of hers. I-I-It got me thinking, what if what's locked inside is something that could help her prove her royal worth? I only bring it up because she said that she's been feeling like her role as a princess doesn't equate to much. 
-<b>Pinkie Pie</b>: Wait a minute! How do  <i>you</i> know how she was feeling?! 
-<b>Discord</b>: [mock sadness] Oh, my. Is eavesdropping not the way you're supposed to find out what your best pals are up to? Woe is me. Will I ever learn the intricate nuances of being a good friend? 
-[beat] 
-<b>Discord</b>: [clears throat] Well in any case, I suppose now is as good a time as any for me to make my exit. 
-[engine starts] 
-<b>Applejack</b>: And good riddance! 
-<b>Discord</b>: Oopsie-doopsie, I almost left with the little journal you've all been keeping. What a fascinating read. Haven't you girls just learned so much? I've bookmarked a few of the more interesting passages. You really should take a look! [to Fluttershy, hushed] We're still on for tea later, aren't we, Fluttershy? 
-<b>Fluttershy</b>: I wouldn't miss it. 
-<b>Discord</b>: [singsong] Well, I'll bring the cucumber sandwiches...! 
-[door shuts] 
-<b>Applejack</b>: Sometimes I think the 'reformed' Discord is more obnoxious than the 'before-he-was-reformed' Discord. 
-<b>Rarity</b>: Indeed. 
-<b>Fluttershy</b>: But he could be right, couldn't he? What if there  <i>is</i> something important in that chest? 
-<b>Twilight Sparkle</b>: There's only one way to find out. [pages turning] 
-<b>Twilight Sparkle</b>: Anything? 
-<b>Rest of main cast</b>: [various 'no's] 
-<b>Twilight Sparkle</b>: There must be  <i>something</i> in this library that can help me figure out how to open it. The answer's in one of these books. I just know it. 
-[pages turning] [thump] 
-<b>Discord</b>: Tirek, I presume? 
-<b>Lord Tirek</b>: Discord. You're free? 
-<b>Discord</b>: As a bird. 
-<b>Lord Tirek</b>: I commend you on your escape. 
-<b>Discord</b>: I'm afraid the feeling isn't mutual. [snaps fingers] 
-[chain clinking] 
-<b>Lord Tirek</b>: Oh, I should have known you would want to have Equestria all to yourself. 
-<b>Discord</b>: Oh, I'm not doing this for me. I'm doing it for my friends. [hushed] Just between the two of us, it's mostly for Fluttershy. [squee] 
-<b>Lord Tirek</b>: Fluttershy? You're not saying you're friends with  <i>ponies</i>? 
-<b>Discord</b>: Surprise! 
-<b>Lord Tirek</b>: I  <i>am</i> surprised that someone with your intellect does not see this 'friendship' is but a new form of imprisonment. Clearly you've had to abandon your true nature to stay in their good graces. 
-[harp playing] 
-<b>Discord</b>: I have done nothing of the sort! 
-<b>Lord Tirek</b>: Oh, please, I've seen this before. But he was always weak minded. You are Discord, you are legend, you cannot fall into the same trap that claimed my brother! Help me to grow strong, and be rewarded with something far greater than  <i>friendship</i>.  <i>Freedom</i>. Once I've stripped these ponies of their magic, nothing would give me greater pleasure than to see their world turned upside down. Who better to do so than the master of chaos himself? Join me, Discord, and reclaim your greatness. Unless, of course, 'pony errand boy' is the role you've always wanted to play in this world. <b>Twilight Sparkle</b>: I think I found something! I've been reading our journal, and there's something interesting about the sections that Discord bookmarked. Applejack, do you remember when you had to tell everypony that the tonic Granny bought from the Flim Flam brothers didn't really work? 
-<b>Applejack</b>: How could I forget? It was one of the hardest things I ever had to do. <b>Granny Smith</b>: [gulping] 
-<b>Applejack</b>: [flashback] I hate to disappoint everypony, but there's no way Granny could have made that dive, because this tonic is a fake! 
-[crowd gasps] <b>Applejack</b>: [present] And in that moment, I knew I had to be honest. I just knew it. But what's that got to do with openin' the chest? 
-<b>Twilight Sparkle</b>: I've found that each of you has had to face a situation where living up to the Element of Harmony you represent wasn't easy. Fluttershy, it was when you realized that the way to show kindness to the Breezies was by forcing them to leave your home. 
-<b>Fluttershy</b>: Oh, the looks on their poor little faces! But I knew that, as difficult as it was, pushing them away was the kindest thing I could do. 
-<b>Twilight Sparkle</b>: Rarity, even after Suri took advantage of your generosity at Fashion Week in Manehattan, you didn't let it cause you to abandon your generous spirit. 
-<b>Rarity</b>: I simply couldn't have lived with myself if I didn't do something special for the friends who have always been so generous to me! 
-<b>Twilight Sparkle</b>: Rainbow Dash, you had the chance to fly with the Wonderbolts at the Equestria Games, but instead you chose to compete with your friends. 
-<b>Rainbow Dash</b>: Sure! But being loyal to my friends was way– 
-<b>Pinkie Pie</b>: Ooh, my turn, my turn! 
-<b>Twilight Sparkle</b>: Pinkie Pie, you realized that seeing your friend laugh was more important than proving you were a better party planner than Cheese Sandwich. 
-<b>Rainbow Dash</b>: Best party I've ever had. 
-<b>Rarity</b>: It's clear we've all had our moments to shine, Twilight, but I'm with Applejack. What does any of this have to do with the opening of the chest? 
-<b>Twilight Sparkle</b>: All of you had tough choices to make. But when you made the right one and embraced your element, it helped somepony else make the right choice too. Each of you received something from the pony whose life you helped change. I know it sounds crazy, but maybe there's something special about those objects that could lead us to the location of the keys. The chest is connected to the Tree of Harmony, the Tree is connected to the Elements, and the Elements are connected to all of us. There must be a connection! I hate to admit it, but maybe Discord was trying to be a good friend after all. <b>Twilight Sparkle</b>: I don't see anything on them that would give us a clue as to where the keys might be. They're just... ordinary, everyday objects. 
-<b>Pinkie Pie</b>: Come on, Boneless! Give us that key! 
-[Boneless squeaking] 
-<b>Twilight Sparkle</b>: I don't think that's going to work. 
-[Boneless squeaking] 
-<b>Main cast</b>: [gasps] 
-[magic zaps] [keys clicking] 
-<b>Twilight Sparkle</b>: There's still one key missing. The key that represents the element of magic. My element. 
-<b>Fluttershy</b>: Oh, but I'm sure that if we've gotten our keys, you have too, Twilight. 
-<b>Rarity</b>: Think, Twilight. When have you completed a difficult magical task, and in doing so encouraged another pony to do the same? 
-<b>Twilight Sparkle</b>: I haven't. If I had, I would have written about it in the journal. 
-<b>Spike</b>: Don't worry, Twilight. I'm sure you'll get your key eventually. [sharp inhalation] [hurk!] 
-[magic pop] 
-<b>Spike</b>: What's it say? 
-<b>Twilight Sparkle</b>: That I'm needed in Canterlot at once! [door opens] 
-<b>Twilight Sparkle</b>: I came as quickly as I could! Is something wrong? Is it Tirek? 
-<b>Princess Celestia</b>: I'm afraid I put too much trust in Discord and the effect that friendship would have upon him. 
-[crowd gasps] 
-<b>Princess Luna</b>: Discord has betrayed the ponies of Equestria and joined forces with Tirek. 
-[crowd gasps] 
-[magic noises] 
-[Discord clapping] 
-<b>Twilight Sparkle</b>: How could he do this?! I thought our friendship meant something to him! I thought he had changed. 
-<b>Princess Celestia</b>: Tirek has stolen enough magic that he now has the strength to steal flight as well. Without Pegasi to control the weather, there will be no rain in Equestria. There is word he has gone after Earth ponies as well. Without their strength, they will not be able to tend the land. 
-<b>Princess Luna</b>: Ponies will no longer be in control of their world. That power will belong solely to Tirek. 
-<b>Princess Celestia</b>: There is no doubt that Tirek is after Alicorn magic. With Discord by his side, we will not be able to stop him from taking it. 
-<b>Princess Luna</b>: Once it is in his possession, his power will know no bounds, and all hope will be lost. 
-<b>Princess Celestia</b>: But there is one solution. It is only by making this sacrifice that Equestria and the lands beyond it might be saved. We must rid ourselves of our magic before Tirek has the chance to steal it from us. 
-<b>Twilight Sparkle</b>: [gasps] 
-[To be continued...] [credits] 
+<b>[Twilight Sparkle]</b>
+It isn't that I'm ungrateful
+For all the things that I've earned,
+For all the journeys I have taken,
+All the lessons that I have learned
+
+But I wonder where I'm going now,
+What my role is meant to be
+I don't know how to travel
+To a future that I can't see
+
+I have my wings, I wear this crown
+I'm a princess, this is true
+But it's still unclear to me
+Just what I am meant to do
+
+I wanna have a purpose
+Wanna do all that I can
+I wanna make a contribution
+I want to be a part of the plan
+
+<b>[Princess Celestia]</b>
+Your destiny's uncertain
+And that's sometimes hard to take
+But it will become much clearer
+With every new choice you make
+
+<b>[Princess Luna]</b>
+Patience is never easy
+I understand wanting more
+I know how hard it is to wait
+To spread out your wings and soar
+
+<b>[Princess Cadance]</b>
+But you stand here for a reason
+You're gifted and you are strong
+That crown is upon your head because
+You belong
+
+<b>[Princesses Celestia, Luna, and Cadance]</b>
+Know that your time is coming soon
+As the sun rises, so does the moon
+As love finds a place in every heart
+You are a princess; you'll play your part
+
+<b>[Princess Luna]</b>
+We understand you wanting more
+A chance to shine, a chance to soar
+
+<b>[Princess Cadance]</b>
+Soon will come the day it turns around
+
+<b>[Princesses Celestia, Luna, and Cadance]</b>
+Know that your time is coming soon
+As the sun rises, so does the moon
+As love finds a place in every heart
+You are a princess; you'll play your part
+
+<b>[Princess Celestia]</b>
+You are a princess; you'll play your part
+
+<b>Princess Celestia</b>: Your time will come.
+[can clanking]
+<b>Lord Tirek</b>: [heavy breathing]
+<b>Rare Find</b>: Very sorry. [chuckles] You came out of nowhere.
+<b>Lord Tirek</b>: "Is he friend or is he foe?", the pony 
+wonders. I can assure you... I am no friend. I am Lord Tirek, and I will
+ take what should have been mine long ago. [laughing]
+<b>Princess Celestia</b>: [gasps]
+<b>Princess Luna</b>: Sister, are you alright?!
+<b>Princess Celestia</b>: I've just had the most terrible dream.
+<b>Princess Luna</b>: Why do you think <i>I'm</i> here? You know as well as I that this was not a dream, but a vision.
+<b>Princess Celestia</b>: Then we haven't much time. The stronger <i>he</i> becomes, the more we are <i>all</i> in danger.
+[pages turning]
+<b>Princess Celestia</b>: [narrating] Tirek and his brother 
+Scorpan came here from a distant land, intent on stealing Equestrian 
+magic. But Scorpan soon came to appreciate the ways of Equestria, even 
+befriending a young unicorn wizard.
+<b>Princess Luna</b>: [narrating] Scorpan urged his brother to abandon their plans. When Tirek refused, Scorpan alerted us to Tirek's intentions.
+<b>Princess Celestia</b>: [narrating] Scorpan returned to his 
+own land, and Tirek was sent to Tartarus for his crimes. But it appears 
+he has found a way to escape.
+<b>Princess Luna</b>: We believe it happened when Cerberus left his post at the gates.
+<b>Twilight Sparkle</b>: But that was a long time ago. Why is he just now starting to steal magic?
+<b>Princess Celestia</b>: His time in Tartarus left him very weak. He has just now gained enough strength to use his dark powers.
+<b>Princess Luna</b>: But with each passing moment, he grows stronger still.
+<b>Princess Cadance</b>: And I know just the princess who can stop him.
+<b>Twilight Sparkle</b>: Yes. I'll find him and–
+<b>Princess Celestia</b>: No, Twilight. I'm afraid I must call in another to stop Tirek. Discord.
+<b>Twilight Sparkle</b>, <b>Princess Luna</b>, <b>Princess Cadance</b>: [gasps]
+<b>Applejack</b>: ...As in <i>Discord</i> Discord?
+<b>Twilight Sparkle</b>: Yes!
+<b>Fluttershy</b>: I don't think it's that big of a surprise. He can be very helpful.
+[beat]
+<b>Twilight Sparkle</b>: He can sense when there's a magical imbalance. The next time Tirek steals magic, Discord will be able to track him down!
+<b>Rainbow Dash</b>: So what are you supposed to do in the meantime?
+<b>Twilight Sparkle</b>: [sighs] Nothing. Unless of course one of you needs me to smile and wave.
+<b>Spike</b>: Where are you going?
+<b>Twilight Sparkle</b>: To the Castle of the Two Sisters. I'm not really needed anywhere else. Might as well catch up on some of my reading.
+<b>Rainbow Dash</b>: You want some company?
+<b>Applejack</b>: It has been a while since we visited the castle. Might be fun!
+<b>Twilight Sparkle</b>: Maybe I could use a little company right now.
+<b>Rainbow Dash</b>: [sighs] I still can't believe we had to give back the Elements.
+<b>Rarity</b>: It had to be done or the Tree of Harmony wouldn't have survived.
+<b>Fluttershy</b>: But Twilight was right. Even without the Elements, our friendship is as strong as ever.
+<b>Applejack</b>: I just hope another 'friend' of ours never makes us sorry we had to give them up.
+<b>Discord</b>: [laughs] Oh, you're talking about me, I presume?
+<b>Applejack</b>: How'd you guess?
+<b>Discord</b>: My ears were burning.
+[splash]
+<b>Rainbow Dash</b>: What are you even doing here, Discord?
+<b>Discord</b>: Oh, just a bit of light reading before I head off on my <i>extremely</i> important mission. I suppose you all know that I've been tasked to capture a certain escapee.
+<b>Spike</b>: Big deal.
+<b>Discord</b>: You're right, Spike. It <i>is</i> a big deal. Seems I possess a magic that gives me quite an important role in Equestria. Maybe they should make <i>me</i> an Alicorn princess.
+[cheering offscreen]
+<b>Discord</b>: Mmwah! Mmwah!
+<b>Rainbow Dash</b>: In your dreams!
+[bonk!]
+<b>Discord</b>: Oh, I never dream of such things. Ask Princess Luna.
+<b>Applejack</b>: Don't you have a creepy magic-stealin' villain to track down?
+<b>Discord</b>: Yes, yes, yes, of course. It's just that I 
+couldn't help but notice that Twilight hasn't yet opened this little 
+chest of hers. I-I-It got me thinking, what if what's locked inside is 
+something that could help her prove her royal worth? I only bring it up 
+because she said that she's been feeling like her role as a princess 
+doesn't equate to much.
+<b>Pinkie Pie</b>: Wait a minute! How do <i>you</i> know how she was feeling?!
+<b>Discord</b>: [mock sadness] Oh, my. Is eavesdropping not the
+ way you're supposed to find out what your best pals are up to? Woe is 
+me. Will I ever learn the intricate nuances of being a good friend?
+[beat]
+<b>Discord</b>: [clears throat] Well in any case, I suppose now is as good a time as any for me to make my exit.
+[engine starts]
+<b>Applejack</b>: And good riddance!
+<b>Discord</b>: Oopsie-doopsie, I almost left with the little 
+journal you've all been keeping. What a fascinating read. Haven't you 
+girls just learned so much? I've bookmarked a few of the more 
+interesting passages. You really should take a look! [to Fluttershy, 
+hushed] We're still on for tea later, aren't we, Fluttershy?
+<b>Fluttershy</b>: I wouldn't miss it.
+<b>Discord</b>: [singsong] Well, I'll bring the cucumber sandwiches...!
+[door shuts]
+<b>Applejack</b>: Sometimes I think the 'reformed' Discord is more obnoxious than the 'before-he-was-reformed' Discord.
+<b>Rarity</b>: Indeed.
+<b>Fluttershy</b>: But he could be right, couldn't he? What if there <i>is</i> something important in that chest?
+<b>Twilight Sparkle</b>: There's only one way to find out.
+[pages turning]
+<b>Twilight Sparkle</b>: Anything?
+<b>Rest of main cast</b>: [various 'no's]
+<b>Twilight Sparkle</b>: There must be <i>something</i> in this library that can help me figure out how to open it. The answer's in one of these books. I just know it.
+[pages turning]
+[thump]
+<b>Discord</b>: Tirek, I presume?
+<b>Lord Tirek</b>: Discord. You're free?
+<b>Discord</b>: As a bird.
+<b>Lord Tirek</b>: I commend you on your escape.
+<b>Discord</b>: I'm afraid the feeling isn't mutual. [snaps fingers]
+[chain clinking]
+<b>Lord Tirek</b>: Oh, I should have known you would want to have Equestria all to yourself.
+<b>Discord</b>: Oh, I'm not doing this for me. I'm doing it for
+ my friends. [hushed] Just between the two of us, it's mostly for 
+Fluttershy. [squee]
+<b>Lord Tirek</b>: Fluttershy? You're not saying you're friends with <i>ponies</i>?
+<b>Discord</b>: Surprise!
+<b>Lord Tirek</b>: I <i>am</i> surprised that someone with your
+ intellect does not see this 'friendship' is but a new form of 
+imprisonment. Clearly you've had to abandon your true nature to stay in 
+their good graces.
+[harp playing]
+<b>Discord</b>: I have done nothing of the sort!
+<b>Lord Tirek</b>: Oh, please, I've seen this before. But he 
+was always weak minded. You are Discord, you are legend, you cannot fall
+ into the same trap that claimed my brother! Help me to grow strong, and
+ be rewarded with something far greater than <i>friendship</i>. <i>Freedom</i>.
+ Once I've stripped these ponies of their magic, nothing would give me 
+greater pleasure than to see their world turned upside down. Who better 
+to do so than the master of chaos himself? Join me, Discord, and reclaim
+ your greatness. Unless, of course, 'pony errand boy' is the role you've
+ always wanted to play in this world.
+<b>Twilight Sparkle</b>: I think I found something! I've been 
+reading our journal, and there's something interesting about the 
+sections that Discord bookmarked. Applejack, do you remember when you 
+had to tell everypony that the tonic Granny bought from the Flim Flam 
+brothers didn't really work?
+<b>Applejack</b>: How could I forget? It was one of the hardest things I ever had to do.
+<b>Granny Smith</b>: [gulping]
+<b>Applejack</b>: [flashback] I hate to disappoint everypony, but there's no way Granny could have made that dive, because this tonic is a fake!
+[crowd gasps]
+<b>Applejack</b>: [present] And in that moment, I knew I had to be honest. I just knew it. But what's that got to do with openin' the chest?
+<b>Twilight Sparkle</b>: I've found that each of you has had to
+ face a situation where living up to the Element of Harmony you 
+represent wasn't easy. Fluttershy, it was when you realized that the way
+ to show kindness to the Breezies was by forcing them to leave your 
+home.
+<b>Fluttershy</b>: Oh, the looks on their poor little faces! 
+But I knew that, as difficult as it was, pushing them away was the 
+kindest thing I could do.
+<b>Twilight Sparkle</b>: Rarity, even after Suri took advantage
+ of your generosity at Fashion Week in Manehattan, you didn't let it 
+cause you to abandon your generous spirit.
+<b>Rarity</b>: I simply couldn't have lived with myself if I 
+didn't do something special for the friends who have always been so 
+generous to me!
+<b>Twilight Sparkle</b>: Rainbow Dash, you had the chance to 
+fly with the Wonderbolts at the Equestria Games, but instead you chose 
+to compete with your friends.
+<b>Rainbow Dash</b>: Sure! But being loyal to my friends was way–
+<b>Pinkie Pie</b>: Ooh, my turn, my turn!
+<b>Twilight Sparkle</b>: Pinkie Pie, you realized that seeing 
+your friend laugh was more important than proving you were a better 
+party planner than Cheese Sandwich.
+<b>Rainbow Dash</b>: Best party I've ever had.
+<b>Rarity</b>: It's clear we've all had our moments to shine, 
+Twilight, but I'm with Applejack. What does any of this have to do with 
+the opening of the chest?
+<b>Twilight Sparkle</b>: All of you had tough choices to make. 
+But when you made the right one and embraced your element, it helped 
+somepony else make the right choice too. Each of you received something 
+from the pony whose life you helped change. I know it sounds crazy, but 
+maybe there's something special about those objects that could lead us 
+to the location of the keys. The chest is connected to the Tree of 
+Harmony, the Tree is connected to the Elements, and the Elements are 
+connected to all of us. There must be a connection! I hate to admit it, 
+but maybe Discord was trying to be a good friend after all.
+<b>Twilight Sparkle</b>: I don't see anything on them that would
+ give us a clue as to where the keys might be. They're just... ordinary,
+ everyday objects.
+<b>Pinkie Pie</b>: Come on, Boneless! Give us that key!
+[Boneless squeaking]
+<b>Twilight Sparkle</b>: I don't think that's going to work.
+[Boneless squeaking]
+<b>Main cast</b>: [gasps]
+[magic zaps]
+[keys clicking]
+<b>Twilight Sparkle</b>: There's still one key missing. The key that represents the element of magic. My element.
+<b>Fluttershy</b>: Oh, but I'm sure that if we've gotten our keys, you have too, Twilight.
+<b>Rarity</b>: Think, Twilight. When have you completed a difficult magical task, and in doing so encouraged another pony to do the same?
+<b>Twilight Sparkle</b>: I haven't. If I had, I would have written about it in the journal.
+<b>Spike</b>: Don't worry, Twilight. I'm sure you'll get your key eventually. [sharp inhalation] [hurk!]
+[magic pop]
+<b>Spike</b>: What's it say?
+<b>Twilight Sparkle</b>: That I'm needed in Canterlot at once!
+[door opens]
+<b>Twilight Sparkle</b>: I came as quickly as I could! Is something wrong? Is it Tirek?
+<b>Princess Celestia</b>: I'm afraid I put too much trust in Discord and the effect that friendship would have upon him.
+[crowd gasps]
+<b>Princess Luna</b>: Discord has betrayed the ponies of Equestria and joined forces with Tirek.
+[crowd gasps]
+[magic noises]
+[Discord clapping]
+<b>Twilight Sparkle</b>: How could he do this?! I thought our friendship meant something to him! I thought he had changed.
+<b>Princess Celestia</b>: Tirek has stolen enough magic that he
+ now has the strength to steal flight as well. Without Pegasi to control
+ the weather, there will be no rain in Equestria. There is word he has 
+gone after Earth ponies as well. Without their strength, they will not 
+be able to tend the land.
+<b>Princess Luna</b>: Ponies will no longer be in control of their world. That power will belong solely to Tirek.
+<b>Princess Celestia</b>: There is no doubt that Tirek is after Alicorn magic. With Discord by his side, we will not be able to stop him from taking it.
+<b>Princess Luna</b>: Once it is in his possession, his power will know no bounds, and all hope will be lost.
+<b>Princess Celestia</b>: But there is one solution. It is only
+ by making this sacrifice that Equestria and the lands beyond it might 
+be saved. We must rid ourselves of our magic before Tirek has the chance
+ to steal it from us.
+<b>Twilight Sparkle</b>: [gasps]
+[To be continued...]
+[credits]

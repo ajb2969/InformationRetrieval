@@ -1,250 +1,313 @@
-[knock on door] 
-[door opens] 
-<b>Fluttershy</b>: Oh! I just stopped by to thank you for letting me borrow your  <i>Daring Do</i> books. I love them! 
-<b>Rainbow Dash</b>: Wait 'til you get to  <i>Daring Do and the Riddle of the Sphinx</i>! 
-<b>Fluttershy</b>: This is actually my second time through! I read them all! From  <i>Daring Do and the Sapphire Statue</i> to  <i>Daring Do and the Fallen Idol</i>! 
-<b>Rainbow Dash</b>:  <i>Fallen Idol</i>? That's not in the series. 
-<b>Fluttershy</b>: Oh. It just came out last week. Maybe that's why you haven't heard of it? 
-<b>Rainbow Dash</b>: No way Daring Do's biggest fan – me – would miss a book coming out! Besides, A. K. Yearling always sends me a copy. 
-<b>Fluttershy</b>: Well, I'm happy to let you borrow mine until yours arrives. 
-<b>Rainbow Dash</b>: [reading] "The true story of the thieving fraud known as Daring Do"?! What?! Why would A. K. Yearling write that about herself?! 
-<b>Fluttershy</b>: Oh. It looks like she didn't. This book says it's by Groom Q. Q. Martingale. 
-<b>Rainbow Dash</b>: Who? 
-<b>Fluttershy</b>: I guess he's a new writer. 
-<b>Rainbow Dash</b>: A  <i>bad</i> one. [reading] "The only thing worse than Daring Do's destruction of temples is her cruelty to the mild-mannered Dr. Caballeron"?! 
-<b>Fluttershy</b>: It was written from his point of view. I figured it was an artistic choice. 
-<b>Rainbow Dash</b>: More like a disaster! Listen! [reading] "Daring Do isn't just a fictional character from over-the-top adventure stories. I've met her, and she is a real, live pony!" That's supposed to be a secret! [grunts] We're the only ones who know Daring Do is really A. K. Yearling in disguise. But if other ponies read this book, how long will it take them to figure that out?! We have to go warn her!  <i>Fluttershy!</i> 
-<b>Fluttershy</b>: Hm? Oh. Sorry. <b>Rainbow Dash</b>: A. K. Yearling is signing all her books at the bookstore today. We can warn her about what's going on. 
-<b>Fluttershy</b>: Don't you think you should read Martingale's book first? Just to hear both sides of the story? 
-<b>Rainbow Dash</b>: Uh, why? The only true thing in that pack of lies is that Daring Do is real. 
-<b>Fluttershy</b>: There's also a lot of insight into Dr. Caballeron's life choices. Did you know he's actually a history professor and amateur bird watcher? 
-<b>Rainbow Dash</b>: Are you serious right now? A random writer trashes our friend and exposes her secret, and you want to talk about birds?! 
-<b>Fluttershy</b>: [whispers] Also spider cruelty. 
-<b>Rainbow Dash</b>: What?! 
-<b>Fluttershy</b>: You have to admit Daring Do wrecks a lot of spider webs in her adventures. 
-<b>Rainbow Dash</b>: In order to save precious artifacts from the bad guy, who you seem to have forgotten is Dr. Caballeron! Are you sure you read the same series I did? [door opens] 
-<b>Rainbow Dash</b>: Well, at least A. K. Yearling's true fans know Martingale's book is bogus. 
-<b>Fluttershy</b>: I'm not sure those are all fans. 
-[slam!] 
-<b>Pony 1</b>: Why didn't your books say Daring Do was real? This changes everything! 
-<b>Pony 2</b>: And why do you only write about her good side? Is she bribing you? 
-<b>Pony 1</b>: On page five-thirty-one, it says that Daring Do kicks puppies! 
-<b>"Peach Fuzz"</b>: She does?! 
-<b>A. K. Yearling</b>: What?! No! Look, are any of you here for my actual book signing? 
-[ponies muttering negatively] 
-<b>Pony 2</b>: Uh-uh. Frankly, I don't even know how you can call it fiction if it's all real. [scoffs] You're as much a fake as Daring Do! 
-[ponies agreeing] 
-<b>Rainbow Dash</b>: I... guess we're a little late to warn you about the new book, huh? 
-<b>A. K. Yearling</b>: [sighs] I always feared that someday everypony would learn Daring Do was real. 
-<b>Fluttershy</b>: But why? Aren't you proud of your adventures? 
-<b>A. K. Yearling</b>: Of course, but I'm not in it for the fame. The stories just seemed too good to keep to myself. I wish I knew who this Martingale author was and why he's determined to ruin my character. And me. 
-<b>Fluttershy</b>: Maybe we can ask him. 
-<b>Rainbow Dash</b>: No way! He's doing a signing across the street?! 
-<b>A. K. Yearling</b>: You'd better go without me. I can't risk the chance Martingale might recognize me as Daring Do. [indistinct chatter] 
-<b>Fluttershy</b>: Oops. Um, sorry. E-Excuse us. 
-<b>Rainbow Dash</b>: [gasps] That's not Martingale! It's Dr. Caballeron in disguise! Now it all makes sense! Daring Do's archnemesis created a fake author self so he can write books that make him sound like a hero! Who does that?! 
-<b>Fluttershy</b>: Uh, A. K. Yearling? 
-<b>Rainbow Dash</b>: This is totally different. [to Dr. Caballeron] Well, well, well! Up to your old tricks again, huh? Just like in Somnambula! Spreading lies to make Daring Do look bad! 
-<b>Fluttershy</b>: Would you sign our book? 
-<b>Groom Q. Q. Martingale</b>: I am just a simple author telling it like it is. Who should I make it out to? 
-<b>Fluttershy</b>: Fluttershy. With two "T"'s. 
-<b>Rainbow Dash</b>: [groans] We know who you really are! And unless you want us to tell all of them, you'd better answer some questions! 
-<b>Groom Q. Q. Martingale</b>: I'm afraid that's all we have time for today. [chuckles] 
-<b>Ponies</b>: Awwww... 
-<b>Groom Q. Q. Martingale</b>: But please take a free copy of my book on your way out. 
-<b>Ponies</b>: [cheering] 
-<b>Rainbow Dash</b>: We aren't gonna let you get away with this, Caballeron! 
-<b>Groom Q. Q. Martingale</b>: Get away with what? I am merely telling my side of the story. 
-<b>Rainbow Dash</b>: You mean lying! 
-<b>Groom Q. Q. Martingale</b>: You think everything in A. K. Yearling's books are true? In  <i>Daring Do and the Quetzal's Quest</i>, she states that the Fangthorn Flowers are red when in fact they are blue! 
-<b>Fluttershy</b>: It's true. They are. 
-<b>Rainbow Dash</b>: [scoffs] That sounds like more of an editor's mistake. 
-<b>Groom Q. Q. Martingale</b>: Still, if that is wrong, is it not possible that other, bigger things are, too? Take a look. It's in my book. 
-<b>Rainbow Dash</b>: But I don't have to take  <i>your</i> word for it! C'mon, Fluttershy! 
-<b>Groom Q. Q. Martingale</b>: [sighs dramatically] 
-<b>Fluttershy</b>: Is something wrong? 
-<b>Groom Q. Q. Martingale</b>: It is terrible being misunderstood. It is true in the past I have not been as nice to Daring Do as I should. But I have my reasons! 
-<b>Fluttershy</b>: Want to talk about what happened? 
-<b>Groom Q. Q. Martingale</b>: My team and I were only ever interested in researching artifacts and taking them to our museum where... <b>Groom Q. Q. Martingale</b>: [narrating] ...other ponies could study them. But Daring Do always seemed to get there first with her own plans. I offered to team up with her, but she refused. She had her own ideas of where the treasures belonged. <b>Fluttershy</b>: Daring Do did have a lot of artifacts on her shelves at home. But didn't you try to sell them to the highest bidder? 
-<b>Groom Q. Q. Martingale</b>: Only because I had to. <b>Groom Q. Q. Martingale</b>: [narrating] Since Daring Do kept taking our artifacts, our museum closed. We were desperate for money to keep it open. 
-<b>Ahuizotl</b>: [roars] <b>Fluttershy</b>: She does destroy a lot of ancient sites. Not to mention the homes of the animals that live there. 
-<b>Groom Q. Q. Martingale</b>: And I felt it was my duty to tell the world. Thank you for listening and understanding, Miss... 
-<b>Fluttershy</b>: Fluttershy. Two "T"'s. 
-<b>Dr. Caballeron</b>: And I am Dr. Caballeron. "Martingale" is merely a  <i>nom de plume</i> to build my brand. You know, my team could use an insightful Pegasus like you, Fluttershy. Have you ever thought of being... an adventurer? 
-<b>Fluttershy</b>: Who, me? [door opens] 
-<b>Rainbow Dash</b>: Finally! What took you so long? 
-<b>Fluttershy</b>: I decided to find out which author is really telling the truth, so I joined Dr. C's Tenochtitlan expedition! 
-<b>Rainbow Dash</b>: Say whaaaaaaat?! <b>"Peach Fuzz"</b>: So Daring Do doesn't kick puppies? 
-<b>A. K. Yearling</b>: That was one time! Accidentally! 
-[door opens] 
-<b>Rainbow Dash</b>: [panting] A. K.! You have to help me! Groom Q. Q. Martingale is really Dr. Caballeron, and he has Fluttershy! The book thing was his new plan to ruin Daring Do's reputation,  <i>and</i> he's trying to make my friend a criminal! They're off to Tenochtitlan right now! 
-<b>A. K. Yearling</b>: He must be after the Truth Talisman of Tonatiuh! It requires the wings of a Pegasus to retrieve it! 
-<b>Rainbow Dash</b>: That's gotta be why Caballeron tricked Fluttershy into joining his gang! 
-<b>A. K. Yearling</b>: Then it's up to us to stop him! 
-[cloak flaps] 
-<b>"Peach Fuzz"</b>: Whooooaaaa! [crunch] 
-<b>Dr. Caballeron</b>: Watch where you put your hooves, everypony. We do not want to disturb the fragile jungle ecosystem. 
-<b>Fluttershy</b>: Oh, that's so thoughtful. 
-<b>Dr. Caballeron</b>: Yes, unlike Daring Do, who slashes plants aside with her cruel machete. 
-<b>Fluttershy</b>: Thank you. 
-[crunch!] 
-<b>Dr. Caballeron</b>: Fool! Don't you know that's poison?! 
-[beat] 
-<b>Dr. Caballeron</b>: I... don't want you to get hurt, my friend. [nervous chuckle] 
-<b>Rogue</b>: But I'm hungry. 
-<b>Fluttershy</b>: Oh! I can help with that! Here! 
-<b>Dr. Caballeron</b>: You are... willing to share? 
-<b>Fluttershy</b>: Of course! That's part of the fun of having an adventure with friends! 
-[munching and sipping] 
-[bushes rustle] 
-[jaguar roars] 
-[lynx yowls] 
-[cheetah growls] 
-<b>Fluttershy</b>,  <b>Dr. Caballeron</b>, and  <b>henchponies</b>: [gasp] 
-[white cat yowls] 
-[screech!] 
-<b>Dr. Caballeron</b>: Fluttershy! Run! These ferocious beasts want to eat us for dinner! 
-<b>Fluttershy</b>: That's a common misconception. Have you ever tried just talking to them? 
-<b>Dr. Caballeron</b>: That's crazy! You are on your own! 
-<b>Withers</b>: She's a goner. 
-<b>Biff</b>: I can't watch! 
-[jungle cats purring] 
-<b>Fluttershy</b>: We're very sorry for coming into your territory. We're just passing through. 
-<b>Dr. Caballeron</b>: How did you do that? 
-<b>Fluttershy</b>: Everycreature likes to be listened to. You just need to take the time to understand them. 
-<b>Dr. Caballeron</b>: You are more talented than I realized. 
-<b>Fluttershy</b>: Thanks. I'm having the best time with you all! <b>Rainbow Dash</b>: Fluttershy must be having the worst time with Caballeron's goons! 
-<b>Daring Do</b>: We need to catch up to them before they reach the Truth Talisman! 
-<b>Rainbow Dash</b>: Why? What's so special about it? 
-<b>Daring Do</b>: It has the power to make the pony holding it tell the truth. But Caballeron only wants it because it's made of solid gold. He'll melt it down and use it to get rich. 
-<b>Rainbow Dash</b>: So if this Talisman is so important, why didn't you already save it? You said only a Pegasus can get it, right? 
-<b>Daring Do</b>: Yes, but the temple traps are far too dangerous to face without a map. And maybe even  <i>with</i> one. 
-<b>Rainbow Dash</b>: [gulps] <b>Biff</b>: Boss, how about we take the shortcut? 
-<b>Dr. Caballeron</b>: How about you be quiet?! 
-[beat] 
-<b>Dr. Caballeron</b>: I-I mean... no, thank you, Biff. Let's just follow the map. 
-<b>Biff</b>: Aww. I'm supposed to be Dr. C's second-in-command. But he never listens to me. 
-<b>Fluttershy</b>: Well, keep trying. I believe in you. 
-<b>Dr. Caballeron</b>: At last! Now we simply have to wait for the sun to reach its highest point, and our path will be revealed. 
-[fly-ders buzzing] 
-<b>Fluttershy</b>: Withers. Don't. Move. 
-[zip!] 
-[flute sounds] 
-<b>Withers</b>: [cheers] <b>Daring Do</b>: There they are! We can catch them before they enter the temple! 
-[vines snap] 
-<b>Daring Do</b>: [yelps] 
-<b>Rainbow Dash</b>: [gasps] 
-<b>Daring Do</b>: Get back, Rainbow Dash! It's Ahuizotl! 
-[vines snap] 
-<b>Rainbow Dash</b>: [grunts] 
-<b>Ahuizotl</b>: [laughs evilly] Daring Do, my old nemesis. You may have outsmarted my jungle cats, but you cannot escape me! 
-<b>Rainbow Dash</b>: [grunts] We didn't see any cats! We're just here to rescue Fluttershy! 
-<b>Ahuizotl</b>: Hmmm... It must be a coincidence that only a Pegasus can retrieve Tonatiuh's treasure, and there are two of you here. 
-[slam!] 
-[zip!] 
-<b>Ahuizotl</b>: [roars] [grinding] 
-[magic sounds] 
-[rumbling] 
-<b>Dr. Caballeron</b>: Quickly! Before the sun moves and it closes! 
-[rumbling] 
-[thud] 
-<b>Rainbow Dash</b>: Phew! That was cutting it close. 
-<b>Daring Do</b>: And without a map, we'll have to guess which way to go. [rumbling] 
-[shimmering] 
-<b>Dr. Caballeron</b>: [overdramatically] Oh, no! I knew the Truth Talisman could not be moved by magic, but I never realized we'd have to fly to retrieve it! Our journey has been for nothing! 
-<b>Fluttershy</b>: Don't be upset. I can get it. 
-<b>Dr. Caballeron</b>: Oh, Fluttershy, you are too kind. But I could never ask that of you. It might be dangerous! 
-<b>Fluttershy</b>: I want to do it! For all of you, my new friends. And to protect a historical treasure! 
-[rumbling] 
-<b>Fluttershy</b>: [screaming] Whoa! 
-<b>Biff</b>: [grunts] Give me a hoof here! 
-<b>Withers</b>: [grunting] 
-[cracking] 
-[thud!] 
-<b>Fluttershy</b>: [yelping] Aah! 
-[lava bubbling] 
-[rumbling] 
-<b>Withers</b>: We did it! 
-<b>Rogue</b>: You're safe! 
-<b>Fluttershy</b>: Thanks, everypony. 
-<b>Daring Do</b>: Give us the Talisman, Caballeron! 
-<b>Rainbow Dash</b>: We're not taking no for an answer! 
-<b>Fluttershy</b>: Wait! You don't understand! My friends are researchers! They only want to study the Talisman and keep it safe in a museum! Right, Dr. C? 
-<b>Dr. Caballeron</b>: Uhhh... no. 
-<b>Fluttershy</b>: [gasps] But... But you said— 
-<b>Daring Do</b>: Now that he's holding Tonatiuh's Talisman, he has to tell the truth! 
-<b>Rainbow Dash</b>: Admit it, Caballeron! You're only pretending to like Fluttershy because she has the wings you needed to steal the Truth Talisman! Isn't that right?! 
-<b>Dr. Caballeron</b>: No! I admit that was the original reason, but my henchponies and I have come to value your friendship and kindness. 
-[beat] 
-<b>Rainbow Dash</b>: Didn't see that coming. 
-[rumbling] 
-<b>Ahuizotl</b>: [growls] 
-<b>Rainbow Dash</b>: Or that! 
-<b>Ahuizotl</b>: More intruders? And you dare to steal Tonatiuh's Talisman?! Guardian-goyles, attack! 
-[shimmering] 
-[guardian-goyles growl] 
-<b>Ahuizotl</b>: [laughs evilly] 
-[thud!] 
-[guardian-goyle roars] [guardian-goyles growling] 
-<b>Dr. Caballeron</b>: Fluttershy! Can't you ask them to stop like the jungle cats? 
-<b>Fluttershy</b>: Um, excuse me? Uh, guardian-goyles? 
-[guardian-goyle growls] 
-<b>Daring Do</b>: It's no good! They're only stone and magic, not alive! I encountered some like this in Marapore! 
-<b>Dr. Caballeron</b>: Ah, yes. I seem to recall similar creations in Flankladesh. 
-<b>Rainbow Dash</b>: So? How do you get rid of them?! 
-[chomp!] 
-<b>Daring Do</b>: I know they don't like bright light! 
-<b>Fluttershy</b>: There's none of that in here. 
-<b>Daring Do</b>: Not yet! Caballeron! Do you still have the Diamond of Lapis Lux? 
-<b>Dr. Caballeron</b>: Yes! I-I mean... [straining] Yes! I-I mean—! [growls] How did you know I stole it?! 
-<b>Daring Do</b>: Lucky guess. Hold it high! 
-[guardian-goyles growl] 
-[cracking] 
-<b>Fluttershy</b>: Wow! You two make a great team! 
-<b>Rainbow Dash</b>: Yeah, I'm not sure how I feel about that. 
-<b>Daring Do</b>: Feel later! Now it's time to escape! 
-[thudding] 
-<b>Biff</b>: If we want to get out of here, we're all gonna have to work together. 
-<b>Dr. Caballeron</b>: That's... actually a good idea. 
-<b>Fluttershy</b>: See? Told you he'd listen. 
-<b>Daring Do</b>: A truce until we escape? How can we trust you? 
-<b>Dr. Caballeron</b>: I cannot lie. Now, all together! 
-<b>All</b>: [grunting] 
-[thud!] <b>Ahuizotl</b>: [humming] Aah! You again! [growls] If I wanted to play games, I would get out my pinochle deck! 
-<b>Daring Do</b>: This way! 
-[whooshing] 
-<b>Daring Do</b>: Rainbow Dash! 
-<b>Rainbow Dash</b>: I'm gonna need the deluxe spa package after this adventure. That doesn't leave this temple! 
-<b>Rogue</b>: That's it! I'm quitting the henchpony business to finally follow my dreams of becoming an opera star! 
-[beat] 
-<b>Rogue</b>: Uh... maybe you should hold this. 
-[slam!] 
-<b>Ahuizotl</b>: You cannot hide in there forever! It's a dead end! [laughs evilly, grunting] 
-<b>Daring Do</b>: Ahuizotl won't give up until he catches us. We have to find another way out! 
-<b>Ahuizotl</b>: [grunts] 
-<b>Fluttershy</b>: [gasps] I think our problem is the solution. 
-<b>Rainbow Dash</b>: Uh, did you forget there's a monster out there that wants to crush us? 
-<b>Fluttershy</b>: But why? Nopony ever asked Ahuizotl what  <i>his</i> side of the story is. He must have a reason for being so upset. 
-<b>Rainbow Dash</b>: Or maybe he's just the bad guy! Do I need to remind you he's tried to squash Daring Do like a hundred times?! 
-[slam!] 
-<b>Dr. Caballeron</b>: And me as well. I was so scared, I had to change my ascot. Aah! Curse this truth teller! 
-<b>Fluttershy</b>: Understanding begins with listening. 
-<b>Ahuizotl</b>: [growls] Prepared to meet your doom? 
-<b>Fluttershy</b>: Um, not really. Just here to ask – why are you chasing us, Mr. Ahuizotl? 
-<b>Ahuizotl</b>: Well... the thing is, I'm in charge of protecting this jungle. If another artifact goes missing on my watch, I'm going to be in so much trouble with the other guardian creatures. 
-<b>Fluttershy</b>: Awww. That sounds like a lot of responsibility. 
-<b>Ahuizotl</b>: [stammers] It is! And those two have taken so many relics from my land, my job is on the line! So... maybe I am a little violent and ferocious. Can you blame me? [blows nose] 
-<b>Daring Do</b>: The only reason I've been taking the artifacts is because I thought I was protecting them. 
-<b>Dr. Caballeron</b>: I was stealing them to get rich. But I never realized you had a noble cause. I thought you were just being a monster. 
-<b>Ahuizotl</b>: [sighs] I get that a lot. 
-<b>Rainbow Dash</b>: Maybe there  <i>is</i> something to this whole listening-to-everypony thing. 
-<b>Fluttershy</b>: It doesn't always mean they're telling the truth, but everycreature deserves kindness. 
-<b>Ahuizotl</b>: True. And because you returned the Talisman and took the time to understand me, I will let you all go. 
-[rumbling] 
-<b>Ahuizotl</b>: On one condition! You swear to never steal artifacts from the Tenochtitlan Basin again! 
-<b>Daring Do</b> and  <b>Dr. Caballeron</b>: I promise. 
-<b>Daring Do</b>: I'll even write that in my next book. 
-<b>Dr. Caballeron</b>:  <i>Your</i> next book? You mean you're actually A. K. Yearling? 
-<b>Daring Do</b>: Don't tell anypony! 
-<b>Dr. Caballeron</b>: That gives me an idea. <b>Rainbow Dash</b>: Hey, what's going on? I thought your first co-written novel would bring out a ton of fans. 
-<b>A. K. Yearling</b>: We've been upstaged by a new author. <b>Ahuizotl</b>: And so, the noble Ahuizotl bravely toiled day and night to protect the jungle's precious artifacts... [credits] 
+[knock on door]
+[door opens]
+<b>Fluttershy</b>: Oh! I just stopped by to thank you for letting me borrow your <i>Daring Do</i> books. I love them!
+<b>Rainbow Dash</b>: Wait 'til you get to <i>Daring Do and the Riddle of the Sphinx</i>!
+<b>Fluttershy</b>: This is actually my second time through! I read them all! From <i>Daring Do and the Sapphire Statue</i> to <i>Daring Do and the Fallen Idol</i>!
+<b>Rainbow Dash</b>: <i>Fallen Idol</i>? That's not in the series.
+<b>Fluttershy</b>: Oh. It just came out last week. Maybe that's why you haven't heard of it?
+<b>Rainbow Dash</b>: No way Daring Do's biggest fan – me – would miss a book coming out! Besides, A. K. Yearling always sends me a copy.
+<b>Fluttershy</b>: Well, I'm happy to let you borrow mine until yours arrives.
+<b>Rainbow Dash</b>: [reading] "The true story of the thieving 
+fraud known as Daring Do"?! What?! Why would A. K. Yearling write that 
+about herself?!
+<b>Fluttershy</b>: Oh. It looks like she didn't. This book says it's by Groom Q. Q. Martingale.
+<b>Rainbow Dash</b>: Who?
+<b>Fluttershy</b>: I guess he's a new writer.
+<b>Rainbow Dash</b>: A <i>bad</i> one. [reading] "The only 
+thing worse than Daring Do's destruction of temples is her cruelty to 
+the mild-mannered Dr. Caballeron"?!
+<b>Fluttershy</b>: It was written from his point of view. I figured it was an artistic choice.
+<b>Rainbow Dash</b>: More like a disaster! Listen! [reading] 
+"Daring Do isn't just a fictional character from over-the-top adventure 
+stories. I've met her, and she is a real, live pony!" That's supposed to
+ be a secret! [grunts] We're the only ones who know Daring Do is really 
+A. K. Yearling in disguise. But if other ponies read this book, how long
+ will it take them to figure that out?! We have to go warn her! <i>Fluttershy!</i>
+<b>Fluttershy</b>: Hm? Oh. Sorry.
+[theme song]
+<b>Rainbow Dash</b>: A. K. Yearling is signing all her books at the bookstore today. We can warn her about what's going on.
+<b>Fluttershy</b>: Don't you think you should read Martingale's book first? Just to hear both sides of the story?
+<b>Rainbow Dash</b>: Uh, why? The only true thing in that pack of lies is that Daring Do is real.
+<b>Fluttershy</b>: There's also a lot of insight into Dr. 
+Caballeron's life choices. Did you know he's actually a history 
+professor and amateur bird watcher?
+<b>Rainbow Dash</b>: Are you serious right now? A random writer trashes our friend and exposes her secret, and you want to talk about birds?!
+<b>Fluttershy</b>: [whispers] Also spider cruelty.
+<b>Rainbow Dash</b>: What?!
+<b>Fluttershy</b>: You have to admit Daring Do wrecks a lot of spider webs in her adventures.
+<b>Rainbow Dash</b>: In order to save precious artifacts from 
+the bad guy, who you seem to have forgotten is Dr. Caballeron! Are you 
+sure you read the same series I did?
+[door opens]
+<b>Rainbow Dash</b>: Well, at least A. K. Yearling's true fans know Martingale's book is bogus.
+<b>Fluttershy</b>: I'm not sure those are all fans.
+[slam!]
+<b>Pony 1</b>: Why didn't your books say Daring Do was real? This changes everything!
+<b>Pony 2</b>: And why do you only write about her good side? Is she bribing you?
+<b>Pony 1</b>: On page five-thirty-one, it says that Daring Do kicks puppies!
+<b>"Peach Fuzz"</b>: She does?!
+<b>A. K. Yearling</b>: What?! No! Look, are any of you here for my actual book signing?
+[ponies muttering negatively]
+<b>Pony 2</b>: Uh-uh. Frankly, I don't even know how you can call it fiction if it's all real. [scoffs] You're as much a fake as Daring Do!
+[ponies agreeing]
+<b>Rainbow Dash</b>: I... guess we're a little late to warn you about the new book, huh?
+<b>A. K. Yearling</b>: [sighs] I always feared that someday everypony would learn Daring Do was real.
+<b>Fluttershy</b>: But why? Aren't you proud of your adventures?
+<b>A. K. Yearling</b>: Of course, but I'm not in it for the 
+fame. The stories just seemed too good to keep to myself. I wish I knew 
+who this Martingale author was and why he's determined to ruin my 
+character. And me.
+<b>Fluttershy</b>: Maybe we can ask him.
+<b>Rainbow Dash</b>: No way! He's doing a signing across the street?!
+<b>A. K. Yearling</b>: You'd better go without me. I can't risk the chance Martingale might recognize me as Daring Do.
+[indistinct chatter]
+<b>Fluttershy</b>: Oops. Um, sorry. E-Excuse us.
+<b>Rainbow Dash</b>: [gasps] That's not Martingale! It's Dr. 
+Caballeron in disguise! Now it all makes sense! Daring Do's archnemesis 
+created a fake author self so he can write books that make him sound 
+like a hero! Who does that?!
+<b>Fluttershy</b>: Uh, A. K. Yearling?
+<b>Rainbow Dash</b>: This is totally different. [to Dr. 
+Caballeron] Well, well, well! Up to your old tricks again, huh? Just 
+like in Somnambula! Spreading lies to make Daring Do look bad!
+<b>Fluttershy</b>: Would you sign our book?
+<b>Groom Q. Q. Martingale</b>: I am just a simple author telling it like it is. Who should I make it out to?
+<b>Fluttershy</b>: Fluttershy. With two "T"'s.
+<b>Rainbow Dash</b>: [groans] We know who you really are! And unless you want us to tell all of them, you'd better answer some questions!
+<b>Groom Q. Q. Martingale</b>: I'm afraid that's all we have time for today. [chuckles]
+<b>Ponies</b>: Awwww...
+<b>Groom Q. Q. Martingale</b>: But please take a free copy of my book on your way out.
+<b>Ponies</b>: [cheering]
+<b>Rainbow Dash</b>: We aren't gonna let you get away with this, Caballeron!
+<b>Groom Q. Q. Martingale</b>: Get away with what? I am merely telling my side of the story.
+<b>Rainbow Dash</b>: You mean lying!
+<b>Groom Q. Q. Martingale</b>: You think everything in A. K. Yearling's books are true? In <i>Daring Do and the Quetzal's Quest</i>, she states that the Fangthorn Flowers are red when in fact they are blue!
+<b>Fluttershy</b>: It's true. They are.
+<b>Rainbow Dash</b>: [scoffs] That sounds like more of an editor's mistake.
+<b>Groom Q. Q. Martingale</b>: Still, if that is wrong, is it not possible that other, bigger things are, too? Take a look. It's in my book.
+<b>Rainbow Dash</b>: But I don't have to take <i>your</i> word for it! C'mon, Fluttershy!
+<b>Groom Q. Q. Martingale</b>: [sighs dramatically]
+<b>Fluttershy</b>: Is something wrong?
+<b>Groom Q. Q. Martingale</b>: It is terrible being 
+misunderstood. It is true in the past I have not been as nice to Daring 
+Do as I should. But I have my reasons!
+<b>Fluttershy</b>: Want to talk about what happened?
+<b>Groom Q. Q. Martingale</b>: My team and I were only ever interested in researching artifacts and taking them to our museum where...
+<b>Groom Q. Q. Martingale</b>: [narrating] ...other ponies could
+ study them. But Daring Do always seemed to get there first with her own
+ plans. I offered to team up with her, but she refused. She had her own 
+ideas of where the treasures belonged.
+<b>Fluttershy</b>: Daring Do did have a lot of artifacts on her shelves at home. But didn't you try to sell them to the highest bidder?
+<b>Groom Q. Q. Martingale</b>: Only because I had to.
+<b>Groom Q. Q. Martingale</b>: [narrating] Since Daring Do kept taking our artifacts, our museum closed. We were desperate for money to keep it open.
+<b>Ahuizotl</b>: [roars]
+<b>Fluttershy</b>: She does destroy a lot of ancient sites. Not to mention the homes of the animals that live there.
+<b>Groom Q. Q. Martingale</b>: And I felt it was my duty to tell the world. Thank you for listening and understanding, Miss...
+<b>Fluttershy</b>: Fluttershy. Two "T"'s.
+<b>Dr. Caballeron</b>: And I am Dr. Caballeron. "Martingale" is merely a <i>nom de plume</i>
+ to build my brand. You know, my team could use an insightful Pegasus 
+like you, Fluttershy. Have you ever thought of being... an adventurer?
+<b>Fluttershy</b>: Who, me?
+[door opens]
+<b>Rainbow Dash</b>: Finally! What took you so long?
+<b>Fluttershy</b>: I decided to find out which author is really telling the truth, so I joined Dr. C's Tenochtitlan expedition!
+<b>Rainbow Dash</b>: Say whaaaaaaat?!
+<b>"Peach Fuzz"</b>: So Daring Do doesn't kick puppies?
+<b>A. K. Yearling</b>: That was one time! Accidentally!
+[door opens]
+<b>Rainbow Dash</b>: [panting] A. K.! You have to help me! 
+Groom Q. Q. Martingale is really Dr. Caballeron, and he has Fluttershy! 
+The book thing was his new plan to ruin Daring Do's reputation, <i>and</i> he's trying to make my friend a criminal! They're off to Tenochtitlan right now!
+<b>A. K. Yearling</b>: He must be after the Truth Talisman of Tonatiuh! It requires the wings of a Pegasus to retrieve it!
+<b>Rainbow Dash</b>: That's gotta be why Caballeron tricked Fluttershy into joining his gang!
+<b>A. K. Yearling</b>: Then it's up to us to stop him!
+[cloak flaps]
+<b>"Peach Fuzz"</b>: Whooooaaaa!
+[crunch]
+<b>Dr. Caballeron</b>: Watch where you put your hooves, everypony. We do not want to disturb the fragile jungle ecosystem.
+<b>Fluttershy</b>: Oh, that's so thoughtful.
+<b>Dr. Caballeron</b>: Yes, unlike Daring Do, who slashes plants aside with her cruel machete.
+<b>Fluttershy</b>: Thank you.
+[crunch!]
+<b>Dr. Caballeron</b>: Fool! Don't you know that's poison?!
+[beat]
+<b>Dr. Caballeron</b>: I... don't want you to get hurt, my friend. [nervous chuckle]
+<b>Rogue</b>: But I'm hungry.
+<b>Fluttershy</b>: Oh! I can help with that! Here!
+<b>Dr. Caballeron</b>: You are... willing to share?
+<b>Fluttershy</b>: Of course! That's part of the fun of having an adventure with friends!
+[munching and sipping]
+[bushes rustle]
+[jaguar roars]
+[lynx yowls]
+[cheetah growls]
+<b>Fluttershy</b>, <b>Dr. Caballeron</b>, and <b>henchponies</b>: [gasp]
+[white cat yowls]
+[screech!]
+<b>Dr. Caballeron</b>: Fluttershy! Run! These ferocious beasts want to eat us for dinner!
+<b>Fluttershy</b>: That's a common misconception. Have you ever tried just talking to them?
+<b>Dr. Caballeron</b>: That's crazy! You are on your own!
+<b>Withers</b>: She's a goner.
+<b>Biff</b>: I can't watch!
+[jungle cats purring]
+<b>Fluttershy</b>: We're very sorry for coming into your territory. We're just passing through.
+<b>Dr. Caballeron</b>: How did you do that?
+<b>Fluttershy</b>: Everycreature likes to be listened to. You just need to take the time to understand them.
+<b>Dr. Caballeron</b>: You are more talented than I realized.
+<b>Fluttershy</b>: Thanks. I'm having the best time with you all!
+<b>Rainbow Dash</b>: Fluttershy must be having the worst time with Caballeron's goons!
+<b>Daring Do</b>: We need to catch up to them before they reach the Truth Talisman!
+<b>Rainbow Dash</b>: Why? What's so special about it?
+<b>Daring Do</b>: It has the power to make the pony holding it 
+tell the truth. But Caballeron only wants it because it's made of solid 
+gold. He'll melt it down and use it to get rich.
+<b>Rainbow Dash</b>: So if this Talisman is so important, why didn't you already save it? You said only a Pegasus can get it, right?
+<b>Daring Do</b>: Yes, but the temple traps are far too dangerous to face without a map. And maybe even <i>with</i> one.
+<b>Rainbow Dash</b>: [gulps]
+<b>Biff</b>: Boss, how about we take the shortcut?
+<b>Dr. Caballeron</b>: How about you be quiet?!
+[beat]
+<b>Dr. Caballeron</b>: I-I mean... no, thank you, Biff. Let's just follow the map.
+<b>Biff</b>: Aww. I'm supposed to be Dr. C's second-in-command. But he never listens to me.
+<b>Fluttershy</b>: Well, keep trying. I believe in you.
+<b>Dr. Caballeron</b>: At last! Now we simply have to wait for the sun to reach its highest point, and our path will be revealed.
+[fly-ders buzzing]
+<b>Fluttershy</b>: Withers. Don't. Move.
+[zip!]
+[flute sounds]
+<b>Withers</b>: [cheers]
+<b>Daring Do</b>: There they are! We can catch them before they enter the temple!
+[vines snap]
+<b>Daring Do</b>: [yelps]
+<b>Rainbow Dash</b>: [gasps]
+<b>Daring Do</b>: Get back, Rainbow Dash! It's Ahuizotl!
+[vines snap]
+<b>Rainbow Dash</b>: [grunts]
+<b>Ahuizotl</b>: [laughs evilly] Daring Do, my old nemesis. You may have outsmarted my jungle cats, but you cannot escape me!
+<b>Rainbow Dash</b>: [grunts] We didn't see any cats! We're just here to rescue Fluttershy!
+<b>Ahuizotl</b>: Hmmm... It must be a coincidence that only a Pegasus can retrieve Tonatiuh's treasure, and there are two of you here.
+[slam!]
+[zip!]
+<b>Ahuizotl</b>: [roars]
+[grinding]
+[magic sounds]
+[rumbling]
+<b>Dr. Caballeron</b>: Quickly! Before the sun moves and it closes!
+[rumbling]
+[thud]
+<b>Rainbow Dash</b>: Phew! That was cutting it close.
+<b>Daring Do</b>: And without a map, we'll have to guess which way to go.
+[rumbling]
+[shimmering]
+<b>Dr. Caballeron</b>: [overdramatically] Oh, no! I knew the 
+Truth Talisman could not be moved by magic, but I never realized we'd 
+have to fly to retrieve it! Our journey has been for nothing!
+<b>Fluttershy</b>: Don't be upset. I can get it.
+<b>Dr. Caballeron</b>: Oh, Fluttershy, you are too kind. But I could never ask that of you. It might be dangerous!
+<b>Fluttershy</b>: I want to do it! For all of you, my new friends. And to protect a historical treasure!
+[rumbling]
+<b>Fluttershy</b>: [screaming] Whoa!
+<b>Biff</b>: [grunts] Give me a hoof here!
+<b>Withers</b>: [grunting]
+[cracking]
+[thud!]
+<b>Fluttershy</b>: [yelping] Aah!
+[lava bubbling]
+[rumbling]
+<b>Withers</b>: We did it!
+<b>Rogue</b>: You're safe!
+<b>Fluttershy</b>: Thanks, everypony.
+<b>Daring Do</b>: Give us the Talisman, Caballeron!
+<b>Rainbow Dash</b>: We're not taking  no for an answer!
+<b>Fluttershy</b>: Wait! You don't understand! My friends are 
+researchers! They only want to study the Talisman and keep it safe in a 
+museum! Right, Dr. C?
+<b>Dr. Caballeron</b>: Uhhh... no.
+<b>Fluttershy</b>: [gasps] But... But you said—
+<b>Daring Do</b>: Now that he's holding Tonatiuh's Talisman, he has to tell the truth!
+<b>Rainbow Dash</b>: Admit it, Caballeron! You're only 
+pretending to like Fluttershy because she has the wings you needed to 
+steal the Truth Talisman! Isn't that right?!
+<b>Dr. Caballeron</b>: No! I admit that was the original reason, but my henchponies and I have come to value your friendship and kindness.
+[beat]
+<b>Rainbow Dash</b>: Didn't see that coming.
+[rumbling]
+<b>Ahuizotl</b>: [growls]
+<b>Rainbow Dash</b>: Or that!
+<b>Ahuizotl</b>: More intruders? And you dare to steal Tonatiuh's Talisman?! Guardian-goyles, attack!
+[shimmering]
+[guardian-goyles growl]
+<b>Ahuizotl</b>: [laughs evilly]
+[thud!]
+[guardian-goyle roars]
+[guardian-goyles growling]
+<b>Dr. Caballeron</b>: Fluttershy! Can't you ask them to stop like the jungle cats?
+<b>Fluttershy</b>: Um, excuse me? Uh, guardian-goyles?
+[guardian-goyle growls]
+<b>Daring Do</b>: It's no good! They're only stone and magic, not alive! I encountered some like this in Marapore!
+<b>Dr. Caballeron</b>: Ah, yes. I seem to recall similar creations in Flankladesh.
+<b>Rainbow Dash</b>: So? How do you get rid of them?!
+[chomp!]
+<b>Daring Do</b>: I know they don't like bright light!
+<b>Fluttershy</b>: There's none of that in here.
+<b>Daring Do</b>: Not yet! Caballeron! Do you still have the Diamond of Lapis Lux?
+<b>Dr. Caballeron</b>: Yes! I-I mean... [straining] Yes! I-I mean—! [growls] How did you know I stole it?!
+<b>Daring Do</b>: Lucky guess. Hold it high!
+[guardian-goyles growl]
+[cracking]
+<b>Fluttershy</b>: Wow! You two make a great team!
+<b>Rainbow Dash</b>: Yeah, I'm not sure how I feel about that.
+<b>Daring Do</b>: Feel later! Now it's time to escape!
+[thudding]
+<b>Biff</b>: If we want to get out of here, we're all gonna have to work together.
+<b>Dr. Caballeron</b>: That's... actually a good idea.
+<b>Fluttershy</b>: See? Told you he'd listen.
+<b>Daring Do</b>: A truce until we escape? How can we trust you?
+<b>Dr. Caballeron</b>: I cannot lie. Now, all together!
+<b>All</b>: [grunting]
+[thud!]
+<b>Ahuizotl</b>: [humming] Aah! You again! [growls] If I wanted to play games, I would get out my pinochle deck!
+<b>Daring Do</b>: This way!
+[whooshing]
+<b>Daring Do</b>: Rainbow Dash!
+<b>Rainbow Dash</b>: I'm gonna need the deluxe spa package after this adventure. That doesn't leave this temple!
+<b>Rogue</b>: That's it! I'm quitting the henchpony business to finally follow my dreams of becoming an opera star!
+[beat]
+<b>Rogue</b>: Uh... maybe you should hold this.
+[slam!]
+<b>Ahuizotl</b>: You cannot hide in there forever! It's a dead end! [laughs evilly, grunting]
+<b>Daring Do</b>: Ahuizotl won't give up until he catches us. We have to find another way out!
+<b>Ahuizotl</b>: [grunts]
+<b>Fluttershy</b>: [gasps] I think our problem is the solution.
+<b>Rainbow Dash</b>: Uh, did you forget there's a monster out there that wants to crush us?
+<b>Fluttershy</b>: But why? Nopony ever asked Ahuizotl what <i>his</i> side of the story is. He must have a reason for being so upset.
+<b>Rainbow Dash</b>: Or maybe he's just the bad guy! Do I need to remind you he's tried to squash Daring Do like a hundred times?!
+[slam!]
+<b>Dr. Caballeron</b>: And me as well. I was so scared, I had to change my ascot. Aah! Curse this truth teller!
+<b>Fluttershy</b>: Understanding begins with listening.
+<b>Ahuizotl</b>: [growls] Prepared to meet your doom?
+<b>Fluttershy</b>: Um, not really. Just here to ask – why are you chasing us, Mr. Ahuizotl?
+<b>Ahuizotl</b>: Well... the thing is, I'm in charge of 
+protecting this jungle. If another artifact goes missing on my watch, 
+I'm going to be in so much trouble with the other guardian creatures.
+<b>Fluttershy</b>: Awww. That sounds like a lot of responsibility.
+<b>Ahuizotl</b>: [stammers] It is! And those two have taken so 
+many relics from my land, my job is on the line! So... maybe I am a 
+little violent and ferocious. Can you blame me? [blows nose]
+<b>Daring Do</b>: The only reason I've been taking the artifacts is because I thought I was protecting them.
+<b>Dr. Caballeron</b>: I was stealing them to get rich. But I never realized you had a noble cause. I thought you were just being a monster.
+<b>Ahuizotl</b>: [sighs] I get that a lot.
+<b>Rainbow Dash</b>: Maybe there <i>is</i> something to this whole listening-to-everypony thing.
+<b>Fluttershy</b>: It doesn't always mean they're telling the truth, but everycreature deserves kindness.
+<b>Ahuizotl</b>: True. And because you returned the Talisman and took the time to understand me, I will let you all go.
+[rumbling]
+<b>Ahuizotl</b>: On one condition! You swear to never steal artifacts from the Tenochtitlan Basin again!
+<b>Daring Do</b> and <b>Dr. Caballeron</b>: I promise.
+<b>Daring Do</b>: I'll even write that in my next book.
+<b>Dr. Caballeron</b>: <i>Your</i> next book? You mean you're actually A. K. Yearling?
+<b>Daring Do</b>: Don't tell anypony!
+<b>Dr. Caballeron</b>: That gives me an idea.
+<b>Rainbow Dash</b>: Hey, what's going on? I thought your first co-written novel would bring out a ton of fans.
+<b>A. K. Yearling</b>: We've been upstaged by a new author.
+<b>Ahuizotl</b>: And so, the noble Ahuizotl bravely toiled day and night to protect the jungle's precious artifacts...
+[credits]

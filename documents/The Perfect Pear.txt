@@ -1,215 +1,324 @@
-[ponies chattering] 
-<b>Apple Bloom</b>: Hmmm. 
-[ponies continue chattering] 
-<b>Apple Bloom</b>: [gasps] Thank you! You must be new. I'm Apple Bloom. 
-<b>Grand Pear</b>: I'm Grand Pear. 
-<b>Apple Bloom</b>: Welcome to Ponyville! 
-<b>Goldengrape</b>: [scoffs] You mean welcome  <i>back</i> to Ponyville. Grand Pear was originally from here before he opened his famous pear jam store in Vanhoover. 
-<b>Apple Bloom</b>: Really? Why'd ya move back? 
-<b>Grand Pear</b>: I, uh... [smacks lips] Well, I needed a change of pace. 
-<b>Apple Bloom</b>: Huh. [chomps] This is delicious! [chomps] I can't believe I've gone my whole life without ever havin' this. 
-<b>Grand Pear</b>: Glad you like it. 
-<b>Apple Bloom</b>: How much? 
-<b>Grand Pear</b>: Nah. 
-<b>Apple Bloom</b>: Wow! Thanks, Mr. Grand Pear, sir! It was real nice meetin' you! 
-[ponies continue chattering] [door opens] 
-<b>Applejack</b>: Glad you're back, sugarcube. Just in time for breakfast for dinner. 
-<b>Apple Bloom</b>: I got the perfect topper for flapjacks at the market today. 
-<b>Applejack</b>: [gasps]  <i>Pear jam?!</i> What were you thinkin'?! 
-[distant door closing] 
-<b>Applejack</b>: Quick! Hide it! 
-[wood breaking] 
-<b>Apple Bloom</b>: Huh? <b>Apple Bloom</b>: What's the big deal? It's just pear jam. 
-<b>Applejack</b>: The big deal is that there is a long-standing feud between the Apples and the Pears! 
-<b>Big McIntosh</b>: Eeyup! 
-<b>Apple Bloom</b>: Why? 
-<b>Applejack</b>: Why?! ...Well, uh, a-actually, I-I'm-I'm not really sure. You have any idea, Big Mac? 
-<b>Big McIntosh</b>: Uhhh... nope. 
-<b>Apple Bloom</b>: Then I guess we should ask Granny? 
-<b>Granny Smith</b>: Ask me what? 
-[dirt shuffling] 
-[thud] 
-<b>Applejack</b>: Uh, what goes better with apple fritter flapjacks – caramel syrup or praline! 
-<b>Granny Smith</b>: [blows raspberry] Praline. 
-[clatter] 
-<b>Granny Smith</b>: [sniffs] Oh-ho-ho, that smells great, Applejack. I'ma go wash up for supper. Be right back. 
-[door closes] 
-<b>Applejack</b>,  <b>Apple Bloom</b>, and  <b>Big McIntosh</b>: [sighs] 
-<b>Applejack</b>: Listen, sugarcube. Anytime Big Mac and I ever asked Granny about the feud or the Pears, she'd get so upset she couldn't talk. Best not bring it up. 
-<b>Apple Bloom</b>: O-Okay, but that Grand Pear was really nice to me, even though I'm an Apple. I wonder what happened. 
-<b>Applejack</b>: Me, too. But if we can't ask Granny, I don't know who— We can ask Goldie Delicious! If anypony knows about the feud, it's the family historian! 
-<b>Apple Bloom</b>: I'm in! What do you say, Big Mac? Siblin' trip first thing tomorrow? 
-<b>Big McIntosh</b>: Eeyup! [knock, knock] 
-[cat yowls] 
-[crash!] 
-[cats meowing] 
-<b>Goldie Delicious</b>: Now, that's how you make an entrance! Or is it an exit? [laughs] Well, anyway, it's so wonderful to see you three. To what do I owe the pleasure? 
-<b>Applejack</b>: Well, Goldie, we were hopin' you could tell us about the, uh... feud with the Apples and the Pears. 
-<b>Goldie Delicious</b>: Oh. Oh, dear. Well, does Granny Smith know you're here? 
-<b>Apple Bloom</b>: No, ma'am. But I ran into Grand Pear yesterday, and he was real nice. Maybe the feud was a misunderstandin' or somethin', and we can fix it? 
-<b>Goldie Delicious</b>: Oh, well, I don't know about that, little one. But if it's a story you're after, I suppose you have a right to know. Now, let's see, I got a stack of books here someplace... Oh!  <i>Apple Family History, Volume 137</i>! Hmm, hmm... Here we are. "Feud with the Bears". I mean, "Pears". My eyes ain't what they used to be. A long time ago, Sweet Apple Acres wasn't the only farm in Ponyville. In fact, there was another one just right next door. <b>Young Granny Smith</b>: Come and get your apples! Nothin' sweeter than bitin' into a crisp apple on a beautiful fall day! 
-<b>Young Grand Pear</b>: Unless, of course... 
-[ponies gasp] 
-<b>Young Grand Pear</b>: ...you could bite into a juicy pear. 
-<b>Young Granny Smith</b>: [scoffs] Please. Pears are just what happens when you ain't no good at farmin'  <i>apples</i>. 
-<b>Young Grand Pear</b>: Pears are nature's candy. Apples are sour. Like the expression on your face right now. [chuckles impishly] 
-<b>Goldie Delicious</b>: [voiceover] And so it went. Granny and Grand Pear were always at each other on who was the best farmer or who took better care of their trees. If Granny read to her trees at night... 
-<b>Young Granny Smith</b>: [reading] "And then, the little tree reached his branches up to the moon, and the moon said, 'Good night.'" 
-<b>Goldie Delicious</b>: [voiceover] ...why, then Grand Pear had special blankets made for his trees so they wouldn't get cold. 
-<b>Young Grand Pear</b>: Good night, trees. [kisses] I've got you covered. Mm-hmm. 
-<b>Young Granny Smith</b>: [growls] 
-[book thuds] [Apple family ponies grunting] 
-<b>Goldie Delicious</b>: [voiceover] In fact, all the Apples and the Pears were rivals to the core! The only Apple and Pear who ever got along were Bright McIntosh and Pear Butter. 
-<b>Young Bright McIntosh</b>: [whispering] Pssst! I'm not supposed to talk to you. 
-<b>Young Pear Butter</b>: [whispering] I'm not supposed to talk to you either. 
-<b>Young Bright McIntosh</b>: [whispering] My mom says if you hold a buttercup under your chin, it'll make your chin glow. But it doesn't work on me. See? 
-<b>Young Pear Butter</b>: [whispering] Does it work on me? 
-[heart beating] 
-<b>Young Bright McIntosh</b>: It sure does, Buttercup. 
-<b>Young Pear Butter</b>: Buttercup. I like that name. 
-<b>Applejack</b>: [voiceover] Wait an apple-pickin' minute! <b>Applejack</b>: Bright Mac and Buttercup? Those are our parents' names! 
-<b>Goldie Delicious</b>: Of course Buttercup was just a nickname your father gave your mother. Pear Butter – well, that was her given name. 
-<b>Applejack</b>: Are you sayin' our mother was a... Pear?! 
-<b>Apple Bloom</b> and  <b>Big McIntosh</b>: [deep gasp] <b>Big McIntosh</b>: So we are half-Pear?! 
-<b>Applejack</b>: I can't believe it! How did we not know?! 
-<b>Goldie Delicious</b>: Well, uh, nopony called your mother Pear Butter. 
-[cats meowing] 
-<b>Goldie Delicious</b>: And her cutie mark was a preserve jar, but pear butter don't look too much different from apple butter, so no clues there. 
-<b>Applejack</b>: [sighs] Is there a-anythin' else you can tell us about them? 
-<b>Goldie Delicious</b>: I know they loved each other very much. They had that magical, star-kissed, other-side-of-a-rainbow kind of love. You couldn't be around them too long and, and not feel a little bit lighter than air yourself. [chuckling] 
-<b>Apple Bloom</b>: Anything else? 
-<b>Goldie Delicious</b>: Hmm... I'd need Volume 138 for that. 
-[cheetah grunts] 
-<b>Goldie Delicious</b>: I'm sure I could wrangle it... in a, in a couple of days. 
-<b>Applejack</b>: [sighs] That's all right, Goldie. It was... nice just to hear— 
-<b>Goldie Delicious</b>: Ooh-hoo-hoo! I just remembered somethin'! Your dad and his buddy Burnt Oak would get in all kinds of trouble together as colts. 
-<b>Applejack</b>: Burnt Oak? The firewood salespony? I haven't seen him in ages. 
-<b>Goldie Delicious</b>: He and your dad were thick as thieves back in the day. Y'all should talk to him. 
-[thud] 
-[cheetah grunts] <b>Burnt Oak</b>: Well, well, if it isn't the Apples. What can I do for ya? I know you're not here for firewood. You got more trees than anypony in Ponyville. 
-<b>Applejack</b>: You're right. We're not here for that. 
-<b>Burnt Oak</b>: Come to ask about your dad? 
-<b>Big McIntosh</b>: Uh, eeyup. 
-<b>Burnt Oak</b>: I wondered if you might. Hoped you would. It's nice to talk about him. [laughs] We had a lot of laughs. In fact, this one time... <b>Burnt Oak</b>: [voiceover] ...we were racin' to see who could till the fastest, and Bright Mac was leavin' me in the dust. He would've won, too, if he wasn't so... distracted. 
-<b>Bright Mac</b>: Whoa! 
-[crash] 
-[splash] 
-<b>Pear Butter</b>: [spits] 
-<b>Grand Pear</b>: Oh! 
-[splash] 
-<b>Grand Pear</b>: Pear Butter, what did you do?! 
-<b>Pear Butter</b>: I-I'm not sure. 
-<b>Bright Mac</b>: She didn't do it, sir. 
-<b>Grand Pear</b>: Excuse me? 
-<b>Bright Mac</b>: The water silo. It was my fault. 
-<b>Pear Butter</b>: [giggles] 
-<b>Grand Pear</b>: [snorts] You owe me a new silo, boy! [to Pear Butter] And  <i>you</i>, come with me. No daughter of mine is gonna make goo-goo eyes at an Apple! <b>Burnt Oak</b>: Grand Pear never would've known it was your father's fault. But there was no way he'd let your mother take the blame for somethin' he did. 
-<b>Apple Bloom</b>: So Dad was super honest! Apple doesn't fall far from the tree, huh, Applejack? 
-[thunk] 
-<b>Burnt Oak</b>: Your dad worked the Apple farm all day and then headed over to the Pears on his breaks to fix the water silo. I didn't see him for weeks! Not that he minded. Gave him a chance to get to know your mom. 
-<b>Apple Bloom</b>: Did you know our mom, too? 
-<b>Burnt Oak</b>: Buttercup was a real peach of a Pear. But if you want to know more about her, you should ask Mrs. Cake. 
-<b>Apple Bloom</b>: Mrs. Cake? 
-<b>Burnt Oak</b>: She and your mom were inseparable when they were fillies. 
-<b>Applejack</b>: Then let's go! Thanks, Burnt Oak! 
-<b>Big McIntosh</b>: Uh, would it be okay if we stopped by again sometime to hear more stories? 
-<b>Burnt Oak</b>: I'd like that very much. [the Cakes' theme playing] 
-[door opens] 
-<b>Mrs. Cake</b>: Well, cinnamon sugar on toast! All three Apple siblings! 
-<b>Applejack</b>: Hi, Mrs. Cake. We heard you and our ma used to be real good friends, and we were hopin' you could tell us a bit about her. 
-<b>Mrs. Cake</b>: Oh, I would love to. I never knew the right time to bring it up. But I'm so glad you came! [laughs] Uh, for starters, did you all know that it was your mom who convinced me to pursue baking? 
-<b>Apple Bloom</b>: But isn't your name Mrs.  <i>Cake</i>? 
-<b>Mrs. Cake</b>: Not always. Back when I was Chiffon Swirl, heh, I had no idea what I was supposed to do. But one day, your mom brought me some candied pears, eggs, flour, sugar, and vanilla, and told me to just be creative! Next thing I knew, I was whipping up pear upside-down cake, and I got my cutie mark! It was like she knew what I was supposed to do long before I did. 
-<b>Applejack</b>: [to Apple Bloom] Just like you, sugarcube! Or rather, you're just like her! 
-<b>Mrs. Cake</b>: That was the first of many cakes for me, and Buttercup was with me through it all. <b>Mrs. Cake</b>: [voiceover] She'd be my taste-tester, help with the decorating, and prep new ingredients. Over the years, I perfected my recipes. Your mom did so much for me. One day, I wanted to surprise her with a cake. 
-<b>Bright Mac</b> and  <b>Pear Butter</b>: [laughing] 
-<b>Bright Mac</b>: [sniffs]  <i>Achoo!</i> 
-<b>Pear Butter</b>: [blows, giggles] 
-<b>Bright Mac</b> and  <b>Pear Butter</b>: [laughing] 
-[twig snaps] 
-<b>Pear Butter</b>: [gasps] Oh. It's just you. 
-<b>Chiffon Swirl</b>: Sorry. I just brought you a little something to say thank you. But I see you're busy. Hah. 
-<b>Pear Butter</b>: [giggles] Promise you won't say anything? 
-[bush rustles] 
-<b>Granny Smith</b>: [whinny, snort] What in tarnation are you doin', Bright Mac?! We do not fraternize with Pears! [spits] 
-<b>Chiffon Swirl</b>: You and Bright Mac? Whew, I wouldn't believe it if I hadn't seen it with my own eyes. Your families hate each other. 
-<b>Pear Butter</b>: I can't help it. We just sorta... happened. 
-<b>Mrs. Cake</b>: [voiceover] Then Pear Butter told me the sweetest love story I have ever heard. <b>Bright Mac</b>: Happy one hundred and thirty-one thousand, four hundred and fifty-six hour anniversary, darlin'. 
-<b>Pear Butter</b>: What? [laughs] That's way longer than we've been together. 
-<b>Bright Mac</b>: I know, but it's the anniversary of the first time I called you "Buttercup". It's okay if you didn't get me anythin'. 
-<b>Pear Butter</b>: Actually... I did. 
-<b>Bright Mac</b>: A guitar? For me? But... [strums guitar] I don't know how to play. 
-<b>Pear Butter</b>: Quiet, you. <b>[Pear Butter]</b>  <dl>  <dd>   We're far apart in every way   </dd>  <dd>   But you're the best part of my day   </dd>  <dd>   And sure as I breathe the air   </dd>  <dd>   I know we are the perfect pair   </dd> </dl> <dl>  <dd>   On a prickly path that goes on for miles   </dd>  <dd>   But it's worth it just to see you smile   </dd> </dl> <dl>  <dd>   And I cannot be pulled apart   </dd>  <dd>   From the hold you have on my heart   </dd>  <dd>   And even if the world tells us it's wrong   </dd>  <dd>   You're in my head like a catchy song   </dd> </dl> <b>Bright Mac</b>: Wow. It's just...  <i>wow</i>. 
-<b>Pear Butter</b>: Do you like it? Be honest now. 
-<b>Bright Mac</b>: It's the best gift you could've given me! <b>[Pear Butter]</b>  <dl>  <dd>   The seasons change and leaves may fall   </dd>  <dd>   But I'll be with you through them all   </dd>  <dd>   And rain or shine, you'll always be mine   </dd> </dl> <dl>  <dd>   On a prickly path that goes on for miles   </dd>  <dd>   You're the only one who makes it all worthwhile   </dd> </dl> <dl>  <dd>   And you should not blame me, too   </dd>  <dd>   If I can't help fallin' in love with you...   </dd> </dl> 
-<b>Bright Mac</b>: Hey, no fair. I was gonna tell you the same thing. 
-<b>Pear Butter</b>: You're just mad I beat you to it. 
-<b>Bright Mac</b>: I'm tellin' ya, I was gonna pull you up, cover your eyes, lead you over here... and say, "Surprise!" And then you'd say, [imitating Pear Butter] "Oh, Bright Mac, I love it!" [speaking normally] And then I'd say I love  <i>you</i>. Too bad it didn't work out though. 
-<b>Pear Butter</b>: Eeyup. Too bad. [paper ripping] 
-<b>Grand Pear</b>: The Pears are moving! 
-<b>Pear Butter</b>: [deep gasp] <b>Applejack</b>,  <b>Apple Bloom</b>, and  <b>Big McIntosh</b>: [deep gasp] <b>Applejack</b>: I mean, I figured the Pears moved, but I didn't know all that stuff happened before with Granny and Grand Pear. 
-<b>Apple Bloom</b>: It must've been really hard on our parents. 
-<b>Mrs. Cake</b>: Oh, it was. <b>Pear Butter</b>: We're moving?! To Vanhoover?! But that's so far! 
-<b>Grand Pear</b>: It's what's best. There's acres of untouched land and a warehouse to make our jams. We'll get to expand our business and get away from those gosh-darned Apples. 
-<b>Mrs. Cake</b>: [voiceover] Pear Butter was devastated. But seeing no way out of it, she did what she had to do. <b>Bright Mac</b>: So that's it? 
-<b>Pear Butter</b>: What do you want me to do, Bright Mac? We're movin'. I love you, but [tearing up] I have to stay with my family. 
-<b>Mrs. Cake</b>: [voiceover] Then Bright Mac did the most romantic thing I've ever seen anypony do. <b>Apple Bloom</b>: What?!  <i>What?!</i> 
-<b>Applejack</b>: [simultaneous] What?! What did he do?! 
-<b>Big McIntosh</b>: [simultaneous] Tell us! Tell us! 
-<b>Mrs. Cake</b>: We're gonna need one more pony to tell that story. <b>Apple Bloom</b>: Mayor Mare, you knew our parents? 
-<b>Mayor Mare</b>: Not as well as Mrs. Cake, but I did play a part in their love story. The night before the Pear family moved, Bright Mac asked me to meet him at the edge of Sweet Apple Acres. <b>Pear Butter</b>: [gasps] 
-<b>Bright Mac</b>: I don't want to be apart from you. Ever. I'm not sure what we'll do, but I'm sure of  <i>us</i>. So sure that I'd marry you today. 
-<b>Pear Butter</b>: I would, too! 
-<b>Young Mayor Mare</b>: I think that's my cue. 
-<b>Mayor Mare</b>: [voiceover] I had the honor of officiating your parents' secret wedding, and it was perfect. Bright Mac knew Buttercup wouldn't want a big splash. 
-<b>Apple Bloom</b>: [voiceover] Reminds me of somepony else I know. 
-<b>Big McIntosh</b>: [voiceover, chuckling] Eeyup. 
-<b>Mayor Mare</b>: [voiceover] So they had a special way to seal their vows. 
-<b>Young Mayor Mare</b>: I now pronounce you— 
-<b>Granny Smith</b>: What is goin' on?! What's with all these here candles?! 
-<b>Grand Pear</b>: Pear Butter! Where are ya? You're supposed to be packing! [grimly] What are you two doing? 
-<b>Bright Mac</b>: Ma, Grand Pear, Buttercup and I are in love! 
-<b>Granny Smith</b> and  <b>Grand Pear</b>: What?! 
-<b>Pear Butter</b>: And we'll be married as soon as Mayor Mare says... 
-<b>Young Mayor Mare</b>: Oh! [quickly] I now pronounce you husband and wife! 
-<b>Pear Butter</b>: Doesn't that feel nice? [kisses] 
-<b>Bright Mac</b> and  <b>Pear Butter</b>: [kissing] 
-<b>Granny Smith</b>: What are you talking about, married?! You two can't be married! 
-<b>Grand Pear</b>: Finally, something we can agree on. Pear Butter, enough of this nonsense. We're movin'! And you gotta stick with your family! 
-<b>Pear Butter</b>: But... the Apples are my family now, too. 
-<b>Grand Pear</b>: You can't be serious. Are you choosin' to be an Apple over being a Pear?! 
-<b>Pear Butter</b>: Are you makin' me choose? 
-<b>Grand Pear</b>: Yes. I am. 
-<b>Pear Butter</b>: Then yeah. I guess I am. 
-<b>Grand Pear</b>: Fine! 
-<b>Pear Butter</b>: [sobbing] <b>Applejack</b>: I can't believe Grand Pear just up and left Ma like that! No wonder Granny never told us about any of this. 
-<b>Mrs. Cake</b>: These things are never easy. 
-<b>Mayor Mare</b>: And it's hard to know when it  <i>is</i> a good time. 
-<b>Applejack</b>: It seems to me that now's as good a time as any. 
-<b>Apple Bloom</b>: To talk to  <i>both</i> our grandparents. <b>Apple Bloom</b>: Excuse me? Grand Pear? 
-<b>Applejack</b>: I'm Applejack, and this here's Big McIntosh. But you already know who we are, don't ya? 
-<b>Grand Pear</b>: Sure do. 
-<b>Apple Bloom</b>: Did you really move to Ponyville just for a change of pace? 
-<b>Grand Pear</b>: No. 
-<b>Apple Bloom</b>: Then you came here because you're sorry and that you wanted to get to know us, too? 
-<b>Grand Pear</b>: I'm... so sorry. I-I-I was just so angry, and... well, I-I never... 
-<b>Apple Bloom</b>: It's in the past, Grand Pear. Oh! Can I call you Grand Pear-Pear? 
-<b>Grand Pear</b>: [chuckles] Sure can. <b>Granny Smith</b>: Now where'd you all get to? I ain't seen hide or hair of ya's all day. 
-<b>Applejack</b>: We've been all over. Learnin' about our parents. 
-<b>Granny Smith</b>: Guh... Y-You have? 
-<b>Applejack</b>:  <i>And</i> our grandfather. 
-<b>Granny Smith</b>: So... you're back, huh? 
-<b>Grand Pear</b>: Sure am. [mumbling] Never should've left. 
-<b>Apple Bloom</b>: Findin' you and learnin' all about Mom and Dad, I feel like I found a piece of me I didn't even know was missin'. 
-<b>Applejack</b>: Hearin' their story makes me feel closer to them somehow. 
-<b>Granny Smith</b>: I'm sorry. I should've told you all about 'em sooner. 
-<b>Grand Pear</b>: And I should've been here. Ah, I can't believe I let a silly feud keep me from my family. 
-<b>Applejack</b>: Nothing's keepin' ya from us now. Let's not miss anythin' else. 
-<b>Granny Smith</b>: Applejack's right. Welcome back, prickly old pear. Heh. 
-<b>Grand Pear</b>: [chuckles] Thanks, you old crabapple. 
-<b>Apple Bloom</b>: Now that we're all together, there's somethin' we want to show you. Mom and Dad left us somethin' to remember them by. Come on! [bushes rustling] 
-<b>Grand Pear</b>: Whoa. 
-<b>Granny Smith</b>: [sounds of awe] It's beautiful. 
-<b>Grand Pear</b>: It's... impossible. 
-<b>Applejack</b>: If anything's gonna make it through, it's apples  <i>and</i> pears. 
-<b>Grand Pear</b>: [chuckles] ["You're In My Head Like a Catchy Song" instrumental plays over credits] 
+[ponies chattering]
+<b>Apple Bloom</b>: Hmmm.
+[ponies continue chattering]
+<b>Apple Bloom</b>: [gasps] Thank you! You must be new. I'm Apple Bloom.
+<b>Grand Pear</b>: I'm Grand Pear.
+<b>Apple Bloom</b>: Welcome to Ponyville!
+<b>Goldengrape</b>: [scoffs] You mean welcome <i>back</i> to Ponyville. Grand Pear was originally from here before he opened his famous pear jam store in Vanhoover.
+<b>Apple Bloom</b>: Really? Why'd ya move back?
+<b>Grand Pear</b>: I, uh... [smacks lips] Well, I needed a change of pace.
+<b>Apple Bloom</b>: Huh. [chomps] This is delicious! [chomps] I can't believe I've gone my whole life without ever havin' this.
+<b>Grand Pear</b>: Glad you like it.
+<b>Apple Bloom</b>: How much?
+<b>Grand Pear</b>: Nah.
+<b>Apple Bloom</b>: Wow! Thanks, Mr. Grand Pear, sir! It was real nice meetin' you!
+[ponies continue chattering]
+[door opens]
+<b>Applejack</b>: Glad you're back, sugarcube. Just in time for breakfast for dinner.
+<b>Apple Bloom</b>: I got the perfect topper for flapjacks at the market today.
+<b>Applejack</b>: [gasps] <i>Pear jam?!</i> What were you thinkin'?!
+[distant door closing]
+<b>Applejack</b>: Quick! Hide it!
+[wood breaking]
+<b>Apple Bloom</b>: Huh?
+[theme song]
+<b>Apple Bloom</b>: What's the big deal? It's just pear jam.
+<b>Applejack</b>: The big deal is that there is a long-standing feud between the Apples and the Pears!
+<b>Big McIntosh</b>: Eeyup!
+<b>Apple Bloom</b>: Why?
+<b>Applejack</b>: Why?! ...Well, uh, a-actually, I-I'm-I'm not really sure. You have any idea, Big Mac?
+<b>Big McIntosh</b>: Uhhh... nope.
+<b>Apple Bloom</b>: Then I guess we should ask Granny?
+<b>Granny Smith</b>: Ask me what?
+[dirt shuffling]
+[thud]
+<b>Applejack</b>: Uh, what goes better with apple fritter flapjacks – caramel syrup or praline!
+<b>Granny Smith</b>: [blows raspberry] Praline.
+[clatter]
+<b>Granny Smith</b>: [sniffs] Oh-ho-ho, that smells great, Applejack. I'ma go wash up for supper. Be right back.
+[door closes]
+<b>Applejack</b>, <b>Apple Bloom</b>, and <b>Big McIntosh</b>: [sighs]
+<b>Applejack</b>: Listen, sugarcube. Anytime Big Mac and I ever
+ asked Granny about the feud or the Pears, she'd get so upset she 
+couldn't talk. Best not bring it up.
+<b>Apple Bloom</b>: O-Okay, but that Grand Pear was really nice to me, even though I'm an Apple. I wonder what happened.
+<b>Applejack</b>: Me, too. But if we can't ask Granny, I don't 
+know who— We can ask Goldie Delicious! If anypony knows about the feud, 
+it's the family historian!
+<b>Apple Bloom</b>: I'm in! What do you say, Big Mac? Siblin' trip first thing tomorrow?
+<b>Big McIntosh</b>: Eeyup!
+[knock, knock]
+[cat yowls]
+[crash!]
+[cats meowing]
+<b>Goldie Delicious</b>: Now, that's how you make an entrance! 
+Or is it an exit? [laughs] Well, anyway, it's so wonderful to see you 
+three. To what do I owe the pleasure?
+<b>Applejack</b>: Well, Goldie, we were hopin' you could tell us about the, uh... feud with the Apples and the Pears.
+<b>Goldie Delicious</b>: Oh. Oh, dear. Well, does Granny Smith know you're here?
+<b>Apple Bloom</b>: No, ma'am. But I ran into Grand Pear 
+yesterday, and he was real nice. Maybe the feud was a misunderstandin' 
+or somethin', and we can fix it?
+<b>Goldie Delicious</b>: Oh, well, I don't know about that, 
+little one. But if it's a story you're after, I suppose you have a right
+ to know. Now, let's see, I got a stack of books here someplace... Oh! <i>Apple Family History, Volume 137</i>!
+ Hmm, hmm... Here we are. "Feud with the Bears". I mean, "Pears". My 
+eyes ain't what they used to be. A long time ago, Sweet Apple Acres 
+wasn't the only farm in Ponyville. In fact, there was another one just 
+right next door.
+<b>Young Granny Smith</b>: Come and get your apples! Nothin' sweeter than bitin' into a crisp apple on a beautiful fall day!
+<b>Young Grand Pear</b>: Unless, of course...
+[ponies gasp]
+<b>Young Grand Pear</b>: ...you could bite into a juicy pear.
+<b>Young Granny Smith</b>: [scoffs] Please. Pears are just what happens when you ain't no good at farmin' <i>apples</i>.
+<b>Young Grand Pear</b>: Pears are nature's candy. Apples are sour. Like the expression on your face right now. [chuckles impishly]
+<b>Goldie Delicious</b>: [voiceover] And so it went. Granny and
+ Grand Pear were always at each other on who was the best farmer or who 
+took better care of their trees. If Granny read to her trees at night...
+<b>Young Granny Smith</b>: [reading] "And then, the little tree reached his branches up to the moon, and the moon said, 'Good night.'"
+<b>Goldie Delicious</b>: [voiceover] ...why, then Grand Pear had special blankets made for his trees so they wouldn't get cold.
+<b>Young Grand Pear</b>: Good night, trees. [kisses] I've got you covered. Mm-hmm.
+<b>Young Granny Smith</b>: [growls]
+[book thuds]
+[Apple family ponies grunting]
+<b>Goldie Delicious</b>: [voiceover] In fact, all the Apples 
+and the Pears were rivals to the core! The only Apple and Pear who ever 
+got along were Bright McIntosh and Pear Butter.
+<b>Young Bright McIntosh</b>: [whispering] Pssst! I'm not supposed to talk to you.
+<b>Young Pear Butter</b>: [whispering] I'm not supposed to talk to you either.
+<b>Young Bright McIntosh</b>: [whispering] My mom says if you hold a buttercup under your chin, it'll make your chin glow. But it doesn't work on me. See?
+<b>Young Pear Butter</b>: [whispering] Does it work on me?
+[heart beating]
+<b>Young Bright McIntosh</b>: It sure does, Buttercup.
+<b>Young Pear Butter</b>: Buttercup. I like that name.
+<b>Applejack</b>: [voiceover] Wait an apple-pickin' minute!
+<b>Applejack</b>: Bright Mac and Buttercup? Those are our parents' names!
+<b>Goldie Delicious</b>: Of course Buttercup was just a nickname your father gave your mother. Pear Butter – well, that was her given name.
+<b>Applejack</b>: Are you sayin' our mother was a... Pear?!
+<b>Apple Bloom</b> and <b>Big McIntosh</b>: [deep gasp]
+<b>Big McIntosh</b>: So we are half-Pear?!
+<b>Applejack</b>: I can't believe it! How did we not know?!
+<b>Goldie Delicious</b>: Well, uh, nopony called your mother Pear Butter.
+[cats meowing]
+<b>Goldie Delicious</b>: And her cutie mark was a preserve jar, but pear butter don't look too much different from apple butter, so no clues there.
+<b>Applejack</b>: [sighs] Is there a-anythin' else you can tell us about them?
+<b>Goldie Delicious</b>: I know they loved each other very 
+much. They had that magical, star-kissed, other-side-of-a-rainbow kind 
+of love. You couldn't be around them too long and, and not feel a little
+ bit lighter than air yourself. [chuckling]
+<b>Apple Bloom</b>: Anything else?
+<b>Goldie Delicious</b>: Hmm... I'd need Volume 138 for that.
+[cheetah grunts]
+<b>Goldie Delicious</b>: I'm sure I could wrangle it... in a, in a couple of days.
+<b>Applejack</b>: [sighs] That's all right, Goldie. It was... nice just to hear—
+<b>Goldie Delicious</b>: Ooh-hoo-hoo! I just remembered 
+somethin'! Your dad and his buddy Burnt Oak would get in all kinds of 
+trouble together as colts.
+<b>Applejack</b>: Burnt Oak? The firewood salespony? I haven't seen him in ages.
+<b>Goldie Delicious</b>: He and your dad were thick as thieves back in the day. Y'all should talk to him.
+[thud]
+[cheetah grunts]
+<b>Burnt Oak</b>: Well, well, if it isn't the Apples. What can I
+ do for ya? I know you're not here for firewood. You got more trees than
+ anypony in Ponyville.
+<b>Applejack</b>: You're right. We're not here for that.
+<b>Burnt Oak</b>: Come to ask about your dad?
+<b>Big McIntosh</b>: Uh, eeyup.
+<b>Burnt Oak</b>: I wondered if you might. Hoped you would. 
+It's nice to talk about him. [laughs] We had a lot of laughs. In fact, 
+this one time...
+<b>Burnt Oak</b>: [voiceover] ...we were racin' to see who could
+ till the fastest, and Bright Mac was leavin' me in the dust. He 
+would've won, too, if he wasn't so... distracted.
+<b>Bright Mac</b>: Whoa!
+[crash]
+[splash]
+<b>Pear Butter</b>: [spits]
+<b>Grand Pear</b>: Oh!
+[splash]
+<b>Grand Pear</b>: Pear Butter, what did you do?!
+<b>Pear Butter</b>: I-I'm not sure.
+<b>Bright Mac</b>: She didn't do it, sir.
+<b>Grand Pear</b>: Excuse me?
+<b>Bright Mac</b>: The water silo. It was my fault.
+<b>Pear Butter</b>: [giggles]
+<b>Grand Pear</b>: [snorts] You owe me a new silo, boy! [to Pear Butter] And <i>you</i>, come with me. No daughter of mine is gonna make goo-goo eyes at an Apple!
+<b>Burnt Oak</b>: Grand Pear never would've known it was your 
+father's fault. But there was no way he'd let your mother take the blame
+ for somethin' he did.
+<b>Apple Bloom</b>: So Dad was super honest! Apple doesn't fall far from the tree, huh, Applejack?
+[thunk]
+<b>Burnt Oak</b>: Your dad worked the Apple farm all day and 
+then headed over to the Pears on his breaks to fix the water silo. I 
+didn't see him for weeks! Not that he minded. Gave him a chance to get 
+to know your mom.
+<b>Apple Bloom</b>: Did you know our mom, too?
+<b>Burnt Oak</b>: Buttercup was a real peach of a Pear. But if you want to know more about her, you should ask Mrs. Cake.
+<b>Apple Bloom</b>: Mrs. Cake?
+<b>Burnt Oak</b>: She and your mom were inseparable when they were fillies.
+<b>Applejack</b>: Then let's go! Thanks, Burnt Oak!
+<b>Big McIntosh</b>: Uh, would it be okay if we stopped by again sometime to hear more stories?
+<b>Burnt Oak</b>: I'd like that very much.
+[the Cakes' theme playing]
+[door opens]
+<b>Mrs. Cake</b>: Well, cinnamon sugar on toast! All three Apple siblings!
+<b>Applejack</b>: Hi, Mrs. Cake. We heard you and our ma used to be real good friends, and we were hopin' you could tell us a bit about her.
+<b>Mrs. Cake</b>: Oh, I would love to. I never knew the right 
+time to bring it up. But I'm so glad you came! [laughs] Uh, for 
+starters, did you all know that it was your mom who convinced me to 
+pursue baking?
+<b>Apple Bloom</b>: But isn't your name Mrs. <i>Cake</i>?
+<b>Mrs. Cake</b>: Not always. Back when I was Chiffon Swirl, 
+heh, I had no idea what I was supposed to do. But one day, your mom 
+brought me some candied pears, eggs, flour, sugar, and vanilla, and told
+ me to just be creative! Next thing I knew, I was whipping up pear 
+upside-down cake, and I got my cutie mark! It was like she knew what I 
+was supposed to do long before I did.
+<b>Applejack</b>: [to Apple Bloom] Just like you, sugarcube! Or rather, you're just like her!
+<b>Mrs. Cake</b>: That was the first of many cakes for me, and Buttercup was with me through it all.
+<b>Mrs. Cake</b>: [voiceover] She'd be my taste-tester, help 
+with the decorating, and prep new ingredients. Over the years, I 
+perfected my recipes. Your mom did so much for me. One day, I wanted to 
+surprise her with a cake.
+<b>Bright Mac</b> and <b>Pear Butter</b>: [laughing]
+<b>Bright Mac</b>: [sniffs] <i>Achoo!</i>
+<b>Pear Butter</b>: [blows, giggles]
+<b>Bright Mac</b> and <b>Pear Butter</b>: [laughing]
+[twig snaps]
+<b>Pear Butter</b>: [gasps] Oh. It's just you.
+<b>Chiffon Swirl</b>: Sorry. I just brought you a little something to say thank you. But I see you're busy. Hah.
+<b>Pear Butter</b>: [giggles] Promise you won't say anything?
+[bush rustles]
+<b>Granny Smith</b>: [whinny, snort] What in tarnation are you doin', Bright Mac?! We do not fraternize with Pears! [spits]
+<b>Chiffon Swirl</b>: You and Bright Mac? Whew, I wouldn't believe it if I hadn't seen it with my own eyes. Your families hate each other.
+<b>Pear Butter</b>: I can't help it. We just sorta... happened.
+<b>Mrs. Cake</b>: [voiceover] Then Pear Butter told me the sweetest love story I have ever heard.
+<b>Bright Mac</b>: Happy one hundred and thirty-one thousand, four hundred and fifty-six hour anniversary, darlin'.
+<b>Pear Butter</b>: What? [laughs] That's way longer than we've been together.
+<b>Bright Mac</b>: I know, but it's the anniversary of the first time I called you "Buttercup". It's okay if you didn't get me anythin'.
+<b>Pear Butter</b>: Actually... I did.
+<b>Bright Mac</b>: A guitar? For me? But... [strums guitar] I don't know how to play.
+<b>Pear Butter</b>: Quiet, you.
+<b>[Pear Butter]</b>
+We're far apart in every way
+But you're the best part of my day
+And sure as I breathe the air
+I know we are the perfect pair
+
+On a prickly path that goes on for miles
+But it's worth it just to see you smile
+
+And I cannot be pulled apart
+From the hold you have on my heart
+And even if the world tells us it's wrong
+You're in my head like a catchy song
+
+<b>Bright Mac</b>: Wow. It's just... <i>wow</i>.
+<b>Pear Butter</b>: Do you like it? Be honest now.
+<b>Bright Mac</b>: It's the best gift you could've given me!
+<b>[Pear Butter]</b>
+The seasons change and leaves may fall
+But I'll be with you through them all
+And rain or shine, you'll always be mine
+
+On a prickly path that goes on for miles
+You're the only one who makes it all worthwhile
+
+And you should not blame me, too
+If I can't help fallin' in love with you...
+
+<b>Bright Mac</b>: Hey, no fair. I was gonna tell you the same thing.
+<b>Pear Butter</b>: You're just mad I beat you to it.
+<b>Bright Mac</b>: I'm tellin' ya, I was gonna pull you up, 
+cover your eyes, lead you over here... and say, "Surprise!" And then 
+you'd say, [imitating Pear Butter] "Oh, Bright Mac, I love it!" 
+[speaking normally] And then I'd say I love <i>you</i>. Too bad it didn't work out though.
+<b>Pear Butter</b>: Eeyup. Too bad.
+[paper ripping]
+<b>Grand Pear</b>: The Pears are moving!
+<b>Pear Butter</b>: [deep gasp]
+<b>Applejack</b>, <b>Apple Bloom</b>, and <b>Big McIntosh</b>: [deep gasp]
+<b>Applejack</b>: I mean, I figured the Pears moved, but I didn't know all that stuff happened before with Granny and Grand Pear.
+<b>Apple Bloom</b>: It must've been really hard on our parents.
+<b>Mrs. Cake</b>: Oh, it was.
+<b>Pear Butter</b>: We're moving?! To Vanhoover?! But that's so far!
+<b>Grand Pear</b>: It's what's best. There's acres of untouched
+ land and a warehouse to make our jams. We'll get to expand our business
+ and get away from those gosh-darned Apples.
+<b>Mrs. Cake</b>: [voiceover] Pear Butter was devastated. But seeing no way out of it, she did what she had to do.
+<b>Bright Mac</b>: So that's it?
+<b>Pear Butter</b>: What do you want me to do, Bright Mac? We're movin'. I love you, but [tearing up] I have to stay with my family.
+<b>Mrs. Cake</b>: [voiceover] Then Bright Mac did the most romantic thing I've ever seen anypony do.
+<b>Apple Bloom</b>: What?! <i>What?!</i>
+<b>Applejack</b>: [simultaneous] What?! What did he do?!
+<b>Big McIntosh</b>: [simultaneous] Tell us! Tell us!
+<b>Mrs. Cake</b>: We're gonna need one more pony to tell that story.
+<b>Apple Bloom</b>: Mayor Mare, you knew our parents?
+<b>Mayor Mare</b>: Not as well as Mrs. Cake, but I did play a 
+part in their love story. The night before the Pear family moved, Bright
+ Mac asked me to meet him at the edge of Sweet Apple Acres.
+<b>Pear Butter</b>: [gasps]
+<b>Bright Mac</b>: I don't want to be apart from you. Ever. I'm not sure what we'll do, but I'm sure of <i>us</i>. So sure that I'd marry you today.
+<b>Pear Butter</b>: I would, too!
+<b>Young Mayor Mare</b>: I think that's my cue.
+<b>Mayor Mare</b>: [voiceover] I had the honor of officiating 
+your parents' secret wedding, and it was perfect. Bright Mac knew 
+Buttercup wouldn't want a big splash.
+<b>Apple Bloom</b>: [voiceover] Reminds me of somepony else I know.
+<b>Big McIntosh</b>: [voiceover, chuckling] Eeyup.
+<b>Mayor Mare</b>: [voiceover] So they had a special way to seal their vows.
+<b>Young Mayor Mare</b>: I now pronounce you—
+<b>Granny Smith</b>: What is goin' on?! What's with all these here candles?!
+<b>Grand Pear</b>: Pear Butter! Where are ya? You're supposed to be packing! [grimly] What are you two doing?
+<b>Bright Mac</b>: Ma, Grand Pear, Buttercup and I are in love!
+<b>Granny Smith</b> and <b>Grand Pear</b>: What?!
+<b>Pear Butter</b>: And we'll be married as soon as Mayor Mare says...
+<b>Young Mayor Mare</b>: Oh! [quickly] I now pronounce you husband and wife!
+<b>Pear Butter</b>: Doesn't that feel nice? [kisses]
+<b>Bright Mac</b> and <b>Pear Butter</b>: [kissing]
+<b>Granny Smith</b>: What are you talking about, married?! You two can't be married!
+<b>Grand Pear</b>: Finally, something we can agree on. Pear Butter, enough of this nonsense. We're movin'! And you gotta stick with your family!
+<b>Pear Butter</b>: But... the Apples are my family now, too.
+<b>Grand Pear</b>: You can't be serious. Are you choosin' to be an Apple over being a Pear?!
+<b>Pear Butter</b>: Are you makin' me choose?
+<b>Grand Pear</b>: Yes. I am.
+<b>Pear Butter</b>: Then yeah. I guess I am.
+<b>Grand Pear</b>: Fine!
+<b>Pear Butter</b>: [sobbing]
+<b>Applejack</b>: I can't believe Grand Pear just up and left Ma like that! No wonder Granny never told us about any of this.
+<b>Mrs. Cake</b>: These things are never easy.
+<b>Mayor Mare</b>: And it's hard to know when it <i>is</i> a good time.
+<b>Applejack</b>: It seems to me that now's as good a time as any.
+<b>Apple Bloom</b>: To talk to <i>both</i> our grandparents.
+<b>Apple Bloom</b>: Excuse me? Grand Pear?
+<b>Applejack</b>: I'm Applejack, and this here's Big McIntosh. But you already know who we are, don't ya?
+<b>Grand Pear</b>: Sure do.
+<b>Apple Bloom</b>: Did you really move to Ponyville just for a change of pace?
+<b>Grand Pear</b>: No.
+<b>Apple Bloom</b>: Then you came here because you're sorry and that you wanted to get to know us, too?
+<b>Grand Pear</b>: I'm... so sorry. I-I-I was just so angry, and... well, I-I never...
+<b>Apple Bloom</b>: It's in the past, Grand Pear. Oh! Can I call you Grand Pear-Pear?
+<b>Grand Pear</b>: [chuckles] Sure can.
+<b>Granny Smith</b>: Now where'd you all get to? I ain't seen hide or hair of ya's all day.
+<b>Applejack</b>: We've been all over. Learnin' about our parents.
+<b>Granny Smith</b>: Guh... Y-You have?
+<b>Applejack</b>: <i>And</i> our grandfather.
+<b>Granny Smith</b>: So... you're back, huh?
+<b>Grand Pear</b>: Sure am. [mumbling] Never should've left.
+<b>Apple Bloom</b>: Findin' you and learnin' all about Mom and Dad, I feel like I found a piece of me I didn't even know was missin'.
+<b>Applejack</b>: Hearin' their story makes me feel closer to them somehow.
+<b>Granny Smith</b>: I'm sorry. I should've told you all about 'em sooner.
+<b>Grand Pear</b>: And I should've been here. Ah, I can't believe I let a silly feud keep me from my family.
+<b>Applejack</b>: Nothing's keepin' ya from us now. Let's not miss anythin' else.
+<b>Granny Smith</b>: Applejack's right. Welcome back, prickly old pear. Heh.
+<b>Grand Pear</b>: [chuckles] Thanks, you old crabapple.
+<b>Apple Bloom</b>: Now that we're all together, there's 
+somethin' we want to show you. Mom and Dad left us somethin' to remember
+ them by. Come on!
+[bushes rustling]
+<b>Grand Pear</b>: Whoa.
+<b>Granny Smith</b>: [sounds of awe] It's beautiful.
+<b>Grand Pear</b>: It's... impossible.
+<b>Applejack</b>: If anything's gonna make it through, it's apples <i>and</i> pears.
+<b>Grand Pear</b>: [chuckles]
+["You're In My Head Like a Catchy Song" instrumental plays over credits]

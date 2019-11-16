@@ -1,267 +1,323 @@
-[rain falling] 
-[splash] 
-[shop bell ringing] 
-[items clattering] 
-<b>Shopkeeper</b>: May I help you, traveler? Hmm, something drew you to my shop... something powerful. Ah, you have a keen eye. The Alicorn Amulet is one of the most mysterious and powerful of all the known magical charms. Uh, ah— I'm afraid this is...  <i>far</i> too dangerous. 
-[bits clinking] 
-<b>Shopkeeper</b>: [quickly] Would you like that gift-wrapped? <b>Fluttershy</b>: Don't be scared, little friends. Twilight is wonderful with magic. [to Twilight] Anything happens to them, Twilight,  <i>so help me</i>... 
-<b>Spike</b>: Aww, don't worry, Fluttershy, Twilight's magic has gotten a lot better since she accidentally crushed me and Applejack with a giant snowball. 
-<b>Fluttershy</b>: Of course she's good with magic. Twilight's great with magic. I guess I just don't want my little friends to be scared. Oh, oh, look how scared they are! 
-[animals chittering] 
-<b>Twilight Sparkle</b>: I promise, Fluttershy. Nothing bad will happen to them. 
-<b>Fluttershy</b>: [high-pitched] I know! Stop, stop! They can't take it! 
-[animals chittering and cheering] 
-<b>Fluttershy</b>: [teeth chattering] 
-<b>Spike</b>: Twilight, that looks amazing! 
-<b>Twilight Sparkle</b>: Phew! 
-[animals chittering] 
-<b>Twilight Sparkle</b>: That's all for now, little ones. Maybe we can practice again later, if Fluttershy says it's alright. 
-[animals chittering] 
-<b>Spike</b>: Your magic has really improved since we came to Ponyville, Twilight. Princess Celestia's going to love it. 
-<b>Twilight Sparkle</b>: Thanks, Spike. I have to be at my best when she arrives with the delegates from Saddle Arabia. I can't believe she's trusting  <i>me</i> with the entertainment. 
-[thud] 
-<b>Rainbow Dash</b>: Twilight! Come quick! It's an emergency! [poof] 
-<b>Rarity</b>: [gasp] You beast! This shade of brown should only be used for accents! 
-<b>Pinkie Pie</b>: Come on, Applejack. We've got to get her in a nice, soothing pink, stat! 
-<b>Twilight Sparkle</b>: What's going on here? 
-<b>Trixie</b>: Well, well, well. If it isn't... Twilight Sparkle. 
-[ponies gasp] 
-<b>Twilight Sparkle</b>: [gasps] Trixie! 
-<b>Spike</b>: What's  <i>she</i> doing here? 
-<b>Rainbow Dash</b>: You call  <i>that</i> great and powerful? 
-[poof] 
-<b>Rainbow Dash</b>: [yelps] 
-<b>Snips</b>: Oh! She's Rainbow Wobble, now! 
-<b>Snails</b>: Yeah! Ha ha ha ha! 
-<b>Rainbow Dash</b>: [yelps] 
-<b>Snails</b>: Good spell, oh Great and Powerful Trixie! 
-<b>Trixie</b>: You two! Quiet! 
-[poof] 
-<b>Snips</b>: Uh, hey! W— What happened? 
-<b>Snails</b>: Get off of me! Brbrbr. 
-<b>Snips</b>: Let go! 
-<b>Snails</b>: Go this way! 
-<b>Twilight Sparkle</b>: Stop picking on my friends, Trixie! 
-<b>Trixie</b>: You and I have some unfinished business. My magic's gotten better since I was here last. And I'm going to prove it! Me and you, a magic duel. Winner stays, loser leaves Ponyville  <i>forever</i>! 
-<b>Twilight Sparkle</b>: Forget it! I'd never make a deal like that! 
-<b>Trixie</b>: Hm. Your choice. 
-<b>Spike</b>: [yelps] 
-[stretching noise] 
-[bouncing] 
-<b>Twilight Sparkle</b>: Trixie, put him down. Why are you doing this? 
-<b>Trixie</b>: Why? Because you  <i>humiliated</i> me! After you showed me up with that Ursa Minor, I became a laughing stock! Everywhere I went I was laughed at and ostracized. I even had to take a job on a rock farm just to earn a living! A  <i>rock farm</i>! 
-<b>Pinkie Pie</b>: Hey! You're  <i>lucky</i> a rock farm would take the likes of you! 
-[click and drag sounds] 
-<b>Trixie</b>:  <i>Now</i> I want revenge! And I'll just keep casting spells 'til you agree. Well? What do you say? 
-[Snails and Rainbow Dash grunting] 
-<b>Spike</b>: Whoooaah! Help... me! 
-<b>Twilight Sparkle</b>: Alright, Trixie. Let's duel! 
-<b>Trixie</b>: Excellent. 
-[thud] 
-<b>Rarity</b>: [crying] 
-<b>Pinkie Pie</b>: [indignant muffled noises] 
-<b>Trixie</b>: If I lose, I won't set hoof in Ponyville again. But if  <i>you</i> lose,  <i>you're</i> the one banished from this one-horse town! 
-<b>Rest of main cast</b>: [gasps] 
-[tense music] 
-<b>Trixie</b>: Draw! 
-[poof] 
-[ponies gasping] 
-<b>Shoeshine</b>: [Wilhelm scream] 
-<b>Twilight Sparkle</b>: [grunts] Phew. [gasps] 
-[poik] 
-[parasprite burping] 
-<b>Twilight Sparkle</b>: [exhales] 
-[snow melting] 
-<b>Rest of main cast</b>: [laughing] 
-[snip, snip] 
-<b>Trixie</b>: Snips, Snails, step forward! 
-<b>Snips</b>: Wh— what is it, oh Great and P— P— Powerful Trixie? [laughs nervously] 
-<b>Baby Snips</b>: [crying] 
-<b>Twilight Sparkle</b>: An age spell? But... how could you do an age spell? That's only for the highest level unicorns! 
-[wiping noise] 
-<b>Trixie</b>: Well, Twilight? Give up? 
-<b>Twilight Sparkle</b>: [sighs] [grunts] 
-<b>Baby Snips</b>: [surprised noise] 
-<b>Spike</b>: Come on, Twilight, you can do it! 
-[magic sputtering] 
-[thud] 
-<b>Baby Snips</b>: [crying] 
-<b>Old Snails</b>: [spine clicking] 
-<b>Trixie</b>: Trixie  <i>is</i> the highest level unicorn! [laughs] And now it's time for  <i>you</i> to  <i>leave</i> Ponyville! FOREVER! 
-<b>Applejack</b>: That's  <i>enough</i>, Trixie! 
-<b>Rarity</b>: You proved your point, but you can't possibly expect Twilight to leave Ponyville! 
-<b>Trixie</b>: You fools! She's already gone! 
-<b>Twilight Sparkle</b>: [yelps] 
-[pop] 
-[thud] 
-<b>Twilight Sparkle</b>: It's okay, guys. I'll figure something out. Just take care of each other. And keep an eye on Trixie. There's something strange about her. 
-<b>Spike</b>: Twilight? [thunk] <b>Twilight Sparkle</b>: [grunts of exertion] Ugh! It's impossible! How could Trixie know such advanced magic? Without Spike, I can't get a message to the Princess in Saddle Arabia. So who else do I know who understands strange and powerful magic? [tribal music] 
-<b>Zecora</b>: Your tale of woe upsets me so. [sips] No wonder you're dour. It's an abuse of power! 
-<b>Twilight Sparkle</b>: I don't know what to do, Zecora. I feel like I've abandoned my friends. But I can't take her on horn-to-horn. 
-<b>Zecora</b>: [sips] If you train with me, so good you'll be. I'll show you the way to make sure she won't stay. 
-<b>Twilight Sparkle</b>:  <i>You'll</i> train me in magic? But she was doing  <i>age</i> spells,  <i>weather</i> spells, you name it! 
-<b>Zecora</b>: When it comes to magic, it would be tragic if somepony licked me, especially Trixie. 
-<b>Twilight Sparkle</b>: You really think I can beat her? 
-<b>Zecora</b>: Mm-hmm. 
-<b>Twilight Sparkle</b>: Okay, when do we start? [banner unfurling] 
-<b>Trixie</b>: You two! Hurry up with my throne. 
-[splat] 
-<b>Trixie</b>: And  <i>you</i>, how long do I have to wait for my applesauce facial? 
-<b>Applejack</b>: Forget it, Trixie! I ain't doing nothin' 'til you let Twilight come home! [laughs uncontrollably] Okay, I'll do it! Just make it stop! Hoo! 
-[crash] 
-<b>Trixie</b>: I thought I told you to dance! 
-<b>Rarity</b>: Oh, Trixie's cruel magic is ruining Ponyville. Ow! [whines] Oh, somepony has to help us! [tribal music] 
-<b>Zecora</b>: Ah, no noise, no sound, no din, no fuss must interfere with your focus. Unlearn what you have learned. Only then can victory be earned. 
-<b>Twilight Sparkle</b>: [grunts] 
-<b>Trixie</b>: [echoing] Trixie  <i>is</i> the highest level unicorn! [laughs] 
-[splash] 
-<b>Twilight Sparkle</b>: [yelps] 
-[splash] 
-<b>Zecora</b>: There is much, much that I can teach, but the answer you need may still be out of reach. 
-<b>Twilight Sparkle</b>: I'm sorry, Zecora. I'm trying my best, but... I can't stop thinking about Trixie. There was something different about her. It's like she's gone from high and mighty to mean and nasty. 
-<b>Zecora</b>: Your thinking needs a readjust. Total concentration is a must. [banners flapping in wind] 
-[wind whistling] 
-<b>Rarity</b>: Ugh, this really doesn't seem to be getting us  <i>anywhere</i>. 
-<b>Pinkie Pie</b>: [muffled noises] 
-<b>Applejack</b>: I hear you, Pinkie. I can't find anything that describes the kind of magic Trixie's doin'. 
-<b>Spike</b>: Ugh, there must be something! Twilight has every magic book there is! 
-<b>Fluttershy</b>: [quietly] Um, I think I may have found something? 
-<b>Rarity</b>: Yes, it's time for us to consider our futures in this new Trixie-led Ponyville. 
-<b>Fluttershy</b>: [quietly] Um, this sounds an awful lot like Trixie's magic– 
-<b>Applejack</b>: She wants me to grow apples with no peels! Now how the hay am I supposed to do that? 
-<b>Fluttershy</b>: [quietly] Um, there's a picture here of that necklace– 
-<b>Pinkie Pie</b>: [muffled noises] 
-<b>Fluttershy</b>: [quietly] It's called the Alicorn Amulet, and whoever wears it is blessed with untold— 
-<b>Spike</b>: Hey, everypony, look! This book has a picture of Trixie's necklace! It's called the Alicorn Amulet, and whoever wears it is blessed with untold powers! 
-<b>Fluttershy</b>: [quietly] If you read a little further, you'll see— 
-<b>Rarity</b>: [reading] Even though it provides great power, it also corrupts the user! 
-<b>Fluttershy</b>: [quietly] Yes, but, um, you can't— 
-<b>Spike</b>: [reading] You can't just take the Alicorn Amulet off her neck, it has a magical lock! Trixie's the only pony who can take it off! 
-<b>Fluttershy</b>: [quietly] Maybe we could— 
-<b>Applejack</b>: We need to get this information to Twilight. She'll know what to do. 
-<b>Fluttershy</b>: [quietly] But, h— how— 
-<b>Rarity</b>: If any of us try to leave, Trixie's magical force field will tell her! 
-<b>Fluttershy</b>: [quietly] Maybe we should— 
-<b>Rainbow Dash</b>: I've got it! Trying to sneak past the force field would be impossible without help, but I know who's got the goods to get into those woods! 
-<b>Fluttershy</b>: [quietly] It— it must be— 
-<b>Rainbow Dash</b>: Fluttershy! 
-<b>Fluttershy</b>:  <i>Whaaat</i>?! 
-[thud] 
-<b>Applejack</b>: What do you say, Fluttershy? Can you handle the mission? 
-<b>Fluttershy</b>: No! I'll crack under the pressure! I'll snap like a twig! 
-<b>Rainbow Dash</b>: Perfect! Fluttershy'll sneak out of Ponyville and find Twilight. 
-<b>Fluttershy</b>: But— but I, I— 
-[thud] 
-<b>Fluttershy</b>: [teeth chattering] [sighs] Okay. 
-<b>Applejack</b>: Alright! 
-<b>Other ponies and Spike</b>: [general agreement] 
-<b>Rarity</b>: I know just the design for a dangerous mission outfit! <b>Snips</b> and  <b>Snails</b>: [grunts of exertion] 
-<b>Trixie</b>: Pull, you fools! [cracks whip] Somepony set off the magic force field, and Trixie intends to punish them! 
-<b>Snips</b>: [gasping] But... wouldn't it be faster if we had some...  <i>wheels</i>?! 
-<b>Trixie</b>: The Great and Powerful Trixie doesn't trust wheels. Now pull faster! 
-<b>Snails</b>: [gasping] I'm telling ya, Snips, she's getting weirder and weirder! 
-[whip cracking] 
-<b>Snips</b> and  <b>Snails</b>: [grunts of exertion] 
-<b>Trixie</b>: Stop! You there! What are you doing?! 
-[beaver chittering angrily] 
-[thud] 
-[poof] 
-<b>Snails</b>: Gah, why is she so mean to us? 
-<b>Snips</b>: Yeah! I miss the days when she was just a fraud! 
-[whip cracking] 
-[grinding noises] 
-[beaver chittering] 
-[pop] 
-<b>Fluttershy</b>: Oh, oh dear! Rarity's dangerous mission outfit is ruined! Guess we'd better go back! [laughs nervously] 
-[beaver chittering] 
-[birds tweeting] 
-<b>Fluttershy</b>: Oh, okay, okay, you're right. I need to be brave and find Twilight. 
-[bird tweeting] 
-<b>Fluttershy</b>: Oh! Y— you found her? 
-[bird tweeting] 
-<b>Fluttershy</b>: She's in the Everfree Forest?! 
-[whoosh] 
-[pop] 
-<b>Fluttershy</b>: Oh, this  <i>is</i> me being brave! I wanna be brave at  <i>home</i>, locked in my closet, with my teddy bear! [tribal music] 
-<b>Fluttershy</b>: [sips] 
-<b>Twilight Sparkle</b>: I can't believe I didn't recognize the Alicorn Amulet! 
-<b>Fluttershy</b>: The more she uses it, the more it will corrupt her! 
-<b>Twilight Sparkle</b>: But how am I supposed to beat that amulet? My magic's not good enough! 
-<b>Zecora</b>: Twilight Sparkle, much work have you done. You learned all of my lessons; all but one. If Trixie's tricks have you in a fix, you must nix your magic and use the six. 
-<b>Twilight Sparkle</b>: Nix your magic, use the six... Nix your magic, use the six! Use the six! That's it! Zecora, you're a genius! Now we'll need to get you back inside Ponyville, Fluttershy. 
-[scribbling] [dragging noises] 
-<b>Trixie</b>: This better not be another false alarm, or the Great and Powerful Trixie will– [gasps]  <i>You</i>! [muffled] What's the matter, Twilight Sparkle? Not enjoying your exile? 
-<b>Twilight Sparkle</b>: I know about the Alicorn Amulet. I know you cheated. 
-<b>Trixie</b>: Cheated?  <i>Moi</i>? 
-<b>Twilight Sparkle</b>: Yeah. And I thought you might wanna see what a  <i>real</i> magical amulet looks like. Zecora gave it to me. [muffled] It's from beyond the Everfree Forest, [normal] and it's way more powerful than your measly little Alicorn Amulet! 
-<b>Trixie</b>: Ha! Nothing's more powerful than the Alicorn Amulet! And nopony's more powerful than the Great and Powerful Trixie! 
-<b>Twilight Sparkle</b>: [muffled] Care to put your amulet where your mouth is? [normal] How about another duel? 
-<b>Trixie</b>: [muffled] Why should I? I already beat you. 
-<b>Twilight Sparkle</b>: That's up to you! But I guess you'll never see the totally awesome magic from beyond the Everfree Forest. Come on, Zecora. 
-<b>Trixie</b>: Wait! 
-[poof] 
-<b>Trixie</b>: Okay, okay, you're on! A second duel. [thunder rumbles] 
-[lightning cracks] 
-[hoof stomps] 
-<b>Trixie</b>: Let's start with a simple age spell, shall we? 
-<b>Twilight Sparkle</b>: Let's. 
-<b>Trixie</b>: Snips, Snails. 
-[poof] 
-<b>Baby Snips</b> and  <b>Baby Snails</b>: [crying] 
-<b>Trixie</b>: An oldie, but a goodie, ha. Now, let's see what  <i>your</i> little charm can do. 
-<b>Twilight Sparkle</b>: No problem. Um, Applejack, Rarity? Could you help me, please? 
-<b>Applejack</b>: Huh? 
-<b>Rarity</b>: Huh? 
-[scratching] 
-[magic zap] 
-<b>Trixie</b>: Oh, ho-hum. So you can do an age spell, big deal. 
-[magic zap] 
-[magic zap] 
-[magic zap] 
-[magic zap] 
-<b>Trixie</b>: That's... That's impossible! 
-<b>Twilight Sparkle</b>: That's nothing! 
-[magic zap] 
-<b>Rainbow Dash</b>: Yow! 
-<b>Trixie</b>: How did you– 
-<b>Twilight Sparkle</b>: Duplication spell. Ever see  <i>one</i> pony play  <i>ten</i> instruments? 
-[magic zap] 
-<b>Pinkie Pie</b>: [plays one-pony band] 
-<b>Trixie</b>: This... just can't be! 
-<b>Twilight Sparkle</b>: Ooh, one more. I can turn a mare into a stallion. 
-[magic zap] 
-<b>Big McIntosh</b> (as  <b>Male Applejack</b>): (nervously) Eeyup. 
-[magic zap] 
-<b>Twilight Sparkle</b>: Well, Trixie, looks like my amulet is more powerful than yours– Hey! Give it back! 
-<b>Trixie</b>: [laughs] With this amulet, I shall now rule all of Equestria! 
-[click] 
-[electricity sparking] 
-[click] 
-<b>Trixie</b>: Witness, my subjects. Gaze upon an ever greater and 'powerful-er' Trixie! 
-[lightning cracks] 
-<b>Trixie</b>: Hey! [scoffs] I don't need that old Alicorn Amulet. I have  <i>this</i>! 
-[weak electricity crackling] 
-<b>Rainbow Dash</b>: [laughs] Stop it! Tha— that tickles! 
-<b>Trixie</b>: Tickles?! That was supposed to make you writhe in agony! This amulet is defective! [magic zap] Give mine back! 
-<b>Rainbow Dash</b>: Sorry. This is going back into hiding where it belongs. 
-<b>Twilight Sparkle</b>: By the way, Trixie, the amulet around your neck? It's one of Zecora's doorstops. 
-[rock shattering] 
-<b>Trixie</b>: [upset] But... how did you do those spells? Nopony can do those spells! 
-<b>Twilight Sparkle</b>: You're right. Not even me. Zecora taught me so much about magic while I was in exile. She even taught me when not to use it. My magic alone wasn't powerful enough to take on the Alicorn Amulet head to head, so  <i>I needed to use a different kind of magic – the magic of friendship.</i> I also knew that the only pony who could get the amulet off your neck was you. 
-<b>Trixie</b>: But... what about the pony with the ten instruments? 
-<b>Twilight Sparkle</b>: That's not magic. That was just Pinkie Pie. 
-<b>Pinkie Pie</b>: [continues playing one-pony band] 
-[ponies cheering] 
-[birds singing] [ponies in awe] 
-<b>Saddle Arabian delegates</b>: Oooh! 
-[fireworks exploding] 
-<b>Twilight Sparkle</b>: Trixie? 
-<b>Trixie</b>: It's the least I could do. I treated you and your friends so horribly when I was wearing that Alicorn Amulet. I just couldn't control myself. You can forgive me, can't you? 
-<b>Twilight Sparkle</b>: Hmmm. Sure. 
-<b>Trixie</b>: Oh, good. Don't you think the Great and Apologetic Trixie is the most magnificent humble pony you've ever seen?! 
-[poof] 
-[thud] 
-<b>Pinkie Pie</b>: [angry muffled yells] 
-[poof] 
-<b>Pinkie Pie</b>: [inhales] [music] 
-[credits] 
+[rain falling]
+[splash]
+[shop bell ringing]
+[items clattering]
+<b>Shopkeeper</b>: May I help you, traveler? Hmm, something 
+drew you to my shop... something powerful. Ah, you have a keen eye. The 
+Alicorn Amulet is one of the most mysterious and powerful of all the 
+known magical charms. Uh, ah— I'm afraid this is... <i>far</i> too dangerous.
+[bits clinking]
+<b>Shopkeeper</b>: [quickly] Would you like that gift-wrapped?
+[theme song]
+<b>Fluttershy</b>: Don't be scared, little friends. Twilight is wonderful with magic. [to Twilight] Anything happens to them, Twilight, <i>so help me</i>...
+<b>Spike</b>: Aww, don't worry, Fluttershy, Twilight's magic 
+has gotten a lot better since she accidentally crushed me and Applejack 
+with a giant snowball.
+<b>Fluttershy</b>: Of course she's good with magic. Twilight's 
+great with magic. I guess I just don't want my little friends to be 
+scared. Oh, oh, look how scared they are!
+[animals chittering]
+<b>Twilight Sparkle</b>: I promise, Fluttershy. Nothing bad will happen to them.
+<b>Fluttershy</b>: [high-pitched] I know! Stop, stop! They can't take it!
+[animals chittering and cheering]
+<b>Fluttershy</b>: [teeth chattering]
+<b>Spike</b>: Twilight, that looks amazing!
+<b>Twilight Sparkle</b>: Phew!
+[animals chittering]
+<b>Twilight Sparkle</b>: That's all for now, little ones. Maybe we can practice again later, if Fluttershy says it's alright.
+[animals chittering]
+<b>Spike</b>: Your magic has really improved since we came to Ponyville, Twilight. Princess Celestia's going to love it.
+<b>Twilight Sparkle</b>: Thanks, Spike. I have to be at my best when she arrives with the delegates from Saddle Arabia. I can't believe she's trusting <i>me</i> with the entertainment.
+[thud]
+<b>Rainbow Dash</b>: Twilight! Come quick! It's an emergency!
+[poof]
+<b>Rarity</b>: [gasp] You beast! This shade of brown should only be used for accents!
+<b>Pinkie Pie</b>: Come on, Applejack. We've got to get her in a nice, soothing pink, stat!
+<b>Twilight Sparkle</b>: What's going on here?
+<b>Trixie</b>: Well, well, well. If it isn't... Twilight Sparkle.
+[ponies gasp]
+<b>Twilight Sparkle</b>: [gasps] Trixie!
+<b>Spike</b>: What's <i>she</i> doing here?
+<b>Rainbow Dash</b>: You call <i>that</i> great and powerful?
+[poof]
+<b>Rainbow Dash</b>: [yelps]
+<b>Snips</b>: Oh! She's Rainbow Wobble, now!
+<b>Snails</b>: Yeah! Ha ha ha ha!
+<b>Rainbow Dash</b>: [yelps]
+<b>Snails</b>: Good spell, oh Great and Powerful Trixie!
+<b>Trixie</b>: You two! Quiet!
+[poof]
+<b>Snips</b>: Uh, hey! W— What happened?
+<b>Snails</b>: Get off of me! Brbrbr.
+<b>Snips</b>: Let go!
+<b>Snails</b>: Go this way!
+<b>Twilight Sparkle</b>: Stop picking on my friends, Trixie!
+<b>Trixie</b>: You and I have some unfinished business. My 
+magic's gotten better since I was here last. And I'm going to prove it! 
+Me and you, a magic duel. Winner stays, loser leaves Ponyville <i>forever</i>!
+<b>Twilight Sparkle</b>: Forget it! I'd never make a deal like that!
+<b>Trixie</b>: Hm. Your choice.
+<b>Spike</b>: [yelps]
+[stretching noise]
+[bouncing]
+<b>Twilight Sparkle</b>: Trixie, put him down. Why are you doing this?
+<b>Trixie</b>: Why? Because you <i>humiliated</i> me! After you
+ showed me up with that Ursa Minor, I became a laughing stock! 
+Everywhere I went I was laughed at and ostracized. I even had to take a 
+job on a rock farm just to earn a living! A <i>rock farm</i>!
+<b>Pinkie Pie</b>: Hey! You're <i>lucky</i> a rock farm would take the likes of you!
+[click and drag sounds]
+<b>Trixie</b>: <i>Now</i> I want revenge! And I'll just keep casting spells 'til you agree. Well? What do you say?
+[Snails and Rainbow Dash grunting]
+<b>Spike</b>: Whoooaah! Help... me!
+<b>Twilight Sparkle</b>: Alright, Trixie. Let's duel!
+<b>Trixie</b>: Excellent.
+[thud]
+<b>Rarity</b>: [crying]
+<b>Pinkie Pie</b>: [indignant muffled noises]
+<b>Trixie</b>: If I lose, I won't set hoof in Ponyville again. But if <i>you</i> lose, <i>you're</i> the one banished from this one-horse town!
+<b>Rest of main cast</b>: [gasps]
+[tense music]
+<b>Trixie</b>: Draw!
+[poof]
+[ponies gasping]
+<b>Shoeshine</b>: [Wilhelm scream]
+<b>Twilight Sparkle</b>: [grunts] Phew. [gasps]
+[poik]
+[parasprite burping]
+<b>Twilight Sparkle</b>: [exhales]
+[snow melting]
+<b>Rest of main cast</b>: [laughing]
+[snip, snip]
+<b>Trixie</b>: Snips, Snails, step forward!
+<b>Snips</b>: Wh— what is it, oh Great and P— P— Powerful Trixie? [laughs nervously]
+<b>Baby Snips</b>: [crying]
+<b>Twilight Sparkle</b>: An age spell? But... how could you do an age spell? That's only for the highest level unicorns!
+[wiping noise]
+<b>Trixie</b>: Well, Twilight? Give up?
+<b>Twilight Sparkle</b>: [sighs] [grunts]
+<b>Baby Snips</b>: [surprised noise]
+<b>Spike</b>: Come on, Twilight, you can do it!
+[magic sputtering]
+[thud]
+<b>Baby Snips</b>: [crying]
+<b>Old Snails</b>: [spine clicking]
+<b>Trixie</b>: Trixie <i>is</i> the highest level unicorn! [laughs] And now it's time for <i>you</i> to <i>leave</i> Ponyville! FOREVER!
+<b>Applejack</b>: That's <i>enough</i>, Trixie!
+<b>Rarity</b>: You proved your point, but you can't possibly expect Twilight to leave Ponyville!
+<b>Trixie</b>: You fools! She's already gone!
+<b>Twilight Sparkle</b>: [yelps]
+[pop]
+[thud]
+<b>Twilight Sparkle</b>: It's okay, guys. I'll figure something
+ out. Just take care of each other. And keep an eye on Trixie. There's 
+something strange about her.
+<b>Spike</b>: Twilight? [thunk]
+<b>Twilight Sparkle</b>: [grunts of exertion] Ugh! It's 
+impossible! How could Trixie know such advanced magic? Without Spike, I 
+can't get a message to the Princess in Saddle Arabia. So who else do I 
+know who understands strange and powerful magic?
+[tribal music]
+<b>Zecora</b>: Your tale of woe upsets me so. [sips] No wonder you're dour. It's an abuse of power!
+<b>Twilight Sparkle</b>: I don't know what to do, Zecora. I feel like I've abandoned my friends. But I can't take her on horn-to-horn.
+<b>Zecora</b>: [sips] If you train with me, so good you'll be. I'll show you the way to make sure she won't stay.
+<b>Twilight Sparkle</b>: <i>You'll</i> train me in magic? But she was doing <i>age</i> spells, <i>weather</i> spells, you name it!
+<b>Zecora</b>: When it comes to magic, it would be tragic if somepony licked me, especially Trixie.
+<b>Twilight Sparkle</b>: You really think I can beat her?
+<b>Zecora</b>: Mm-hmm.
+<b>Twilight Sparkle</b>: Okay, when do we start?
+[banner unfurling]
+<b>Trixie</b>: You two! Hurry up with my throne.
+[splat]
+<b>Trixie</b>: And <i>you</i>, how long do I have to wait for my applesauce facial?
+<b>Applejack</b>: Forget it, Trixie! I ain't doing nothin' 'til
+ you let Twilight come home! [laughs uncontrollably] Okay, I'll do it! 
+Just make it stop! Hoo!
+[crash]
+<b>Trixie</b>: I thought I told you to dance!
+<b>Rarity</b>: Oh, Trixie's cruel magic is ruining Ponyville. Ow! [whines] Oh, somepony has to help us!
+[tribal music]
+<b>Zecora</b>: Ah, no noise, no sound, no din, no fuss must 
+interfere with your focus. Unlearn what you have learned. Only then can 
+victory be earned.
+<b>Twilight Sparkle</b>: [grunts]
+<b>Trixie</b>: [echoing] Trixie <i>is</i> the highest level unicorn! [laughs]
+[splash]
+<b>Twilight Sparkle</b>: [yelps]
+[splash]
+<b>Zecora</b>: There is much, much that I can teach, but the answer you need may still be out of reach.
+<b>Twilight Sparkle</b>: I'm sorry, Zecora. I'm trying my best,
+ but... I can't stop thinking about Trixie. There was something 
+different about her. It's like she's gone from high and mighty to mean 
+and nasty.
+<b>Zecora</b>: Your thinking needs a readjust. Total concentration is a must.
+[banners flapping in wind]
+[wind whistling]
+<b>Rarity</b>: Ugh, this really doesn't seem to be getting us <i>anywhere</i>.
+<b>Pinkie Pie</b>: [muffled noises]
+<b>Applejack</b>: I hear you, Pinkie. I can't find anything that describes the kind of magic Trixie's doin'.
+<b>Spike</b>: Ugh, there must be something! Twilight has every magic book there is!
+<b>Fluttershy</b>: [quietly] Um, I think I may have found something?
+<b>Rarity</b>: Yes, it's time for us to consider our futures in this new Trixie-led Ponyville.
+<b>Fluttershy</b>: [quietly] Um, this sounds an awful lot like Trixie's magic–
+<b>Applejack</b>: She wants me to grow apples with no peels! Now how the hay am I supposed to do that?
+<b>Fluttershy</b>: [quietly] Um, there's a picture here of that necklace–
+<b>Pinkie Pie</b>: [muffled noises]
+<b>Fluttershy</b>: [quietly] It's called the Alicorn Amulet, and whoever wears it is blessed with untold—
+<b>Spike</b>: Hey, everypony, look! This book has a picture of 
+Trixie's necklace! It's called the Alicorn Amulet, and whoever wears it 
+is blessed with untold powers!
+<b>Fluttershy</b>: [quietly] If you read a little further, you'll see—
+<b>Rarity</b>: [reading] Even though it provides great power, it also corrupts the user!
+<b>Fluttershy</b>: [quietly] Yes, but, um, you can't—
+<b>Spike</b>: [reading] You can't just take the Alicorn Amulet 
+off her neck, it has a magical lock! Trixie's the only pony who can take
+ it off!
+<b>Fluttershy</b>: [quietly] Maybe we could—
+<b>Applejack</b>: We need to get this information to Twilight. She'll know what to do.
+<b>Fluttershy</b>: [quietly] But, h— how—
+<b>Rarity</b>: If any of us try to leave, Trixie's magical force field will tell her!
+<b>Fluttershy</b>: [quietly] Maybe we should—
+<b>Rainbow Dash</b>: I've got it! Trying to sneak past the 
+force field would be impossible without help, but I know who's got the 
+goods to get into those woods!
+<b>Fluttershy</b>: [quietly] It— it must be—
+<b>Rainbow Dash</b>: Fluttershy!
+<b>Fluttershy</b>: <i>Whaaat</i>?!
+[thud]
+<b>Applejack</b>: What do you say, Fluttershy? Can you handle the mission?
+<b>Fluttershy</b>: No! I'll crack under the pressure! I'll snap like a twig!
+<b>Rainbow Dash</b>: Perfect! Fluttershy'll sneak out of Ponyville and find Twilight.
+<b>Fluttershy</b>: But— but I, I—
+[thud]
+<b>Fluttershy</b>: [teeth chattering] [sighs] Okay.
+<b>Applejack</b>: Alright!
+<b>Other ponies and Spike</b>: [general agreement]
+<b>Rarity</b>: I know just the design for a dangerous mission outfit!
+<b>Snips</b> and <b>Snails</b>: [grunts of exertion]
+<b>Trixie</b>: Pull, you fools! [cracks whip] Somepony set off the magic force field, and Trixie intends to punish them!
+<b>Snips</b>: [gasping] But... wouldn't it be faster if we had some... <i>wheels</i>?!
+<b>Trixie</b>: The Great and Powerful Trixie doesn't trust wheels. Now pull faster!
+<b>Snails</b>: [gasping] I'm telling ya, Snips, she's getting weirder and weirder!
+[whip cracking]
+<b>Snips</b> and <b>Snails</b>: [grunts of exertion]
+<b>Trixie</b>: Stop! You there! What are you doing?!
+[beaver chittering angrily]
+[thud]
+[poof]
+<b>Snails</b>: Gah, why is she so mean to us?
+<b>Snips</b>: Yeah! I miss the days when she was just a fraud!
+[whip cracking]
+[grinding noises]
+[beaver chittering]
+[pop]
+<b>Fluttershy</b>: Oh, oh dear! Rarity's dangerous mission outfit is ruined! Guess we'd better go back! [laughs nervously]
+[beaver chittering]
+[birds tweeting]
+<b>Fluttershy</b>: Oh, okay, okay, you're right. I need to be brave and find Twilight.
+[bird tweeting]
+<b>Fluttershy</b>: Oh! Y— you found her?
+[bird tweeting]
+<b>Fluttershy</b>: She's in the Everfree Forest?!
+[whoosh]
+[pop]
+<b>Fluttershy</b>: Oh, this <i>is</i> me being brave! I wanna be brave at <i>home</i>, locked in my closet, with my teddy bear!
+[tribal music]
+<b>Fluttershy</b>: [sips]
+<b>Twilight Sparkle</b>: I can't believe I didn't recognize the Alicorn Amulet!
+<b>Fluttershy</b>: The more she uses it, the more it will corrupt her!
+<b>Twilight Sparkle</b>: But how am I supposed to beat that amulet? My magic's not good enough!
+<b>Zecora</b>: Twilight Sparkle, much work have you done. You 
+learned all of my lessons; all but one. If Trixie's tricks have you in a
+ fix, you must nix your magic and use the six.
+<b>Twilight Sparkle</b>: Nix your magic, use the six... Nix 
+your magic, use the six! Use the six! That's it! Zecora, you're a 
+genius! Now we'll need to get you back inside Ponyville, Fluttershy.
+[scribbling]
+[dragging noises]
+<b>Trixie</b>: This better not be another false alarm, or the Great and Powerful Trixie will– [gasps] <i>You</i>! [muffled] What's the matter, Twilight Sparkle? Not enjoying your exile?
+<b>Twilight Sparkle</b>: I know about the Alicorn Amulet. I know you cheated.
+<b>Trixie</b>: Cheated? <i>Moi</i>?
+<b>Twilight Sparkle</b>: Yeah. And I thought you might wanna see what a <i>real</i>
+ magical amulet looks like. Zecora gave it to me. [muffled] It's from 
+beyond the Everfree Forest, [normal] and it's way more powerful than 
+your measly little Alicorn Amulet!
+<b>Trixie</b>: Ha! Nothing's more powerful than the Alicorn Amulet! And nopony's more powerful than the Great and Powerful Trixie!
+<b>Twilight Sparkle</b>: [muffled] Care to put your amulet where your mouth is? [normal] How about another duel?
+<b>Trixie</b>: [muffled] Why should I? I already beat you.
+<b>Twilight Sparkle</b>: That's up to you! But I guess you'll never see the totally awesome magic from beyond the Everfree Forest. Come on, Zecora.
+<b>Trixie</b>: Wait!
+[poof]
+<b>Trixie</b>: Okay, okay, you're on! A second duel.
+[thunder rumbles]
+[lightning cracks]
+[hoof stomps]
+<b>Trixie</b>: Let's start with a simple age spell, shall we?
+<b>Twilight Sparkle</b>: Let's.
+<b>Trixie</b>: Snips, Snails.
+[poof]
+<b>Baby Snips</b> and <b>Baby Snails</b>: [crying]
+<b>Trixie</b>: An oldie, but a goodie, ha. Now, let's see what <i>your</i> little charm can do.
+<b>Twilight Sparkle</b>: No problem. Um, Applejack, Rarity? Could you help me, please?
+<b>Applejack</b>: Huh?
+<b>Rarity</b>: Huh?
+[scratching]
+[magic zap]
+<b>Trixie</b>: Oh, ho-hum. So you can do an age spell, big deal.
+[magic zap]
+[magic zap]
+[magic zap]
+[magic zap]
+<b>Trixie</b>: That's... That's impossible!
+<b>Twilight Sparkle</b>: That's nothing!
+[magic zap]
+<b>Rainbow Dash</b>: Yow!
+<b>Trixie</b>: How did you–
+<b>Twilight Sparkle</b>: Duplication spell. Ever see <i>one</i> pony play <i>ten</i> instruments?
+[magic zap]
+<b>Pinkie Pie</b>: [plays one-pony band]
+<b>Trixie</b>: This... just can't be!
+<b>Twilight Sparkle</b>: Ooh, one more. I can turn a mare into a stallion.
+[magic zap]
+<b>Big McIntosh</b> (as <b>Male Applejack</b>): (nervously) Eeyup.
+[magic zap]
+<b>Twilight Sparkle</b>: Well, Trixie, looks like my amulet is more powerful than yours– Hey! Give it back!
+<b>Trixie</b>: [laughs] With this amulet, I shall now rule all of Equestria!
+[click]
+[electricity sparking]
+[click]
+<b>Trixie</b>: Witness, my subjects. Gaze upon an ever greater and 'powerful-er' Trixie!
+[lightning cracks]
+<b>Trixie</b>: Hey! [scoffs] I don't need that old Alicorn Amulet. I have <i>this</i>!
+[weak electricity crackling]
+<b>Rainbow Dash</b>: [laughs] Stop it! Tha— that tickles!
+<b>Trixie</b>: Tickles?! That was supposed to make you writhe in agony! This amulet is defective! [magic zap] Give mine back!
+<b>Rainbow Dash</b>: Sorry. This is going back into hiding where it belongs.
+<b>Twilight Sparkle</b>: By the way, Trixie, the amulet around your neck? It's one of Zecora's doorstops.
+[rock shattering]
+<b>Trixie</b>: [upset] But... how did you do those spells? Nopony can do those spells!
+<b>Twilight Sparkle</b>: You're right. Not even me. Zecora 
+taught me so much about magic while I was in exile. She even taught me 
+when not to use it. My magic alone wasn't powerful enough to take on the
+ Alicorn Amulet head to head, so <i>I needed to use a different kind of magic – the magic of friendship.</i> I also knew that the only pony who could get the amulet off your neck was you.
+<b>Trixie</b>: But... what about the pony with the ten instruments?
+<b>Twilight Sparkle</b>: That's not magic. That was just Pinkie Pie.
+<b>Pinkie Pie</b>: [continues playing one-pony band]
+[ponies cheering]
+[birds singing]
+[ponies in awe]
+<b>Saddle Arabian delegates</b>: Oooh!
+[fireworks exploding]
+<b>Twilight Sparkle</b>: Trixie?
+<b>Trixie</b>: It's the least I could do. I treated you and 
+your friends so horribly when I was wearing that Alicorn Amulet. I just 
+couldn't control myself. You can forgive me, can't you?
+<b>Twilight Sparkle</b>: Hmmm. Sure.
+<b>Trixie</b>: Oh, good. Don't you think the Great and Apologetic Trixie is the most magnificent humble pony you've ever seen?!
+[poof]
+[thud]
+<b>Pinkie Pie</b>: [angry muffled yells]
+[poof]
+<b>Pinkie Pie</b>: [inhales]
+[music]
+[credits]

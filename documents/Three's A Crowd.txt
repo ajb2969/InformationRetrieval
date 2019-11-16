@@ -1,208 +1,362 @@
-[mailbox opening] 
-[door closing] 
-<b>Spike</b>: Mail's here! 
-<b>Twilight Sparkle</b>: Please be a yes, please be a yes, please be a yes... Yes! She can make it, she can make it! 
-<b>Spike</b>: Going out on a limb here, but I'm guessing that Princess Cadance said she can come this weekend! 
-<b>Twilight Sparkle</b>: I'm finally gonna get to spend some quality time with my sister-in-law! This is the best news ever! 
-[knocking on door] 
-<b>Fluttershy</b>: Um, so sorry for barging in like this... but I'm so excited, I just couldn't wait to tell somepony! The Equestrian Society for the Preservation of Rare Creatures have given me permission to observe the rarest, tiniest, most adorable magical creatures in all of Equestria – the Breezies! 
-<b>Twilight Sparkle</b>: Wow, Fluttershy, that's fantastic! 
-<b>Fluttershy</b>: Oh, it's not just fantastic; it just might be the best news ever! 
-[crash] 
-<b>Pinkie Pie</b>: I just got the most incredible mail anypony's ever received in all of recorded pony postal history! It's a flyer about a one-day sale on  <i>used patio furniture</i>! Aah! Could this day get any better? Woo-hoo! [train engine hissing] 
-<b>Rarity</b>: Here's a wrap, in case it gets cold. 
-<b>Applejack</b>: And I packed you a basket of nice fresh apples in case you get hungry. 
-<b>Twilight Sparkle</b>: Have a great time! 
-<b>Fluttershy</b>: Oh, I will. And I hope you have fun with Cadance. 
-[train whistle blowing] 
-<b>Conductor</b>: All aboard! 
-[door closes] 
-[train engine noises] 
-<b>Fluttershy</b>: Goodbye! Goodbye, everypony! 
-<b>Pinkie Pie</b>:  <i>Fluttershy! I'll never forget youuuuuuu!</i> [beat] Ooh, something floaty! La-la-la-la-la! 
-<b>Twilight Sparkle</b>: Oh, I'm a bit nervous about Cadance's visit! 
-<b>Applejack</b>: What could you be nervous about, Twilight? Cadance just loves you to pieces! 
-<b>Twilight Sparkle</b>: I know, but I really want her visit to go without a hitch! 
-<b>Pinkie Pie</b>: Oh, why wouldn't it? 
-<b>Twilight Sparkle</b>: Well, the last three times we've seen each other haven't exactly been  <i>worry-free</i>. 
-<b>Rarity</b>: The fate of Equestria has hung in the balance during most of your visits with her. 
-<b>Twilight Sparkle</b>: Exactly. Cadance and I haven't really had a chance to just enjoy being friends again. Which is why it is so important that this visit be about the two of us having some real quality time together. 
-<b>Applejack</b>: I'm guessin' you've got a plan that'll keep it that way. 
-<b>Twilight Sparkle</b>: The timing couldn't be more perfect. For one day only, right here in Ponyville, the Star Swirl the Bearded Traveling Museum! Cadance and I can spend the whole day looking at Star Swirl the Bearded artifacts! 
-<b>Rarity</b>: Sounds like a perfect drama-free way to spend the day with Cadance. 
-<b>Twilight Sparkle</b>: Not counting the drama surrounding which of the bells from his cloak they've chosen to put on display. Spoiler alert: it's this one! 
-<b>Rainbow Dash</b>: [hacks] Uh, sorry. Something in my throat... like a big ball of 'lame'! 
-<b>Rarity</b>: I think it sounds delightful. 
-<b>Applejack</b>: Yup, definitely sounds like you two will have some real quality time together. 
-<b>Twilight Sparkle</b>: Exactly. Just quiet time. 
-[train whistle blows loudly] 
-[loud train engine noises] 
-[fanfare] 
-<b>Princess Cadance</b>: Your Highness. 
-<b>Twilight Sparkle</b>: Your Highness. 
-<b>Princess Cadance</b>: I'm teasing, Twilight. We're sisters-in-law. We don't have to be so formal. 
-[train whistle blows] 
-[train engine noises] 
-<b>Princess Cadance</b>: Knowing you, you've made some plans. 
-<b>Twilight Sparkle</b>: Boy, have I. Hang on just one second. [to rest of main cast] You guys- 
-<b>Rarity</b>: Now, now, don't you worry about a thing! We will make sure that nothing – but nothing – interferes with your visit. 
-<b>Applejack</b>: Go on, have a hootenanny with your kinfolk. 
-<b>Twilight Sparkle</b>: You really are the best friends a pony could ever have. Coming, Cadance! 
-<b>Pinkie Pie</b>: [sighs] Two sisters-in-law bonding. Well,  <i>I</i> for one am gonna make sure that nothing spoils their day! 
-[something whistling in the distance] 
-<b>Applejack</b>: What  <i>is</i> that thing? 
-<b>Rarity</b>: Whatever it is...  <i>duuuck</i>!!! 
-<b>Pinkie Pie</b>: Rarity, that doesn't look anything like a duck! 
-[crash] 
-<b>Rainbow Dash</b>: What is  <i>that</i>? 
-<b>Discord</b>: [sniffing] No, not a "what", but a "who", dear. 
-<b>Rainbow Dash</b>: Oh, no... That sounds like... 
-<b>Discord</b>: [sneezes] [sniffs] Oh... 
-<b>Applejack</b>,  <b>Pinkie Pie</b>,  <b>Rainbow Dash</b> and  <b>Rarity</b>: Discord! <b>Applejack</b>: What in tarnation are you doin' here? And why the jumpin' June bugs are you blue? 
-<b>Rarity</b>: More like a shade of cerulean, to be precise. 
-<b>Rainbow Dash</b>: Whatever color you are is the color of trouble! 
-<b>Discord</b>: Oh, Rainbow Dash, I've changed, surely you remember? I was reformed by lovely little- [starts snorting] F-F-Fluttershy- [sneezes] 
-<b>Applejack</b>: What are you, sick or somethin'? 
-<b>Discord</b>: Well, of  <i>course</i> I'm sick. The blue skin? These sneezes? Could somebody find me a fainting couch? 
-[beat] 
-<b>Rarity</b>: What? 
-<b>Discord</b>: How charming, thank you. I can't stop sneezing and wheezing. In short... I need help. [whines] 
-<b>Rainbow Dash</b>: If you're so 'sick', why have you come here instead of, y'know, staying home in bed and getting over your weird illness? 
-<b>Discord</b>: [sneezes] [blows nose] Because this condition has left me helpless, simply helpless! Why, I can barely lift a spoon. 
-[clang] 
-<b>Discord</b>: I came to find the one pony who truly understands me and could nurse me back to health. Where is that dear, sweet Fluttershy? I need attention! I need some care! I need- 
-<b>Rainbow Dash</b>: You need to chill. Fluttershy's out. 
-<b>Discord</b>: Oh, of course, her trip to see the Breezies. Ah, yes, I had forgotten that was today. 
-<b>Applejack</b>: How do  <i>you</i> know about her trip? 
-<b>Discord</b>: Well, she told me about it in her last letter. 
-<b>Pinkie Pie</b>: You and Fluttershy write each other letters? 
-<b>Discord</b>: Well, of course we do! We're friends! It's just such a shame that today of all days is when I  <i>really</i> need her. Oh, well, I know what to do. 
-<b>Rainbow Dash</b>: Good thinking. Head on home, put your feet up. I'm sure eventually you'll have the strength to make yourself soup or something... 
-<b>Discord</b>: Oh, no-no-no-no-no-no! I mean, while she's gone, you ponies can take care of me! Isn't that what friends are for, taking care of each other? [laughs] Let the healing begin! 
-<b>Rainbow Dash</b>: Not it! 
-<b>Discord</b>: Well, that's some way to treat a suffering friend. [sneezes] 
-<b>Pinkie Pie</b>: Don't you worry, Discord! I'll give you cuddles, and read you stories, and tell you all about me! I was born on a Tuesday- 
-<b>Discord</b>: Oh, you're so sweet to offer, but Rarity and Applejack already volunteered to be my own personal nursemaids. [chuckles] 
-<b>Applejack</b> and  <b>Rarity</b>: We did? 
-<b>Discord</b>: I so hope you don't mind, Pinkie Pie. 
-<b>Pinkie Pie</b>: Well, as a matter of fact, I most certainly- Hey! Who keeps throwing away these perfectly good balloons? 
-<b>Applejack</b>: [hushed] That joker's up to something, and whatever it is, we're gonna keep it as far away from Twilight and Princess Cadance as possible. 
-[ECG beeping] 
-<b>Rarity</b>: [hushed] You're right. We promised we wouldn't let anything ruin their visit... although I do so wish that "anything" had turned out to be  <i>something else</i>! 
-<b>Discord</b>: Did I hear you two talking about Princess Cadance's visit with  <i>Princess</i> Twilight? 
-<b>Applejack</b>: Maybe. 
-<b>Discord</b>: Fluttershy had mentioned that those two were getting together today. Mm-hm. How wonderful for them both. It is so rare that those two get to see one another. I don't know about you, but I sometimes wonder how close they could actually be. All those years apart before being reunited? 
-<b>Applejack</b>: They're plenty close. 
-<b>Discord</b>: And if they're not, this rare opportunity to focus on their friendship will certainly bring them closer. Unless... 
-<b>Rarity</b>: Don't even think about it! They mustn't be disturbed! 
-<b>Discord</b>: Disturb them? I wouldn't dream of it. Not when I have two such dear friends of my own who have already offered to take care of me. And at such peril! This flu of mine is highly- [snorts] [sneezes] contagious. 
-<b>Applejack</b> and  <b>Rarity</b>: [sneezes] 
-[crash] 
-<b>Discord</b>: Oh no, I've gotten you both sick. Whomever shall I turn to now in my time of need? [chuckles] <b>Twilight Sparkle</b>: A whole day to celebrate Star Swirl the Bearded. What could be better? 
-<b>Princess Cadance</b>: Absolutely nothing. [gasps] Is that the candlestick he used to light the way when he was exploring the caverns of Maretania? 
-<b>Twilight Sparkle</b>: It sure is! 
-<b>Princess Cadance</b>: Oh, I can't believe I'm getting to see it in real life! 
-[rattling] 
-<b>Princess Cadance</b> and  <b>Twilight Sparkle</b>: [yelps] 
-<b>Discord</b>: [sneezes] 
-<b>Twilight Sparkle</b>: Discord! What are you doing here?! 
-<b>Discord</b>: Oh, dear, dear Princesses, I'm sorry to say that I'm sick. [hacks] Blue flu. 
-<b>Princess Cadance</b>: Blue flu? 
-<b>Discord</b>: Ah, I fear I've already given it to poor Applejack and Rarity. [sneezes] 
-<b>Princess Cadance</b>: Magic health bubble. 
-<b>Twilight Sparkle</b>: Good thinking. 
-<b>Discord</b>: Indeed. How would Twilight nurse me back to health if she were sick too? You will be letting me stay at your place until I'm all better, won't you? 
-<b>Twilight Sparkle</b>: Stay? With me?! Uh, now is not really the best time, though I'm sure you already knew that... 
-<b>Discord</b>: But taking in the sick and the desperate - isn't that what Fluttershy would do? Isn't 'helping' something that friends do for friends? Unless, of course, you're really saying that you're  <i>not</i> my friend. 
-<b>Twilight Sparkle</b>: [through gritted teeth] No, that is not what I'm saying. 
-<b>Discord</b>: Oh, how elated I am to hear that. Shall the three of us head back to your place? I don't want to get anypony else sick. 
-<b>Twilight Sparkle</b>: [sighs] Guess we don't have much choice. 
-<b>Discord</b>: Carry me? 
-<b>Princess Cadance</b>: It isn't far. I think you can manage. 
-<b>Discord</b>: Oh,  <i>poo</i>. <b>Twilight Sparkle</b>: Need anything else? 
-<b>Discord</b>: Just knowing that I have a good friend like you to take care of me has made me feel better already. I'll be fine here on my own. Oh, just before you go, just a little small request. 
-<b>Twilight Sparkle</b>: [sighs] 
-<b>Princess Cadance</b>: It's going to be fine. We'll just get him what he wants and be back to the exhibit in no time. What was it that you needed? <b>[Discord]</b>  <dl>  <dd>   A little glass of water please   </dd>  <dd>   A fresh pressed hanky if I sneeze   </dd>  <dd>   Some tea with honey from the bees   </dd>  <dd>   Whenever you can brew it   </dd> </dl> <b>Princess Cadance</b>: I'll get your tea. <b>[Discord]</b>  <dl>  <dd>   And while I get a little rest   </dd>  <dd>   A teeny tiny small request   </dd>  <dd>   Some codfish oil for my chest   </dd>  <dd>   Poured from a crystal cruet   </dd> </dl> <b>Twilight Sparkle</b>: A crystal cruet? <b>[Discord]</b>  <dl>  <dd>   [singing faster]   </dd>  <dd>   My goodness, I'm a nincompoop   </dd>  <dd>   Because I fear I've got the croup   </dd>  <dd>   I need a vat of pumpkin soup   </dd>  <dd>   And scarves made out of zinnias   </dd> </dl> <dl>  <dd>   Did I say zinnias? I meant silk   </dd>  <dd>   Or something shiny of that ilk   </dd>  <dd>   And then I'll need some nice warm milk   </dd>  <dd>   And pastries from Abyssinia   </dd> </dl> <dl>  <dd>   And since my stomach's feeling crummy   </dd>  <dd>   Why not give my aching tummy   </dd>  <dd>   Something soothing, something yummy   </dd>  <dd>   Piled up with noodles?   </dd> </dl> <dl>  <dd>   Add a slice of homemade rye   </dd>  <dd>   With stacks of Swiss way up high   </dd>  <dd>   Served with sides of sweet mince pie   </dd>  <dd>   More basil; I need oodles!   </dd> </dl> <b>Twilight Sparkle</b>: Anything else? <b>[Discord]</b>  <dl>  <dd>   I'll be grateful for your charity   </dd>  <dd>   Until the bitter end   </dd>  <dd>   Because I've heard that tenderness   </dd>  <dd>   Is what you lend an ailing friend   </dd> </dl> Tenderness, isn't that right, friend? <b>Twilight Sparkle</b>: Right, but— 
-<b>Discord</b>: So, who's ready for my big reprise? <dl>  <dd>   I'd like that glass of water please   </dd>  <dd>   Some magic spell to cure disease   </dd>  <dd>   A firm "gesundhoof" when I sneeze   </dd>  <dd>   A fresh bouquet of roses   </dd> </dl> <dl>  <dd>   Some lozenges will soon appease   </dd>  <dd>   My wheezing when I start to sneeze   </dd>  <dd>   A wig to keep me from the breeze   </dd>  <dd>   And blankets for my toes-es   </dd> </dl> <dl>  <dd>   Take tweezers out of my valise   </dd>  <dd>   And then massage my knobby knees   </dd>  <dd>   A bowl of peas, some extra cheese   </dd>  <dd>   A cuddle with a Pekingese   </dd>  <dd>   A singing harp who's named Louise   </dd>  <dd>   A goat on skis, a new trapeze   </dd>  <dd>   And more and more and more and more of these   </dd> </dl> And just because I oughta... <dl>  <dd>   Make sure I'm drinking in the right   </dd>  <dd>   Amount of fluids day and night   </dd>  <dd>   I wish I may, I wish I might   </dd>  <dd>   Have just one little thing   </dd>  <dd>   Oh, would you please finally bring   </dd>  <dd>   Me that tiny glass   </dd>  <dd>   Of water?!!   </dd> </dl> 
-[coughs] 
-[clink] 
-<b>Discord</b>: Oops. Sorry. [sneezes] 
-<b>Twilight Sparkle</b>: Alright, this is ridiculous! 
-<b>Princess Cadance</b>: How did you even catch this flu? 
-<b>Discord</b>: Inadequate hoof and claw washing? 
-<b>Twilight Sparkle</b>: There must be some way to just cure you! There has to be a spell or remedy in one of my books! 
-<b>Discord</b>: There is one way... 
-<b>Princess Cadance</b>: And you didn't think to mention it earlier? 
-<b>Discord</b>: Slipped my mind. On a hill at the very edge of Equestria, there grows an exquisite magic flower. Pick the flower as it drops its petals at sunset. Then you can make a magical soothing elixir to cure the blue flu. 
-<b>Twilight Sparkle</b>: I suppose you have a good reason you didn't bother to get this flower as soon as you realized you were sick? 
-<b>Discord</b>: Well, I couldn't travel that far in my condition. By the time I got there, I'd be too weak to even attempt to retrieve the flower. 
-<b>Twilight Sparkle</b>: So where exactly are Cadance and I headed? 
-<b>Discord</b>: Well, [clears throat] you'll want to head north, turn left, th— Oh... You know, it'd be much easier if I took you there myself. 
-<b>Princess Cadance</b>: I thought you were in no condition to travel. 
-<b>Discord</b>: I'm not. We'll need to make some arrangements. [chuckles] <b>Princess Cadance</b>: [straining] 
-<b>Twilight Sparkle</b>: Doing okay there? 
-<b>Princess Cadance</b>: To be honest, I'm a little out of practice when it comes to flying. 
-<b>Discord</b>: Well, then lucky for you. We're here. 
-[thud] 
-<b>Discord</b>: It's just at the top of that hill. 
-<b>Twilight Sparkle</b>: I'm really sorry about this. All I wanted was to have some peaceful quality time together. 
-<b>Princess Cadance</b>: I know, I was looking forward to it too. 
-[eagle screeches] <b>Twilight Sparkle</b>: This is the top. But where is that flower? Oh. Come on, if we hurry, we can still have some time together. 
-[cracking] 
-<b>Princess Cadance</b>: One... last... pull! 
-<b>Princess Cadance</b> and  <b>Twilight Sparkle</b>: [straining] 
-<b>Twilight Sparkle</b>: Phew! Let's get Discord and this flower back home, then all our problems are solved- 
-<b>Princess Cadance</b>: What in Equestria?! 
-<b>Tatzlwurm</b>: [roars] 
-<b>Princess Cadance</b> and  <b>Twilight Sparkle</b>: [screaming] 
-<b>Tatzlwurm</b>: [roars] 
-<b>Princess Cadance</b>: Twilight! Help! 
-<b>Twilight Sparkle</b>: Get your coils off my sister-in-law! 
-[thud] 
-<b>Tatzlwurm</b>: [roars] 
-<b>Twilight Sparkle</b>: [yelps] 
-<b>Princess Cadance</b>: [gasps] 
-<b>Twilight Sparkle</b>: [screams] 
-<b>Princess Cadance</b>: Let go of  <i>my</i> sister-in-law! 
-<b>Twilight Sparkle</b>: Thanks! 
-<b>Princess Cadance</b>: Don't thank me yet! 
-<b>Tatzlwurm</b>: [roars] 
-<b>Twilight Sparkle</b>: [gasps] 
-[magic zapping, Tatzlwurm roaring] 
-<b>Twilight Sparkle</b>: Just... a little... more! 
-<b>Tatzlwurm</b>: [roars] [Wilhelm scream] 
-<b>Princess Cadance</b>: And for good measure...! 
-[thud, crashing] 
-<b>Twilight Sparkle</b>: [panting] Are you okay? 
-<b>Princess Cadance</b>: [panting] Yes. Better than okay actually. 
-<b>Twilight Sparkle</b>: Then let's get Discord back to Ponyville, make that elixir, and finally get a chance to spend some quality time together. <b>Discord</b>: To the ends of Equestria! To face such great danger! And she did it for me! She did it all for me, for me, for me! [laughs] 
-<b>Twilight Sparkle</b>: You... were... faking?! 
-<b>Discord</b>: I was! But I had a very good reason. 
-<b>Twilight Sparkle</b>: We're listening. 
-<b>Discord</b>: Well, I was in my thinking tree – that's where I do most of my really deep thinking – I was there, and I said to myself, I said, "Discord, your friend Twilight says that she's your pal, but she never writes and she never pops in for a visit." 
-<b>Twilight Sparkle</b>: I don't even know where you li- 
-<b>Discord</b>: "Now that she's a princess, maybe she's decided that she's too good for you." 
-<b>Twilight Sparkle</b>: I have  <i>never</i> considered myself t- 
-<b>Discord</b>: But how was I supposed to know for sure that I'm truly still friends with one of the most important ponies around? 
-<b>Twilight Sparkle</b>: I'm not more- 
-<b>Discord</b>: By seeing if you would go to the ends of Equestria for me, of course. Which you did, literally. Congratulations, Twilight, you passed my friendship test! 
-[clink] 
-<b>Discord</b>: Why the angry eyes? You love passing tests. It's not because my little exam put a damper on your visit with Princess Cadance, is it? Made it so that there was no time for you two to focus on your friendship? 
-<b>Princess Cadance</b>: You didn't put a damper on our visit at all. <b>Twilight Sparkle</b>: 
-He didn't?! <b>Discord</b>: 
-I didn't?! <b>Princess Cadance</b>: Spending the day at the Star Swirl the Bearded exhibit would've been more relaxing, but to be honest, relaxation is the last thing I need. 
-<b>Twilight Sparkle</b>: It is? 
-<b>Princess Cadance</b>: Don't get me wrong. Life in the Crystal Empire is wonderful, but it's become a little... predictable. I enjoy a little excitement now and then. Getting to face all these challenges today was just what I needed. And facing them with you just made me realize even more how lucky I am to have somepony like you as a friend. We may not see each other very often, but I know you'll always be there when I need you. Just like she was there for you, Discord. 
-<b>Discord</b>: Yes, she's a real sweetheart. We're all so lucky to have her in our lives. 
-[rumbling] 
-<b>Tatzlwurm</b>: [roars] 
-<b>Discord</b>: What in the world?! 
-<b>Tatzlwurm</b>: [spits] 
-[popping] <b>Twilight Sparkle</b>: I think it's pretty clear that my visit with Cadance didn't go quite the way I expected. But in the end, I realized that when you're with a good friend, even the most chaotic day can end up being a great experience that brings you closer. Wouldn't you agree, Discord? 
-<b>Discord</b>: [snorts] Yes, Twilight. 
-<b>Applejack</b>: I don't wanna go sayin' you got what you deserved... 
-<b>Rarity</b>: Well,  <i>I</i> have no trouble saying it. You got what you deserved! 
-<b>Fluttershy</b>: Now, now, he's learned his lesson. Isn't that right, my little patient? 
-<b>Discord</b>: I'm so glad that you're back from your trip, Fluttershy. Just your presence here is making me feel so much better. I was just wondering, could I trouble you for just one more thing? 
-<b>Twilight Sparkle</b>:  <i>No!</i> 
-<b>Discord</b>: What? I was simply going to ask for a teeny, tiny glass of water. [credits] 
+[mailbox opening]
+[door closing]
+<b>Spike</b>: Mail's here!
+<b>Twilight Sparkle</b>: Please be a yes, please be a yes, please be a yes... Yes! She can make it, she can make it!
+<b>Spike</b>: Going out on a limb here, but I'm guessing that Princess Cadance said she can come this weekend!
+<b>Twilight Sparkle</b>: I'm finally gonna get to spend some quality time with my sister-in-law! This is the best news ever!
+[knocking on door]
+<b>Fluttershy</b>: Um, so sorry for barging in like this... but
+ I'm so excited, I just couldn't wait to tell somepony! The Equestrian 
+Society for the Preservation of Rare Creatures have given me permission 
+to observe the rarest, tiniest, most adorable magical creatures in all 
+of Equestria – the Breezies!
+<b>Twilight Sparkle</b>: Wow, Fluttershy, that's fantastic!
+<b>Fluttershy</b>: Oh, it's not just fantastic; it just might be the best news ever!
+[crash]
+<b>Pinkie Pie</b>: I just got the most incredible mail 
+anypony's ever received in all of recorded pony postal history! It's a 
+flyer about a one-day sale on <i>used patio furniture</i>! Aah! Could this day get any better? Woo-hoo!
+[theme song]
+[train engine hissing]
+<b>Rarity</b>: Here's a wrap, in case it gets cold.
+<b>Applejack</b>: And I packed you a basket of nice fresh apples in case you get hungry.
+<b>Twilight Sparkle</b>: Have a great time!
+<b>Fluttershy</b>: Oh, I will. And I hope you have fun with Cadance.
+[train whistle blowing]
+<b>Conductor</b>: All aboard!
+[door closes]
+[train engine noises]
+<b>Fluttershy</b>: Goodbye! Goodbye, everypony!
+<b>Pinkie Pie</b>: <i>Fluttershy! I'll never forget youuuuuuu!</i> [beat] Ooh, something floaty! La-la-la-la-la!
+<b>Twilight Sparkle</b>: Oh, I'm a bit nervous about Cadance's visit!
+<b>Applejack</b>: What could you be nervous about, Twilight? Cadance just loves you to pieces!
+<b>Twilight Sparkle</b>: I know, but I really want her visit to go without a hitch!
+<b>Pinkie Pie</b>: Oh, why wouldn't it?
+<b>Twilight Sparkle</b>: Well, the last three times we've seen each other haven't exactly been <i>worry-free</i>.
+<b>Rarity</b>: The fate of Equestria has hung in the balance during most of your visits with her.
+<b>Twilight Sparkle</b>: Exactly. Cadance and I haven't really 
+had a chance to just enjoy being friends again. Which is why it is so 
+important that this visit be about the two of us having some real 
+quality time together.
+<b>Applejack</b>: I'm guessin' you've got a plan that'll keep it that way.
+<b>Twilight Sparkle</b>: The timing couldn't be more perfect. 
+For one day only, right here in Ponyville, the Star Swirl the Bearded 
+Traveling Museum! Cadance and I can spend the whole day looking at Star 
+Swirl the Bearded artifacts!
+<b>Rarity</b>: Sounds like a perfect drama-free way to spend the day with Cadance.
+<b>Twilight Sparkle</b>: Not counting the drama surrounding 
+which of the bells from his cloak they've chosen to put on display. 
+Spoiler alert: it's this one!
+<b>Rainbow Dash</b>: [hacks] Uh, sorry. Something in my throat... like a big ball of 'lame'!
+<b>Rarity</b>: I think it sounds delightful.
+<b>Applejack</b>: Yup, definitely sounds like you two will have some real quality time together.
+<b>Twilight Sparkle</b>: Exactly. Just quiet time.
+[train whistle blows loudly]
+[loud train engine noises]
+[fanfare]
+<b>Princess Cadance</b>: Your Highness.
+<b>Twilight Sparkle</b>: Your Highness.
+<b>Princess Cadance</b>: I'm teasing, Twilight. We're sisters-in-law. We don't have to be so formal.
+[train whistle blows]
+[train engine noises]
+<b>Princess Cadance</b>: Knowing you, you've made some plans.
+<b>Twilight Sparkle</b>: Boy, have I. Hang on just one second. [to rest of main cast] You guys-
+<b>Rarity</b>: Now, now, don't you worry about a thing! We will make sure that nothing – but nothing – interferes with your visit.
+<b>Applejack</b>: Go on, have a hootenanny with your kinfolk.
+<b>Twilight Sparkle</b>: You really are the best friends a pony could ever have. Coming, Cadance!
+<b>Pinkie Pie</b>: [sighs] Two sisters-in-law bonding. Well, <i>I</i> for one am gonna make sure that nothing spoils their day!
+[something whistling in the distance]
+<b>Applejack</b>: What <i>is</i> that thing?
+<b>Rarity</b>: Whatever it is... <i>duuuck</i>!!!
+<b>Pinkie Pie</b>: Rarity, that doesn't look anything like a duck!
+[crash]
+<b>Rainbow Dash</b>: What is <i>that</i>?
+<b>Discord</b>: [sniffing] No, not a "what", but a "who", dear.
+<b>Rainbow Dash</b>: Oh, no... That sounds like...
+<b>Discord</b>: [sneezes] [sniffs] Oh...
+<b>Applejack</b>, <b>Pinkie Pie</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: Discord!
+<b>Applejack</b>: What in tarnation are you doin' here? And why the jumpin' June bugs are you blue?
+<b>Rarity</b>: More like a shade of cerulean, to be precise.
+<b>Rainbow Dash</b>: Whatever color you are is the color of trouble!
+<b>Discord</b>: Oh, Rainbow Dash, I've changed, surely you 
+remember? I was reformed by lovely little- [starts snorting] 
+F-F-Fluttershy- [sneezes]
+<b>Applejack</b>: What are you, sick or somethin'?
+<b>Discord</b>: Well, of <i>course</i> I'm sick. The blue skin? These sneezes? Could somebody find me a fainting couch?
+[beat]
+<b>Rarity</b>: What?
+<b>Discord</b>: How charming, thank you. I can't stop sneezing and wheezing. In short... I need help. [whines]
+<b>Rainbow Dash</b>: If you're so 'sick', why have you come here instead of, y'know, staying home in bed and getting over your weird illness?
+<b>Discord</b>: [sneezes] [blows nose] Because this condition has left me helpless, simply helpless! Why, I can barely lift a spoon.
+[clang]
+<b>Discord</b>: I came to find the one pony who truly 
+understands me and could nurse me back to health. Where is that dear, 
+sweet Fluttershy? I need attention! I need some care! I need-
+<b>Rainbow Dash</b>: You need to chill. Fluttershy's out.
+<b>Discord</b>: Oh, of course, her trip to see the Breezies. Ah, yes, I had forgotten that was today.
+<b>Applejack</b>: How do <i>you</i> know about her trip?
+<b>Discord</b>: Well, she told me about it in her last letter.
+<b>Pinkie Pie</b>: You and Fluttershy write each other letters?
+<b>Discord</b>: Well, of course we do! We're friends! It's just such a shame that today of all days is when I <i>really</i> need her. Oh, well, I know what to do.
+<b>Rainbow Dash</b>: Good thinking. Head on home, put your feet
+ up. I'm sure eventually you'll have the strength to make yourself soup 
+or something...
+<b>Discord</b>: Oh, no-no-no-no-no-no! I mean, while she's 
+gone, you ponies can take care of me! Isn't that what friends are for, 
+taking care of each other? [laughs] Let the healing begin!
+<b>Rainbow Dash</b>: Not it!
+<b>Discord</b>: Well, that's some way to treat a suffering friend. [sneezes]
+<b>Pinkie Pie</b>: Don't you worry, Discord! I'll give you cuddles, and read you stories, and tell you all about me! I was born on a Tuesday-
+<b>Discord</b>: Oh, you're so sweet to offer, but Rarity and Applejack already volunteered to be my own personal nursemaids. [chuckles]
+<b>Applejack</b> and <b>Rarity</b>: We did?
+<b>Discord</b>: I so hope you don't mind, Pinkie Pie.
+<b>Pinkie Pie</b>: Well, as a matter of fact, I most certainly- Hey! Who keeps throwing away these perfectly good balloons?
+<b>Applejack</b>: [hushed] That joker's up to something, and 
+whatever it is, we're gonna keep it as far away from Twilight and 
+Princess Cadance as possible.
+[ECG beeping]
+<b>Rarity</b>: [hushed] You're right. We promised we wouldn't 
+let anything ruin their visit... although I do so wish that "anything" 
+had turned out to be <i>something else</i>!
+<b>Discord</b>: Did I hear you two talking about Princess Cadance's visit with <i>Princess</i> Twilight?
+<b>Applejack</b>: Maybe.
+<b>Discord</b>: Fluttershy had mentioned that those two were 
+getting together today. Mm-hm. How wonderful for them both. It is so 
+rare that those two get to see one another. I don't know about you, but I
+ sometimes wonder how close they could actually be. All those years 
+apart before being reunited?
+<b>Applejack</b>: They're plenty close.
+<b>Discord</b>: And if they're not, this rare opportunity to focus on their friendship will certainly bring them closer. Unless...
+<b>Rarity</b>: Don't even think about it! They mustn't be disturbed!
+<b>Discord</b>: Disturb them? I wouldn't dream of it. Not when I
+ have two such dear friends of my own who have already offered to take 
+care of me. And at such peril! This flu of mine is highly- [snorts] 
+[sneezes] contagious.
+<b>Applejack</b> and <b>Rarity</b>: [sneezes]
+[crash]
+<b>Discord</b>: Oh no, I've gotten you both sick. Whomever shall I turn to now in my time of need? [chuckles]
+<b>Twilight Sparkle</b>: A whole day to celebrate Star Swirl the Bearded. What could be better?
+<b>Princess Cadance</b>: Absolutely nothing. [gasps] Is that the candlestick he used to light the way when he was exploring the caverns of Maretania?
+<b>Twilight Sparkle</b>: It sure is!
+<b>Princess Cadance</b>: Oh, I can't believe I'm getting to see it in real life!
+[rattling]
+<b>Princess Cadance</b> and <b>Twilight Sparkle</b>: [yelps]
+<b>Discord</b>: [sneezes]
+<b>Twilight Sparkle</b>: Discord! What are you doing here?!
+<b>Discord</b>: Oh, dear, dear Princesses, I'm sorry to say that I'm sick. [hacks] Blue flu.
+<b>Princess Cadance</b>: Blue flu?
+<b>Discord</b>: Ah, I fear I've already given it to poor Applejack and Rarity. [sneezes]
+<b>Princess Cadance</b>: Magic health bubble.
+<b>Twilight Sparkle</b>: Good thinking.
+<b>Discord</b>: Indeed. How would Twilight nurse me back to 
+health if she were sick too? You will be letting me stay at your place 
+until I'm all better, won't you?
+<b>Twilight Sparkle</b>: Stay? With me?! Uh, now is not really the best time, though I'm sure you already knew that...
+<b>Discord</b>: But taking in the sick and the desperate - 
+isn't that what Fluttershy would do? Isn't 'helping' something that 
+friends do for friends? Unless, of course, you're really saying that 
+you're <i>not</i> my friend.
+<b>Twilight Sparkle</b>: [through gritted teeth] No, that is not what I'm saying.
+<b>Discord</b>: Oh, how elated I am to hear that. Shall the three of us head back to your place? I don't want to get anypony else sick.
+<b>Twilight Sparkle</b>: [sighs] Guess we don't have much choice.
+<b>Discord</b>: Carry me?
+<b>Princess Cadance</b>: It isn't far. I think you can manage.
+<b>Discord</b>: Oh, <i>poo</i>.
+<b>Twilight Sparkle</b>: Need anything else?
+<b>Discord</b>: Just knowing that I have a good friend like you
+ to take care of me has made me feel better already. I'll be fine here 
+on my own. Oh, just before you go, just a little small request.
+<b>Twilight Sparkle</b>: [sighs]
+<b>Princess Cadance</b>: It's going to be fine. We'll just get him what he wants and be back to the exhibit in no time. What was it that you needed?
+<b>[Discord]</b>
+A little glass of water please
+A fresh pressed hanky if I sneeze
+Some tea with honey from the bees
+Whenever you can brew it
+
+<b>Princess Cadance</b>: I'll get your tea.
+<b>[Discord]</b>
+And while I get a little rest
+A teeny tiny small request
+Some codfish oil for my chest
+Poured from a crystal cruet
+
+<b>Twilight Sparkle</b>: A crystal cruet?
+<b>[Discord]</b>
+[singing faster]
+My goodness, I'm a nincompoop
+Because I fear I've got the croup
+I need a vat of pumpkin soup
+And scarves made out of zinnias
+
+Did I say zinnias? I meant silk
+Or something shiny of that ilk
+And then I'll need some nice warm milk
+And pastries from Abyssinia
+
+And since my stomach's feeling crummy
+Why not give my aching tummy
+Something soothing, something yummy
+Piled up with noodles?
+
+Add a slice of homemade rye
+With stacks of Swiss way up high
+Served with sides of sweet mince pie
+More basil; I need oodles!
+
+<b>Twilight Sparkle</b>: Anything else?
+<b>[Discord]</b>
+I'll be grateful for your charity
+Until the bitter end
+Because I've heard that tenderness
+Is what you lend an ailing friend
+
+Tenderness, isn't that right, friend?
+<b>Twilight Sparkle</b>: Right, but—
+<b>Discord</b>: So, who's ready for my big reprise?
+I'd like that glass of water please
+Some magic spell to cure disease
+A firm "gesundhoof" when I sneeze
+A fresh bouquet of roses
+
+Some lozenges will soon appease
+My wheezing when I start to sneeze
+A wig to keep me from the breeze
+And blankets for my toes-es
+
+Take tweezers out of my valise
+And then massage my knobby knees
+A bowl of peas, some extra cheese
+A cuddle with a Pekingese
+A singing harp who's named Louise
+A goat on skis, a new trapeze
+And more and more and more and more of these
+
+And just because I oughta...
+Make sure I'm drinking in the right
+Amount of fluids day and night
+I wish I may, I wish I might
+Have just one little thing
+Oh, would you please finally bring
+Me that tiny glass
+Of water?!!
+
+[coughs]
+[clink]
+<b>Discord</b>: Oops. Sorry. [sneezes]
+<b>Twilight Sparkle</b>: Alright, this is ridiculous!
+<b>Princess Cadance</b>: How did you even catch this flu?
+<b>Discord</b>: Inadequate hoof and claw washing?
+<b>Twilight Sparkle</b>: There must be some way to just cure you! There has to be a spell or remedy in one of my books!
+<b>Discord</b>: There is one way...
+<b>Princess Cadance</b>: And you didn't think to mention it earlier?
+<b>Discord</b>: Slipped my mind. On a hill at the very edge of 
+Equestria, there grows an exquisite magic flower. Pick the flower as it 
+drops its petals at sunset. Then you can make a magical soothing elixir 
+to cure the blue flu.
+<b>Twilight Sparkle</b>: I suppose you have a good reason you didn't bother to get this flower as soon as you realized you were sick?
+<b>Discord</b>: Well, I couldn't travel that far in my 
+condition. By the time I got there, I'd be too weak to even attempt to 
+retrieve the flower.
+<b>Twilight Sparkle</b>: So where exactly are Cadance and I headed?
+<b>Discord</b>: Well, [clears throat] you'll want to head 
+north, turn left, th— Oh... You know, it'd be much easier if I took you 
+there myself.
+<b>Princess Cadance</b>: I thought you were in no condition to travel.
+<b>Discord</b>: I'm not. We'll need to make some arrangements. [chuckles]
+<b>Princess Cadance</b>: [straining]
+<b>Twilight Sparkle</b>: Doing okay there?
+<b>Princess Cadance</b>: To be honest, I'm a little out of practice when it comes to flying.
+<b>Discord</b>: Well, then lucky for you. We're here.
+[thud]
+<b>Discord</b>: It's just at the top of that hill.
+<b>Twilight Sparkle</b>: I'm really sorry about this. All I wanted was to have some peaceful quality time together.
+<b>Princess Cadance</b>: I know, I was looking forward to it too.
+[eagle screeches]
+<b>Twilight Sparkle</b>: This is the top. But where is that flower? Oh. Come on, if we hurry, we can still have some time together.
+[cracking]
+<b>Princess Cadance</b>: One... last... pull!
+<b>Princess Cadance</b> and <b>Twilight Sparkle</b>: [straining]
+<b>Twilight Sparkle</b>: Phew! Let's get Discord and this flower back home, then all our problems are solved-
+<b>Princess Cadance</b>: What in Equestria?!
+<b>Tatzlwurm</b>: [roars]
+<b>Princess Cadance</b> and <b>Twilight Sparkle</b>: [screaming]
+<b>Tatzlwurm</b>: [roars]
+<b>Princess Cadance</b>: Twilight! Help!
+<b>Twilight Sparkle</b>: Get your coils off my sister-in-law!
+[thud]
+<b>Tatzlwurm</b>: [roars]
+<b>Twilight Sparkle</b>: [yelps]
+<b>Princess Cadance</b>: [gasps]
+<b>Twilight Sparkle</b>: [screams]
+<b>Princess Cadance</b>: Let go of <i>my</i> sister-in-law!
+<b>Twilight Sparkle</b>: Thanks!
+<b>Princess Cadance</b>: Don't thank me yet!
+<b>Tatzlwurm</b>: [roars]
+<b>Twilight Sparkle</b>: [gasps]
+[magic zapping, Tatzlwurm roaring]
+<b>Twilight Sparkle</b>: Just... a little... more!
+<b>Tatzlwurm</b>: [roars] [Wilhelm scream]
+<b>Princess Cadance</b>: And for good measure...!
+[thud, crashing]
+<b>Twilight Sparkle</b>: [panting] Are you okay?
+<b>Princess Cadance</b>: [panting] Yes. Better than okay actually.
+<b>Twilight Sparkle</b>: Then let's get Discord back to Ponyville, make that elixir, and finally get a chance to spend some quality time together.
+<b>Discord</b>: To the ends of Equestria! To face such great danger! And she did it for me! She did it all for me, for me, for me! [laughs]
+<b>Twilight Sparkle</b>: You... were... faking?!
+<b>Discord</b>: I was! But I had a very good reason.
+<b>Twilight Sparkle</b>: We're listening.
+<b>Discord</b>: Well, I was in my thinking tree – that's where I
+ do most of my really deep thinking – I was there, and I said to myself,
+ I said, "Discord, your friend Twilight says that she's your pal, but 
+she never writes and she never pops in for a visit."
+<b>Twilight Sparkle</b>: I don't even know where you li-
+<b>Discord</b>: "Now that she's a princess, maybe she's decided that she's too good for you."
+<b>Twilight Sparkle</b>: I have <i>never</i> considered myself t-
+<b>Discord</b>: But how was I supposed to know for sure that I'm truly still friends with one of the most important ponies around?
+<b>Twilight Sparkle</b>: I'm not more-
+<b>Discord</b>: By seeing if you would go to the ends of 
+Equestria for me, of course. Which you did, literally. Congratulations, 
+Twilight, you passed my friendship test!
+[clink]
+<b>Discord</b>: Why the angry eyes? You love passing tests. 
+It's not because my little exam put a damper on your visit with Princess
+ Cadance, is it? Made it so that there was no time for you two to focus 
+on your friendship?
+<b>Princess Cadance</b>: You didn't put a damper on our visit at all.
+<b>Twilight Sparkle</b>:
+He didn't?!
+<b>Discord</b>:
+I didn't?!
+<b>Princess Cadance</b>: Spending the day at the Star Swirl the 
+Bearded exhibit would've been more relaxing, but to be honest, 
+relaxation is the last thing I need.
+<b>Twilight Sparkle</b>: It is?
+<b>Princess Cadance</b>: Don't get me wrong. Life in the 
+Crystal Empire is wonderful, but it's become a little... predictable. I 
+enjoy a little excitement now and then. Getting to face all these 
+challenges today was just what I needed. And facing them with you just 
+made me realize even more how lucky I am to have somepony like you as a 
+friend. We may not see each other very often, but I know you'll always 
+be there when I need you. Just like she was there for you, Discord.
+<b>Discord</b>: Yes, she's a real sweetheart. We're all so lucky to have her in our lives.
+[rumbling]
+<b>Tatzlwurm</b>: [roars]
+<b>Discord</b>: What in the world?!
+<b>Tatzlwurm</b>: [spits]
+[popping]
+<b>Twilight Sparkle</b>: I think it's pretty clear that my visit
+ with Cadance didn't go quite the way I expected. But in the end, I 
+realized that when you're with a good friend, even the most chaotic day 
+can end up being a great experience that brings you closer. Wouldn't you
+ agree, Discord?
+<b>Discord</b>: [snorts] Yes, Twilight.
+<b>Applejack</b>: I don't wanna go sayin' you got what you deserved...
+<b>Rarity</b>: Well, <i>I</i> have no trouble saying it. You got what you deserved!
+<b>Fluttershy</b>: Now, now, he's learned his lesson. Isn't that right, my little patient?
+<b>Discord</b>: I'm so glad that you're back from your trip, 
+Fluttershy. Just your presence here is making me feel so much better. I 
+was just wondering, could I trouble you for just one more thing?
+<b>Twilight Sparkle</b>: <i>No!</i>
+<b>Discord</b>: What? I was simply going to ask for a teeny, tiny glass of water.
+[credits]

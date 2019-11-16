@@ -6,6 +6,7 @@ import com.google.common.collect.Maps;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
+import org.jsoup.nodes.Node;
 import org.jsoup.nodes.TextNode;
 import org.jsoup.select.Elements;
 
@@ -93,30 +94,42 @@ class HTMLParser {
 
     private EpisodeDocument convert(String title, List<Element> htmlTranscript) {
         List<String> bodySections = htmlTranscript.stream()
-            .filter(this::isNotThemeSongHyperLink)
             .map(this::extractText)
             .collect(Collectors.toList());
         return new EpisodeDocument(title, String.join("", bodySections));
     }
 
-    private boolean isNotThemeSongHyperLink(Element e) {
-        return !e.child(0).toString().contains("<a");
-    }
-
     private String extractText(Element section) {
-        if (TranscriptTag.from(section.tagName()) == TranscriptTag.PARAGRAPH_TAG){
-            List<String> lines = section.children().stream()
-                .map(line -> trimDDTag(line.toString()))
-                .map(line -> line.replace("\n", ""))
+        String tagName = section.tagName();
+        if (tagName.equals(TranscriptTag.BOLD_TAG.getTagName()) ||
+            tagName.equals(TranscriptTag.ITALICIZE_TAG.getTagName()) ||
+            tagName.equals(TranscriptTag.SMALL_TAG.getTagName()) ||
+            tagName.equals(TranscriptTag.BIG_TAG.getTagName()) ||
+            tagName.equals(TranscriptTag.SUB_TAG.getTagName())) {
+            return section.toString();
+        } else if (tagName.equals(TranscriptTag.PARAGRAPH_TAG.getTagName()) ||
+                   tagName.equals(TranscriptTag.INNER_PARAGRAPH_TAG.getTagName()) ||
+                   tagName.equals(TranscriptTag.SPAN_TAG.getTagName()) ||
+                   tagName.equals(TranscriptTag.LINK_TAG.getTagName())) {
+            List<String> lines = section.childNodes().stream()
+                .map(this::extractTextHelper)
                 .collect(Collectors.toList());
-            return String.join("\n", lines);
+
+            return String.join("", lines);
         } else {
-            System.err.println("Invalid element");
+            System.err.println("Unknown tag");
             throw new RuntimeException();
         }
     }
 
-    private String trimDDTag(String text) {
-        return text.substring(6, text.length() - 5);
+    private String extractTextHelper(Node childNode) {
+        if (childNode instanceof TextNode) {
+            return ((TextNode) childNode).getWholeText();
+        } else if (childNode instanceof Element) {
+            return extractText((Element) childNode);
+        } else {
+            System.err.println("Unknown tag");
+            throw new RuntimeException();
+        }
     }
 }

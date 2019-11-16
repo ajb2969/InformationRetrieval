@@ -1,252 +1,322 @@
-[music] 
-[quill breaks] 
-<b>Twilight Sparkle</b>: Oh! 
-[rumbling] 
-<b>Spike</b>: [belches, sighs] Aw, thank goodness. I thought I had too many deep-fried gems. 
-<b>Twilight Sparkle</b>: [mutters] It's from my parents! Spike, they won a zeppelin cruise and get to take the whole family! [sighs] I wish I had time to go with them, but there's just too many princess duties I have to take care of. 
-<b>Spike</b>: Come on, Twilight. Even Princess Celestia takes a break sometimes, and she raises the sun. 
-[beat] 
-<b>Spike</b>: [grunt] 
-<b>Twilight Sparkle</b>: [gasps] 
-<b>Spike</b>: You  <i>need</i> a vacation! I can keep track of the friendship log, boost community morale, and answer fan mail for a few days. 
-<b>Twilight Sparkle</b>: But, Spike, you're as much a part of my family as  <i>any</i>pony. I can't just leave you here to do all that work. 
-<b>Spike</b>: [loudly] What?! I can't hear you! You're on vacation! 
-<b>Twilight Sparkle</b>: I guess I  <i>could</i> use a little time off from being a princess. You're the best, Spike! 
-<b>Spike</b>: I know. 
-<b>Twilight Sparkle</b>: I'm gonna go pack everything neatly into one suitcase! 
-<b>Spike</b>: Wait for it... 
-<b>Twilight Sparkle</b>: [shouting] Cruises have activities, right?! I should probably make a schedule?! 
-<b>Spike</b>:  <i>There</i> it is. [awed muttering] 
-<b>Twilight Velvet</b>: Oh, gee. I am really looking forward to a relaxing vacation. 
-<b>Night Light</b>: Watch out. She won't admit it, but when your mother says "relaxing vacation", she means "doing something crazy". Last time, she ended up bungee-jumping over Luna Bay! 
-<b>Twilight Velvet</b>: What was that, hon? 
-<b>Night Light</b>: Oh, I was, uh, just telling Twilight about my new, uh, bingo strategy book! It's a, heh, real page-turner! 
-<b>Shining Armor</b>: Oh, I can't wait to get on this zeppelin and fly like a Pegasus! 
-<b>Twilight Sparkle</b>: Really? I remember you getting airsick on Admiral Fairweather's Wild Ride at Pony Island. 
-<b>Shining Armor</b>: Oh, please! I grew out of airsickness a long time ago. 
-[feedback] 
-<b>Iron Will</b>: [over loudspeaker] I hope you ponies feel welcomed aboard, because you are! 
-<b>Twilight Sparkle</b>: Well, that was an... assertive welcome. 
-[whirring] <b>Sparkle family</b>: [awed reactions] 
-<b>Night Light</b>: Guess this is what it's like to be big-time prize winners. [laughs] I just wish I could remember what contest we won. 
-<b>Twilight Sparkle</b>: Wait. You don't know where this prize came from? 
-<b>Twilight Velvet</b>: When somepony offers you a free vacation, you just sign the paperwork and don't ask questions! 
-<b>Night Light</b>: Especially when it means we all get to fly off together. What should we do first? 
-<b>Twilight Sparkle</b>: Well, I did categorize the ship's activities and make a schedule organized by each of our interests. Dad, you're easy. Bingo competition right here. 
-<b>Night Light</b>: Oh, I just love how the numbers and letters are organized in their little boxes. It's so satisfying. 
-<b>Twilight Sparkle</b>: Shining Armor, they've got a tiny boat race in a tiny pool here. 
-<b>Shining Armor</b>: Aw, sis. Only  <i>you</i> would remember I love tiny things. 
-<b>Flurry Heart</b>: [babbles] 
-<b>Twilight Sparkle</b>: And Cadance, there's a Peewee Princess Playtime here that Flurry's gonna love! 
-<b>Flurry Heart</b>: [babbles] 
-<b>Princess Cadance</b>: Oh, wonderful! 
-<b>Twilight Velvet</b>: Hmm. This barrel jumping at Neighagra Falls sounds interesting. 
-<b>Twilight Sparkle</b>: Eh. I just want to see you all have a good time. And this works out perfectly, because we have room for the one thing  <i>I</i> wanna do! Our ship passes the Frozen North at sunset, which is the only time you can see the astrological phenomenon known as the Northern Stars. It's like the stars are shooting out of the setting sun! 
-<b>Rest of the Sparkle family</b>: [interested reactions] 
-<b>Princess Cadance</b>: Well, we definitely don't want to miss that. 
-<b>Twilight Sparkle</b>: Then it's settled. Hmm. But we don't have anything to do right now. Any suggestions? 
-[feedback] 
-<b>Iron Will</b>: [over loudspeaker] Attention, cruise ponies! Don't let this zeppelin be a bore! Leave your room and see the tour! 
-<b>Princess Cadance</b>: A tour could be fun. 
-<b>Sparkle family</b>: [agreeing] <b>Shining Armor</b>: I'm flying! I'm— [groans, gags] 
-<b>Princess Cadance</b>: I'm afraid Flurry may be airsick. Since I know that isn't a problem for you, would you mind taking her below? 
-<b>Shining Armor</b>: [grunts] 
-[feedback] 
-<b>Iron Will</b>: [over loudspeaker] Far to our right, you can just make out the white tufts of Cloudsdale, where Princess Twilight Sparkle once toured the weather factory. 
-[interested reactions] 
-<b>Twilight Sparkle</b>: How'd he know that? And why announce it on a cruise? 
-[indistinct conversations] 
-<b>Princess Cadance</b>: Why don't we move to the other side of the deck? 
-[indistinct conversations continue] 
-<b>Iron Will</b>: [over loudspeaker] We are now high enough to see all of Canterlot, even the royal tree where Princess Twilight and her brother Shining Armor were born! 
-<b>Twilight Sparkle</b>: What? That's not right. 
-[clamoring] 
-<b>Twilight Velvet</b>: [gasps] Oooh! 
-<b>Night Light</b>: Let's get down for that! 
-<b>Twilight Velvet</b> and  <b>Night Light</b>: [laughing] 
-<b>Twilight Sparkle</b>: Um, you guys know that's not where we were born. What are you so excited about? 
-<b>Night Light</b>: Well, it  <i>is</i> a really nice tree, sweetheart. 
-<b>"Raspberry Sorbet"</b>: We just wanted to say how excited we are to be here! 
-<b>Twilight Sparkle</b>: Um... yeah. Us, too. 
-<b>Iron Will</b>: [over loudspeaker] On our route north, we will pass the spires of the Crystal Empire, where Princess Cadance rescued her Alicorn baby Spike from a monster made of fire! 
-<b>Princess Cadance</b>: Well, that doesn't even make sense. 
-<b>Night Light</b>: Well, "Royal Grandparents" sounds a bit fancy, but of course you can take our picture. 
-[camera shutters clicking] 
-<b>Twilight Sparkle</b>: What?! 
-<b>Cruise Ponies</b>: [excited sounds] 
-<b>Princess Cadance</b>: Uh... Oh! 
-<b>Twilight Sparkle</b>: Okay, that's it! Does anypony know where the cruise announcer is? <b>Twilight Sparkle</b>: Excuse me, sir. 
-<b>Iron Will</b>: You can call Iron Will "Iron Will"! 
-<b>Twilight Sparkle</b>: [gasps] What are  <i>you</i> doing here? And why do you keep announcing random things about me and my family? 
-<b>Iron Will</b>: The assertiveness seminar market dried up, so Iron Will started a  <i>new</i> career organizing themed vacation packages! 
-<b>Twilight Sparkle</b>: And the theme of this vacation is... 
-<b>Iron Will</b>: [over loudspeaker] Everypony, stomp your hooves if you are here for the premiere Cruise of the Princesses Experience! 
-[clamoring, hooves stomping] [ponies clamoring] 
-[door closes] 
-<b>Twilight Sparkle</b>: Iron Will, I'm not sure it was entirely honest of you to offer this cruise to my family without telling us that ponies bought tickets just to see Cadance and me! 
-<b>Iron Will</b>: Iron Will outlined all the details of the cruise in the Prize Acceptance and Consent Form that  <i>you</i> signed. 
-<b>Twilight Velvet</b>: Well, when somepony offers you a free vacation, who reads the fine print? 
-<b>Iron Will</b>: Iron Will prides himself on providing a quality vacation experience. But if Twilight Sparkle and her family don't  <i>want</i> it, Iron Will can cancel the cruise and break the hearts of every princess-adoring pony on board. 
-<b>Twilight Sparkle</b>: [groans] 
-<b>"Sunny Side"</b>: I love you, Princess Twilight! 
-<b>Princess Cadance</b>: As much as I want a family vacation, I don't think I could entertain all these cruise ponies. My hooves are pretty full taking care of Flurry Heart. 
-<b>Twilight Velvet</b>: I guess we were just so excited by the idea of a family cruise. 
-<b>Night Light</b>: [sighs heavily] All right. I guess we better turn this ship around. 
-<b>Twilight Sparkle</b>: Wait! Iron Will, what if I offered you a deal? If I agree to do whatever princess activities  <i>you</i> want, will you promise that my family gets to do the activities  <i>they</i> want? 
-<b>Shining Armor</b>: Sis, you don't have to do that. We want  <i>you</i> to enjoy yourself, too. 
-<b>Flurry Heart</b>: [babbles] 
-<b>Twilight Sparkle</b>: I don't want the vacation to end now or let down all these ponies who were looking forward to seeing us. So what do you say, Iron Will? Do we have a deal? 
-<b>Iron Will</b>: Princess Twilight has a deal! 
-<b>Twilight Sparkle</b>: Great! So it looks like we have some time before Dad plays Bingo. 
-<b>Iron Will</b>: Actually, we have just enough to pick the winner of our grand-prize raffle. 
-<b>Twilight Sparkle</b>: Oh. Well... [chuckles] who doesn't like prizes? <b>Iron Will</b>: All right, cruise ponies! When the zeppelin flies, it's time for a prize! 
-[ponies cheering] 
-<b>Twilight Sparkle</b>: Thank you all for being so gracious and respectful to me and my family. And now, without further ado, the winner is... 
-[papers rustling] 
-<b>Twilight Sparkle</b>: Star Tracker! 
-[hooves clopping] 
-<b>Twilight Sparkle</b>: Congratulations, Star Tracker! Enjoy your prize! Okay, Dad! Bingo time! 
-[bump!] 
-<b>Twilight Sparkle</b>: Uh... Oh. I'm sorry. I don't have the prize. 
-<b>Iron Will</b>: Congratulations to Star Tracker, who wins the grand prize – spending the day with Twilight as an honorary member of her family! 
-[fireworks] 
-[ponies cheering] 
-<b>Twilight Sparkle</b>:  <i>That's</i> the prize?! 
-<b>Star Tracker</b>: Uh-huh. [chuckles nervously] 
-<b>Twilight Sparkle</b>: Okay, well... I guess you should come with us, honorary family member. 
-<b>Night Light</b>: Sure! [laughs] There's always room at the bingo table! <b>Twilight Sparkle</b>: [amplified] Ahem! Is everypony ready? 
-<b>Night Light</b>: Sure are, sweetie! Give that cage a whirl! 
-<b>Twilight Sparkle</b>: Dad? [amplified] What did you say? 
-<b>Star Tracker</b>: He... He said to, uh, uh, give it a-a whirl. Heh. 
-<b>Twilight Sparkle</b>: Oh. Um, thanks. 
-[sloooop] 
-[rattling] 
-<b>Twilight Sparkle</b>: [amplified] I-19! 
-<b>Night Light</b>: Hey, hey! Now we're talkin'! This Princess Bingo is great! 
-<b>Twilight Sparkle</b>: Did you get that one, Dad? [amplified] Can anypony tell me how my dad is doing? 
-<b>Star Tracker</b>: He, uh, he said the Princess Bingo is, uh, great. Heh. 
-<b>Ponies</b>: [chanting] Princess Bingo! Princess Bingo! Princess Bingo! [continues underneath] 
-<b>Star Tracker</b>: Twilight  <i>is</i> my favorite time of day. [laughs] And it's also your name. [laughs] So I just thought that was cool. 
-<b>Twilight Sparkle</b>: [forced laugh] <b>Twilight Sparkle</b>: Phew! Just made it! 
-[squeak] 
-<b>Twilight Sparkle</b>: And I'm ready to give you the tiny boat race of your life! 
-<b>Shining Armor</b>: [whinnies, sick noises] 
-<b>Twilight Sparkle</b>: Are you sure you're not airsick, big brother? 
-<b>Shining Armor</b>: [queasily] No way. How can I be airsick? I'm in the water, so it totally cancels out! [gurgles] 
-<b>Twilight Sparkle</b>: I don't think that's how it works. But I'm ready if you are. 
-<b>Iron Will</b>: Technically, Princess Twilight Sparkle should  <i>officiate</i> the princess paddle boat race. 
-<b>Twilight Velvet</b>: Well, I suppose  <i>I</i> could could race your brother. 
-<b>Twilight Sparkle</b>: Oh. Well, as long as Shining Armor gets to race, I'm happy. 
-[magic zap] 
-[cameras clicking] 
-[thump] 
-<b>Star Tracker</b>: [nervous noises] S-Sorry. 
-<b>Twilight Sparkle</b>: [inhales] 
-<b>Star Tracker</b>: [nervous] I'm gonna write about this race tonight in my journal! [nervous noises] It's just so exciting! 
-<b>Twilight Sparkle</b>: On your mark, get set— 
-<b>Star Tracker</b>: Go! [laughs] 
-<b>Twilight Velvet</b>: [cheers] 
-[splashing] 
-<b>Twilight Velvet</b>: Oh, my word, that was exciting! Wasn't it, son? [laughing] 
-<b>Shining Armor</b>: [nauseous] Just so everypony knows, I'm getting out of this boat because of how  <i>not</i> sick I feel. 
-[splash] 
-<b>Twilight Velvet</b>: Aww, that's all right, dear. We'll take you back to the room. 
-[squeak] 
-<b>Iron Will</b>: [through microphone] That was just the first heat! Of ten! 
-[abs popping] 
-<b>Iron Will</b>: Now, who's ready to see a princess face when they win their race?! 
-[cruise ponies cheering] [babies gurgling] 
-<b>Flurry Heart</b>: [giggling] 
-<b>Twilight Sparkle</b>: Cadance, I'm so glad you got in the Peewee Princess Playtime! 
-<b>Princess Cadance</b>: Flurry is having a wonderful time. 
-<b>Twilight Sparkle</b>: That's great. I'm just on my way to take some old-time Appleloosan photos! 
-<b>Star Tracker</b>: Themed photoshoots are the best. [nervous noise] 
-<b>Twilight Sparkle</b>: And then do a quick question-and-answer session on becoming an Alicorn before Mom's barrel ride at Neighagra Falls! I really hope I don't miss that. 
-<b>Princess Cadance</b>: Twilight, are you sure you don't mind doing all of these princess activities? 
-<b>Twilight Sparkle</b>: Mind? What? Absolutely not. I mean, you guys are having fun, right? [sighs] Besides, I have to make sure these cruise ponies are happy if I want to be a good princess. 
-<b>Princess Cadance</b>: You're already a good princess, Twilight. 
-<b>Twilight Sparkle</b>: Honestly, as long as I get to see the Northern Stars tonight with everypony, I'll be happy. But right now, I gotta go take some pictures. See you later! 
-<b>"Sun Cloche"</b>: Why don't you play and make a princess friend? 
-[babies gurgling] 
-<b>Princess Cadance</b>: Uh... I am so sorry, everypony, but it looks like Flurry needs her nap. <b>Twilight Sparkle</b>: Oh, why did that last question have to be a two-parter? I just hope I have time for one barrel ride with Mom! 
-[thunk] 
-[crunch] 
-<b>Twilight Velvet</b>: [gasps] Neighagra Falls was  <i>amazing</i>! The endless open air, the water in my mane! Oh! The small confines of the barrel! 
-<b>Night Light</b>: [chuckles] Another relaxing vacation in the books, hon. [kiss] 
-[splash] 
-<b>Twilight Velvet</b>: Oh, honey, I know you're disappointed, but we waited as long as we could. Maybe you should take a break from these princess things. 
-<b>Twilight Sparkle</b>: Disappointed? No! I've just been answering some detailed questions about Alicorns! You know how much I love details! 
-<b>Twilight Velvet</b>: I just don't want you to forget. It's  <i>your</i> vacation, too. 
-<b>Twilight Sparkle</b>: How can I when it's a totally successful vacation? 
-<b>Night Light</b>: All right. Well, uh, we can't wait to see those Northern Stars! 
-<b>Iron Will</b>: Iron Will lived up to his side of the bargain, and Princess Twilight only has one more thing to do for the day. <b>Iron Will</b>: [through microphone] It's your last chance.  <i>Come get in line if you want the princess to sign!</i> 
-<b>Cruise ponies</b>: [excited chattering] 
-[time passing music] 
-<b>Cruise ponies</b>: [excited squealing] 
-<b>Fan</b>: [indistinct] I'm never letting this go! 
-<b>Twilight Sparkle</b>: [sighs] How long have you been waiting? 
-<b>Star Tracker</b>: [nervous noises] 
-[distant whooshing] 
-<b>Twilight Sparkle</b>: Oh, no. What time is it?! [panicked noises, gasps] 
-<b>Night Light</b>: [in middle distance] Wow. [laughing] 
-<b>Twilight Sparkle</b>: [crying] <b>Princess Cadance</b> and  <b>Flurry Heart</b>: [laughing] 
-<b>Twilight Sparkle</b>: [tearing up] I missed them? I missed the Northern Stars? [crying] 
-<b>Princess Cadance</b>: You were right, Twilight. They were breathtaking. 
-<b>Flurry Heart</b>: [gurgles] 
-<b>Night Light</b>: Aw, we wish you'd been here to see it, sweet-pea, but we're sure you're making a whole bunch of cruise ponies happy. 
-<b>Star Tracker</b>: [laughs] I'm so happy I could cry! 
-<b>Twilight Sparkle</b>: [suddenly indignant] Oh,  <i>yeah</i>. The cruise ponies are happy. My family is happy. Even Iron Will is happy. 
-[crunch] 
-<b>Twilight Sparkle</b>: You know who  <i>isn't</i> happy?  <i>Me!</i> 
-[smack] 
-[crunch] 
-<b>Star Tracker</b>: [yelp of pain] Augh, my hoof! 
-<b>Twilight Sparkle</b>: [insincerely] I'm sorry. But maybe that wouldn't have happened if you weren't practically standing on my tail! Not even my real family stands so close! Rrgh! 
-[thump] <b>Princess Cadance</b>: Twilight? 
-<b>Twilight Sparkle</b>: I only made that deal with Iron Will so my family and the cruise ponies could have the vacation they wanted. 
-<b>Princess Cadance</b>: What about what  <i>you</i> wanted? 
-<b>Twilight Sparkle</b>: I just want everypony to be happy. 
-<b>Princess Cadance</b>: Well, sometimes ponies want more from a princess than you can give, and it can be hard to know where to draw the line. 
-<b>Twilight Sparkle</b>: You seem to know pretty well. 
-<b>Princess Cadance</b>: Once I had Flurry Heart, the line was easier for me to see. You will always have obligations as a princess, but you also have an obligation to yourself. 
-<b>Twilight Sparkle</b>: [sighs] You're right. I think I need to set some boundaries. But first, I owe somepony an apology. <b>Twilight Velvet</b>: Aww, how's that, dearie? 
-<b>Star Tracker</b>: Better. Thanks. 
-[door opens] 
-<b>Star Tracker</b>: [panicking] Uh, I think I should go! 
-<b>Twilight Sparkle</b>: No, Star Tracker. You should stay. I have something to tell you. All of you. I'm glad you all got to do the things you wanted, but I should have stood up for myself so that I could do what  <i>I</i> wanted, too. [to Star Tracker] It wasn't fair of me to lash out at you. If I felt like you were standing too close, I should have said something. I'm sorry. [to everypony] What do you say we do something  <i>off</i> the schedule? 
-<b>Everypony else</b>: [gasps] 
-<b>Star Tracker</b>: Who  <i>are</i> you? 
-<b>Twilight Sparkle</b>: Yup! We're gonna do something  <i>I</i> want us to do, as a family. Honorary members, too. <b>Shining Armor</b>: [gags] 
-<b>Twilight Sparkle</b>: [giggles] 
-<b>Flurry Heart</b>: [giggles] 
-<b>Everypony</b>: [laughs] 
-<b>Night Light</b>: Now  <i>that's</i> cold! This is more like it! 
-<b>Star Tracker</b>: You and your family have been really kind to include me, but you deserve your own vacation together. [laughs nervously] And I'm really glad we met, too! 
-<b>Twilight Sparkle</b>: Ohhh! 
-[splat] 
-[boing] 
-<b>Iron Will</b>: [through microphone]  <i>Attention, cruise ponies! If it's your dream, come to the deck for ice cream!</i> 
-<b>Cruise ponies</b>: [excited chatter] 
-<b>Star Tracker</b>: Oh, no! Leave the princess alone! 
-<b>Iron Will</b>: What did you say to Iron Will? 
-<b>Twilight Sparkle</b>: It's okay, everypony. [through microphone] [clears throat] First, I want to thank all of you for coming. It means a lot that you'd spend your hard-earned bits just to be with us. But I honestly came on this cruise to take some time off from being a princess. I'm just a pony, too, after all. And even though I want everypony here to be happy, I'd really like to spend the rest of the cruise relaxing with my family. 
-<b>"Sunny Side"</b>: Of course, Princess Twilight. 
-<b>"Sun Cloche"</b>: But why was this trip advertised as a Cruise of the Princesses if you just wanted to get away? 
-<b>Iron Will</b>: [whistling] Iron Will's Cruise of the Princesses makes no guarantees as to the participation of actual princesses. 
-[pages rustling] 
-<b>Cruise pony</b>: What?! 
-<b>Cruise ponies</b>: [angry chatter] 
-<b>Iron Will</b>: But Iron Will learned his lesson before. Satisfaction not guaranteed. No refuuuuuuunds! 
-[ponies gasping] 
-[guitar riff] 
-<b>Shining Armor</b>: Wow. He may be pushy and manipulative, but nopony can say that minotaur isn't prepared. <b>Twilight Sparkle</b>: There's still plenty of activities. We pass Fillydelphia on the way back. I could give Flurry Heart a quick history tour. 
-<b>Princess Cadance</b>: That's very thoughtful. But right now, the family and I have something scheduled for  <i>you</i>. 
-<b>Night Light</b>: Behold! The Northern Stars! 
-<b>Flurry Heart</b>: [gurgling] 
-<b>Twilight Sparkle</b>: You did all this for me? This is amazing! Thank you. And Shining Armor, I can't believe you're up there even though you're airsick! 
-<b>Shining Armor</b>: I am  <i>not</i> air— [gurgles] [nauseous] Oh, okay. Maybe I'm not feeling great! 
-<b>Flurry Heart</b>: [laughing] 
-<b>Twilight Velvet</b>: Oh, dear! 
-<b>Night Light</b>: Whatever you say. 
-<b>Princess Cadance</b>: [giggling] 
-<b>Twilight Sparkle</b>: Now  <i>this</i> is the only activity I need. [credits] 
+[music]
+[quill breaks]
+<b>Twilight Sparkle</b>: Oh!
+[rumbling]
+<b>Spike</b>: [belches, sighs] Aw, thank goodness. I thought I had too many deep-fried gems.
+<b>Twilight Sparkle</b>: [mutters] It's from my parents! Spike,
+ they won a zeppelin cruise and get to take the whole family! [sighs] I 
+wish I had time to go with them, but there's just too many princess 
+duties I have to take care of.
+<b>Spike</b>: Come on, Twilight. Even Princess Celestia takes a break sometimes, and she raises the sun.
+[beat]
+<b>Spike</b>: [grunt]
+<b>Twilight Sparkle</b>: [gasps]
+<b>Spike</b>: You <i>need</i> a vacation! I can keep track of the friendship log, boost community morale, and answer fan mail for a few days.
+<b>Twilight Sparkle</b>: But, Spike, you're as much a part of my family as <i>any</i>pony. I can't just leave you here to do all that work.
+<b>Spike</b>: [loudly] What?! I can't hear you! You're on vacation!
+<b>Twilight Sparkle</b>: I guess I <i>could</i> use a little time off from being a princess. You're the best, Spike!
+<b>Spike</b>: I know.
+<b>Twilight Sparkle</b>: I'm gonna go pack everything neatly into one suitcase!
+<b>Spike</b>: Wait for it...
+<b>Twilight Sparkle</b>: [shouting] Cruises have activities, right?! I should probably make a schedule?!
+<b>Spike</b>: <i>There</i> it is.
+[theme song]
+[awed muttering]
+<b>Twilight Velvet</b>: Oh, gee. I am really looking forward to a relaxing vacation.
+<b>Night Light</b>: Watch out. She won't admit it, but when 
+your mother says "relaxing vacation", she means "doing something crazy".
+ Last time, she ended up bungee-jumping over Luna Bay!
+<b>Twilight Velvet</b>: What was that, hon?
+<b>Night Light</b>: Oh, I was, uh, just telling Twilight about my new, uh, bingo strategy book! It's a, heh, real page-turner!
+<b>Shining Armor</b>: Oh, I can't wait to get on this zeppelin and fly like a Pegasus!
+<b>Twilight Sparkle</b>: Really? I remember you getting airsick on Admiral Fairweather's Wild Ride at Pony Island.
+<b>Shining Armor</b>: Oh, please! I grew out of airsickness a long time ago.
+[feedback]
+<b>Iron Will</b>: [over loudspeaker] I hope you ponies feel welcomed aboard, because you are!
+<b>Twilight Sparkle</b>: Well, that was an... assertive welcome.
+[whirring]
+<b>Sparkle family</b>: [awed reactions]
+<b>Night Light</b>: Guess this is what it's like to be big-time prize winners. [laughs] I just wish I could remember what contest we won.
+<b>Twilight Sparkle</b>: Wait. You don't know where this prize came from?
+<b>Twilight Velvet</b>: When somepony offers you a free vacation, you just sign the paperwork and don't ask questions!
+<b>Night Light</b>: Especially when it means we all get to fly off together. What should we do first?
+<b>Twilight Sparkle</b>: Well, I did categorize the ship's 
+activities and make a schedule organized by each of our interests. Dad, 
+you're easy. Bingo competition right here.
+<b>Night Light</b>: Oh, I just love how the numbers and letters are organized in their little boxes. It's so satisfying.
+<b>Twilight Sparkle</b>: Shining Armor, they've got a tiny boat race in a tiny pool here.
+<b>Shining Armor</b>: Aw, sis. Only <i>you</i> would remember I love tiny things.
+<b>Flurry Heart</b>: [babbles]
+<b>Twilight Sparkle</b>: And Cadance, there's a Peewee Princess Playtime here that Flurry's gonna love!
+<b>Flurry Heart</b>: [babbles]
+<b>Princess Cadance</b>: Oh, wonderful!
+<b>Twilight Velvet</b>: Hmm. This barrel jumping at Neighagra Falls sounds interesting.
+<b>Twilight Sparkle</b>: Eh. I just want to see you all have a good time. And this works out perfectly, because we have room for the one thing <i>I</i>
+ wanna do! Our ship passes the Frozen North at sunset, which is the only
+ time you can see the astrological phenomenon known as the Northern 
+Stars. It's like the stars are shooting out of the setting sun!
+<b>Rest of the Sparkle family</b>: [interested reactions]
+<b>Princess Cadance</b>: Well, we definitely don't want to miss that.
+<b>Twilight Sparkle</b>: Then it's settled. Hmm. But we don't have anything to do right now. Any suggestions?
+[feedback]
+<b>Iron Will</b>: [over loudspeaker] Attention, cruise ponies! Don't let this zeppelin be a bore! Leave your room and see the tour!
+<b>Princess Cadance</b>: A tour could be fun.
+<b>Sparkle family</b>: [agreeing]
+<b>Shining Armor</b>: I'm flying! I'm— [groans, gags]
+<b>Princess Cadance</b>: I'm afraid Flurry may be airsick. Since I know that isn't a problem for you, would you mind taking her below?
+<b>Shining Armor</b>: [grunts]
+[feedback]
+<b>Iron Will</b>: [over loudspeaker] Far to our right, you can 
+just make out the white tufts of Cloudsdale, where Princess Twilight 
+Sparkle once toured the weather factory.
+[interested reactions]
+<b>Twilight Sparkle</b>: How'd he know that? And why announce it on a cruise?
+[indistinct conversations]
+<b>Princess Cadance</b>: Why don't we move to the other side of the deck?
+[indistinct conversations continue]
+<b>Iron Will</b>: [over loudspeaker] We are now high enough to 
+see all of Canterlot, even the royal tree where Princess Twilight and 
+her brother Shining Armor were born!
+<b>Twilight Sparkle</b>: What? That's not right.
+[clamoring]
+<b>Twilight Velvet</b>: [gasps] Oooh!
+<b>Night Light</b>: Let's get down for that!
+<b>Twilight Velvet</b> and <b>Night Light</b>: [laughing]
+<b>Twilight Sparkle</b>: Um, you guys know that's not where we were born. What are you so excited about?
+<b>Night Light</b>: Well, it <i>is</i> a really nice tree, sweetheart.
+<b>"Raspberry Sorbet"</b>: We just wanted to say how excited we are to be here!
+<b>Twilight Sparkle</b>: Um... yeah. Us, too.
+<b>Iron Will</b>: [over loudspeaker] On our route north, we 
+will pass the spires of the Crystal Empire, where Princess Cadance 
+rescued her Alicorn baby Spike from a monster made of fire!
+<b>Princess Cadance</b>: Well, that doesn't even make sense.
+<b>Night Light</b>: Well, "Royal Grandparents" sounds a bit fancy, but of course you can take our picture.
+[camera shutters clicking]
+<b>Twilight Sparkle</b>: What?!
+<b>Cruise Ponies</b>: [excited sounds]
+<b>Princess Cadance</b>: Uh... Oh!
+<b>Twilight Sparkle</b>: Okay, that's it! Does anypony know where the cruise announcer is?
+<b>Twilight Sparkle</b>: Excuse me, sir.
+<b>Iron Will</b>: You can call Iron Will "Iron Will"!
+<b>Twilight Sparkle</b>: [gasps] What are <i>you</i> doing here? And why do you keep announcing random things about me and my family?
+<b>Iron Will</b>: The assertiveness seminar market dried up, so Iron Will started a <i>new</i> career organizing themed vacation packages!
+<b>Twilight Sparkle</b>: And the theme of this vacation is...
+<b>Iron Will</b>: [over loudspeaker] Everypony, stomp your hooves if you are here for the premiere Cruise of the Princesses Experience!
+[clamoring, hooves stomping]
+[ponies clamoring]
+[door closes]
+<b>Twilight Sparkle</b>: Iron Will, I'm not sure it was 
+entirely honest of you to offer this cruise to my family without telling
+ us that ponies bought tickets just to see Cadance and me!
+<b>Iron Will</b>: Iron Will outlined all the details of the cruise in the Prize Acceptance and Consent Form that <i>you</i> signed.
+<b>Twilight Velvet</b>: Well, when somepony offers you a free vacation, who reads the fine print?
+<b>Iron Will</b>: Iron Will prides himself on providing a quality vacation experience. But if Twilight Sparkle and her family don't <i>want</i> it, Iron Will can cancel the cruise and break the hearts of every princess-adoring pony on board.
+<b>Twilight Sparkle</b>: [groans]
+<b>"Sunny Side"</b>: I love you, Princess Twilight!
+<b>Princess Cadance</b>: As much as I want a family vacation, I
+ don't think I could entertain all these cruise ponies. My hooves are 
+pretty full taking care of Flurry Heart.
+<b>Twilight Velvet</b>: I guess we were just so excited by the idea of a family cruise.
+<b>Night Light</b>: [sighs heavily] All right. I guess we better turn this ship around.
+<b>Twilight Sparkle</b>: Wait! Iron Will, what if I offered you a deal? If I agree to do whatever princess activities <i>you</i> want, will you promise that my family gets to do the activities <i>they</i> want?
+<b>Shining Armor</b>: Sis, you don't have to do that. We want <i>you</i> to enjoy yourself, too.
+<b>Flurry Heart</b>: [babbles]
+<b>Twilight Sparkle</b>: I don't want the vacation to end now 
+or let down all these ponies who were looking forward to seeing us. So 
+what do you say, Iron Will? Do we have a deal?
+<b>Iron Will</b>: Princess Twilight has a deal!
+<b>Twilight Sparkle</b>: Great! So it looks like we have some time before Dad plays Bingo.
+<b>Iron Will</b>: Actually, we have just enough to pick the winner of our grand-prize raffle.
+<b>Twilight Sparkle</b>: Oh. Well... [chuckles] who doesn't like prizes?
+<b>Iron Will</b>: All right, cruise ponies! When the zeppelin flies, it's time for a prize!
+[ponies cheering]
+<b>Twilight Sparkle</b>: Thank you all for being so gracious and respectful to me and my family. And now, without further ado, the winner is...
+[papers rustling]
+<b>Twilight Sparkle</b>: Star Tracker!
+[hooves clopping]
+<b>Twilight Sparkle</b>: Congratulations, Star Tracker! Enjoy your prize! Okay, Dad! Bingo time!
+[bump!]
+<b>Twilight Sparkle</b>: Uh... Oh. I'm sorry. I don't have the prize.
+<b>Iron Will</b>: Congratulations to Star Tracker, who wins the
+ grand prize – spending the day with Twilight as an honorary member of 
+her family!
+[fireworks]
+[ponies cheering]
+<b>Twilight Sparkle</b>: <i>That's</i> the prize?!
+<b>Star Tracker</b>: Uh-huh. [chuckles nervously]
+<b>Twilight Sparkle</b>: Okay, well... I guess you should come with us, honorary family member.
+<b>Night Light</b>: Sure! [laughs] There's always room at the bingo table!
+<b>Twilight Sparkle</b>: [amplified] Ahem! Is everypony ready?
+<b>Night Light</b>: Sure are, sweetie! Give that cage a whirl!
+<b>Twilight Sparkle</b>: Dad? [amplified] What did you say?
+<b>Star Tracker</b>: He... He said to, uh, uh, give it a-a whirl. Heh.
+<b>Twilight Sparkle</b>: Oh. Um, thanks.
+[sloooop]
+[rattling]
+<b>Twilight Sparkle</b>: [amplified] I-19!
+<b>Night Light</b>: Hey, hey! Now we're talkin'! This Princess Bingo is great!
+<b>Twilight Sparkle</b>: Did you get that one, Dad? [amplified] Can anypony tell me how my dad is doing?
+<b>Star Tracker</b>: He, uh, he said the Princess Bingo is, uh, great. Heh.
+<b>Ponies</b>: [chanting] Princess Bingo! Princess Bingo! Princess Bingo! [continues underneath]
+<b>Star Tracker</b>: Twilight <i>is</i> my favorite time of day. [laughs] And it's also your name. [laughs] So I just thought that was cool.
+<b>Twilight Sparkle</b>: [forced laugh]
+<b>Twilight Sparkle</b>: Phew! Just made it!
+[squeak]
+<b>Twilight Sparkle</b>: And I'm ready to give you the tiny boat race of your life!
+<b>Shining Armor</b>: [whinnies, sick noises]
+<b>Twilight Sparkle</b>: Are you sure you're not airsick, big brother?
+<b>Shining Armor</b>: [queasily] No way. How can I be airsick? I'm in the water, so it totally cancels out! [gurgles]
+<b>Twilight Sparkle</b>: I don't think that's how it works. But I'm ready if you are.
+<b>Iron Will</b>: Technically, Princess Twilight Sparkle should <i>officiate</i> the princess paddle boat race.
+<b>Twilight Velvet</b>: Well, I suppose <i>I</i> could could race your brother.
+<b>Twilight Sparkle</b>: Oh. Well, as long as Shining Armor gets to race, I'm happy.
+[magic zap]
+[cameras clicking]
+[thump]
+<b>Star Tracker</b>: [nervous noises] S-Sorry.
+<b>Twilight Sparkle</b>: [inhales]
+<b>Star Tracker</b>: [nervous] I'm gonna write about this race tonight in my journal! [nervous noises] It's just so exciting!
+<b>Twilight Sparkle</b>: On your mark, get set—
+<b>Star Tracker</b>: Go! [laughs]
+<b>Twilight Velvet</b>: [cheers]
+[splashing]
+<b>Twilight Velvet</b>: Oh, my word, that was exciting! Wasn't it, son? [laughing]
+<b>Shining Armor</b>: [nauseous] Just so everypony knows, I'm getting out of this boat because of how <i>not</i> sick I feel.
+[splash]
+<b>Twilight Velvet</b>: Aww, that's all right, dear. We'll take you back to the room.
+[squeak]
+<b>Iron Will</b>: [through microphone] That was just the first heat! Of ten!
+[abs popping]
+<b>Iron Will</b>: Now, who's ready to see a princess face when they win their race?!
+[cruise ponies cheering]
+[babies gurgling]
+<b>Flurry Heart</b>: [giggling]
+<b>Twilight Sparkle</b>: Cadance, I'm so glad you got in the Peewee Princess Playtime!
+<b>Princess Cadance</b>: Flurry is having a wonderful time.
+<b>Twilight Sparkle</b>: That's great. I'm just on my way to take some old-time Appleloosan photos!
+<b>Star Tracker</b>: Themed photoshoots are the best. [nervous noise]
+<b>Twilight Sparkle</b>: And then do a quick 
+question-and-answer session on becoming an Alicorn before Mom's barrel 
+ride at Neighagra Falls! I really hope I don't miss that.
+<b>Princess Cadance</b>: Twilight, are you sure you don't mind doing all of these princess activities?
+<b>Twilight Sparkle</b>: Mind? What? Absolutely not. I mean, 
+you guys are having fun, right? [sighs] Besides, I have to make sure 
+these cruise ponies are happy if I want to be a good princess.
+<b>Princess Cadance</b>: You're already a good princess, Twilight.
+<b>Twilight Sparkle</b>: Honestly, as long as I get to see the 
+Northern Stars tonight with everypony, I'll be happy. But right now, I 
+gotta go take some pictures. See you later!
+<b>"Sun Cloche"</b>: Why don't you play and make a princess friend?
+[babies gurgling]
+<b>Princess Cadance</b>: Uh... I am so sorry, everypony, but it looks like Flurry needs her nap.
+<b>Twilight Sparkle</b>: Oh, why did that last question have to be a two-parter? I just hope I have time for one barrel ride with Mom!
+[thunk]
+[crunch]
+<b>Twilight Velvet</b>: [gasps] Neighagra Falls was <i>amazing</i>! The endless open air, the water in my mane! Oh! The small confines of the barrel!
+<b>Night Light</b>: [chuckles] Another relaxing vacation in the books, hon. [kiss]
+[splash]
+<b>Twilight Velvet</b>: Oh, honey, I know you're disappointed, 
+but we waited as long as we could. Maybe you should take a break from 
+these princess things.
+<b>Twilight Sparkle</b>: Disappointed? No! I've just been answering some detailed questions about Alicorns! You know how much I love details!
+<b>Twilight Velvet</b>: I just don't want you to forget. It's <i>your</i> vacation, too.
+<b>Twilight Sparkle</b>: How can I when it's a totally successful vacation?
+<b>Night Light</b>: All right. Well, uh, we can't wait to see those Northern Stars!
+<b>Iron Will</b>: Iron Will lived up to his side of the bargain, and Princess Twilight only has one more thing to do for the day.
+<b>Iron Will</b>: [through microphone] It's your last chance. <i>Come get in line if you want the princess to sign!</i>
+<b>Cruise ponies</b>: [excited chattering]
+[time passing music]
+<b>Cruise ponies</b>: [excited squealing]
+<b>Fan</b>: [indistinct] I'm never letting this go!
+<b>Twilight Sparkle</b>: [sighs] How long have you been waiting?
+<b>Star Tracker</b>: [nervous noises]
+[distant whooshing]
+<b>Twilight Sparkle</b>: Oh, no. What time is it?! [panicked noises, gasps]
+<b>Night Light</b>: [in middle distance] Wow. [laughing]
+<b>Twilight Sparkle</b>: [crying]
+<b>Princess Cadance</b> and <b>Flurry Heart</b>: [laughing]
+<b>Twilight Sparkle</b>: [tearing up] I missed them? I missed the Northern Stars? [crying]
+<b>Princess Cadance</b>: You were right, Twilight. They were breathtaking.
+<b>Flurry Heart</b>: [gurgles]
+<b>Night Light</b>: Aw, we wish you'd been here to see it, sweet-pea, but we're sure you're making a whole bunch of cruise ponies happy.
+<b>Star Tracker</b>: [laughs] I'm so happy I could cry!
+<b>Twilight Sparkle</b>: [suddenly indignant] Oh, <i>yeah</i>. The cruise ponies are happy. My family is happy. Even Iron Will is happy.
+[crunch]
+<b>Twilight Sparkle</b>: You know who <i>isn't</i> happy? <i>Me!</i>
+[smack]
+[crunch]
+<b>Star Tracker</b>: [yelp of pain] Augh, my hoof!
+<b>Twilight Sparkle</b>: [insincerely] I'm sorry. But maybe 
+that wouldn't have happened if you weren't practically standing on my 
+tail! Not even my real family stands so close! Rrgh!
+[thump]
+<b>Princess Cadance</b>: Twilight?
+<b>Twilight Sparkle</b>: I only made that deal with Iron Will so my family and the cruise ponies could have the vacation they wanted.
+<b>Princess Cadance</b>: What about what <i>you</i> wanted?
+<b>Twilight Sparkle</b>: I just want everypony to be happy.
+<b>Princess Cadance</b>: Well, sometimes ponies want more from a princess than you can give, and it can be hard to know where to draw the line.
+<b>Twilight Sparkle</b>: You seem to know pretty well.
+<b>Princess Cadance</b>: Once I had Flurry Heart, the line was 
+easier for me to see. You will always have obligations as a princess, 
+but you also have an obligation to yourself.
+<b>Twilight Sparkle</b>: [sighs] You're right. I think I need to set some boundaries. But first, I owe somepony an apology.
+<b>Twilight Velvet</b>: Aww, how's that, dearie?
+<b>Star Tracker</b>: Better. Thanks.
+[door opens]
+<b>Star Tracker</b>: [panicking] Uh, I think I should go!
+<b>Twilight Sparkle</b>: No, Star Tracker. You should stay. I 
+have something to tell you. All of you. I'm glad you all got to do the 
+things you wanted, but I should have stood up for myself so that I could
+ do what <i>I</i> wanted, too. [to Star Tracker] It wasn't fair of me to
+ lash out at you. If I felt like you were standing too close, I should 
+have said something. I'm sorry. [to everypony] What do you say we do 
+something <i>off</i> the schedule?
+<b>Everypony else</b>: [gasps]
+<b>Star Tracker</b>: Who <i>are</i> you?
+<b>Twilight Sparkle</b>: Yup! We're gonna do something <i>I</i> want us to do, as a family. Honorary members, too.
+<b>Shining Armor</b>: [gags]
+<b>Twilight Sparkle</b>: [giggles]
+<b>Flurry Heart</b>: [giggles]
+<b>Everypony</b>: [laughs]
+<b>Night Light</b>: Now <i>that's</i> cold! This is more like it!
+<b>Star Tracker</b>: You and your family have been really kind 
+to include me, but you deserve your own vacation together. [laughs 
+nervously] And I'm really glad we met, too!
+<b>Twilight Sparkle</b>: Ohhh!
+[splat]
+[boing]
+<b>Iron Will</b>: [through microphone] <i>Attention, cruise ponies! If it's your dream, come to the deck for ice cream!</i>
+<b>Cruise ponies</b>: [excited chatter]
+<b>Star Tracker</b>: Oh, no! Leave the princess alone!
+<b>Iron Will</b>: What did you say to Iron Will?
+<b>Twilight Sparkle</b>: It's okay, everypony. [through 
+microphone] [clears throat] First, I want to thank all of you for 
+coming. It means a lot that you'd spend your hard-earned bits just to be
+ with us. But I honestly came on this cruise to take some time off from 
+being a princess. I'm just a pony, too, after all. And even though I 
+want everypony here to be happy, I'd really like to spend the rest of 
+the cruise relaxing with my family.
+<b>"Sunny Side"</b>: Of course, Princess Twilight.
+<b>"Sun Cloche"</b>: But why was this trip advertised as a Cruise of the Princesses if you just wanted to get away?
+<b>Iron Will</b>: [whistling] Iron Will's Cruise of the Princesses makes no guarantees as to the participation of actual princesses.
+[pages rustling]
+<b>Cruise pony</b>: What?!
+<b>Cruise ponies</b>: [angry chatter]
+<b>Iron Will</b>: But Iron Will learned his lesson before. Satisfaction not guaranteed. No refuuuuuuunds!
+[ponies gasping]
+[guitar riff]
+<b>Shining Armor</b>: Wow. He may be pushy and manipulative, but nopony can say that minotaur isn't prepared.
+<b>Twilight Sparkle</b>: There's still plenty of activities. We pass Fillydelphia on the way back. I could give Flurry Heart a quick history tour.
+<b>Princess Cadance</b>: That's very thoughtful. But right now, the family and I have something scheduled for <i>you</i>.
+<b>Night Light</b>: Behold! The Northern Stars!
+<b>Flurry Heart</b>: [gurgling]
+<b>Twilight Sparkle</b>: You did all this for me? This is 
+amazing! Thank you. And Shining Armor, I can't believe you're up there 
+even though you're airsick!
+<b>Shining Armor</b>: I am <i>not</i> air— [gurgles] [nauseous] Oh, okay. Maybe I'm not feeling great!
+<b>Flurry Heart</b>: [laughing]
+<b>Twilight Velvet</b>: Oh, dear!
+<b>Night Light</b>: Whatever you say.
+<b>Princess Cadance</b>: [giggling]
+<b>Twilight Sparkle</b>: Now <i>this</i> is the only activity I need.
+[credits]

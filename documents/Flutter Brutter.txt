@@ -1,226 +1,351 @@
-<b>Mrs. Shy</b>: We're so happy you could come have lunch with your father and me, Fluttershy. 
-<b>Fluttershy</b>: I'm so glad you asked. 
-<b>Rainbow Dash</b>: And it was super awesome of you to invite me too! Things have been so busy with the Wonderbolts lately, it's great to get a chance to relax someplace quiet. 
-<b>Mr. Shy</b>: That's exactly what I intend to do now that I've retired. In fact, I converted the back house to showcase my cloud collection. I have my clouds, your mom has her flowers, you've got your animals, and your brother... 
-<b>Mrs. Shy</b>: Zephyr Breeze has his... interests. [nervous laugh] 
-<b>Rainbow Dash</b>: I'll say! Remember when he was convinced square clouds were gonna be the next big thing? [laughs] 
-<b>Mrs. Shy</b>: He's matured a lot since then. 
-<b>Mr. Shy</b>: Actually, it's funny you bring Zephyr up... 
-[beat] 
-<b>Fluttershy</b>: Oh, no! Not again! 
-<b>Mrs. Shy</b>: It's just for a little while, dear. 'Til he gets back on his hooves. 
-<b>Rainbow Dash</b>: Wait, you don't mean—! 
-[door opens] 
-<b>Zephyr Breeze</b>: Guess who's home! That's right, big sis, it's your one and only favorite little brother,  <i>moi</i>. 
-<b>Fluttershy</b>: [groans] [splat] 
-<b>Zephyr Breeze</b>: Hi, Flutterbutter! How's the bestest big sister ever? Hey, where's the love? How about a little excitement to see your baby brother? 
-<b>Fluttershy</b>: I'm just surprised. When you left, you said mane therapy was your calling. 
-<b>Zephyr Breeze</b>: Oh, it is, sis, it is. You would not believe how much stress ponies hold in their manes. Everything gets limp and unmanageable. No offense, but brushing alone won't solve the problem. 
-<b>Fluttershy</b>: What went wrong? 
-<b>Zephyr Breeze</b>: Nothing went wrong, per se. It's just the powers that be were so locked into their required styles, and you know me. I've got my own style! And I think they were a little threatened. 
-<b>Mrs. Shy</b>: O-Oh, this is... lovely, dear. 
-<b>Rainbow Dash</b>: Ugh. 
-<b>Zephyr Breeze</b>: Welllll, if it ain't Rainbows "The Best Flyer There Ever Was" Dash! 
-<b>Rainbow Dash</b>: [flatly] Oh, this ought to be good. 
-<b>Zephyr Breeze</b>: Sorry, I shouldn't tease you. I know the whole super awesome flyer bit's just to impress me. 
-<b>Rainbow Dash</b>: [surprised neigh] 
-<b>Zephyr Breeze</b>: Still, thanks for showing up for my homecoming. It's, it's sweet. 
-<b>Rainbow Dash</b>: [strangled gasp] 
-<b>Zephyr Breeze</b>: I kinda thought there'd be more ponies here. I mean, what about your party planner friend, um... Sprinkle Pie! She could've turned this into a real house partay, am I right? I mean, this place could use it. [singsong] Drab! 
-<b>Mrs. Shy</b>: Heh. I-I, eh... 
-<b>Mr. Shy</b>: We have been meaning to redecorate... 
-<b>Zephyr Breeze</b>: Dad, please. When I get all my stuff back in here, you won't even remember what this boring old place looked like! 
-[scraping] 
-<b>Fluttershy</b>: [whispering] Um, Mom, Dad, can I talk to you for a second? <b>Mrs. Shy</b>: [sighs] What is it, honey? 
-<b>Fluttershy</b>: I'm not so sure letting Zephyr move back home is a good idea. I know you both want to help, but don't you remember last time? 
-<b>Mrs. Shy</b>: Zephyr's just trying to find his place, dear. 
-<b>Fluttershy</b>: [sighs] I know. It just seems like his place always ends up being  <i>your</i> place. And then he sort of makes you do everything for him! 
-<b>Mr. Shy</b>: Well, we may not be as bold as you, Fluttershy, but don't you worry. We know how to stand up for ourselves. <b>Zephyr Breeze</b>: And they were all like, "We love your free spirit, Zeph! And it would be wrong to cage that! Go follow your dreams!" 
-[thump] 
-<b>Rainbow Dash</b>:  <i>Zeph</i> was just telling me all about the ins and outs of mane therapy school. 
-<b>Zephyr Breeze</b>: It's all so political. I just could not take it! 
-<b>Fluttershy</b>: Well, maybe if you stuck with it for more than a few weeks... 
-<b>Zephyr Breeze</b>: Sorry, sis, but when something's not the right fit, this pony's gotta fly! 
-[clunk] 
-<b>Zephyr Breeze</b>: [yawns] Anyway, good talk, Rainbows. I am so touched you came to see me, really. I hate to deprive you of my presence, but this breeze needs his Z's. 
-<b>Rainbow Dash</b>: You know it's the middle of the day, right? 
-<b>Zephyr Breeze</b>: I know. [maracas in background]  <i>Siesta</i>! I'm just gonna assume you made up my room the way I like it, right, Mom? Oh, I almost forgot! All my stuff is out front. Wanna grab that for me, Pops? [short laugh] Thanks. 
-<b>Rainbow Dash</b>: [sighs] Same old Zeph. <b>Rainbow Dash</b>: I know you weren't expecting to see your brother, but you've been kind of quiet, even for you. 
-<b>Fluttershy</b>: I'm sorry, but I am just so... so...  <i>peeved</i> right now! [gasps] Excuse my language! 
-<b>Pinkie Pie</b>: Rainbow Dash! Fluttershy! It's me, Pinkie Pie!  <i>Your friend!</i> 
-<b>Applejack</b>: [whistles] 
-[thump] 
-<b>Fluttershy</b>: Oh, um, sorry about that. 
-<b>Rainbow Dash</b>: We just had lunch with Fluttershy's parents, and you'll never guess who showed up. 
-<b>Pinkie Pie</b>: Ooh! Mayor Mare? Cranky Doodle Donkey? Cheese Sandwich? Ms. Harshwhinny?! 
-<b>Rainbow Dash</b>: Zephyr Breeze. 
-<b>Pinkie Pie</b>: Oh, that makes more sense. 
-<b>Applejack</b>: And from the look on your face, I'm guessin' it's for another one of his "extended stays"? 
-<b>Rainbow Dash</b>: She's a bit peeved. 
-<b>Fluttershy</b>: Zephyr's my brother, and I love him. But he's never learned to do anything for himself. I don't know why my parents keep letting him trot all over them! 
-<b>Applejack</b>: Well, if your parents won't stand up for themselves, maybe  <i>you</i> need to stand up for them. 
-<b>Fluttershy</b>: You know, you're right! <b>Fluttershy</b>: [inhales and exhales] 
-[smash!] 
-<b>Fluttershy</b>: [gasps] 
-[smash!, thunder rumbling] 
-<b>Fluttershy</b>: Zephyr Breeze! 
-<b>Zephyr Breeze</b>: Oh, hey, sis. Come to see me work my magic and turn this place from drab to fab, huh? Well, watch and learn! 
-<b>Fluttershy</b>: Can't you see what you're doing?! 
-<b>Zephyr Breeze</b>: Yeah! I'm getting rid of this old stuff so I can turn the backhouse into my art studio! I've decided I'm gonna be a sculptor! 
-<b>Fluttershy</b>: I'm talking about Mom's flowers! 
-<b>Zephyr Breeze</b>: She's gonna move them so I can have my meditation patio here. She loves replanting stuff. Don't you, Mom? 
-<b>Fluttershy</b>: And Dad's been collecting his favorite bits of cloud from the factory since before you were born. 
-<b>Mr. Shy</b>: The very best from every production run since my first day on the job. Ah! 
-[glass shatters] 
-<b>Mr. Shy</b>: [sighs] But why hold onto the past really? 
-<b>Fluttershy</b>: You can't just fly in and change everything Mom and Dad have built here. 
-<b>Zephyr Breeze</b>: But this is the only place big enough for my studio/meditation garden. Ooh! Unless I do it in the living room! 
-<b>Fluttershy</b>: [to her parents] I know speaking up for yourself can be hard, believe me, but Zephyr will never stand on his own if he can lean on you. 
-<b>Zephyr Breeze</b>: Don't be so dramatic, sis! Mom and Dad just wanna let me be me! Right? I can do plenty on my own. 
-<b>Fluttershy</b>: I agree. Which is why you should move out. 
-<b>Zephyr Breeze</b>: Oh. Well... I mean, I-I totally would, but... I don't think that's what Mom and Dad want! It's not, is it? 
-<b>Mrs. Shy</b>: Ehhh... 
-<b>Mr. Shy</b>: You know we love you, son, but your sister has a point. 
-<b>Zephyr Breeze</b>: [tearing up] Sure. I mean, I really just came back here to keep you guys company, but... whatever's best for the family. I just... I just gotta grab a few essentials. 
-<b>Mrs. Shy</b>: And... y-you definitely have somewhere else to go? 
-<b>Zephyr Breeze</b>: Of course! There's plenty of ponies who'd love for a little breeze to blow their way... <b>Rainbow Dash</b>: So... where's Zeph gonna go now? 
-<b>Fluttershy</b>: I'm not sure. Oh, I hope I did the right thing... 
-<b>Rainbow Dash</b>: Are you kidding? One hundred percent! 
-<b>Zephyr Breeze</b>: [singsong] Hey, sis! 
-[door opens] 
-<b>Zephyr Breeze</b>: Your new roomie's here! 
-<b>Rainbow Dash</b>: Okay, maybe like seventy percent. <b>Fluttershy</b>: Um, Zephyr. When Mom and Dad told you to find someplace else to live, I don't think they meant here. 
-<b>Zephyr Breeze</b>: Well, it's not  <i>their</i> house, so by definition, it's someplace else. Am I right, Rainbows? Stop oogling me and help settle this. 
-<b>Rainbow Dash</b>: [sighs] You know what? I totally forgot that I promised to help Pinkie Pie... sprinkle... something. 
-[zoom] 
-<b>Fluttershy</b>: You said you had plenty of places to go! 
-<b>Zephyr Breeze</b>: Ehhhh... 
-<b>Fluttershy</b>: [sighs] Fine. You can stay here— 
-<b>Zephyr Breeze</b>: You're the best! We're gonna have so much fun. 
-<b>Fluttershy</b>: On  <i>one</i> condition. 
-<b>Zephyr Breeze</b>: Totally. Anything. 
-<b>Fluttershy</b>: You have to get a job. 
-<b>Zephyr Breeze</b>: Cracking the whip, huh? You always were kind of bossy. 
-<b>Fluttershy</b>: [through gritted teeth] Zephyr Breeze... 
-<b>Zephyr Breeze</b>: Kidding! Get a job. Absolutely. 
-[scraping] [rooster crows] 
-<b>Zephyr Breeze</b>: [yawns] Where are we goin' so early? You have no idea how bad morning sun is for your mane. 
-<b>Fluttershy</b>: Remember how we talked about you getting a job? 
-<b>Zephyr Breeze</b>: It was just yesterday, and it's totally on my to-do list, but you can't expect to find something befitting my awesomeness overnight. 
-<b>Fluttershy</b>: I thought you might say that. 
-[knocking] 
-[door opens] 
-<b>Fluttershy</b>: So I did it for you. 
-<b>Zephyr Breeze</b>: What?! <b>Rarity</b>: These fabrics all need to be dyed those colors. Do you think you can handle that? 
-<b>Zephyr Breeze</b>: [muttering] Um, I don't know... 
-<b>Rarity</b>: You get started while Fluttershy and I head to the store for more supplies. Ta-ta! 
-<b>Fluttershy</b>: Good luck! 
-[door closes] 
-[splats] <b>Fluttershy</b>: Thanks for giving my brother a job. I just hope he's up to the task. 
-<b>Rarity</b>: Oh, darling, dyeing fabric is the  <i>simplest</i> thing! 
-[door opens] 
-<b>Rarity</b>: You just dip cloth in a bo— 
-<b>Fluttershy</b> and  <b>Rarity</b>: [gasps] 
-<b>Zephyr Breeze</b>: [humming to himself] Rarity, you're back! 
-<b>Fluttershy</b>: What did you do? 
-<b>Zephyr Breeze</b>: Since you talk to animals all the time, I just figured it runs in the family, so why not outsource this stuff, you know? 
-[animals chittering] 
-<b>Zephyr Breeze</b>: Turns out the animal communication thing isn't genetic. 
-<b>Rarity</b>: Zephyr, I asked  <i>you</i> to do this job! Not to pawn it off on innocent woodland creatures! 
-<b>Zephyr Breeze</b>: Okay, I guess you have some feelings about this. But you should know it's basically your cat's fault for walking by and giving me the idea. But I'm actually kinda into this look! 
-<b>Opalescence</b>: [yowls] 
-<b>Zephyr Breeze</b>: So I guess what I'm saying is... you're welcome? 
-<b>Rarity</b>: [frustrated stuttering] Zephyr, this is just  <i>unacceptable</i>! 
-<b>Zephyr Breeze</b>: Wow. I guess I know when my efforts aren't appreciated. 
-<b>Rarity</b>: Ugghh! 
-[door closes] 
-<b>Fluttershy</b>: [giggles nervously] <b>Zephyr Breeze</b>: Whoa! Those are tall! 
-<b>Twilight Sparkle</b>: I'm glad you noticed, because they're your new job. 
-<b>Zephyr Breeze</b>: Wha? [to Fluttershy] You said you were taking me to tea with the princess! 
-<b>Fluttershy</b>: Actually, I said  <i>I</i> was going to tea with the princess.  <i>You're</i> going to work. 
-<b>Zephyr Breeze</b>: Sis, c'mon! 
-<b>Twilight Sparkle</b>: Don't worry, Zephyr, it'll be easy. I just need a Pegasus pony to fly up and wipe each window down from top to bottom. 
-<b>Spike</b>: And I'm here to make sure you do it right. [door opens] 
-<b>Twilight Sparkle</b>: Wow, Zephyr! This looks amazing! 
-[ukulele strumming] 
-<b>Zephyr Breeze</b>: Uh, you know, like you said, it was easy! 
-<b>Fluttershy</b>: Where's Spike? 
-<b>Spike</b>: Up here! 
-<b>Twilight Sparkle</b>: You were supposed to supervise, not do all the work! 
-<b>Spike</b>: I was supervising! And then Zephyr asked me about different cleaning techniques and which one was best, and if I could— Hey! I did all the work! 
-<b>Zephyr Breeze</b>: Don't let him fool you. Old Spike is quite the taskmaster. 
-[zip] <b>Zephyr Breeze</b>: Oh, come on, sis. I had to ask Spike to make sure I was doing it right. 
-<b>Fluttershy</b>: You didn't do it at all! [inhales] Well, I guarantee there won't be any fooling around on the next job. 
-<b>Zephyr Breeze</b>: Next job? 
-[whoosh] 
-<b>Rainbow Dash</b>: That's right, Zeph! You're coming with me! 
-<b>Zephyr Breeze</b>: You don't have to come up with some excuse to hang out with me, Rainbows! Let's just go for a fly and see where the day takes us. 
-<b>Rainbow Dash</b>: [frustrated sigh] We're going to Wonderbolts Headquarters. And I am gonna give you a job so simple and straightforward, not even  <i>you</i> can weasel your way out of it! [quickly] And the second you try, I'm gonna zap you with a storm cloud! Got it?! 
-<b>Zephyr Breeze</b>: Oh, I got it. I can already feel the electricity between us. [door opens] 
-<b>Zephyr Breeze</b>: Rainbow Dash is crazy, okay?! She expects me to do stuff right when she asks me to do it! It's insane! 
-<b>Fluttershy</b>: So you just quit? Again? 
-<b>Zephyr Breeze</b>: Escaped is more like it. Besides, what was I supposed to do? 
-<b>Fluttershy</b>: Keep trying? Finish something for once? Maybe that way, you'd actually find something you like to do! 
-<b>Zephyr Breeze</b>: That all sounds fine for your friends, but it's just not me. 
-<b>Fluttershy</b>: Then I'm sorry, Zephyr, but I don't think you can live here. 
-<b>Zephyr Breeze</b>: Fine! I'll just go live in the woods like my foreponies before me! Guess the only breeze this zephyr can count on is his own! [sweeping] 
-<b>Rainbow Dash</b>: Aw, cheer up, Fluttershy. I know it was hard, but you did the right thing. You couldn't let Zephyr pull the same stuff on you that he's always pulled on your folks! 
-<b>Fluttershy</b>: I guess so... 
-<b>Constance</b>: [twittering] 
-<b>Fluttershy</b>: Oh, hello, Constance! 
-<b>Constance</b>: [twittering] 
-<b>Fluttershy</b>: Oh? Oh, dear. <b>Zephyr Breeze</b>: See, Wigford? The Breeze needs nopony! We've got food, shelter. Just need to put the old kettle on... 
-[rocks clinking] 
-[beat] 
-<b>Zephyr Breeze</b>: Come on, sticky-sticky, make with the sparks! 
-[clanging] 
-<b>Zephyr Breeze</b>: Ugh! What's a pony got to do to find a decent stick around here?! 
-[whap] 
-<b>Zephyr Breeze</b>: Ugh. [grunting] 
-<b>Rainbow Dash</b>: I know he needs to learn to do things for himself, but... 
-<b>Fluttershy</b>: Oh... I can't let him live like this. 
-[crunch] 
-<b>Rainbow Dash</b>: Actually, I don't think he'd make it through the night. 
-[tapping] 
-[leaves rustling] 
-<b>Zephyr Breeze</b>: [gasps] Fluttershy! Hey! I was just, um, cozying up in my sleeping bag! Ready to call it an early night! [mock-tired] Such an exhausting day, y'know? 
-<b>Rainbow Dash</b>: It's  <i>noon</i>. 
-<b>Zephyr Breeze</b>: You know me! [maracas in background]  <i>Siesta</i>... 
-[thunk] 
-<b>Zephyr Breeze</b>: Ugh... I can't do this. I can't do anything. 
-<b>Fluttershy</b>: Zephyr, you're smart and talented. You  <i>could</i> do anything if you just tried! 
-<b>Zephyr Breeze</b>: And what if I give everything I have and still fail? Honestly, I think it's better not to try at all. 
-<b>Rainbow Dash</b>: But then you won't ever do anything. 
-<b>Zephyr Breeze</b>: I don't expect you two to understand. I mean, when have  <i>you</i> ever failed? You've literally helped save Equestria, like, a dozen times. 
-<b>Fluttershy</b>: And I was worried that I'd fail every time! Sometimes you have to do things, even though you might fail. 
-<b>Zephyr Breeze</b>: But failing is the worst! 
-<b>Fluttershy</b>: And quitting doesn't feel much better, does it? 
-<b>Zephyr Breeze</b>: No. 
-<b>Fluttershy</b>: So here's the deal: You can come back with me, but you have to do  <i>exactly</i> what I say. No exceptions. 
-<b>Zephyr Breeze</b>: [resigned] I will literally do anything you ask me if it means I don't have to stay here. <b>Fluttershy</b>: Okay, you know what you have to do, right? 
-<b>Zephyr Breeze</b>: Beg for help, then quit when I get frustrated. Just kidding! Total opposite of that. Got it. 
-[door opens] 
-<b>Rainbow Dash</b>: You think he can do it? <b>[Fluttershy]</b>  <dl>  <dd>   Everypony has times in their lives   </dd>  <dd>   When their hearts are filled with doubt   </dd> </dl> <b>[Zephyr Breeze]</b>  <dl>  <dd>   Frustration builds up inside   </dd>  <dd>   And it makes you want to shout   </dd> </dl> <b>[Rainbow Dash]</b>  <dl>  <dd>   But if you just take that first step   </dd>  <dd>   The next one will appear   </dd> </dl> <b>[Fluttershy and Rainbow Dash]</b>  <dl>  <dd>   And you find you can walk, then run   </dd>  <dd>   Then fly...!   </dd>  <dd>   Into the stratosphere   </dd> </dl> <dl>  <dd>   You've got to give it your best   </dd>  <dd>   So you can pass the test   </dd>  <dd>   Give it everything that you've got   </dd> </dl> <dl>  <dd>   And we know you can win   </dd>  <dd>   You just have to begin   </dd>  <dd>   Have to give it your very best shot   </dd> </dl> <b>[Zephyr Breeze]</b>  <dl>  <dd>   There are times when you want to give up   </dd>  <dd>   When you think that you can't go on   </dd> </dl> <b>[Fluttershy and Rainbow Dash]</b>  <dl>  <dd>   But if you fight through with all of your might   </dd>  <dd>   You will find that you can't go wrong   </dd>  <dd>   That you could do it all along   </dd> </dl> <b>[Fluttershy]</b>  <dl>  <dd>   Everypony has times in their lives   </dd>  <dd>   When their hearts are filled with doubt   </dd> </dl> <b>[Rainbow Dash]</b>  <dl>  <dd>   But if you just give it your all   </dd>  <dd>   You'll start to work it out   </dd> </dl> <b>[Zephyr Breeze]</b>  <dl>  <dd>   And I know I can't give up too soon   </dd>  <dd>   Get myself in the zone   </dd>  <dd>   And I find I can walk, then run   </dd> </dl> <b>[Fluttershy, Zephyr, and Rainbow Dash]</b>  <dl>  <dd>   Then fly...!   </dd> </dl> <b>[Zephyr Breeze]</b>  <dl>  <dd>   I can do it on my own   </dd> </dl> <b>[Fluttershy and Rainbow Dash]</b>  <dl>  <dd>   You can do it on your own   </dd> </dl> <b>[Zephyr Breeze]</b>  <dl>  <dd>   I can do it on my own   </dd>  <dd>   I can do it on my own   </dd> </dl> 
-<b>Zephyr Breeze</b>: I did it! I actually finished something! By myself! 
-<b>Rainbow Dash</b>: And it looks exactly like it's supposed to. 
-<b>Fluttershy</b>: I knew you could do it, Zephyr. 
-<b>Zephyr Breeze</b>: I didn't! But I do now. Thanks for believing in me, sis. 
-<b>Fluttershy</b>: That's what big sisters are for. 
-<b>Rainbow Dash</b>: So, Zeph, now that you've accomplished this, what's next? 
-<b>Zephyr Breeze</b>: Anything I want! I mean, the sky's the limit, right? 
-[beat] 
-<b>Zephyr Breeze</b>: But, y'know... I've got some baby steps in mind. <b>Rainbow Dash</b>: Thanks for dinner, Mr. and Mrs. Shy! Ha! It was great as usual. 
-<b>Mrs. Shy</b>: Thank  <i>you</i>, dear, for not giving up on Zephyr. After all these years of pining for him, it must be so satisfying to see him on the right track. 
-<b>Rainbow Dash</b>: Huh...? 
-<b>Fluttershy</b>: Have you heard from Zephyr? Is he doing well? 
-<b>Mr. Shy</b>: I tell you, he's a brand new pony! So full of drive and determination. 
-<b>Rainbow Dash</b>: Heh. That's great. 
-[door opens] 
-<b>Zephyr Breeze</b>: [singsong] Guess who graduated from mane therapy training? 
-<b>Rainbow Dash</b>: Hah, awesome! 
-<b>Mr. Shy</b>: Congratulations, son! 
-<b>Mrs. Shy</b>: You look so handsome! 
-<b>Fluttershy</b>: I'm so proud of you, Zephyr. 
-<b>Zephyr Breeze</b>: It was only a matter of time before they recognized my true genius! But actually doing the work probably helped, and I wouldn't have if it weren't for you. 
-<b>Fluttershy</b>: Oh, I just gave you some encouragement. You did this on your own. 
-<b>Zephyr Breeze</b>: And honestly, right now I feel like I can do anything... except find a place. I can still crash here for a few days, right? [credits] 
+<b>Mrs. Shy</b>: We're so happy you could come have lunch with your father and me, Fluttershy.
+<b>Fluttershy</b>: I'm so glad you asked.
+<b>Rainbow Dash</b>: And it was super awesome of you to invite 
+me too! Things have been so busy with the Wonderbolts lately, it's great
+ to get a chance to relax someplace quiet.
+<b>Mr. Shy</b>: That's exactly what I intend to do now that 
+I've retired. In fact, I converted the back house to showcase my cloud 
+collection. I have my clouds, your mom has her flowers, you've got your 
+animals, and your brother...
+<b>Mrs. Shy</b>: Zephyr Breeze has his... interests. [nervous laugh]
+<b>Rainbow Dash</b>: I'll say! Remember when he was convinced square clouds were gonna be the next big thing? [laughs]
+<b>Mrs. Shy</b>: He's matured a lot since then.
+<b>Mr. Shy</b>: Actually, it's funny you bring Zephyr up...
+[beat]
+<b>Fluttershy</b>: Oh, no! Not again!
+<b>Mrs. Shy</b>: It's just for a little while, dear. 'Til he gets back on his hooves.
+<b>Rainbow Dash</b>: Wait, you don't mean—!
+[door opens]
+<b>Zephyr Breeze</b>: Guess who's home! That's right, big sis, it's your one and only favorite little brother, <i>moi</i>.
+<b>Fluttershy</b>: [groans]
+[theme song]
+[splat]
+<b>Zephyr Breeze</b>: Hi, Flutterbutter! How's the bestest big 
+sister ever? Hey, where's the love? How about a little excitement to see
+ your baby brother?
+<b>Fluttershy</b>: I'm just surprised. When you left, you said mane therapy was your calling.
+<b>Zephyr Breeze</b>: Oh, it is, sis, it is. You would not 
+believe how much stress ponies hold in their manes. Everything gets limp
+ and unmanageable. No offense, but brushing alone won't solve the 
+problem.
+<b>Fluttershy</b>: What went wrong?
+<b>Zephyr Breeze</b>: Nothing went wrong, per se. It's just the
+ powers that be were so locked into their required styles, and you know 
+me. I've got my own style! And I think they were a little threatened.
+<b>Mrs. Shy</b>: O-Oh, this is... lovely, dear.
+<b>Rainbow Dash</b>: Ugh.
+<b>Zephyr Breeze</b>: Welllll, if it ain't Rainbows "The Best Flyer There Ever Was" Dash!
+<b>Rainbow Dash</b>: [flatly] Oh, this ought to be good.
+<b>Zephyr Breeze</b>: Sorry, I shouldn't tease you. I know the whole super awesome flyer bit's just to impress me.
+<b>Rainbow Dash</b>: [surprised neigh]
+<b>Zephyr Breeze</b>: Still, thanks for showing up for my homecoming. It's, it's sweet.
+<b>Rainbow Dash</b>: [strangled gasp]
+<b>Zephyr Breeze</b>: I kinda thought there'd be more ponies 
+here. I mean, what about your party planner friend, um... Sprinkle Pie! 
+She could've turned this into a real house partay, am I right? I mean, 
+this place could use it. [singsong] Drab!
+<b>Mrs. Shy</b>: Heh. I-I, eh...
+<b>Mr. Shy</b>: We have been meaning to redecorate...
+<b>Zephyr Breeze</b>: Dad, please. When I get all my stuff back in here, you won't even remember what this boring old place looked like!
+[scraping]
+<b>Fluttershy</b>: [whispering] Um, Mom, Dad, can I talk to you for a second?
+<b>Mrs. Shy</b>: [sighs] What is it, honey?
+<b>Fluttershy</b>: I'm not so sure letting Zephyr move back home is a good idea. I know you both want to help, but don't you remember last time?
+<b>Mrs. Shy</b>: Zephyr's just trying to find his place, dear.
+<b>Fluttershy</b>: [sighs] I know. It just seems like his place always ends up being <i>your</i> place. And then he sort of makes you do everything for him!
+<b>Mr. Shy</b>: Well, we may not be as bold as you, Fluttershy, but don't you worry. We know how to stand up for ourselves.
+<b>Zephyr Breeze</b>: And they were all like, "We love your free spirit, Zeph! And it would be wrong to cage that! Go follow your dreams!"
+[thump]
+<b>Rainbow Dash</b>: <i>Zeph</i> was just telling me all about the ins and outs of mane therapy school.
+<b>Zephyr Breeze</b>: It's all so political. I just could not take it!
+<b>Fluttershy</b>: Well, maybe if you stuck with it for more than a few weeks...
+<b>Zephyr Breeze</b>: Sorry, sis, but when something's not the right fit, this pony's gotta fly!
+[clunk]
+<b>Zephyr Breeze</b>: [yawns] Anyway, good talk, Rainbows. I am
+ so touched you came to see me, really. I hate to deprive you of my 
+presence, but this breeze needs his Z's.
+<b>Rainbow Dash</b>: You know it's the middle of the day, right?
+<b>Zephyr Breeze</b>: I know. [maracas in background] <i>Siesta</i>!
+ I'm just gonna assume you made up my room the way I like it, right, 
+Mom? Oh, I almost forgot! All my stuff is out front. Wanna grab that for
+ me, Pops? [short laugh] Thanks.
+<b>Rainbow Dash</b>: [sighs] Same old Zeph.
+<b>Rainbow Dash</b>: I know you weren't expecting to see your brother, but you've been kind of quiet, even for you.
+<b>Fluttershy</b>: I'm sorry, but I am just so... so... <i>peeved</i> right now! [gasps] Excuse my language!
+<b>Pinkie Pie</b>: Rainbow Dash! Fluttershy! It's me, Pinkie Pie! <i>Your friend!</i>
+<b>Applejack</b>: [whistles]
+[thump]
+<b>Fluttershy</b>: Oh, um, sorry about that.
+<b>Rainbow Dash</b>: We just had lunch with Fluttershy's parents, and you'll never guess who showed up.
+<b>Pinkie Pie</b>: Ooh! Mayor Mare? Cranky Doodle Donkey? Cheese Sandwich? Ms. Harshwhinny?!
+<b>Rainbow Dash</b>: Zephyr Breeze.
+<b>Pinkie Pie</b>: Oh, that makes more sense.
+<b>Applejack</b>: And from the look on your face, I'm guessin' it's for another one of his "extended stays"?
+<b>Rainbow Dash</b>: She's a bit peeved.
+<b>Fluttershy</b>: Zephyr's my brother, and I love him. But 
+he's never learned to do anything for himself. I don't know why my 
+parents keep letting him trot all over them!
+<b>Applejack</b>: Well, if your parents won't stand up for themselves, maybe <i>you</i> need to stand up for them.
+<b>Fluttershy</b>: You know, you're right!
+<b>Fluttershy</b>: [inhales and exhales]
+[smash!]
+<b>Fluttershy</b>: [gasps]
+[smash!, thunder rumbling]
+<b>Fluttershy</b>: Zephyr Breeze!
+<b>Zephyr Breeze</b>: Oh, hey, sis. Come to see me work my magic and turn this place from drab to fab, huh? Well, watch and learn!
+<b>Fluttershy</b>: Can't you see what you're doing?!
+<b>Zephyr Breeze</b>: Yeah! I'm getting rid of this old stuff so I can turn the backhouse into my art studio! I've decided I'm gonna be a sculptor!
+<b>Fluttershy</b>: I'm talking about Mom's flowers!
+<b>Zephyr Breeze</b>: She's gonna move them so I can have my meditation patio here. She loves replanting stuff. Don't you, Mom?
+<b>Fluttershy</b>: And Dad's been collecting his favorite bits of cloud from the factory since before you were born.
+<b>Mr. Shy</b>: The very best from every production run since my first day on the job. Ah!
+[glass shatters]
+<b>Mr. Shy</b>: [sighs] But why hold onto the past really?
+<b>Fluttershy</b>: You can't just fly in and change everything Mom and Dad have built here.
+<b>Zephyr Breeze</b>: But this is the only place big enough for my studio/meditation garden. Ooh! Unless I do it in the living room!
+<b>Fluttershy</b>: [to her parents] I know speaking up for 
+yourself can be hard, believe me, but Zephyr will never stand on his own
+ if he can lean on you.
+<b>Zephyr Breeze</b>: Don't be so dramatic, sis! Mom and Dad just wanna let me be me! Right? I can do plenty on my own.
+<b>Fluttershy</b>: I agree. Which is why you should move out.
+<b>Zephyr Breeze</b>: Oh. Well... I mean, I-I totally would, but... I don't think that's what Mom and Dad want! It's not, is it?
+<b>Mrs. Shy</b>: Ehhh...
+<b>Mr. Shy</b>: You know we love you, son, but your sister has a point.
+<b>Zephyr Breeze</b>: [tearing up] Sure. I mean, I really just 
+came back here to keep you guys company, but... whatever's best for the 
+family. I just... I just gotta grab a few essentials.
+<b>Mrs. Shy</b>: And... y-you definitely have somewhere else to go?
+<b>Zephyr Breeze</b>: Of course! There's plenty of ponies who'd love for a little breeze to blow their way...
+<b>Rainbow Dash</b>: So... where's Zeph gonna go now?
+<b>Fluttershy</b>: I'm not sure. Oh, I hope I did the right thing...
+<b>Rainbow Dash</b>: Are you kidding? One hundred percent!
+<b>Zephyr Breeze</b>: [singsong] Hey, sis!
+[door opens]
+<b>Zephyr Breeze</b>: Your new roomie's here!
+<b>Rainbow Dash</b>: Okay, maybe like seventy percent.
+<b>Fluttershy</b>: Um, Zephyr. When Mom and Dad told you to find someplace else to live, I don't think they meant here.
+<b>Zephyr Breeze</b>: Well, it's not <i>their</i> house, so by definition, it's someplace else. Am I right, Rainbows? Stop oogling me and help settle this.
+<b>Rainbow Dash</b>: [sighs] You know what? I totally forgot that I promised to help Pinkie Pie... sprinkle... something.
+[zoom]
+<b>Fluttershy</b>: You said you had plenty of places to go!
+<b>Zephyr Breeze</b>: Ehhhh...
+<b>Fluttershy</b>: [sighs] Fine. You can stay here—
+<b>Zephyr Breeze</b>: You're the best! We're gonna have so much fun.
+<b>Fluttershy</b>: On <i>one</i> condition.
+<b>Zephyr Breeze</b>: Totally. Anything.
+<b>Fluttershy</b>: You have to get a job.
+<b>Zephyr Breeze</b>: Cracking the whip, huh? You always were kind of bossy.
+<b>Fluttershy</b>: [through gritted teeth] Zephyr Breeze...
+<b>Zephyr Breeze</b>: Kidding! Get a job. Absolutely.
+[scraping]
+[rooster crows]
+<b>Zephyr Breeze</b>: [yawns] Where are we goin' so early? You have no idea how bad morning sun is for your mane.
+<b>Fluttershy</b>: Remember how we talked about you getting a job?
+<b>Zephyr Breeze</b>: It was just yesterday, and it's totally 
+on my to-do list, but you can't expect to find something befitting my 
+awesomeness overnight.
+<b>Fluttershy</b>: I thought you might say that.
+[knocking]
+[door opens]
+<b>Fluttershy</b>: So I did it for you.
+<b>Zephyr Breeze</b>: What?!
+<b>Rarity</b>: These fabrics all need to be dyed those colors. Do you think you can handle that?
+<b>Zephyr Breeze</b>: [muttering] Um, I don't know...
+<b>Rarity</b>: You get started while Fluttershy and I head to the store for more supplies. Ta-ta!
+<b>Fluttershy</b>: Good luck!
+[door closes]
+[splats]
+<b>Fluttershy</b>: Thanks for giving my brother a job. I just hope he's up to the task.
+<b>Rarity</b>: Oh, darling, dyeing fabric is the <i>simplest</i> thing!
+[door opens]
+<b>Rarity</b>: You just dip cloth in a bo—
+<b>Fluttershy</b> and <b>Rarity</b>: [gasps]
+<b>Zephyr Breeze</b>: [humming to himself] Rarity, you're back!
+<b>Fluttershy</b>: What did you do?
+<b>Zephyr Breeze</b>: Since you talk to animals all the time, I just figured it runs in the family, so why not outsource this stuff, you know?
+[animals chittering]
+<b>Zephyr Breeze</b>: Turns out the animal communication thing isn't genetic.
+<b>Rarity</b>: Zephyr, I asked <i>you</i> to do this job! Not to pawn it off on innocent woodland creatures!
+<b>Zephyr Breeze</b>: Okay, I guess you have some feelings 
+about this. But you should know it's basically your cat's fault for 
+walking by and giving me the idea. But I'm actually kinda into this 
+look!
+<b>Opalescence</b>: [yowls]
+<b>Zephyr Breeze</b>: So I guess what I'm saying is... you're welcome?
+<b>Rarity</b>: [frustrated stuttering] Zephyr, this is just <i>unacceptable</i>!
+<b>Zephyr Breeze</b>: Wow. I guess I know when my efforts aren't appreciated.
+<b>Rarity</b>: Ugghh!
+[door closes]
+<b>Fluttershy</b>: [giggles nervously]
+<b>Zephyr Breeze</b>: Whoa! Those are tall!
+<b>Twilight Sparkle</b>: I'm glad you noticed, because they're your new job.
+<b>Zephyr Breeze</b>: Wha? [to Fluttershy] You said you were taking me to tea with the princess!
+<b>Fluttershy</b>: Actually, I said <i>I</i> was going to tea with the princess. <i>You're</i> going to work.
+<b>Zephyr Breeze</b>: Sis, c'mon!
+<b>Twilight Sparkle</b>: Don't worry, Zephyr, it'll be easy. I just need a Pegasus pony to fly up and wipe each window down from top to bottom.
+<b>Spike</b>: And I'm here to make sure you do it right.
+[door opens]
+<b>Twilight Sparkle</b>: Wow, Zephyr! This looks amazing!
+[ukulele strumming]
+<b>Zephyr Breeze</b>: Uh, you know, like you said, it was easy!
+<b>Fluttershy</b>: Where's Spike?
+<b>Spike</b>: Up here!
+<b>Twilight Sparkle</b>: You were supposed to supervise, not do all the work!
+<b>Spike</b>: I was supervising! And then Zephyr asked me about
+ different cleaning techniques and which one was best, and if I could— 
+Hey! I did all the work!
+<b>Zephyr Breeze</b>: Don't let him fool you. Old Spike is quite the taskmaster.
+[zip]
+<b>Zephyr Breeze</b>: Oh, come on, sis. I had to ask Spike to make sure I was doing it right.
+<b>Fluttershy</b>: You didn't do it at all! [inhales] Well, I guarantee there won't be any fooling around on the next job.
+<b>Zephyr Breeze</b>: Next job?
+[whoosh]
+<b>Rainbow Dash</b>: That's right, Zeph! You're coming with me!
+<b>Zephyr Breeze</b>: You don't have to come up with some 
+excuse to hang out with me, Rainbows! Let's just go for a fly and see 
+where the day takes us.
+<b>Rainbow Dash</b>: [frustrated sigh] We're going to 
+Wonderbolts Headquarters. And I am gonna give you a job so simple and 
+straightforward, not even <i>you</i> can weasel your way out of it! [quickly] And the second you try, I'm gonna zap you with a storm cloud! Got it?!
+<b>Zephyr Breeze</b>: Oh, I got it. I can already feel the electricity between us.
+[door opens]
+<b>Zephyr Breeze</b>: Rainbow Dash is crazy, okay?! She expects me to do stuff right when she asks me to do it! It's insane!
+<b>Fluttershy</b>: So you just quit? Again?
+<b>Zephyr Breeze</b>: Escaped is more like it. Besides, what was I supposed to do?
+<b>Fluttershy</b>: Keep trying? Finish something for once? Maybe that way, you'd actually find something you like to do!
+<b>Zephyr Breeze</b>: That all sounds fine for your friends, but it's just not me.
+<b>Fluttershy</b>: Then I'm sorry, Zephyr, but I don't think you can live here.
+<b>Zephyr Breeze</b>: Fine! I'll just go live in the woods like my foreponies before me! Guess the only breeze this zephyr can count on is his own!
+[sweeping]
+<b>Rainbow Dash</b>: Aw, cheer up, Fluttershy. I know it was 
+hard, but you did the right thing. You couldn't let Zephyr pull the same
+ stuff on you that he's always pulled on your folks!
+<b>Fluttershy</b>: I guess so...
+<b>Constance</b>: [twittering]
+<b>Fluttershy</b>: Oh, hello, Constance!
+<b>Constance</b>: [twittering]
+<b>Fluttershy</b>: Oh? Oh, dear.
+<b>Zephyr Breeze</b>: See, Wigford? The Breeze needs nopony! We've got food, shelter. Just need to put the old kettle on...
+[rocks clinking]
+[beat]
+<b>Zephyr Breeze</b>: Come on, sticky-sticky, make with the sparks!
+[clanging]
+<b>Zephyr Breeze</b>: Ugh! What's a pony got to do to find a decent stick around here?!
+[whap]
+<b>Zephyr Breeze</b>: Ugh. [grunting]
+<b>Rainbow Dash</b>: I know he needs to learn to do things for himself, but...
+<b>Fluttershy</b>: Oh... I can't let him live like this.
+[crunch]
+<b>Rainbow Dash</b>: Actually, I don't think he'd make it through the night.
+[tapping]
+[leaves rustling]
+<b>Zephyr Breeze</b>: [gasps] Fluttershy! Hey! I was just, um, 
+cozying up in my sleeping bag! Ready to call it an early night! 
+[mock-tired] Such an exhausting day, y'know?
+<b>Rainbow Dash</b>: It's <i>noon</i>.
+<b>Zephyr Breeze</b>: You know me! [maracas in background] <i>Siesta</i>...
+[thunk]
+<b>Zephyr Breeze</b>: Ugh... I can't do this. I can't do anything.
+<b>Fluttershy</b>: Zephyr, you're smart and talented. You <i>could</i> do anything if you just tried!
+<b>Zephyr Breeze</b>: And what if I give everything I have and still fail? Honestly, I think it's better not to try at all.
+<b>Rainbow Dash</b>: But then you won't ever do anything.
+<b>Zephyr Breeze</b>: I don't expect you two to understand. I mean, when have <i>you</i> ever failed? You've literally helped save Equestria, like, a dozen times.
+<b>Fluttershy</b>: And I was worried that I'd fail every time! Sometimes you have to do things, even though you might fail.
+<b>Zephyr Breeze</b>: But failing is the worst!
+<b>Fluttershy</b>: And quitting doesn't feel much better, does it?
+<b>Zephyr Breeze</b>: No.
+<b>Fluttershy</b>: So here's the deal: You can come back with me, but you have to do <i>exactly</i> what I say. No exceptions.
+<b>Zephyr Breeze</b>: [resigned] I will literally do anything you ask me if it means I don't have to stay here.
+<b>Fluttershy</b>: Okay, you know what you have to do, right?
+<b>Zephyr Breeze</b>: Beg for help, then quit when I get frustrated. Just kidding! Total opposite of that. Got it.
+[door opens]
+<b>Rainbow Dash</b>: You think he can do it?
+<b>[Fluttershy]</b>
+Everypony has times in their lives
+When their hearts are filled with doubt
+
+<b>[Zephyr Breeze]</b>
+Frustration builds up inside
+And it makes you want to shout
+
+<b>[Rainbow Dash]</b>
+But if you just take that first step
+The next one will appear
+
+<b>[Fluttershy and Rainbow Dash]</b>
+And you find you can walk, then run
+Then fly...!
+Into the stratosphere
+
+You've got to give it your best
+So you can pass the test
+Give it everything that you've got
+
+And we know you can win
+You just have to begin
+Have to give it your very best shot
+
+<b>[Zephyr Breeze]</b>
+There are times when you want to give up
+When you think that you can't go on
+
+<b>[Fluttershy and Rainbow Dash]</b>
+But if you fight through with all of your might
+You will find that you can't go wrong
+That you could do it all along
+
+<b>[Fluttershy]</b>
+Everypony has times in their lives
+When their hearts are filled with doubt
+
+<b>[Rainbow Dash]</b>
+But if you just give it your all
+You'll start to work it out
+
+<b>[Zephyr Breeze]</b>
+And I know I can't give up too soon
+Get myself in the zone
+And I find I can walk, then run
+
+<b>[Fluttershy, Zephyr, and Rainbow Dash]</b>
+Then fly...!
+
+<b>[Zephyr Breeze]</b>
+I can do it on my own
+
+<b>[Fluttershy and Rainbow Dash]</b>
+You can do it on your own
+
+<b>[Zephyr Breeze]</b>
+I can do it on my own
+I can do it on my own
+
+<b>Zephyr Breeze</b>: I did it! I actually finished something! By myself!
+<b>Rainbow Dash</b>: And it looks exactly like it's supposed to.
+<b>Fluttershy</b>: I knew you could do it, Zephyr.
+<b>Zephyr Breeze</b>: I didn't! But I do now. Thanks for believing in me, sis.
+<b>Fluttershy</b>: That's what big sisters are for.
+<b>Rainbow Dash</b>: So, Zeph, now that you've accomplished this, what's next?
+<b>Zephyr Breeze</b>: Anything I want! I mean, the sky's the limit, right?
+[beat]
+<b>Zephyr Breeze</b>: But, y'know... I've got some baby steps in mind.
+<b>Rainbow Dash</b>: Thanks for dinner, Mr. and Mrs. Shy! Ha! It was great as usual.
+<b>Mrs. Shy</b>: Thank <i>you</i>, dear, for not giving up on 
+Zephyr. After all these years of pining for him, it must be so 
+satisfying to see him on the right track.
+<b>Rainbow Dash</b>: Huh...?
+<b>Fluttershy</b>: Have you heard from Zephyr? Is he doing well?
+<b>Mr. Shy</b>: I tell you, he's a brand new pony! So full of drive and determination.
+<b>Rainbow Dash</b>: Heh. That's great.
+[door opens]
+<b>Zephyr Breeze</b>: [singsong] Guess who graduated from mane therapy training?
+<b>Rainbow Dash</b>: Hah, awesome!
+<b>Mr. Shy</b>: Congratulations, son!
+<b>Mrs. Shy</b>: You look so handsome!
+<b>Fluttershy</b>: I'm so proud of you, Zephyr.
+<b>Zephyr Breeze</b>: It was only a matter of time before they 
+recognized my true genius! But actually doing the work probably helped, 
+and I wouldn't have if it weren't for you.
+<b>Fluttershy</b>: Oh, I just gave you some encouragement. You did this on your own.
+<b>Zephyr Breeze</b>: And honestly, right now I feel like I can do anything... except find a place. I can still crash here for a few days, right?
+[credits]

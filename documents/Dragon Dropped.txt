@@ -1,252 +1,316 @@
-[door opens] 
-<b>Rarity</b>: [singsong] Oh, Spiiiike? Are you in here? Hellooooo? 
-[beat] 
-<b>Rarity</b>: Spike? 
-<b>Spike</b>: Mm-hmm... 
-<b>Rarity</b>: Oh, there you are! I was starting to think you weren't here. I realize this is last-minute, but I've decided on a quick trip to the gem cave! I am on an urgent mission to find some faceted iridescence for my new design, and I can't think of anypony I'd rather have along than my favorite basket holder/bodyguard Spike. 
-[beat] 
-<b>Rarity</b>: Spike? 
-[beat] 
-<b>Rarity</b>: Spiiiike? 
-[beat] 
-<b>Rarity</b>: [echoing]  <i>SPIKE!</i> 
-[thud] 
-<b>Spike</b>: What? Oh. Hey, Rarity. 
-<b>Rarity</b>: Honestly, Spike. It's almost as if you haven't been listening. 
-<b>Spike</b>: [blows fire] Oh, uh... of course I was. But just to be sure, could you say it all again? 
-<b>Rarity</b>: [sighs] I was saying that I had planned on visiting the gem cave— 
-<b>Spike</b>: Oh, no! Is that the time?! 
-<b>Rarity</b>: Aah! 
-<b>Spike</b>: [panting] 
-<b>Rarity</b>: Of course, you're right. This is a bit of a late start, and those gems won't pick themselves. 
-<b>Spike</b>: Uh-huh. 
-[doors open] 
-<b>Rarity</b>: But the real question is which basket do you want to hold? The smaller one, right? [laughs] 
-<b>Spike</b>: Oh, right. Sorry, Rarity. Can I take a rain check on... What was that again? 
-[beat] 
-<b>Rarity</b>: The... gem cave? 
-<b>Spike</b>: Right. Sounds great. But I need to get to the post office before noon. 
+[door opens]
+<b>Rarity</b>: [singsong] Oh, Spiiiike? Are you in here? Hellooooo?
+[beat]
+<b>Rarity</b>: Spike?
+<b>Spike</b>: Mm-hmm...
+<b>Rarity</b>: Oh, there you are! I was starting to think you 
+weren't here. I realize this is last-minute, but I've decided on a quick
+ trip to the gem cave! I am on an urgent mission to find some faceted 
+iridescence for my new design, and I can't think of anypony I'd rather 
+have along than my favorite basket holder/bodyguard Spike.
+[beat]
+<b>Rarity</b>: Spike?
+[beat]
+<b>Rarity</b>: Spiiiike?
+[beat]
+<b>Rarity</b>: [echoing] <i>SPIKE!</i>
+[thud]
+<b>Spike</b>: What? Oh. Hey, Rarity.
+<b>Rarity</b>: Honestly, Spike. It's almost as if you haven't been listening.
+<b>Spike</b>: [blows fire] Oh, uh... of course I was. But just to be sure, could you say it all again?
+<b>Rarity</b>: [sighs] I was saying that I had planned on visiting the gem cave—
+<b>Spike</b>: Oh, no! Is that the time?!
+<b>Rarity</b>: Aah!
+<b>Spike</b>: [panting]
+<b>Rarity</b>: Of course, you're right. This is a bit of a late start, and those gems won't pick themselves.
+<b>Spike</b>: Uh-huh.
+[doors open]
+<b>Rarity</b>: But the real question is which basket do you want to hold? The smaller one, right? [laughs]
+<b>Spike</b>: Oh, right. Sorry, Rarity. Can I take a rain check on... What was that again?
+[beat]
+<b>Rarity</b>: The... gem cave?
+<b>Spike</b>: Right. Sounds great. But I need to get to the post office before noon.
 <b>Rarity</b>: [laughs] All right, very funny. Obviously, you'll get the bigger basket, and I shall— 
-[beat] 
-<b>Rarity</b>: Spike? Hello? [gem clinking] 
-<b>Rarity</b>: I don't understand. For as long as we've known each other, Spike has never turned down an opportunity to join me here. It's his favorite place. 
-[gem clinking] 
-<b>Rarity</b>: Ideally you catch the gems, dear. And for a trip to the post office of all places? 
-[gem clinking] 
-<b>Rarity</b>: Maybe you should move closer? And why would Spike need to go to the post office at all? He sends mail by breathing! Breathing, darling! Breath mail! 
-[gems clinking] 
-<b>Rarity</b>: Honestly, Applejack, if you're going to fill in, you could make an attempt to hold the basket the way Spike would. 
-<b>Applejack</b>: [spits] And how's that? 
-<b>Rarity</b>: Well, for one thing, Spike knows how to keep things quiet so as not to waken the bats. 
-[bats squeaking] 
-<b>Rarity</b>:  <i>And</i> he usually pulls me closely so no gem ever touches the ground! 
-<b>Applejack</b>: [gasps] Rarity, Spike's been followin' you closely since he got to Ponyville. And in case you hadn't noticed... [echoing]  <i>I AIN'T SPIKE!</i> 
-[bats squeaking] 
-<b>Rarity</b> and  <b>Applejack</b>: [yelping] 
-<b>Rarity</b>: Actually, Applejack, I had noticed! [doors open] 
-[books thudding] 
-<b>Twilight Sparkle</b>: Um, hi, Rarity. What's up? 
-<b>Rarity</b>: Ugh! Besides my mane? Well, that is a question for Spike. 
-<b>Twilight Sparkle</b>: Oh. Well, Spike isn't here. I think he's at the post office. 
-[scraping sounds] 
-<b>Rarity</b>: Again?! What is it with Spike and the post office?! 
-<b>Twilight Sparkle</b>: Rarity, what's going on? 
-<b>Rarity</b>: Spike declined my invitation to the gem cave, and I intend to find out why. 
-<b>Twilight Sparkle</b>: Hmm. That doesn't sound like Spike. Did you two have some sort of fight? 
-<b>Rarity</b>: A fight? Goodness, Twilight. What in Equestria would we fight about? 
-<b>Twilight Sparkle</b>: I've had arguments with friends before, and they can put a real strain on friendships. 
-<b>Rarity</b>: Well, certainly. But I think I'd remember if we had an argument. 
-<b>Twilight Sparkle</b>: Maybe you didn't realize it? Do you think you could've done something that unintentionally hurt his feelings? 
-<b>Rarity</b>: Well, if I didn't realize what I did, how would I know what I have done when I did it? [brays] I wonder if that's it. It certainly would explain his behavior. I must apologize! 
-<b>Twilight Sparkle</b>: For what? 
-<b>Rarity</b>: Oh, pfft. That's hardly the point. Poor Spikey-Wikey! This calls for a grand gesture! 
-<b>Twilight Sparkle</b>: Okay. Good talk. [groans] [door opens] 
-<b>Rarity</b>: [grunting] 
-[scraping] 
-[clang!] 
-<b>Gabby</b>: Wow! That's a big crate of stuff you're mailing. 
-<b>Rarity</b>: I'm not mailing it. 
-<b>Gabby</b>: Then why are you pushing it into the post office? 
-<b>Rarity</b>: Oh. I didn't realize griffons worked at the Ponyville Post Office. 
-<b>Gabby</b>: Oh! [giggles] No, I don't work here exactly. I'm the official mail carrier of Griffonstone. Gabby Griffon. Nice to meet ya! 
-[rattling] 
-<b>Rarity</b>: [sighs] Yes, well, uh, these things aren't for sending. They're for apologizing to Spike. 
-<b>Gabby</b>: Oh! Spike was just here. He went to go make us a— 
-<b>Rarity</b>: That's perfect! It'll give me a chance to practice. Uh, you stand there and tell me if I hit the right apologetic notes. 
-<b>Gabby</b>: What are you apologizing for? 
-<b>Rarity</b>: Darling, I don't see why that matters. 
-[clattering] 
-[gems clinking] 
-[thud] 
-[ka-chunk!] 
-[deep boom] 
-[music playing] 
-<b>Rarity</b>: [overdramatically] And that is why I simply cannot bear the thought of having hurt you! And even though I don't know what it is that I did, I want you to know that it doesn't matter! Because I am prepared to do anything to make it right! [sobs] And scene. 
-[ka-chunk!] 
-<b>Gabby</b>: [muffled speech] 
-<b>Rarity</b>: Oh, sorry, dear. Here. 
-<b>Gabby</b>: I said, that sure sounds genuine. 
-<b>Rarity</b>: Well, of course it sounds genuine! It  <i>is</i> genuine! 
-[thud] 
-<b>Spike</b>: Rarity? What are you doing? 
-<b>Rarity</b>: Obviously, I'm working on my apology to you, Spike. I don't know how I could be more genuine. I mean— [gasps] Spike! 
-[zip!] 
-[ka-chunk!] 
-[deep boom] 
-[music playing] 
-<b>Rarity</b>: [overdramatically] Oh, Spike! I am so sorry! Please forgive me! 
-[crash!] 
-[cat yowls] 
-<b>Rarity</b>: [overdramatically] You have to forgive me! I don't know what I did or why you're mad at me! Just please say you forgive me! [wailing] Pleeeeeeeease! 
-<b>Spike</b>: Of course I forgive you. But, uh, what are you apologizing for? 
-[ka-chunk!] 
-<b>Rarity</b>: Why does everypony keep harping on that—?! Wait. Don't  <i>you</i> know? 
-<b>Spike</b>: No, I'm not mad at you about anything. 
-<b>Rarity</b>: B-But... But I don't understand. If you're not upset with me, why in Equestria would you refuse to go to the gem cave? 
-<b>Spike</b>: Uh, because I had other plans? 
-[clattering] 
-<b>Gabby</b>: With me! 
-<b>Rarity</b>: [gasps] <b>Rarity</b>: I don't understand. You two know each other? 
-<b>Spike</b>: Gabby and I are sort of pen pals. 
-<b>Gabby</b>: Yeah! There was this whole thing where I pretended to get a cutie mark because griffons don't get cutie marks, so Princess Twilight had Spike send a bunch of letters off to Griffonstone about the first griffon ever to get a cutie mark! Which I didn't really have. 
-<b>Spike</b>: Gabby wrote back explaining things, and after that we just started writing back and forth. 
-<b>Gabby</b>: Turns out we have a lot in common! We both come from cultures that don't have the friendliest of reputations. 
-<b>Spike</b>: [slurps] And we're both in the message-sending business! 
-<b>Gabby</b>: Uh-huh! 
-<b>Spike</b> and  <b>Gabby</b>: [chomp, gulp] 
-<b>Gabby</b>: I sure wish I could send scrolls with my breath! 
-<b>Spike</b> and  <b>Gabby</b>: [laughing] 
-<b>Rarity</b>: [forced laugh] Yes... Now I understand why you didn't come to the gem cave. Having a friend in town is a rare treat. Well, since you're busy today, maybe we can do something tomorrow. Fabric shopping? I know how you love to pick out the colors. 
-<b>Spike</b>: Uh, actually, now that there's a griffon at Twilight's school, Gabby's here all the time. 
-<b>Gabby</b>: Grampa Gruff asks for a lot of updates about how Gallus is doing. [sighs] Speaking of which, I better get going. 
-<b>Spike</b>: I'll fly with you. 
-<b>Rarity</b>: Well, all right. You two fly along. I'm sure Spike and I can do something some other— 
-[beat] 
-<b>Rarity</b>: ...time? <b>Rarity</b>: I cannot decide which shade of purple is the most royal! And there's the pink! How will I ever choose?! 
-<b>Rainbow Dash</b>: [grunting] Too bad Spike's not here. I bet he could help you narrow it down. 
-<b>Rarity</b>: He is a good sounding board, isn't he? 
-[muffled thud] 
-[curtains close] [montage music] [camera clicks] 
-[bits clinking] [door opens] [door opens] 
-[thud] 
-[slurping] [sewing machine whirring] 
-<b>Rarity</b>: [sighs] Could you bring the pincushion a little closer, dear? I suppose now that Spike's always so busy with Gabby, I'm just now realizing how much his presence has meant to me over the years. 
-[beat] 
-<b>Rarity</b>: Even closer, darling. I don't want to prick you. I have to admit everything feels a bit "less than" without him. Too close! 
-[thud] 
-<b>Rarity</b>: Oh, darling, it's no use. Thank you for trying. I'm just accustomed to the help of a small, highly attentive dragon. 
-<b>Fluttershy</b>: Maybe you should let Spike know how grateful you are for everything he's done for you. <b>Spike</b>: [snoring] Aah! 
-<b>Rarity</b>: Oh, I am sorry, Spike. I didn't mean to frighten you. 
-<b>Spike</b>: Rarity? What are you doing here? 
-<b>Rarity</b>: Well, I realize it's late. Or rather, early. But I have a surprise, and I just couldn't wait to share it. The Great Gem Crevasse of the Crystal Mountains! 
-[click] 
-<b>Spike</b>: Whoa! 
-<b>Rarity</b>: It is only accessible once a year, and I thought a little day trip would make a wonderful thank you for all the help you've given me over the years. 
-<b>Spike</b>: Oh. But I'm supposed to meet Gabby today for her rounds. 
-<b>Rarity</b>: I see. Well, there's always next year. 
-[door opens] 
-<b>Spike</b>: You know what? I'll just write her a note. 
-<b>Rarity</b>: Are you sure? 
-<b>Spike</b>: Absolutely. [train chugging] 
-[train hisses] 
-[gems clinking] 
-<b>Spike</b>: Wow. Rarity, you weren't kidding. The Gem Crevasse was amazing! I'll be snacking on these for a week. 
-<b>Rarity</b>: What did I tell you? 
-<b>Gabby</b>: Hey, Spike! 
-<b>Spike</b>: Gabby! You won't believe where I went today! 
-<b>Gabby</b>: Actually, I think I will. I got your scroll. The Great Gem Crevasse sounds a lot better than doing my rounds. 
-<b>Spike</b>: Mm-hmm! 
-[gems clinking] 
-<b>Gabby</b>: Whoa! It was definitely better! I gotta get back to Griffonstone, but you have to tell me all about the Crevasse tomorrow! 
-<b>Spike</b>: Absolutely! [grunts] Thanks again, Rarity. What a great day. <b>Gabby</b>: Okay! Start from the beginning, because I want to hear everything! 
-<b>Spike</b>: Well, to get to the Crevasse, you have to climb across a rope bridge because the air's too thin to fly! 
-<b>Gabby</b>: That is amazing! Then what?! 
-[thud] 
-<b>Gabby</b>: Whoa! 
-<b>Spike</b>: Sorry, Rarity! 
-<b>Rarity</b>: Oh, no apology necessary, Spike. In fact, I was just looking for you. 
-<b>Spike</b>: You were? Why? 
-<b>Rarity</b>: Because I just acquired... these! 
-<b>Spike</b>: Passes to Power Ponypalooza!? For today!? 
-<b>Rarity</b>: Mm-hmm! I know we just went to the Crevasse, but I feel I've barely scratched the surface of expressing my gratitude for all you do. 
-<b>Spike</b>: Uh... of course I want to go, but that'll be two days in a row we haven't hung out. 
-<b>Gabby</b>: Nah! Are you kidding? It's Power Ponypalooza! You have to go! And now you'll have  <i>two</i> things to tell me about! 
-<b>Spike</b>: Okay! Come on, Rarity! Let's go! <b>Spike</b>: Whew! Are my claws sore. 
-<b>Rarity</b>: Indeed. I had no idea how much walking there is at a Power Pony convention! 
-<b>Spike</b>: [grunting] Aww. I know I told Gabby we'd hang out tomorrow, but I might need the whole day to rest. 
-<b>Rarity</b>: Whoo. I know what you mean. Perhaps you could, uh, just send her another note. 
-<b>Rarity</b> and  <b>Spike</b>: [grunting] 
-<b>Spike</b>: [chuckles] I think maybe you're right. 
-<b>Rarity</b>: Honestly, I might need to spend tomorrow putting my hooves up as well. [laughs] 
-[door opens] [knock on door] 
-[door opens] 
-<b>Rarity</b>: I hadn't counted on Power Ponypalooza being quite so draining, but I thought we might spend the day recuperating together. 
-<b>Spike</b>: No way!  <i>Ogres &amp; Oubliettes</i>?! 
-<b>Rarity</b>: Well, I know how much you enjoy it. And this seemed like the perfect opportunity for you to teach me the game. [door opens] 
-<b>Gabby</b>: [echoing] Spike? I got your note! I figured I'd come by before my rounds with a bowl of energizing turnip soup. 
-<b>Rarity</b> and  <b>Spike</b>: [laughter fading in] 
-<b>Rarity</b>: Can Princess Shmarity use her Shield of the Coiffure to defend herself from the purveyor of poor color coordination? 
-<b>Spike</b>: Oh, she can try... Success! Shmarity's shield holds against the Green-Eyed Monster's attack! And then—! 
-<b>Gabby</b>: Spike? 
-<b>Spike</b>: Oh, hi, Gabby. We were just— 
-<b>Gabby</b>: Your scroll said you were too tired to do anything today. But I guess you were just too tired to do anything with me. 
-<b>Spike</b>: No-no-no-no! That's not true! I can come with you on your rounds right now! 
-<b>Gabby</b>: I don't think so, Spike. Maybe I'll just handle the rounds on my own from now on. 
-[thermos clinking] 
-<b>Rarity</b>: Oooh! Princess Shmarity uses her Prismatic Beam to change that poor monster's color to a more pleasing shade of purple! <b>Rarity</b>: What do you think, Spike? Solids or prints? 
-<b>Spike</b>: [sighs] Prints, I guess. You already have a lot of solid colors. 
-<b>Rarity</b>: Oh, you are so right. Prints it is! So nice to have you back, Spike. 
-[cash register rings] 
-<b>Rarity</b>: Although I hope you're able to reconcile with Gabby. 
-<b>Spike</b>: I'm pretty sure she doesn't want to. [montage music] <b>Rarity</b>: I quite enjoyed our day together today, Spike. 
-<b>Spike</b>: Yeah... 
-<b>Twilight Sparkle</b>: Hi, Spike. 
-<b>Spike</b>: Uh-huh... 
-<b>Twilight Sparkle</b>: Hmmm. I've never seen Spike this sad before. Do you know what happened? 
-<b>Rarity</b>: [clears throat] Yes, well, perhaps he's still just tired from Power Ponypalooza. 
-<b>Twilight Sparkle</b>: I don't think that's it. 
-<b>Rarity</b>: I... suppose... it's possible it could have something to do with... [coughs] Gabby not wanting to spend time with him anymore. 
-<b>Twilight Sparkle</b>: What? I thought the two of them were hanging out all the time. 
-<b>Rarity</b>: They were! Honestly, it took everything I had to convince him to spend any time with me at all! But between crystal gem crevasses, Power Pony conventions, and a marathon game of  <i>O&amp;O</i>, I managed to get some time in. 
-<b>Twilight Sparkle</b>: It sounds like you made sure he didn't have any time to spend with Gabby at all. 
-<b>Rarity</b>: What?! Pfft! I most certainly did not! 
-[beat] 
-<b>Rarity</b>: Well, I... suppose I may have monopolized him a teeny bit. [sighs] I'd just grown so used to having Spikey-Wikey around, I wasn't prepared for how much I'd miss him when he wasn't. 
-<b>Twilight Sparkle</b>: Friendships change, but just because Spike made a new friend doesn't mean he stops being yours. 
-<b>Rarity</b>: I know, but now I have to share him! Which I suppose I'll have to get used to. [gasps] Right after I fix the mess I've made! 
-<b>Twilight Sparkle</b>: Good talk. <b>Gabby</b>: [sighs] 
-[door opens] 
-[music playing] 
-<b>Gabby</b>: Rarity? Is all this stuff for Spike again? Wouldn't it be easier to just give it to him? And why are you even here? 
-<b>Rarity</b>: I am here to apologize. Actually, more to confess. And all of this stuff isn't for Spike. It's the evidence against me! 
-<b>Gabby</b>: Evidence? For what? 
-<b>Rarity</b>: For my acts of utter selfishness! 
-<b>Gabby</b>: I don't understand. 
-<b>Rarity</b>: These are items I used to lure Spike into spending as much time with me as possible! 
-<b>Gabby</b>: They are? You did? 
-<b>Spike</b>: Rarity? What are you doing? 
-<b>Rarity</b>: Well, obviously I'm apologizing to Gabby so the two of you can renew your friendship, Spike. Now please, even if you can't forgive me, you simply must forgive— [gasps] Spike?! Oh. I actually owe you an apology, too. 
-<b>Gabby</b>: You apologize a lot. 
-<b>Rarity</b>: I wish I didn't need to, but the more time you two spent together, the more I missed my time with Spike, and the more I used every means at my disposal to get it back. I am truly sorry. 
-<b>Spike</b>: You really miss spending time with me? 
-<b>Rarity</b>: Oh, of course! 
-<b>Gabby</b>: I have to say, after not hanging out with you, I understand why. You're kinda awesome! And I know what it's like to miss that now, too. 
-<b>Spike</b>: So, do you think maybe we could start hanging out again? 
-<b>Gabby</b>: Absolutely. 
-<b>Spike</b>: I don't suppose you'd like some company on your rounds right now? 
-<b>Gabby</b>: I sure would! 
-<b>Rarity</b>: Wonderful! I can't tell you how pleased I am that the two of you have— [laughs] ...reconciled. [pickaxe clinking] 
-<b>Rarity</b>: [whispering] I suppose Twilight is right. Friendships do change. 
-[gem shattering] 
-[bats squeaking] 
-<b>Rarity</b>: [whispering] Of course Spike and I will always be friends, and I can get used to sharing him. 
-<b>Pinkie Pie</b>: [panicked yelping, whispering] Sorry! I just didn't want to drop another one and wake the bats. 
-<b>Rarity</b>: [whispering] Darling. Catching the gems is what the basket is for. 
-<b>Spike</b>: [whispering] Wow. You two need to be a lot quieter. 
-<b>Rarity</b>: Spike! How wonderful to see you! 
-<b>Spike</b>: Yeah. Gabby and I had a great day, but I'll always still want my Rarity time. 
-[pickaxe clinking] 
-[gem shattering] 
-<b>Pinkie Pie</b>: Ohhhh! So that's how it works! 
-[wings flapping] 
-<b>Pinkie Pie</b>,  <b>Rarity</b>, and  <b>Spike</b>: [scream] [credits] 
+[beat]
+<b>Rarity</b>: Spike? Hello?
+[theme song]
+[gem clinking]
+<b>Rarity</b>: I don't understand. For as long as we've known 
+each other, Spike has never turned down an opportunity to join me here. 
+It's his favorite place.
+[gem clinking]
+<b>Rarity</b>: Ideally you catch the gems, dear. And for a trip to the post office of all places?
+[gem clinking]
+<b>Rarity</b>: Maybe you should move closer? And why would 
+Spike need to go to the post office at all? He sends mail by breathing! 
+Breathing, darling! Breath mail!
+[gems clinking]
+<b>Rarity</b>: Honestly, Applejack, if you're going to fill in, you could make an attempt to hold the basket the way Spike would.
+<b>Applejack</b>: [spits] And how's that?
+<b>Rarity</b>: Well, for one thing, Spike knows how to keep things quiet so as not to waken the bats.
+[bats squeaking]
+<b>Rarity</b>: <i>And</i> he usually pulls me closely so no gem ever touches the ground!
+<b>Applejack</b>: [gasps] Rarity, Spike's been followin' you closely since he got to Ponyville. And in case you hadn't noticed... [echoing] <i>I AIN'T SPIKE!</i>
+[bats squeaking]
+<b>Rarity</b> and <b>Applejack</b>: [yelping]
+<b>Rarity</b>: Actually, Applejack, I had noticed!
+[doors open]
+[books thudding]
+<b>Twilight Sparkle</b>: Um, hi, Rarity. What's up?
+<b>Rarity</b>: Ugh! Besides my mane? Well, that is a question for Spike.
+<b>Twilight Sparkle</b>: Oh. Well, Spike isn't here. I think he's at the post office.
+[scraping sounds]
+<b>Rarity</b>: Again?! What is it with Spike and the post office?!
+<b>Twilight Sparkle</b>: Rarity, what's going on?
+<b>Rarity</b>: Spike declined my invitation to the gem cave, and I intend to find out why.
+<b>Twilight Sparkle</b>: Hmm. That doesn't sound like Spike. Did you two have some sort of fight?
+<b>Rarity</b>: A fight? Goodness, Twilight. What in Equestria would we fight about?
+<b>Twilight Sparkle</b>: I've had arguments with friends before, and they can put a real strain on friendships.
+<b>Rarity</b>: Well, certainly. But I think I'd remember if we had an argument.
+<b>Twilight Sparkle</b>: Maybe you didn't realize it? Do you think you could've done something that unintentionally hurt his feelings?
+<b>Rarity</b>: Well, if I didn't realize what I did, how would I
+ know what I have done when I did it? [brays] I wonder if that's it. It 
+certainly would explain his behavior. I must apologize!
+<b>Twilight Sparkle</b>: For what?
+<b>Rarity</b>: Oh, pfft. That's hardly the point. Poor Spikey-Wikey! This calls for a grand gesture!
+<b>Twilight Sparkle</b>: Okay. Good talk. [groans]
+[door opens]
+<b>Rarity</b>: [grunting]
+[scraping]
+[clang!]
+<b>Gabby</b>: Wow! That's a big crate of stuff you're mailing.
+<b>Rarity</b>: I'm not mailing it.
+<b>Gabby</b>: Then why are you pushing it into the post office?
+<b>Rarity</b>: Oh. I didn't realize griffons worked at the Ponyville Post Office.
+<b>Gabby</b>: Oh! [giggles] No, I don't work here exactly. I'm the official mail carrier of Griffonstone. Gabby Griffon. Nice to meet ya!
+[rattling]
+<b>Rarity</b>: [sighs] Yes, well, uh, these things aren't for sending. They're for apologizing to Spike.
+<b>Gabby</b>: Oh! Spike was just here. He went to go make us a—
+<b>Rarity</b>: That's perfect! It'll give me a chance to practice. Uh, you stand there and tell me if I hit the right apologetic notes.
+<b>Gabby</b>: What are you apologizing for?
+<b>Rarity</b>: Darling, I don't see why that matters.
+[clattering]
+[gems clinking]
+[thud]
+[ka-chunk!]
+[deep boom]
+[music playing]
+<b>Rarity</b>: [overdramatically] And that is why I simply 
+cannot bear the thought of having hurt you! And even though I don't know
+ what it is that I did, I want you to know that it doesn't matter! 
+Because I am prepared to do anything to make it right! [sobs] And scene.
+[ka-chunk!]
+<b>Gabby</b>: [muffled speech]
+<b>Rarity</b>: Oh, sorry, dear. Here.
+<b>Gabby</b>: I said, that sure sounds genuine.
+<b>Rarity</b>: Well, of course it sounds genuine! It <i>is</i> genuine!
+[thud]
+<b>Spike</b>: Rarity? What are you doing?
+<b>Rarity</b>: Obviously, I'm working on my apology to you, Spike. I don't know how I could be more genuine. I mean— [gasps] Spike!
+[zip!]
+[ka-chunk!]
+[deep boom]
+[music playing]
+<b>Rarity</b>: [overdramatically] Oh, Spike! I am so sorry! Please forgive me!
+[crash!]
+[cat yowls]
+<b>Rarity</b>: [overdramatically] You have to forgive me! I 
+don't know what I did or why you're mad at me! Just please say you 
+forgive me! [wailing] Pleeeeeeeease!
+<b>Spike</b>: Of course I forgive you. But, uh, what are you apologizing for?
+[ka-chunk!]
+<b>Rarity</b>: Why does everypony keep harping on that—?! Wait. Don't <i>you</i> know?
+<b>Spike</b>: No, I'm not mad at you about anything.
+<b>Rarity</b>: B-But... But I don't understand. If you're not upset with me, why in Equestria would you refuse to go to the gem cave?
+<b>Spike</b>: Uh, because I had other plans?
+[clattering]
+<b>Gabby</b>: With me!
+<b>Rarity</b>: [gasps]
+<b>Rarity</b>: I don't understand. You two know each other?
+<b>Spike</b>: Gabby and I are sort of pen pals.
+<b>Gabby</b>: Yeah! There was this whole thing where I 
+pretended to get a cutie mark because griffons don't get cutie marks, so
+ Princess Twilight had Spike send a bunch of letters off to Griffonstone
+ about the first griffon ever to get a cutie mark! Which I didn't really
+ have.
+<b>Spike</b>: Gabby wrote back explaining things, and after that we just started writing back and forth.
+<b>Gabby</b>: Turns out we have a lot in common! We both come from cultures that don't have the friendliest of reputations.
+<b>Spike</b>: [slurps] And we're both in the message-sending business!
+<b>Gabby</b>: Uh-huh!
+<b>Spike</b> and <b>Gabby</b>: [chomp, gulp]
+<b>Gabby</b>: I sure wish I could send scrolls with my breath!
+<b>Spike</b> and <b>Gabby</b>: [laughing]
+<b>Rarity</b>: [forced laugh] Yes... Now I understand why you 
+didn't come to the gem cave. Having a friend in town is a rare treat. 
+Well, since you're busy today, maybe we can do something tomorrow. 
+Fabric shopping? I know how you love to pick out the colors.
+<b>Spike</b>: Uh, actually, now that there's a griffon at Twilight's school, Gabby's here all the time.
+<b>Gabby</b>: Grampa Gruff asks for a lot of updates about how Gallus is doing. [sighs] Speaking of which, I better get going.
+<b>Spike</b>: I'll fly with you.
+<b>Rarity</b>: Well, all right. You two fly along. I'm sure Spike and I can do something some other—
+[beat]
+<b>Rarity</b>: ...time?
+<b>Rarity</b>: I cannot decide which shade of purple is the most royal! And there's the pink! How will I ever choose?!
+<b>Rainbow Dash</b>: [grunting] Too bad Spike's not here. I bet he could help you narrow it down.
+<b>Rarity</b>: He is a good sounding board, isn't he?
+[muffled thud]
+[curtains close]
+[montage music]
+[camera clicks]
+[bits clinking]
+[door opens]
+[door opens]
+[thud]
+[slurping]
+[sewing machine whirring]
+<b>Rarity</b>: [sighs] Could you bring the pincushion a little 
+closer, dear? I suppose now that Spike's always so busy with Gabby, I'm 
+just now realizing how much his presence has meant to me over the years.
+[beat]
+<b>Rarity</b>: Even closer, darling. I don't want to prick you. I have to admit everything feels a bit "less than" without him. Too close!
+[thud]
+<b>Rarity</b>: Oh, darling, it's no use. Thank you for trying. I'm just accustomed to the help of a small, highly attentive dragon.
+<b>Fluttershy</b>: Maybe you should let Spike know how grateful you are for everything he's done for you.
+<b>Spike</b>: [snoring] Aah!
+<b>Rarity</b>: Oh, I am sorry, Spike. I didn't mean to frighten you.
+<b>Spike</b>: Rarity? What are you doing here?
+<b>Rarity</b>: Well, I realize it's late. Or rather, early. But
+ I have a surprise, and I just couldn't wait to share it. The Great Gem 
+Crevasse of the Crystal Mountains!
+[click]
+<b>Spike</b>: Whoa!
+<b>Rarity</b>: It is only accessible once a year, and I thought
+ a little day trip would make a wonderful thank you for all the help 
+you've given me over the years.
+<b>Spike</b>: Oh. But I'm supposed to meet Gabby today for her rounds.
+<b>Rarity</b>: I see. Well, there's always next year.
+[door opens]
+<b>Spike</b>: You know what? I'll just write her a note.
+<b>Rarity</b>: Are you sure?
+<b>Spike</b>: Absolutely.
+[train chugging]
+[train hisses]
+[gems clinking]
+<b>Spike</b>: Wow. Rarity, you weren't kidding. The Gem Crevasse was amazing! I'll be snacking on these for a week.
+<b>Rarity</b>: What did I tell you?
+<b>Gabby</b>: Hey, Spike!
+<b>Spike</b>: Gabby! You won't believe where I went today!
+<b>Gabby</b>: Actually, I think I will. I got your scroll. The Great Gem Crevasse sounds a lot better than doing my rounds.
+<b>Spike</b>: Mm-hmm!
+[gems clinking]
+<b>Gabby</b>: Whoa! It was definitely better! I gotta get back to Griffonstone, but you have to tell me all about the Crevasse tomorrow!
+<b>Spike</b>: Absolutely! [grunts] Thanks again, Rarity. What a great day.
+<b>Gabby</b>: Okay! Start from the beginning, because I want to hear everything!
+<b>Spike</b>: Well, to get to the Crevasse, you have to climb across a rope bridge because the air's too thin to fly!
+<b>Gabby</b>: That is amazing! Then what?!
+[thud]
+<b>Gabby</b>: Whoa!
+<b>Spike</b>: Sorry, Rarity!
+<b>Rarity</b>: Oh, no apology necessary, Spike. In fact, I was just looking for you.
+<b>Spike</b>: You were? Why?
+<b>Rarity</b>: Because I just acquired... these!
+<b>Spike</b>: Passes to Power Ponypalooza!? For today!?
+<b>Rarity</b>: Mm-hmm! I know we just went to the Crevasse, but
+ I feel I've barely scratched the surface of expressing my gratitude for
+ all you do.
+<b>Spike</b>: Uh... of course I want to go, but that'll be two days in a row we haven't hung out.
+<b>Gabby</b>: Nah! Are you kidding? It's Power Ponypalooza! You have to go! And now you'll have <i>two</i> things to tell me about!
+<b>Spike</b>: Okay! Come on, Rarity! Let's go!
+<b>Spike</b>: Whew! Are my claws sore.
+<b>Rarity</b>: Indeed. I had no idea how much walking there is at a Power Pony convention!
+<b>Spike</b>: [grunting] Aww. I know I told Gabby we'd hang out tomorrow, but I might need the whole day to rest.
+<b>Rarity</b>: Whoo. I know what you mean. Perhaps you could, uh, just send her another note.
+<b>Rarity</b> and <b>Spike</b>: [grunting]
+<b>Spike</b>: [chuckles] I think maybe you're right.
+<b>Rarity</b>: Honestly, I might need to spend tomorrow putting my hooves up as well. [laughs]
+[door opens]
+[knock on door]
+[door opens]
+<b>Rarity</b>: I hadn't counted on Power Ponypalooza being quite so draining, but I thought we might spend the day recuperating together.
+<b>Spike</b>: No way! <i>Ogres &amp; Oubliettes</i>?!
+<b>Rarity</b>: Well, I know how much you enjoy it. And this seemed like the perfect opportunity for you to teach me the game.
+[door opens]
+<b>Gabby</b>: [echoing] Spike? I got your note! I figured I'd come by before my rounds with a bowl of energizing turnip soup.
+<b>Rarity</b> and <b>Spike</b>: [laughter fading in]
+<b>Rarity</b>: Can Princess Shmarity use her Shield of the Coiffure to defend herself from the purveyor of poor color coordination?
+<b>Spike</b>: Oh, she can try... Success! Shmarity's shield holds against the Green-Eyed Monster's attack! And then—!
+<b>Gabby</b>: Spike?
+<b>Spike</b>: Oh, hi, Gabby. We were just—
+<b>Gabby</b>: Your scroll said you were too tired to do anything today. But I guess you were just too tired to do anything with me.
+<b>Spike</b>: No-no-no-no! That's not true! I can come with you on your rounds right now!
+<b>Gabby</b>: I don't think so, Spike. Maybe I'll just handle the rounds on my own from now on.
+[thermos clinking]
+<b>Rarity</b>: Oooh! Princess Shmarity uses her Prismatic Beam to change that poor monster's color to a more pleasing shade of purple!
+<b>Rarity</b>: What do you think, Spike? Solids or prints?
+<b>Spike</b>: [sighs] Prints, I guess. You already have a lot of solid colors.
+<b>Rarity</b>: Oh, you are so right. Prints it is! So nice to have you back, Spike.
+[cash register rings]
+<b>Rarity</b>: Although I hope you're able to reconcile with Gabby.
+<b>Spike</b>: I'm pretty sure she doesn't want to.
+[montage music]
+<b>Rarity</b>: I quite enjoyed our day together today, Spike.
+<b>Spike</b>: Yeah...
+<b>Twilight Sparkle</b>: Hi, Spike.
+<b>Spike</b>: Uh-huh...
+<b>Twilight Sparkle</b>: Hmmm. I've never seen Spike this sad before. Do you know what happened?
+<b>Rarity</b>: [clears throat] Yes, well, perhaps he's still just tired from Power Ponypalooza.
+<b>Twilight Sparkle</b>: I don't think that's it.
+<b>Rarity</b>: I... suppose... it's possible it could have something to do with... [coughs] Gabby not wanting to spend time with him anymore.
+<b>Twilight Sparkle</b>: What? I thought the two of them were hanging out all the time.
+<b>Rarity</b>: They were! Honestly, it took everything I had to
+ convince him to spend any time with me at all! But between crystal gem 
+crevasses, Power Pony conventions, and a marathon game of <i>O&amp;O</i>, I managed to get some time in.
+<b>Twilight Sparkle</b>: It sounds like you made sure he didn't have any time to spend with Gabby at all.
+<b>Rarity</b>: What?! Pfft! I most certainly did not!
+[beat]
+<b>Rarity</b>: Well, I... suppose I may have monopolized him a 
+teeny bit. [sighs] I'd just grown so used to having Spikey-Wikey around,
+ I wasn't prepared for how much I'd miss him when he wasn't.
+<b>Twilight Sparkle</b>: Friendships change, but just because Spike made a new friend doesn't mean he stops being yours.
+<b>Rarity</b>: I know, but now I have to share him! Which I suppose I'll have to get used to. [gasps] Right after I fix the mess I've made!
+<b>Twilight Sparkle</b>: Good talk.
+<b>Gabby</b>: [sighs]
+[door opens]
+[music playing]
+<b>Gabby</b>: Rarity? Is all this stuff for Spike again? Wouldn't it be easier to just give it to him? And why are you even here?
+<b>Rarity</b>: I am here to apologize. Actually, more to confess. And all of this stuff isn't for Spike. It's the evidence against me!
+<b>Gabby</b>: Evidence? For what?
+<b>Rarity</b>: For my acts of utter selfishness!
+<b>Gabby</b>: I don't understand.
+<b>Rarity</b>: These are items I used to lure Spike into spending as much time with me as possible!
+<b>Gabby</b>: They are? You did?
+<b>Spike</b>: Rarity? What are you doing?
+<b>Rarity</b>: Well, obviously I'm apologizing to Gabby so the 
+two of you can renew your friendship, Spike. Now please, even if you 
+can't forgive me, you simply must forgive— [gasps] Spike?! Oh. I 
+actually owe you an apology, too.
+<b>Gabby</b>: You apologize a lot.
+<b>Rarity</b>: I wish I didn't need to, but the more time you 
+two spent together, the more I missed my time with Spike, and the more I
+ used every means at my disposal to get it back. I am truly sorry.
+<b>Spike</b>: You really miss spending time with me?
+<b>Rarity</b>: Oh, of course!
+<b>Gabby</b>: I have to say, after not hanging out with you, I 
+understand why. You're kinda awesome! And I know what it's like to miss 
+that now, too.
+<b>Spike</b>: So, do you think maybe we could start hanging out again?
+<b>Gabby</b>: Absolutely.
+<b>Spike</b>: I don't suppose you'd like some company on your rounds right now?
+<b>Gabby</b>: I sure would!
+<b>Rarity</b>: Wonderful! I can't tell you how pleased I am that the two of you have— [laughs] ...reconciled.
+[pickaxe clinking]
+<b>Rarity</b>: [whispering] I suppose Twilight is right. Friendships do change.
+[gem shattering]
+[bats squeaking]
+<b>Rarity</b>: [whispering] Of course Spike and I will always be friends, and I can get used to sharing him.
+<b>Pinkie Pie</b>: [panicked yelping, whispering] Sorry! I just didn't want to drop another one and wake the bats.
+<b>Rarity</b>: [whispering] Darling. Catching the gems is what the basket is for.
+<b>Spike</b>: [whispering] Wow. You two need to be a lot quieter.
+<b>Rarity</b>: Spike! How wonderful to see you!
+<b>Spike</b>: Yeah. Gabby and I had a great day, but I'll always still want my Rarity time.
+[pickaxe clinking]
+[gem shattering]
+<b>Pinkie Pie</b>: Ohhhh! So that's how it works!
+[wings flapping]
+<b>Pinkie Pie</b>, <b>Rarity</b>, and <b>Spike</b>: [scream]
+[credits]

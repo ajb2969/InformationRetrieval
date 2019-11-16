@@ -1,197 +1,303 @@
-<b>Rarity</b>: [gasp] Here? I get to stay  <i>here</i>? 
-<b>Princess Celestia</b>: Twilight Sparkle said you were coming to Canterlot for a visit, and asked if I might accommodate you. 
-<b>Opalescence</b>: [purring] 
-<b>Rarity</b>: Thank you so much, Princess. 
-<b>Princess Celestia</b>: You're very welcome. 
-<b>Rarity</b>: No,  <i>really</i>. This is so nice of you. 
-<b>Princess Celestia</b>: It's nothing, really. 
-<b>Rarity</b>: Oh, but it isn't nothing, it's everything! I, I just don't know what to say but thank you, thank you! [kiss] Thank you! [kiss] Thank you! [kiss] Thank you, thank you, thank you! [more kisses] 
-<b>Princess Celestia</b>: You are very we– 
-<b>Rarity</b>: Thank you! 
-<b>Bags Valet</b>: [pant] Your luggage, mademoiselle? 
-<b>Princess Celestia</b>: I'll leave you to get settled. 
-<b>Bags Valet</b>: Your highness. 
-<b>Princess Celestia</b>: Enjoy your stay. 
-<b>Rarity</b>: Thank you! 
-<b>Bags Valet</b>: [straining] Where would you like me to put these? 
-<b>Rarity</b>: That's perfect. <b>Rarity</b>: Opal, do you know what I love about Canterlot? [sip] Ahh. Everything! I may have been born in Ponyville, but I am a Canterlot pony at heart. [sip] Now, I know that we are here to pick up some fabrics for the shop, but Twilight was such a dear to get me that suite at the castle, I simply must make her something to express my gratitude. Hmm... ooh! An outfit for her birthday party this weekend! Perfect! Don't you just love it here, Opalescence? [sip] 
-<b>Jet Set</b>: Please excuse our interruption. I'm Jet Set, and this is my wife Upper Crust. We saw you from across the cafe and just  <i>had</i> to find out... 
-<b>Upper Crust</b>: ...Where did you get that simply  <i>marvelous</i> chapeau? 
-<b>Rarity</b>: Oh, this old thing? Oh, it's just something I– 
-<b>Hayseed Turnip Truck</b>: Rarity! Hey, Rarity! Whoo! It's me, Hayseed Turnip Truck! We met at the big hoedown in Ponyville last month? 
-<b>Rarity</b>: Oh, yes, of course... how are you? 
-<b>Hayseed Turnip Truck</b>: Good! Real good! 
-[crash] 
-<b>Jet Set</b> and  <b>Upper Crust</b>: Hmm... 
-<b>Jet Set</b>: You're from... Ponyville? 
-<b>Rarity</b>: Well, yeah, yes, but– 
-<b>Hayseed Turnip Truck</b>: She sure is! She's a real big-time fancy pants dressmaker there! Probably made that real purty thing she's got on her head! 
-<b>Upper Crust</b>: I thought it looked a little  <i>country</i>. 
-<b>Jet Set</b>: I told you it wasn't something you could get here in Canterlot, dear. 
-<b>Jet Set</b> and  <b>Upper Crust</b>: Hmph! 
-<b>Hayseed Turnip Truck</b>: Well, they seemed real nice. 
-<b>Rarity</b>: [disappointed sigh] <b>Rarity</b>: "Looked a little country". "Not something you can get in Canterlot". I'll show you something worthy of Canterlot! <b>Rarity</b>: [panting] I have to get started right away. This new design is very ambitious, and I've already written to Twilight to let her know she'll have something beyond fabulous to wear to her party. [gasps] Fancy Pants! 
-<b>Fancy Pants</b>: I say, that's one way to make an introduction. 
-<b>Rarity</b>: Oh, goodness, I am so sorry. I didn't see you there. I've just got so many bags and I was trying to get back to my suite at the castle and– 
-<b>Fancy Pants</b>: You're staying at the castle? 
-<b>Rarity</b>: Wh– The Princess invited me to stay in one of the suites. 
-<b>Fancy Pants</b>: You know the Princess? 
-<b>Fleur de Lis</b>: Hmm, a pony with expensive tastes, I see. 
-<b>Rarity</b>: Oh, it's for an ensemble I'm making for a friend. Her birthday is in a few days. [pants] Again, I am really sorry I bumped into you. 
-<b>Fancy Pants</b>: I'm not! Heheh, you are obviously somepony worth bumping into! Listen, I have a VIP box reserved at the Wonderbolts Derby this afternoon. Would you, would you be so kind as to join me and a few of my companions there? 
-<b>Rarity</b>: Me? 
-<b>Fancy Pants</b>: But of course, my dear. 
-<b>Rarity</b>: Well, I'm, uh, ah- no- sure. 
-<b>Fancy Pants</b>: We'd love to see you there, uh...? 
-<b>Rarity</b>: Rarity. 
-<b>Fancy Pants</b>: Rarity. <b>Rarity</b>: Pro: Seeing the Derby from a VIP box is a once-in-a-lifetime opportunity. Con: Going to the Derby cuts into the amount of time I have to finish Twilight's outfit. Pro: Fancy Pants is  <i>the</i> most important pony in Canterlot. His stamp of approval could mean big things for me here. Con: Twilight's party might not be as sophisticated as the Derby, but that doesn't mean I shouldn't put all of my energy into creating her birthday ensemble. My Ponyville friends will appreciate my hard work more than anypony. I'd hate to let them down. And I won't. Opal, I am going to the Wonderbolts Derby as a guest of Fancy Pants! [excited giggling] <b>Rarity</b>: Pardon me. 'Scuse me, 'scuse me! 
-<b>Fancy Pants</b>: Rarity, jolly good to see you! So glad you could make it. 
-[ponies chattering] 
-<b>Fancy Pants</b>: Everypony, this is Rarity. She's staying at Canterlot Castle. 
-<b>Ponies</b>: [gasp, confused chattering] 
-<b>Announcer</b>: Fillies and gentlecolts, welcome to the Wonderbolts Derby! The competitors are taking their places at the starting line, and the race will begin momentarily! 
-<b>Fancy Pants</b>: I'll be rooting for Rapidfire, of course. He's sure to take home the grand prize. 
-[ponies agreeing] 
-<b>Rarity</b>: I don't think he has a chance against Fleetfoot. 
-[ponies gasp] 
-[fanfare] 
-[whistle] 
-<b>Announcer</b>: And it's Fleetfoot by a nose! 
-<b>Rarity</b>: [cheers] 
-<b>Fancy Pants</b>: Bravo, Rarity! I say, how did you know Fleetfoot would be victorious? 
-<b>Rarity</b>: My friend Rainbow Dash talks about her all the time. She says what Fleetfoot lacks in size, she makes up for in speed. 
-<b>Silver Frames</b>: And who is this 'Rainbow Dash'? 
-<b>Rarity</b>: Uh... [gulps] Why... she's... she's the... the Wonderbolts' trainer, of course. 
-<b>Fancy Pants</b>: Staying at Canterlot Castle,  <i>and</i> she knows the Pegasus training the Wonderbolts. I told you all this was an important pony. 
-[ponies chattering] 
-<b>Fancy Pants</b>: Three cheers for Rarity, my new favorite party guest! 
-<b>Ponies</b>: Hip hip, hooray! Hip hip, hooray! Hip hip, hooray! <b>Rarity</b>: ...And then I said, "Puh-lease, that isn't a hat, darling, that's a natural disaster that somehow landed atop your head!" 
-[ponies laughing] 
-<b>Silver Frames</b>: Oh, you are a delight, Rarity, an absolute delight. You simply must attend my art gallery opening this evening. [laughs] 
-<b>Rarity</b>: Oh, I'd love to, but I– 
-<b>Golden Gavel</b>: And let's not forget my charity auction tomorrow morning. 
-<b>Rarity</b>: Well, that sounds wonderful, but I– 
-<b>Swan Song</b>: And of course there's a seat for you at my dinner party tomorrow night. 
-<b>Rarity</b>: I'm flattered, really. It's just I have a project I really need to get started on, and- 
-<b>Silver Frames</b>: Oh, but Rarity! I may as well close down the whole gallery if  <i>you</i> can't attend! 
-<b>Golden Gavel</b>: My auction is for charity, dear. For  <i>charity</i>... 
-<b>Swan Song</b>: And my dinner party will be a disaster if you don't come. 
-<b>Rarity</b>: ...of course I'll be there. 
-<b>Silver Frames</b>: Wonderful! 
-<b>Golden Gavel</b>: Oh, thank goodness! 
-<b>Swan Song</b>: Disaster averted! <b>Rarity</b>: Looks like we'll be spending a few more days here, Opalescence. Turns out bumping into Fancy Pants like that was the best thing that's ever happened to me. Of course, finishing Twilight's dress in time for her birthday party is still my top priority, but I can't possibly disappoint the Canterlot elite by rejecting their invitations now, can I? <b>[Rarity]</b>  <dl>  <dd>   I'll be the toast of the town, the girl on the go   </dd>  <dd>   I'm the type of pony every pony, every pony should know   </dd>  <dd>   I'll be the one to watch, the girl in the flow   </dd>  <dd>   I'm the type of pony every pony, every pony should know   </dd> </dl> <dl>  <dd>   Becoming as popular as popular can be   </dd>  <dd>   Making my mark, making my mark in high society   </dd>  <dd>   I'm the belle of the ball, the star of the show, yeah   </dd>  <dd>   I'm the type of pony every pony, every pony should know   </dd> </dl> <dl>  <dd>   See how they hang on every word that I speak   </dd>  <dd>   My approving glance is what they all seek   </dd>  <dd>   I'm the creme de la creme, not just another Jane Doe   </dd>  <dd>   I'm the type of pony every pony should know   </dd> </dl> <dl>  <dd>   At home, at the opera, on a fancy yacht   </dd>  <dd>   Becoming the talk, the talk of all of Canterlot   </dd>  <dd>   I'm the creme de la creme, not just another Jane Doe, yeah   </dd>  <dd>   I'm the type of pony every pony, every pony should know   </dd> </dl> <dl>  <dd>   Because I'm the type of pony   </dd>  <dd>   Yes, I'm the type of pony   </dd>  <dd>   Yes, I'm the type of pony every pony should know   </dd> </dl> <b>Rarity</b>: Oh, I hope I haven't forgotten anything. 
-<b>Bags Valet</b>: Me... too... 
-<b>Rarity</b>: We'd better get going. 
-<b>Opalescence</b>: [yowls] 
-<b>Rarity</b>: I must get back to Ponyville with enough time to finish Twilight's ensemble. 
-[letterbox clicks] 
-<b>Rarity</b>: For me?  <i>Dearest Rarity, your presence is requested at the Canterlot garden party tomorrow afternoon. Yours, Jet Set and Upper Crust</i>! [gasps] The Canterlot garden party! Why, next to the Galloping Gala that is  <i>the</i> premier event in Canterlot! [squeals] Oh, but if I go, I'll miss Twilight's birthday... But if I don't go, my new reputation in Canterlot as a Very Important Pony might be ruined! I might never be invited to another high society event again! Friend's birthday... Very Important Pony... [winces] It's just too important. [takes deep breath]  <i>My dear Twilight, I am afraid I won't be able to make it to your birthday party tomorrow, because... because poor Opal is quite ill, and she is in no condition to make the long journey back to Ponyville! I do hope you understand. Your friend, Rarity.</i> 
-<b>Bags Valet</b>: I suppose this means you don't need me to bring down your bags? 
-<b>Rarity</b>: No. But, I will need some help unpacking them. 
-<b>Bags Valet</b>: Oomph! 
-<b>Opalescence</b>: [yowls] <b>Rarity</b>: What do you think? Too much? You're right. Too little. Ah, garden party, here I come! 
-<b>Rest of main cast</b>: Surprise! 
-<b>Rarity</b>: [gasps] <b>Pinkie Pie</b>: [fades in] Swoosh! And right before she hit the ground, shoom, she– Hi again! 
-<b>Rarity</b>: What are you– how did you– Why are you– 
-<b>Applejack</b>: Listen to her. She's so excited to see us, she can hardly talk. 
-<b>Rarity</b>: What I mean to say is, what are you all doing here? 
-<b>Twilight Sparkle</b>: When I got your letter saying you were stuck in Canterlot, I asked Pinkie Pie if it wouldn't be too much trouble to move my birthday party here, so you wouldn't have to miss it! 
-<b>Pinkie Pie</b>: Balloons are super easy to pack. 
-[balloons deflate] 
-<b>Rarity</b>: Wow... First you get me a suite at Canterlot Castle and now  <i>this</i>. I don't know what to say, Twilight. 
-<b>Rainbow Dash</b>: How about you start by saying what you're doing in that fancy getup? 
-<b>Rarity</b>: This? Uh- well, I- I always put on something a little fancy when Opal's feeling under the weather... Cheers her right up. [laughs nervously] 
-<b>Fluttershy</b>: Oh, poor Opal. Where is the sick darling? 
-<b>Rarity</b>: Oh, uhh, she's... Hold on a minute. 
-[doors slam] 
-<b>Rest of main cast</b>: Huh? 
-<b>Opalescence</b>: [yowls] 
-<b>Rarity</b>: I am so sorry about this. 
-[running water] 
-<b>Opalescence</b>: [more yowling] 
-<b>Rarity</b>: She's resting on the bed. 
-<b>Fluttershy</b>: Poor baby. 
-<b>Opalescence</b>: [more yowling] 
-<b>Fluttershy</b>: She looks awful. 
-<b>Opalescence</b>: [growls] 
-<b>Twilight Sparkle</b>: Is... that my dress? 
-<b>Rarity</b>: Yes. 
-<b>Twilight Sparkle</b>: It's so... simple. So practical. So  <i>me</i>! It's the perfect dress for my birthday party! I love it! 
-<b>Rarity</b>: [sighs in relief] You don't know how glad I am to hear you say that. <b>Twilight Sparkle</b>: When I told the Princess that I was moving the party to Canterlot, she was kind enough to offer us the Canterlot Castle ballroom! 
-<b>Pinkie Pie</b>: Isn't it fancy pants? 
-<b>Rarity</b>: Fancy Pants?! Where?! Ahh, I mean,  <i>where</i> did you find the time to put up all these decorations? Ha-ha. [chirp] 
-<b>Pinkie Pie</b>: Oh, I never leave home without my party cannon! 
-[explosion] 
-[party blowers blow] 
-<b>Pinkie Pie</b>: Ta-da! 
-<b>Twilight Sparkle</b>: I thought about having my birthday outside, but they're having another party on the castle grounds today. 
-[ponies chattering] 
-<b>Pinkie Pie</b>: Let's party! 
-[swing music] <b>Rarity</b>: Mmh... No reason I can't at least make an appearance... [classical music] 
-<b>Rarity</b>: I'm here! 
-<b>Upper Crust</b>: Darling, I'm so glad you made it. 
-<b>Fancy Pants</b>: Rarity! So happy to see you here. 
-<b>Rarity</b>: I wouldn't have missed this for the world. 
-<b>Fancy Pants</b>: [sniffs] I say, what is that scent you're wearing? It smells like... [sniffs] Is that cake frosting? 
-<b>Rarity</b>: ...Yes, I always dab a little frosting behind my ears before I go out. [laughs nervously] After all, who doesn't like the smell of cake frosting? 
-<b>Fancy Pants</b>: I know I do. 
-<b>Upper Crust</b>: Mm-hmm. 
-<b>Rarity</b>: [sighs] Well, all this talk about cake has made me hungry. Think I'll go and see what's on the hors d'oeuvre table. If you'll excuse me... 
-<b>Fancy Pants</b> and  <b>Upper Crust</b>: [starting conversation] <b>Fancy Pants</b> and  <b>Upper Crust</b>: [continuing conversation] <b>Rarity</b>: [chokes] <b>Rarity</b>: I think I left the bathwater running in my suite. <b>Rarity</b>: I really should go check on Opal... <b>Rarity</b>: Is that Princess Celestia? <b>Rarity</b>: [hushed] I need to use the little fillies' room! 
-<b>Twilight Sparkle</b>: [blows party trumpet] <b>Rarity</b>: Can I get anypony more punch? <b>Rarity</b>: I... have to go to do the... thing with the... stuff... you know...? [trails off] <b>Rainbow Dash</b>: Uh, what's with the croquet mallet? 
-<b>Rarity</b>: [muffled] What croquet mallet? 
-<b>Rainbow Dash</b>: Duh, the one in your mouth! 
-<b>Rarity</b>: [laughs nervously] Ooh,  <i>that</i> croquet mallet. I- well I, you know, the truth is... the truth is... 
-<b>Twilight Sparkle</b>: Were you at that other party in the garden? 
-<b>Rarity</b>: I, I... 
-<b>Twilight Sparkle</b>: Rarity, I'm surprised at you. 
-<b>Rarity</b>: Twilight let me explain! I– 
-<b>Twilight Sparkle</b>: I hadn't realized you were such a savvy businesspony! 
-<b>Rarity</b>: You must understand! I– 
-<b>Twilight Sparkle</b>: All of those ponies look so posh. And with the Grand Galloping Gala coming up, I bet you could totally get some of them to buy your dresses. Very smart! 
-<b>Rarity</b>: Woo, wwwhy yes, I-I didn't want you to think I was being rude, so that's  <i>exactly</i> the reason I didn't tell you. The one and only reason. [laughs nervously] 
-<b>Twilight Sparkle</b>: Oh, well, you didn't have to do that. You should totally go over there and mingle! 
-<b>Rarity</b>: Twilight, you really are the best friend a pony could ever ask for. I don't know why I ever thought you wouldn't understand. 
-<b>Twilight Sparkle</b>: Understand what? 
-<b>Rarity</b>: Nothing. See you girls later! 
-<b>Rainbow Dash</b>: Hey, wait up! We're your friends! I'm sure they won't mind if we check out the party too! C'mon, you guys! Let's show them how to party Ponyville style! 
-<b>Rarity</b>:  <i>Oh no</i>! [explosion] 
-[party blowers blow] 
-[birds chirping] 
-<b>Pinkie Pie</b>: Mmm! 
-<b>Applejack</b>: How come y'all aren't doing any gardening? This is a  <i>garden</i> party, isn't it? 
-<b>Rarity</b>: [sip] 
-<b>Jet Set</b>: Can you believe what that pony is wearing? 
-<b>Upper Crust</b>: It's just so plain. 
-<b>Rarity</b>: [nervous laugh] Yeah. 
-<b>Fancy Pants</b>: Excuse me, might I ask where you got your ensemble? 
-<b>Twilight Sparkle</b>: Why, yes! Yes, you may. A very,  <i>very</i> close friend of mine from Ponyville made it for me. 
-<b>Rarity</b>: [spits] 
-<b>Fancy Pants</b>: Ponyville? You don't say? 
-<b>Twilight Sparkle</b>: I  <i>do</i> say. Her name is– 
-<b>Rarity</b>: Fancy Pants! Come with me! I'd like to show you this, er, thing that's over there. On the other side of the room. 
-<b>Fancy Pants</b>: In a moment, my dear. This lovely filly from Ponyville was just about to tell me who made her charming dress. 
-<b>Rarity</b>: That dress? Oh come now, who cares, it's just a plain old– 
-<b>Twilight Sparkle</b>: Oh, don't be so modest! This dress you made is beautiful! 
-[ponies gasp] 
-[glass shattering] 
-<b>Twilight Sparkle</b>: We all think so! 
-<b>Fancy Pants</b>: [to Rarity] You know these ponies? 
-[ponies chattering] 
-<b>Rarity</b>: Yes. Yes, I do know them. They may not be as sophisticated as some of you Canterlot ponies, but they are my best friends. And they are without a doubt the most important ponies I know. 
-<b>Jet Set</b>: Important ponies? These ruffians? 
-<b>Upper Crust</b>: Don't make me laugh! 
-<b>Jet Set</b> and  <b>Upper Crust</b>: [laughing] 
-<b>Fancy Pants</b>: I, for one, find them charmingly rustic. 
-[ponies gasp] 
-<b>Fancy Pants</b>: And I think the dress you made for your friend is lovely. [chuckle] I dare say every mare in Canterlot will be wanting one. 
-<b>Upper Crust</b>: Oh, I'd like to place my order  <i>right now</i>. 
-<b>Jet Set</b>: I think you should get two. 
-<b>Fancy Pants</b>: Er, yes, now then. How about you introduce me to your friends? 
-<b>Rarity</b>: With pleasure! <b>Rarity</b>:  <i>Dear Princess Celestia,</i> 
-<i>I wanted to tell you about the important lesson I learned during my visit.</i> 
-<b>Princess Celestia</b>: Now that I would like to hear. 
-<b>Rarity</b>:  <i>I learned that no matter where you go in life, you should never forget that you are the product of your home and your friends. And that is something always to be proud of, no matter what.</i> 
-<b>Princess Celestia</b>: Hm, a very valuable lesson to have learned. 
-<b>Bags Valet</b>: It certainly is! But... might I ask that we hurry things up a bit?! Oh no! [music] 
-[credits] 
+<b>Rarity</b>: [gasp] Here? I get to stay <i>here</i>?
+<b>Princess Celestia</b>: Twilight Sparkle said you were coming to Canterlot for a visit, and asked if I might accommodate you.
+<b>Opalescence</b>: [purring]
+<b>Rarity</b>: Thank you so much, Princess.
+<b>Princess Celestia</b>: You're very welcome.
+<b>Rarity</b>: No, <i>really</i>. This is so nice of you.
+<b>Princess Celestia</b>: It's nothing, really.
+<b>Rarity</b>: Oh, but it isn't nothing, it's everything! I, I 
+just don't know what to say but thank you, thank you! [kiss] Thank you! 
+[kiss] Thank you! [kiss] Thank you, thank you, thank you! [more kisses]
+<b>Princess Celestia</b>: You are very we–
+<b>Rarity</b>: Thank you!
+<b>Bags Valet</b>: [pant] Your luggage, mademoiselle?
+<b>Princess Celestia</b>: I'll leave you to get settled.
+<b>Bags Valet</b>: Your highness.
+<b>Princess Celestia</b>: Enjoy your stay.
+<b>Rarity</b>: Thank you!
+<b>Bags Valet</b>: [straining] Where would you like me to put these?
+<b>Rarity</b>: That's perfect.
+[theme song]
+<b>Rarity</b>: Opal, do you know what I love about Canterlot? 
+[sip] Ahh. Everything! I may have been born in Ponyville, but I am a 
+Canterlot pony at heart. [sip] Now, I know that we are here to pick up 
+some fabrics for the shop, but Twilight was such a dear to get me that 
+suite at the castle, I simply must make her something to express my 
+gratitude. Hmm... ooh! An outfit for her birthday party this weekend! 
+Perfect! Don't you just love it here, Opalescence? [sip]
+<b>Jet Set</b>: Please excuse our interruption. I'm Jet Set, and this is my wife Upper Crust. We saw you from across the cafe and just <i>had</i> to find out...
+<b>Upper Crust</b>: ...Where did you get that simply <i>marvelous</i> chapeau?
+<b>Rarity</b>: Oh, this old thing? Oh, it's just something I–
+<b>Hayseed Turnip Truck</b>: Rarity! Hey, Rarity! Whoo! It's me, Hayseed Turnip Truck! We met at the big hoedown in Ponyville last month?
+<b>Rarity</b>: Oh, yes, of course... how are you?
+<b>Hayseed Turnip Truck</b>: Good! Real good!
+[crash]
+<b>Jet Set</b> and <b>Upper Crust</b>: Hmm...
+<b>Jet Set</b>: You're from... Ponyville?
+<b>Rarity</b>: Well, yeah, yes, but–
+<b>Hayseed Turnip Truck</b>: She sure is! She's a real big-time fancy pants dressmaker there! Probably made that real purty thing she's got on her head!
+<b>Upper Crust</b>: I thought it looked a little <i>country</i>.
+<b>Jet Set</b>: I told you it wasn't something you could get here in Canterlot, dear.
+<b>Jet Set</b> and <b>Upper Crust</b>: Hmph!
+<b>Hayseed Turnip Truck</b>: Well, they seemed real nice.
+<b>Rarity</b>: [disappointed sigh]
+<b>Rarity</b>: "Looked a little country". "Not something you can get in Canterlot". I'll show you something worthy of Canterlot!
+<b>Rarity</b>: [panting] I have to get started right away. This 
+new design is very ambitious, and I've already written to Twilight to 
+let her know she'll have something beyond fabulous to wear to her party.
+ [gasps] Fancy Pants!
+<b>Fancy Pants</b>: I say, that's one way to make an introduction.
+<b>Rarity</b>: Oh, goodness, I am so sorry. I didn't see you 
+there. I've just got so many bags and I was trying to get back to my 
+suite at the castle and–
+<b>Fancy Pants</b>: You're staying at the castle?
+<b>Rarity</b>: Wh– The Princess invited me to stay in one of the suites.
+<b>Fancy Pants</b>: You know the Princess?
+<b>Fleur de Lis</b>: Hmm, a pony with expensive tastes, I see.
+<b>Rarity</b>: Oh, it's for an ensemble I'm making for a 
+friend. Her birthday is in a few days. [pants] Again, I am really sorry I
+ bumped into you.
+<b>Fancy Pants</b>: I'm not! Heheh, you are obviously somepony 
+worth bumping into! Listen, I have a VIP box reserved at the Wonderbolts
+ Derby this afternoon. Would you, would you be so kind as to join me and
+ a few of my companions there?
+<b>Rarity</b>: Me?
+<b>Fancy Pants</b>: But of course, my dear.
+<b>Rarity</b>: Well, I'm, uh, ah- no- sure.
+<b>Fancy Pants</b>: We'd love to see you there, uh...?
+<b>Rarity</b>: Rarity.
+<b>Fancy Pants</b>: Rarity.
+<b>Rarity</b>: Pro: Seeing the Derby from a VIP box is a 
+once-in-a-lifetime opportunity. Con: Going to the Derby cuts into the 
+amount of time I have to finish Twilight's outfit. Pro: Fancy Pants is <i>the</i>
+ most important pony in Canterlot. His stamp of approval could mean big 
+things for me here. Con: Twilight's party might not be as sophisticated 
+as the Derby, but that doesn't mean I shouldn't put all of my energy 
+into creating her birthday ensemble. My Ponyville friends will 
+appreciate my hard work more than anypony. I'd hate to let them down. 
+And I won't. Opal, I am going to the Wonderbolts Derby as a guest of 
+Fancy Pants! [excited giggling]
+<b>Rarity</b>: Pardon me. 'Scuse me, 'scuse me!
+<b>Fancy Pants</b>: Rarity, jolly good to see you! So glad you could make it.
+[ponies chattering]
+<b>Fancy Pants</b>: Everypony, this is Rarity. She's staying at Canterlot Castle.
+<b>Ponies</b>: [gasp, confused chattering]
+<b>Announcer</b>: Fillies and gentlecolts, welcome to the 
+Wonderbolts Derby! The competitors are taking their places at the 
+starting line, and the race will begin momentarily!
+<b>Fancy Pants</b>: I'll be rooting for Rapidfire, of course. He's sure to take home the grand prize.
+[ponies agreeing]
+<b>Rarity</b>: I don't think he has a chance against Fleetfoot.
+[ponies gasp]
+[fanfare]
+[whistle]
+<b>Announcer</b>: And it's Fleetfoot by a nose!
+<b>Rarity</b>: [cheers]
+<b>Fancy Pants</b>: Bravo, Rarity! I say, how did you know Fleetfoot would be victorious?
+<b>Rarity</b>: My friend Rainbow Dash talks about her all the time. She says what Fleetfoot lacks in size, she makes up for in speed.
+<b>Silver Frames</b>: And who is this 'Rainbow Dash'?
+<b>Rarity</b>: Uh... [gulps] Why... she's... she's the... the Wonderbolts' trainer, of course.
+<b>Fancy Pants</b>: Staying at Canterlot Castle, <i>and</i> she knows the Pegasus training the Wonderbolts. I told you all this was an important pony.
+[ponies chattering]
+<b>Fancy Pants</b>: Three cheers for Rarity, my new favorite party guest!
+<b>Ponies</b>: Hip hip, hooray! Hip hip, hooray! Hip hip, hooray!
+<b>Rarity</b>: ...And then I said, "Puh-lease, that isn't a hat, darling, that's a natural disaster that somehow landed atop your head!"
+[ponies laughing]
+<b>Silver Frames</b>: Oh, you are a delight, Rarity, an absolute delight. You simply must attend my art gallery opening this evening. [laughs]
+<b>Rarity</b>: Oh, I'd love to, but I–
+<b>Golden Gavel</b>: And let's not forget my charity auction tomorrow morning.
+<b>Rarity</b>: Well, that sounds wonderful, but I–
+<b>Swan Song</b>: And of course there's a seat for you at my dinner party tomorrow night.
+<b>Rarity</b>: I'm flattered, really. It's just I have a project I really need to get started on, and-
+<b>Silver Frames</b>: Oh, but Rarity! I may as well close down the whole gallery if <i>you</i> can't attend!
+<b>Golden Gavel</b>: My auction is for charity, dear. For <i>charity</i>...
+<b>Swan Song</b>: And my dinner party will be a disaster if you don't come.
+<b>Rarity</b>: ...of course I'll be there.
+<b>Silver Frames</b>: Wonderful!
+<b>Golden Gavel</b>: Oh, thank goodness!
+<b>Swan Song</b>: Disaster averted!
+<b>Rarity</b>: Looks like we'll be spending a few more days 
+here, Opalescence. Turns out bumping into Fancy Pants like that was the 
+best thing that's ever happened to me. Of course, finishing Twilight's 
+dress in time for her birthday party is still my top priority, but I 
+can't possibly disappoint the Canterlot elite by rejecting their 
+invitations now, can I?
+<b>[Rarity]</b>
+I'll be the toast of the town, the girl on the go
+I'm the type of pony every pony, every pony should know
+I'll be the one to watch, the girl in the flow
+I'm the type of pony every pony, every pony should know
+
+Becoming as popular as popular can be
+Making my mark, making my mark in high society
+I'm the belle of the ball, the star of the show, yeah
+I'm the type of pony every pony, every pony should know
+
+See how they hang on every word that I speak
+My approving glance is what they all seek
+I'm the creme de la creme, not just another Jane Doe
+I'm the type of pony every pony should know
+
+At home, at the opera, on a fancy yacht
+Becoming the talk, the talk of all of Canterlot
+I'm the creme de la creme, not just another Jane Doe, yeah
+I'm the type of pony every pony, every pony should know
+
+Because I'm the type of pony
+Yes, I'm the type of pony
+Yes, I'm the type of pony every pony should know
+
+<b>Rarity</b>: Oh, I hope I haven't forgotten anything.
+<b>Bags Valet</b>: Me... too...
+<b>Rarity</b>: We'd better get going.
+<b>Opalescence</b>: [yowls]
+<b>Rarity</b>: I must get back to Ponyville with enough time to finish Twilight's ensemble.
+[letterbox clicks]
+<b>Rarity</b>: For me? <i>Dearest Rarity, your presence is requested at the Canterlot garden party tomorrow afternoon. Yours, Jet Set and Upper Crust</i>! [gasps] The Canterlot garden party! Why, next to the Galloping Gala that is <i>the</i>
+ premier event in Canterlot! [squeals] Oh, but if I go, I'll miss 
+Twilight's birthday... But if I don't go, my new reputation in Canterlot
+ as a Very Important Pony might be ruined! I might never be invited to 
+another high society event again! Friend's birthday... Very Important 
+Pony... [winces] It's just too important. [takes deep breath] <i>My dear Twilight, I am afraid I won't be able to make it to your birthday party tomorrow, because... because poor Opal is quite ill, and she is in no condition to make the long journey back to Ponyville! I do hope you understand. Your friend, Rarity.</i>
+<b>Bags Valet</b>: I suppose this means you don't need me to bring down your bags?
+<b>Rarity</b>: No. But, I will need some help unpacking them.
+<b>Bags Valet</b>: Oomph!
+<b>Opalescence</b>: [yowls]
+<b>Rarity</b>: What do you think? Too much? You're right. Too little. Ah, garden party, here I come!
+<b>Rest of main cast</b>: Surprise!
+<b>Rarity</b>: [gasps]
+<b>Pinkie Pie</b>: [fades in] Swoosh! And right before she hit the ground, shoom, she– Hi again!
+<b>Rarity</b>: What are you– how did you– Why are you–
+<b>Applejack</b>: Listen to her. She's so excited to see us, she can hardly talk.
+<b>Rarity</b>: What I mean to say is, what are you all doing here?
+<b>Twilight Sparkle</b>: When I got your letter saying you were
+ stuck in Canterlot, I asked Pinkie Pie if it wouldn't be too much 
+trouble to move my birthday party here, so you wouldn't have to miss it!
+<b>Pinkie Pie</b>: Balloons are super easy to pack.
+[balloons deflate]
+<b>Rarity</b>: Wow... First you get me a suite at Canterlot Castle and now <i>this</i>. I don't know what to say, Twilight.
+<b>Rainbow Dash</b>: How about you start by saying what you're doing in that fancy getup?
+<b>Rarity</b>: This? Uh- well, I- I always put on something a 
+little fancy when Opal's feeling under the weather... Cheers her right 
+up. [laughs nervously]
+<b>Fluttershy</b>: Oh, poor Opal. Where is the sick darling?
+<b>Rarity</b>: Oh, uhh, she's... Hold on a minute.
+[doors slam]
+<b>Rest of main cast</b>: Huh?
+<b>Opalescence</b>: [yowls]
+<b>Rarity</b>: I am so sorry about this.
+[running water]
+<b>Opalescence</b>: [more yowling]
+<b>Rarity</b>: She's resting on the bed.
+<b>Fluttershy</b>: Poor baby.
+<b>Opalescence</b>: [more yowling]
+<b>Fluttershy</b>: She looks awful.
+<b>Opalescence</b>: [growls]
+<b>Twilight Sparkle</b>: Is... that my dress?
+<b>Rarity</b>: Yes.
+<b>Twilight Sparkle</b>: It's so... simple. So practical. So <i>me</i>! It's the perfect dress for my birthday party! I love it!
+<b>Rarity</b>: [sighs in relief] You don't know how glad I am to hear you say that.
+<b>Twilight Sparkle</b>: When I told the Princess that I was 
+moving the party to Canterlot, she was kind enough to offer us the 
+Canterlot Castle ballroom!
+<b>Pinkie Pie</b>: Isn't it fancy pants?
+<b>Rarity</b>: Fancy Pants?! Where?! Ahh, I mean, <i>where</i> did you find the time to put up all these decorations? Ha-ha. [chirp]
+<b>Pinkie Pie</b>: Oh, I never leave home without my party cannon!
+[explosion]
+[party blowers blow]
+<b>Pinkie Pie</b>: Ta-da!
+<b>Twilight Sparkle</b>: I thought about having my birthday outside, but they're having another party on the castle grounds today.
+[ponies chattering]
+<b>Pinkie Pie</b>: Let's party!
+[swing music]
+<b>Rarity</b>: Mmh... No reason I can't at least make an appearance...
+[classical music]
+<b>Rarity</b>: I'm here!
+<b>Upper Crust</b>: Darling, I'm so glad you made it.
+<b>Fancy Pants</b>: Rarity! So happy to see you here.
+<b>Rarity</b>: I wouldn't have missed this for the world.
+<b>Fancy Pants</b>: [sniffs] I say, what is that scent you're wearing? It smells like... [sniffs] Is that cake frosting?
+<b>Rarity</b>: ...Yes, I always dab a little frosting behind my
+ ears before I go out. [laughs nervously] After all, who doesn't like 
+the smell of cake frosting?
+<b>Fancy Pants</b>: I know I do.
+<b>Upper Crust</b>: Mm-hmm.
+<b>Rarity</b>: [sighs] Well, all this talk about cake has made 
+me hungry. Think I'll go and see what's on the hors d'oeuvre table. If 
+you'll excuse me...
+<b>Fancy Pants</b> and <b>Upper Crust</b>: [starting conversation]
+<b>Fancy Pants</b> and <b>Upper Crust</b>: [continuing conversation]
+<b>Rarity</b>: [chokes]
+<b>Rarity</b>: I think I left the bathwater running in my suite.
+<b>Rarity</b>: I really should go check on Opal...
+<b>Rarity</b>: Is that Princess Celestia?
+<b>Rarity</b>: [hushed] I need to use the little fillies' room!
+<b>Twilight Sparkle</b>: [blows party trumpet]
+<b>Rarity</b>: Can I get anypony more punch?
+<b>Rarity</b>: I... have to go to do the... thing with the... stuff... you know...? [trails off]
+<b>Rainbow Dash</b>: Uh, what's with the croquet mallet?
+<b>Rarity</b>: [muffled] What croquet mallet?
+<b>Rainbow Dash</b>: Duh, the one in your mouth!
+<b>Rarity</b>: [laughs nervously] Ooh, <i>that</i> croquet mallet. I- well I, you know, the truth is... the truth is...
+<b>Twilight Sparkle</b>: Were you at that other party in the garden?
+<b>Rarity</b>: I, I...
+<b>Twilight Sparkle</b>: Rarity, I'm surprised at you.
+<b>Rarity</b>: Twilight let me explain! I–
+<b>Twilight Sparkle</b>: I hadn't realized you were such a savvy businesspony!
+<b>Rarity</b>: You must understand! I–
+<b>Twilight Sparkle</b>: All of those ponies look so posh. And 
+with the Grand Galloping Gala coming up, I bet you could totally get 
+some of them to buy your dresses. Very smart!
+<b>Rarity</b>: Woo, wwwhy yes, I-I didn't want you to think I was being rude, so that's <i>exactly</i> the reason I didn't tell you. The one and only reason. [laughs nervously]
+<b>Twilight Sparkle</b>: Oh, well, you didn't have to do that. You should totally go over there and mingle!
+<b>Rarity</b>: Twilight, you really are the best friend a pony could ever ask for. I don't know why I ever thought you wouldn't understand.
+<b>Twilight Sparkle</b>: Understand what?
+<b>Rarity</b>: Nothing. See you girls later!
+<b>Rainbow Dash</b>: Hey, wait up! We're your friends! I'm sure
+ they won't mind if we check out the party too! C'mon, you guys! Let's 
+show them how to party Ponyville style!
+<b>Rarity</b>: <i>Oh no</i>!
+[explosion]
+[party blowers blow]
+[birds chirping]
+<b>Pinkie Pie</b>: Mmm!
+<b>Applejack</b>: How come y'all aren't doing any gardening? This is a <i>garden</i> party, isn't it?
+<b>Rarity</b>: [sip]
+<b>Jet Set</b>: Can you believe what that pony is wearing?
+<b>Upper Crust</b>: It's just so plain.
+<b>Rarity</b>: [nervous laugh] Yeah.
+<b>Fancy Pants</b>: Excuse me, might I ask where you got your ensemble?
+<b>Twilight Sparkle</b>: Why, yes! Yes, you may. A very, <i>very</i> close friend of mine from Ponyville made it for me.
+<b>Rarity</b>: [spits]
+<b>Fancy Pants</b>: Ponyville? You don't say?
+<b>Twilight Sparkle</b>: I <i>do</i> say. Her name is–
+<b>Rarity</b>: Fancy Pants! Come with me! I'd like to show you this, er, thing that's over there. On the other side of the room.
+<b>Fancy Pants</b>: In a moment, my dear. This lovely filly from Ponyville was just about to tell me who made her charming dress.
+<b>Rarity</b>: That dress? Oh come now, who cares, it's just a plain old–
+<b>Twilight Sparkle</b>: Oh, don't be so modest! This dress you made is beautiful!
+[ponies gasp]
+[glass shattering]
+<b>Twilight Sparkle</b>: We all think so!
+<b>Fancy Pants</b>: [to Rarity] You know these ponies?
+[ponies chattering]
+<b>Rarity</b>: Yes. Yes, I do know them. They may not be as 
+sophisticated as some of you Canterlot ponies, but they are my best 
+friends. And they are without a doubt the most important ponies I know.
+<b>Jet Set</b>: Important ponies? These ruffians?
+<b>Upper Crust</b>: Don't make me laugh!
+<b>Jet Set</b> and <b>Upper Crust</b>: [laughing]
+<b>Fancy Pants</b>: I, for one, find them charmingly rustic.
+[ponies gasp]
+<b>Fancy Pants</b>: And I think the dress you made for your friend is lovely. [chuckle] I dare say every mare in Canterlot will be wanting one.
+<b>Upper Crust</b>: Oh, I'd like to place my order <i>right now</i>.
+<b>Jet Set</b>: I think you should get two.
+<b>Fancy Pants</b>: Er, yes, now then. How about you introduce me to your friends?
+<b>Rarity</b>: With pleasure!
+<b>Rarity</b>: <i>Dear Princess Celestia,</i>
+<i>I wanted to tell you about the important lesson I learned during my visit.</i>
+<b>Princess Celestia</b>: Now that I would like to hear.
+<b>Rarity</b>: <i>I learned that no matter where you go in life, you should never forget that you are the product of your home and your friends. And that is something always to be proud of, no matter what.</i>
+<b>Princess Celestia</b>: Hm, a very valuable lesson to have learned.
+<b>Bags Valet</b>: It certainly is! But... might I ask that we hurry things up a bit?! Oh no!
+[music]
+[credits]

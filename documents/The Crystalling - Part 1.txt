@@ -1,233 +1,334 @@
-<b>Starlight Glimmer</b>: [sighs] Okay. Library... Library... Where did they put the library? 
-[pause] 
-<b>Starlight Glimmer</b>: [sighs] This castle looked a lot smaller from the outside. 
-[door opens] 
-[brushing] 
-<b>Spike</b>: [muffled] Morning, Starlight! 
-<b>Starlight Glimmer</b>: Whoops! 
-[door shuts] 
-<b>Starlight Glimmer</b>: Sorry, Spike! I guess I'm still trying to find my way around. You don't happen to know where the library is, do you? 
-<b>Spike</b>: [muffled] Next door on the left! 
-<b>Starlight Glimmer</b>: Oh. Thanks! 
-<b>Twilight Sparkle</b>: Acceptance, mm-hmm. Altruism, definitely. Starlight, good morning, come in! 
-<b>Starlight Glimmer</b>: Sorry I'm late. I got a little turned around. I still can't believe you're letting me stay here... as your pupil... after everything I did. 
-<b>Twilight Sparkle</b>: Well, I'm not one to dwell on the past, and neither should you. The castle is your home now, and as far as being my pupil goes, I was just trying to figure out what your first friendship lesson should be! 
-<b>Starlight Glimmer</b>: Oh, well, it looks like you're really narrowing it down! 
-<b>Twilight Sparkle</b>: Oh, these are just the A's. After this, I move on to the B's! <b>Starlight Glimmer</b>: I know I'm just learning about friendship, but I didn't think there were this many lessons for  <i>anything</i>. How do we choose? 
-<b>Twilight Sparkle</b>: Maybe I should pare things down a bit before we go through them. Why don't you join the others in the throne room? They're planning our trip to the Crystal Empire when Shining Armor and Princess Cadance have their baby! 
-<b>Starlight Glimmer</b>: Throne room! Got it! [beat] Um, which way is the throne room? [nervous laugh] 
-<b>Twilight Sparkle</b>: [sighs] <b>Rainbow Dash</b>: Well, I think we should leave ASAP. I don't want to miss the Crystalling! 
-<b>Fluttershy</b>: But, um, shouldn't we wait for the invitation? 
-<b>Applejack</b>: Frankly, I'm not exactly clear on all the customs and traditions of the Crystal Empire, especially when it comes to a Crystalling. 
-<b>Starlight Glimmer</b>: What's a Crystalling? 
-<b>Rarity</b>: Well, that's just it, darling. Princess Cadance and Shining Armor's baby is due any day, and we're still not sure. The Crystal Empire was gone for a thousand years. A lot of their customs are a bit murky. 
-<b>Applejack</b>: We know it's got somethin' to do with the new baby. 
-<b>Pinkie Pie</b>: [quickly] And a party! 
-<b>Fluttershy</b>: And the Crystal Heart. 
-<b>Pinkie Pie</b>: [quickly] And a party! 
-<b>Rainbow Dash</b>: And some kinda cool energy. 
-<b>Pinkie Pie</b>: And... a party! 
-[confetti explosion] 
-<b>Spike</b>: It's not hard to understand. Most things in the Crystal Empire aren't. Like how I'm a big hero there, for example! 
-<b>Rarity</b>: [stifled giggle] 
-<b>Spike</b>: Eh... plus, I've had to help Twilight do a lot of research on Crystallings. Whenever a baby is born in the Crystal Empire, the parents bring it before the Crystal Heart. They get the purest shard of crystal they can find, then pick a crystaller to present the baby to everypony who comes. Then they all share the light and joy they feel, feeding it into the crystal that joins with the Heart, and increases its power! And this is going to be a royal Crystalling, so pretty much the whole empire will show up. That hasn't happened in a millennia! 
-<b>Starlight Glimmer</b>: What do you mean it increases the Crystal Heart's power? 
-<b>Spike</b>: The energy it uses to protect the Crystal Empire, I guess. 
-<b>Starlight Glimmer</b>: Protect it from what? 
-<b>Spike</b>: I... didn't help Twilight with that part. [paper rustling] 
-<b>Starlight Glimmer</b>: Hey, Twilight, can I ask you something about the Crystal Empire? 
-<b>Twilight Sparkle</b>: Huh! Funny you should mention it. Because I just narrowed your first friendship lesson down to three options, and one of them is in the Crystal Empire! 
-<b>Starlight Glimmer</b>: Really? 
-<b>Twilight Sparkle</b>: I found out that's where the first pony you ever cared about lives! 
-<b>Starlight Glimmer</b>: Sunburst? 
-<b>Twilight Sparkle</b>: Of course, that's just one idea. We could also go to Griffonstone. [begins fading out] Making friends with a griffon is a challenge all by itself! Or we could tag along with the CMC's the next time they try to help a pony figure out why they're special... 
-[high-pitched ringing] 
-<b>Twilight Sparkle</b>: [normal] Starlight? Is something wrong? 
-<b>Starlight Glimmer</b>: What? O-Oh, no, heh, those all sound great! 
-<b>Twilight Sparkle</b>: I know! I guess you were right – it  <i>is</i> gonna be hard to choose one! 
-<b>Starlight Glimmer</b>: [laughs nervously] ...Yeah. [door opens] 
-[clatter] 
-[magic noises] 
-[door closes] 
-[door opens] 
-[beat] 
-<b>Starlight Glimmer</b>: Ugh! I am never gonna find my way around this place! 
-<b>Spike</b>: Gee, Starlight, what's wrong? 
-<b>Starlight Glimmer</b>: I don't know, Spike. Twilight's figuring out what my first friendship lesson is, and I guess I'm not exactly thrilled with the options. Well... with one of them. 
-<b>Spike</b>: Which one? 
-<b>Starlight Glimmer</b>: Reuniting me with my first friend. 
-<b>Spike</b>: What's so terrible about that? 
-<b>Starlight Glimmer</b>: [sighs] [narrating]  <i>When we were foals, Sunburst knew everything there was to know about magic. He always knew just what to do. And he was always there to help me. I guess it's not surprising that Sunburst got his cutie mark in magic and... went off to Princess Celestia's school. But when he left...</i> 
-<b>Spike</b>: You blamed cutie marks and stripped a whole village of theirs, and when Twilight and the others stopped you, you went back in time and almost destroyed Equestria. 
-[poof] 
-<b>Starlight Glimmer</b>: Not really stuff I'm super eager to tell Sunburst about. I mean, he's probably some big important wizard now, and... I can't even find my way around Twilight's castle. 
-<b>Spike</b>: Well, if Sunburst is  <i>that</i> good at magic, maybe he'd appreciate your, uh... [clears throat] exploits. You should talk to Twilight about it. I'm sure she'd want to hear what you have to say. 
-<b>Starlight Glimmer</b>: I know. But I don't want her to think I'm not ready to learn or that I'm not grateful for everything she's doing. 
-<b>Twilight Sparkle</b>: Spike! Come quick! 
-[wind blowing] 
-<b>Spike</b>: It's a Crystalling invitation! 
-<b>Twilight Sparkle</b>: Shining Armor's a father! I'm an aunt! Well, this settles it! Since we're going to the Crystal Empire, your first friendship lesson is going to be... reuniting with Sunburst! 
-<b>Starlight Glimmer</b>: Great... [train whistle] 
-<b>Rainbow Dash</b>: [yawn] Um, Applejack, what is that? 
-<b>Applejack</b>: Oh, just a little somethin' for the young'un. Made from genuine Sweet Apple Acres apple trees. We make 'em for all the Apples, and anypony related to Twilight is practically family. 
-<b>Rainbow Dash</b>: Yeah, it's okay... But it's no Cloudsdale mobile! Bam! 
-<b>Pinkie Pie</b> and  <b>Rarity</b>: Ooh! 
-<b>Pinkie Pie</b>: Pretty! 
-[shatter] 
-<b>Applejack</b>: Well, a mobile is real nice... as long as you have somethin' to lay in so you can look at it. 
-<b>Rarity</b>:  <i>And</i> a fetching blanket to keep you warm. 
-<b>Twilight Sparkle</b>: I'm sure Shining Armor and Princess Cadance will love all our gifts. But I think they're more happy we'll be attending the baby's Crystalling. 
-<b>Pinkie Pie</b>: Ooh! I can't wait to see all that light and love make the Crystal Heart even more sparkly and shiny! 
-<b>Twilight Sparkle</b>: Actually, Pinkie, the Crystal Heart is an ancient and powerful relic. Without its magic, the Crystal Empire would be lost to the Frozen North. 
-<b>Starlight Glimmer</b>: Wow, this Crystalling sounds pretty important. I'd understand if you wanted to... you know... wait to do a different friendship lesson when we get back. 
-<b>Twilight Sparkle</b>: Are you kidding? This trip is perfect! Not only do I get to see the baby  <i>and</i> take part in the ceremony that helps maintain the magic of the Crystal Empire, but I'm starting my new pupil off with the most amazing friendship lesson ever! I can't wait! 
-<b>Starlight Glimmer</b>: Right... Me neither... [beat] Actually, Twilight, I am a little worried about meeting Sunburst. 
-<b>Twilight Sparkle</b>: Oh, trust me. I know what it's like to see old friends. But I'll be right there to help things along. I've broken the whole lesson down into a few easy steps to ensure this reunion goes off without a hitch! 
-<b>Starlight Glimmer</b>: [laughs nervously] [train chuffing] 
-<b>Twilight Sparkle</b>: [reading] Step one, head to Sunburst's house and get you two started on the right hoof. Step two, get to the castle with enough time to visit the ba— 
-[thump] 
-<b>Twilight Sparkle</b>: [gasps] Shining Armor! 
-<b>Shining Armor</b>: [tired] Twilight...! 
-<b>Twilight Sparkle</b>: I didn't know you were meeting us! 
-<b>Shining Armor</b>: [tired] Of course I am! It's me, right here. Here I am. Why wouldn't I come meet my sister? Though we have met before, heh-heh... 
-<b>Twilight Sparkle</b>: Are you all right? 
-<b>Shining Armor</b>: [tired] Never better! Being a father is amazing! And wonderful, and amazing, and confusing, and amazing, but surprising too, you know? I mean, not that you'd know. You wouldn't know, I know... You know? [beat] Sorry. I haven't really slept since Cadance had the baby. Come to think of it, she hasn't either. It sure would be great to get a break. 
-<b>Twilight Sparkle</b>: Oh, of course! I don't know what I was thinking! You two probably need all kinds of help! I'm sorry, Starlight, but I guess combining your first lesson with this visit wasn't such a good idea. 
-<b>Starlight Glimmer</b>: Oh, uh, don't be ridiculous! You're an aunt now! That's  <i>way</i> more important than some  <i>friendship lesson</i>. 
-<b>Twilight Sparkle</b>: I just wish there was a way to do both. 
-<b>Spike</b>: Maybe there is! You've already done the work for Starlight's lesson with this list. All we have to do is follow it! 
-<b>Twilight Sparkle</b>: Spike, you're a genius! 
-<b>Starlight Glimmer</b>: [through nervous laugh] Yeah... [through gritted teeth] genius. 
-<b>Twilight Sparkle</b>: Then it's settled! Shining Armor and I will head straight to the castle, and you two can head straight to Sunburst's! 
-<b>Spike</b>: Aye-aye, Princess! 
-<b>Starlight Glimmer</b>: [nervously] Uh-huh. 
-<b>Twilight Sparkle</b>: Alright, big brother, let's go see this amazing baby pony! 
-<b>Shining Armor</b>: [snoring] Ahhh... the baby... <b>Spike</b>: I know you're a little worried about this reunion, but I'm sure Twilight's got everything covered. 
-<b>Starlight Glimmer</b>: Everything  <i>except</i> how I'd rather do absolutely anything else. 
-<b>Spike</b>: Oh, I bet she's taken that into account too. It's all part of the lesson.  <i>Trust the lesson.</i> 
-<b>Starlight Glimmer</b>: Right... [beat] Hey, i-is that... you? 
-<b>Spike</b>: Oh, yep, it sure is! Now, according to the list, Sunburst's house is— 
-<b>Starlight Glimmer</b>: Why is there a statue of you in the Crystal Empire? 
-<b>"Scarlet Heart"</b>: Because Spike the Brave and Glorious saved all of us from King Sombra! 
-<b>"Amber Laurel"</b>: And then again during the Equestria Games! 
-<b>Starlight Glimmer</b>: Really? 
-<b>"Golden Väs"</b>: Really! [to Spike] Big fan. 
-<b>Starlight Glimmer</b>: Um, when were you going to tell me about this? 
-<b>Spike</b>: Nah, it's no big deal. 
-<b>Crystal Ponies</b>: It most certainly  <i>is</i>! 
-<b>Starlight Glimmer</b>: That's it! We're not going anywhere until I get the whole story! <b>Shining Armor</b>: Before we go in, I should probably tell you. Seeing the baby might be a bit of a shock. 
-<b>Twilight Sparkle</b>: Come on, big brother. I've met babies before. I expect meeting this one won't be any different. [gasps] 
-<b>Flurry Heart</b>: [coos] 
-<b>Twilight Sparkle</b>: Of course, I could be wrong. <b>Flurry Heart</b>: [burbling] 
-<b>Twilight Sparkle</b>: The baby is an Alicorn?! 
-<b>Princess Cadance</b>: [tired] It looks that way. 
-<b>Rarity</b>: But... But... But I thought Alicorn wings had to be earned by accomplishing some great, princess-worthy deed! 
-<b>Applejack</b>: Yeah. How can you just be born with 'em? 
-<b>Princess Celestia</b>: The birth of an Alicorn is something Equestria has never seen! 
-<b>Princess Luna</b>: It is beyond even our understanding. 
-<b>Fluttershy</b>: [hushed] That's not very reassuring. 
-<b>Pinkie Pie</b>: Wow! A unicorn,  <i>and</i> a Pegasus! So she could be a super-strong flyer  <i>and</i> have crazy baby magic! 
-<b>Rainbow Dash</b>: Well, I know  <i>all</i> about super-strong flying! 
-<b>Twilight Sparkle</b>: And I can help keep tabs on her magic! 
-<b>Flurry Heart</b>: [sneezes] [burbles] 
-<b>Princess Celestia</b>: It appears her magic is more powerful than that of a newborn unicorn! 
-<b>Princess Luna</b>: The crowds have already started to gather. 
-<b>Pinkie Pie</b>: [inhales] [blows balloon] This Crystalling is gonna be some party! 
-[balloon pops] 
-<b>Princess Cadance</b>: Do you think we should call it off? 
-<b>Rainbow Dash</b>: Um, we've all faced a lot worse than baby magic. 
-<b>Rarity</b>: I can't imagine cancelling such a beautiful and important ceremony over something so potentially adorable! 
-<b>Applejack</b>,  <b>Fluttershy</b>,  <b>Pinkie Pie</b> and  <b>Rainbow Dash</b>: [general agreement] 
-<b>Princess Celestia</b>: In light of the little one's abilities, this Crystalling might be more important than ever. [to Cadance] Perhaps you should address your subjects and remind them of that. 
-<b>Princess Cadance</b>: Hm. [kisses] 
-<b>Flurry Heart</b>: [baby noise] 
-<b>Shining Armor</b>: [snoring] 
-<b>Twilight Sparkle</b>: Shining Armor! Do you have everything you need for the ceremony? 
-<b>Shining Armor</b>: [tired] Huh? Oh, no! I still have to interview the honor guards, choose the purity crystal, and pick a crystaller! 
-<b>Twilight Sparkle</b>: Alright, take it easy. Pinkie can stay here with me and keep an eye on the baby. 
-<b>Pinkie Pie</b>: [squee] 
-<b>Flurry Heart</b>: [giggles] 
-<b>Applejack</b>: And we'll all help you with everythin' else. 
-<b>Shining Armor</b>: [snores] ...baby... 
-<b>Rarity</b>: That is, if you can stay awake long enough to tell us  <i>how</i>. <b>Spike</b>: ...and that's how we found the Crystal Heart, defeated King Sombra, and saved the Empire. 
-[Crystal Ponies cheering] 
-<b>"Cloudy Spinel"</b>: We love you, Spike! 
-<b>"Coral Shores"</b>: Yeah. Tell the one about the Equestria Games! 
-<b>Spike</b>: Well, as much as I love reliving my heroic deeds, Starlight and I have an important lesson to do, by order of the Princess of Friendship! 
-<b>Foals</b>: Awwww! 
-<b>Starlight Glimmer</b>: Aw, come on, Spike! I want to hear about the Games too! 
-[scribbling] 
-<b>Spike</b>: I know you're nervous about seeing Sunburst, but it says right in step 3, to, uh, "Deal with your fears by facing them, not by putting it off." 
-<b>Starlight Glimmer</b>: Ugh. Let's go get this over with. <b>Spike</b>: Wait! 
-<b>Starlight Glimmer</b>: Huh? What?! 
-<b>Spike</b>: Knocking on the door isn't the next thing on the list! 
-<b>Starlight Glimmer</b>: Seriously? 
-<b>Spike</b>: I know Twilight can be a little nitpicky, but this is your first lesson as her pupil, and it's important that we do it right! 
-<b>Starlight Glimmer</b>: Fine. What's the next thing on the list? 
-<b>Spike</b>: [clears throat] [reading] "Before they see each other, be sure to highlight the importance of the meeting." 
-<b>Starlight Glimmer</b>: I'm pretty sure we can skip that. 
-<b>Spike</b>: I don't know... I mean if we skip it, the whole lesson could go south! And then you might end up taking a giant step backwards instead of forwards! Maybe you'll never be able to learn anything about friendship at all! It's almost like your whole future depends on this moment. [beat] "Highlight the importance of the meeting" – check! I can't believe you wanted to skip that! 
-[knocking] 
-[long beat] 
-[door opens] 
-<b>Starlight Glimmer</b>: Sunburst? 
-<b>Sunburst</b>: Yes? What can I do for you? 
-<b>Starlight Glimmer</b>: It's... It's me, Starlight. We used to be friends? 
-<b>Sunburst</b>: [beat] Oh, of course! S-Starlight! My goodness, it-it's been a long time! What, uh, what have you been up to? 
-<b>Starlight Glimmer</b>: Me? Oh! You know, some of this, some of that, different... stuff. Right now, I'm sort of Twilight Sparkle's new pupil. 
-<b>Sunburst</b>: The Princess of Friendship? 
-<b>Starlight Glimmer</b>: Heh... yeah... that's actually kind of why I'm here. I mean, I know you're probably very busy. 
-<b>Sunburst</b>: What do you mean? 
-<b>Starlight Glimmer</b>: Well, I figured after magic school, you'd go on to do important wizard work, but... 
-<b>Sunburst</b>: Oh. No. Y-Yes! Uh, y-yes, that's me, yup. [nervous chuckle] Important wizard! Really busy with lots of, uh, wi-wizarding... stuff. [beat] Right. Uh, well... good to see you. 
-[door closes] 
-<b>Spike</b>: Huh. Maybe we should have skipped highlighting the importance of the meeting after all. 
-<b>Starlight Glimmer</b>: Well, I guess that's that! 
-<b>Spike</b>: Starlight, come on! We have to at least explain what Twilight wants! 
-<b>Starlight Glimmer</b>: [groans] 
-[knocking] 
-[door opens] <b>Princess Cadance</b>: [tired, amplified] Dearest citizens, I am sure you are all just as thrilled and ready for this Crystalling as myself and Shining Armor. 
-[crowd cheering] 
-<b>Shining Armor</b>: [panicked breathing] I'm not ready! 
-<b>Rainbow Dash</b>: Take it easy! Just pick whoever looks the most like honor guard material. 
-<b>Shining Armor</b>: Right... right. 
-[thump] 
-<b>Royal guards</b>: [whimpering] 
-<b>Shining Armor</b>: I'm sorry. Fatherhood is way more stressful than I ever thought. 
-<b>Fluttershy</b>: I can only imagine. 
-<b>Rarity</b>: Now, I know choosing the crystal of purity is a very important decision. So I have gone through the trouble of arranging them in order from incredibly pure to outrageously pure. 
-<b>Fluttershy</b>: Um, Rarity, don't they all sort of look the same? 
-<b>Rarity</b>: Oh, well, to the untrained eye, perhaps. What do you think, Shining Armor? 
-<b>Shining Armor</b>: [incoherent stammering]  <i>I don't know!</i> 
-<b>Rarity</b>: [hushed] I hope Twilight and Pinkie are having better luck with the baby! <b>Flurry Heart</b>: [burbling] 
-<b>Pinkie Pie</b>: Well... at least she's having... fun! 
-[magic zaps] 
-<b>Pinkie Pie</b>: Whee! 
-<b>Twilight Sparkle</b>: Pinkie, hold her still! 
-<b>Pinkie Pie</b>: I'm tryiiiiiiing! <b>Sunburst</b>: So... the Princess of Friendship wants you and I to be friends again? 
-<b>Starlight Glimmer</b>: Heh, I know. Weird, right? 
-<b>Sunburst</b>: Uh, I don't understand. Did something happen to you after I left for magic school? 
-<b>Starlight Glimmer</b>: What? 
-[thump] 
-<b>Starlight Glimmer</b>: No! I-I don't see what that has to do with anything. W-Why would you even ask that? 
-[tea pouring] 
-<b>Starlight Glimmer</b>: I mean, did something happen to  <i>you</i> after you left for magic school? 
-<b>Sunburst</b>: What? Um, no. L-Like you said, I'm a, [clears throat] i-important wizard. 
-<b>Spike</b>: I'm sure there's something on Twilight's list that can help here. <b>Shining Armor</b>: [heavy breathing] 
-[door opens] 
-<b>Shining Armor</b>: Okay. I chose the honor guard, picked the purity crystal, and I know exactly who I want to be our crystaller. So, all we need is... 
-<b>Princess Cadance</b>: The baby? 
-[beat] 
-<b>Twilight Sparkle</b>: We're here! 
-<b>Flurry Heart</b>: [burbling] 
-<b>Pinkie Pie</b>: She's a  <i>really</i> strong flyer! 
-[magic bubbling] 
-<b>Flurry Heart</b>: [sniffling] [loud crying] 
-[cracking] 
-[shattering] 
-<b>Everypony</b>: [gasps] 
-<b>Flurry Heart</b>: [burbling] 
-<b>Applejack</b>: I'm guessin' that's gonna make it harder to do the Crystalling. 
-<b>Twilight Sparkle</b>: It's worse than that. Without the Heart, the Crystal Empire's about to be buried under a mountain of ice and snow! 
-<b>Flurry Heart</b>: [burbles] 
-[To be continued...] [jaunty music over credits] 
+<b>Starlight Glimmer</b>: [sighs] Okay. Library... Library... Where did they put the library?
+[pause]
+<b>Starlight Glimmer</b>: [sighs] This castle looked a lot smaller from the outside.
+[door opens]
+[brushing]
+<b>Spike</b>: [muffled] Morning, Starlight!
+<b>Starlight Glimmer</b>: Whoops!
+[door shuts]
+<b>Starlight Glimmer</b>: Sorry, Spike! I guess I'm still trying to find my way around. You don't happen to know where the library is, do you?
+<b>Spike</b>: [muffled] Next door on the left!
+<b>Starlight Glimmer</b>: Oh. Thanks!
+<b>Twilight Sparkle</b>: Acceptance, mm-hmm. Altruism, definitely. Starlight, good morning, come in!
+<b>Starlight Glimmer</b>: Sorry I'm late. I got a little turned
+ around. I still can't believe you're letting me stay here... as your 
+pupil... after everything I did.
+<b>Twilight Sparkle</b>: Well, I'm not one to dwell on the 
+past, and neither should you. The castle is your home now, and as far as
+ being my pupil goes, I was just trying to figure out what your first 
+friendship lesson should be!
+<b>Starlight Glimmer</b>: Oh, well, it looks like you're really narrowing it down!
+<b>Twilight Sparkle</b>: Oh, these are just the A's. After this, I move on to the B's!
+[theme song]
+<b>Starlight Glimmer</b>: I know I'm just learning about friendship, but I didn't think there were this many lessons for <i>anything</i>. How do we choose?
+<b>Twilight Sparkle</b>: Maybe I should pare things down a bit 
+before we go through them. Why don't you join the others in the throne 
+room? They're planning our trip to the Crystal Empire when Shining Armor
+ and Princess Cadance have their baby!
+<b>Starlight Glimmer</b>: Throne room! Got it! [beat] Um, which way is the throne room? [nervous laugh]
+<b>Twilight Sparkle</b>: [sighs]
+<b>Rainbow Dash</b>: Well, I think we should leave ASAP. I don't want to miss the Crystalling!
+<b>Fluttershy</b>: But, um, shouldn't we wait for the invitation?
+<b>Applejack</b>: Frankly, I'm not exactly clear on all the 
+customs and traditions of the Crystal Empire, especially when it comes 
+to a Crystalling.
+<b>Starlight Glimmer</b>: What's a Crystalling?
+<b>Rarity</b>: Well, that's just it, darling. Princess Cadance 
+and Shining Armor's baby is due any day, and we're still not sure. The 
+Crystal Empire was gone for a thousand years. A lot of their customs are
+ a bit murky.
+<b>Applejack</b>: We know it's got somethin' to do with the new baby.
+<b>Pinkie Pie</b>: [quickly] And a party!
+<b>Fluttershy</b>: And the Crystal Heart.
+<b>Pinkie Pie</b>: [quickly] And a party!
+<b>Rainbow Dash</b>: And some kinda cool energy.
+<b>Pinkie Pie</b>: And... a party!
+[confetti explosion]
+<b>Spike</b>: It's not hard to understand. Most things in the Crystal Empire aren't. Like how I'm a big hero there, for example!
+<b>Rarity</b>: [stifled giggle]
+<b>Spike</b>: Eh... plus, I've had to help Twilight do a lot of
+ research on Crystallings. Whenever a baby is born in the Crystal 
+Empire, the parents bring it before the Crystal Heart. They get the 
+purest shard of crystal they can find, then pick a crystaller to present
+ the baby to everypony who comes. Then they all share the light and joy 
+they feel, feeding it into the crystal that joins with the Heart, and 
+increases its power! And this is going to be a royal Crystalling, so 
+pretty much the whole empire will show up. That hasn't happened in a 
+millennia!
+<b>Starlight Glimmer</b>: What do you mean it increases the Crystal Heart's power?
+<b>Spike</b>: The energy it uses to protect the Crystal Empire, I guess.
+<b>Starlight Glimmer</b>: Protect it from what?
+<b>Spike</b>: I... didn't help Twilight with that part.
+[paper rustling]
+<b>Starlight Glimmer</b>: Hey, Twilight, can I ask you something about the Crystal Empire?
+<b>Twilight Sparkle</b>: Huh! Funny you should mention it. 
+Because I just narrowed your first friendship lesson down to three 
+options, and one of them is in the Crystal Empire!
+<b>Starlight Glimmer</b>: Really?
+<b>Twilight Sparkle</b>: I found out that's where the first pony you ever cared about lives!
+<b>Starlight Glimmer</b>: Sunburst?
+<b>Twilight Sparkle</b>: Of course, that's just one idea. We 
+could also go to Griffonstone. [begins fading out] Making friends with a
+ griffon is a challenge all by itself! Or we could tag along with the 
+CMC's the next time they try to help a pony figure out why they're 
+special...
+[high-pitched ringing]
+<b>Twilight Sparkle</b>: [normal] Starlight? Is something wrong?
+<b>Starlight Glimmer</b>: What? O-Oh, no, heh, those all sound great!
+<b>Twilight Sparkle</b>: I know! I guess you were right – it <i>is</i> gonna be hard to choose one!
+<b>Starlight Glimmer</b>: [laughs nervously] ...Yeah.
+[door opens]
+[clatter]
+[magic noises]
+[door closes]
+[door opens]
+[beat]
+<b>Starlight Glimmer</b>: Ugh! I am never gonna find my way around this place!
+<b>Spike</b>: Gee, Starlight, what's wrong?
+<b>Starlight Glimmer</b>: I don't know, Spike. Twilight's 
+figuring out what my first friendship lesson is, and I guess I'm not 
+exactly thrilled with the options. Well... with one of them.
+<b>Spike</b>: Which one?
+<b>Starlight Glimmer</b>: Reuniting me with my first friend.
+<b>Spike</b>: What's so terrible about that?
+<b>Starlight Glimmer</b>: [sighs] [narrating] <i>When we were foals, Sunburst knew everything there was to know about magic. He always knew just what to do. And he was always there to help me. I guess it's not surprising that Sunburst got his cutie mark in magic and... went off to Princess Celestia's school. But when he left...</i>
+<b>Spike</b>: You blamed cutie marks and stripped a whole 
+village of theirs, and when Twilight and the others stopped you, you 
+went back in time and almost destroyed Equestria.
+[poof]
+<b>Starlight Glimmer</b>: Not really stuff I'm super eager to 
+tell Sunburst about. I mean, he's probably some big important wizard 
+now, and... I can't even find my way around Twilight's castle.
+<b>Spike</b>: Well, if Sunburst is <i>that</i> good at magic, 
+maybe he'd appreciate your, uh... [clears throat] exploits. You should 
+talk to Twilight about it. I'm sure she'd want to hear what you have to 
+say.
+<b>Starlight Glimmer</b>: I know. But I don't want her to think I'm not ready to learn or that I'm not grateful for everything she's doing.
+<b>Twilight Sparkle</b>: Spike! Come quick!
+[wind blowing]
+<b>Spike</b>: It's a Crystalling invitation!
+<b>Twilight Sparkle</b>: Shining Armor's a father! I'm an aunt!
+ Well, this settles it! Since we're going to the Crystal Empire, your 
+first friendship lesson is going to be... reuniting with Sunburst!
+<b>Starlight Glimmer</b>: Great...
+[train whistle]
+<b>Rainbow Dash</b>: [yawn] Um, Applejack, what is that?
+<b>Applejack</b>: Oh, just a little somethin' for the young'un.
+ Made from genuine Sweet Apple Acres apple trees. We make 'em for all 
+the Apples, and anypony related to Twilight is practically family.
+<b>Rainbow Dash</b>: Yeah, it's okay... But it's no Cloudsdale mobile! Bam!
+<b>Pinkie Pie</b> and <b>Rarity</b>: Ooh!
+<b>Pinkie Pie</b>: Pretty!
+[shatter]
+<b>Applejack</b>: Well, a mobile is real nice... as long as you have somethin' to lay in so you can look at it.
+<b>Rarity</b>: <i>And</i> a fetching blanket to keep you warm.
+<b>Twilight Sparkle</b>: I'm sure Shining Armor and Princess 
+Cadance will love all our gifts. But I think they're more happy we'll be
+ attending the baby's Crystalling.
+<b>Pinkie Pie</b>: Ooh! I can't wait to see all that light and love make the Crystal Heart even more sparkly and shiny!
+<b>Twilight Sparkle</b>: Actually, Pinkie, the Crystal Heart is
+ an ancient and powerful relic. Without its magic, the Crystal Empire 
+would be lost to the Frozen North.
+<b>Starlight Glimmer</b>: Wow, this Crystalling sounds pretty 
+important. I'd understand if you wanted to... you know... wait to do a 
+different friendship lesson when we get back.
+<b>Twilight Sparkle</b>: Are you kidding? This trip is perfect! Not only do I get to see the baby <i>and</i>
+ take part in the ceremony that helps maintain the magic of the Crystal 
+Empire, but I'm starting my new pupil off with the most amazing 
+friendship lesson ever! I can't wait!
+<b>Starlight Glimmer</b>: Right... Me neither... [beat] Actually, Twilight, I am a little worried about meeting Sunburst.
+<b>Twilight Sparkle</b>: Oh, trust me. I know what it's like to
+ see old friends. But I'll be right there to help things along. I've 
+broken the whole lesson down into a few easy steps to ensure this 
+reunion goes off without a hitch!
+<b>Starlight Glimmer</b>: [laughs nervously]
+[train chuffing]
+<b>Twilight Sparkle</b>: [reading] Step one, head to Sunburst's
+ house and get you two started on the right hoof. Step two, get to the 
+castle with enough time to visit the ba—
+[thump]
+<b>Twilight Sparkle</b>: [gasps] Shining Armor!
+<b>Shining Armor</b>: [tired] Twilight...!
+<b>Twilight Sparkle</b>: I didn't know you were meeting us!
+<b>Shining Armor</b>: [tired] Of course I am! It's me, right 
+here. Here I am. Why wouldn't I come meet my sister? Though we have met 
+before, heh-heh...
+<b>Twilight Sparkle</b>: Are you all right?
+<b>Shining Armor</b>: [tired] Never better! Being a father is 
+amazing! And wonderful, and amazing, and confusing, and amazing, but 
+surprising too, you know? I mean, not that you'd know. You wouldn't 
+know, I know... You know? [beat] Sorry. I haven't really slept since 
+Cadance had the baby. Come to think of it, she hasn't either. It sure 
+would be great to get a break.
+<b>Twilight Sparkle</b>: Oh, of course! I don't know what I was
+ thinking! You two probably need all kinds of help! I'm sorry, 
+Starlight, but I guess combining your first lesson with this visit 
+wasn't such a good idea.
+<b>Starlight Glimmer</b>: Oh, uh, don't be ridiculous! You're an aunt now! That's <i>way</i> more important than some <i>friendship lesson</i>.
+<b>Twilight Sparkle</b>: I just wish there was a way to do both.
+<b>Spike</b>: Maybe there is! You've already done the work for Starlight's lesson with this list. All we have to do is follow it!
+<b>Twilight Sparkle</b>: Spike, you're a genius!
+<b>Starlight Glimmer</b>: [through nervous laugh] Yeah... [through gritted teeth] genius.
+<b>Twilight Sparkle</b>: Then it's settled! Shining Armor and I will head straight to the castle, and you two can head straight to Sunburst's!
+<b>Spike</b>: Aye-aye, Princess!
+<b>Starlight Glimmer</b>: [nervously] Uh-huh.
+<b>Twilight Sparkle</b>: Alright, big brother, let's go see this amazing baby pony!
+<b>Shining Armor</b>: [snoring] Ahhh... the baby...
+<b>Spike</b>: I know you're a little worried about this reunion, but I'm sure Twilight's got everything covered.
+<b>Starlight Glimmer</b>: Everything <i>except</i> how I'd rather do absolutely anything else.
+<b>Spike</b>: Oh, I bet she's taken that into account too. It's all part of the lesson. <i>Trust the lesson.</i>
+<b>Starlight Glimmer</b>: Right... [beat] Hey, i-is that... you?
+<b>Spike</b>: Oh, yep, it sure is! Now, according to the list, Sunburst's house is—
+<b>Starlight Glimmer</b>: Why is there a statue of you in the Crystal Empire?
+<b>"Scarlet Heart"</b>: Because Spike the Brave and Glorious saved all of us from King Sombra!
+<b>"Amber Laurel"</b>: And then again during the Equestria Games!
+<b>Starlight Glimmer</b>: Really?
+<b>"Golden Väs"</b>: Really! [to Spike] Big fan.
+<b>Starlight Glimmer</b>: Um, when were you going to tell me about this?
+<b>Spike</b>: Nah, it's no big deal.
+<b>Crystal Ponies</b>: It most certainly <i>is</i>!
+<b>Starlight Glimmer</b>: That's it! We're not going anywhere until I get the whole story!
+<b>Shining Armor</b>: Before we go in, I should probably tell you. Seeing the baby might be a bit of a shock.
+<b>Twilight Sparkle</b>: Come on, big brother. I've met babies before. I expect meeting this one won't be any different. [gasps]
+<b>Flurry Heart</b>: [coos]
+<b>Twilight Sparkle</b>: Of course, I could be wrong.
+<b>Flurry Heart</b>: [burbling]
+<b>Twilight Sparkle</b>: The baby is an Alicorn?!
+<b>Princess Cadance</b>: [tired] It looks that way.
+<b>Rarity</b>: But... But... But I thought Alicorn wings had to be earned by accomplishing some great, princess-worthy deed!
+<b>Applejack</b>: Yeah. How can you just be born with 'em?
+<b>Princess Celestia</b>: The birth of an Alicorn is something Equestria has never seen!
+<b>Princess Luna</b>: It is beyond even our understanding.
+<b>Fluttershy</b>: [hushed] That's not very reassuring.
+<b>Pinkie Pie</b>: Wow! A unicorn, <i>and</i> a Pegasus! So she could be a super-strong flyer <i>and</i> have crazy baby magic!
+<b>Rainbow Dash</b>: Well, I know <i>all</i> about super-strong flying!
+<b>Twilight Sparkle</b>: And I can help keep tabs on her magic!
+<b>Flurry Heart</b>: [sneezes] [burbles]
+<b>Princess Celestia</b>: It appears her magic is more powerful than that of a newborn unicorn!
+<b>Princess Luna</b>: The crowds have already started to gather.
+<b>Pinkie Pie</b>: [inhales] [blows balloon] This Crystalling is gonna be some party!
+[balloon pops]
+<b>Princess Cadance</b>: Do you think we should call it off?
+<b>Rainbow Dash</b>: Um, we've all faced a lot worse than baby magic.
+<b>Rarity</b>: I can't imagine cancelling such a beautiful and important ceremony over something so potentially adorable!
+<b>Applejack</b>, <b>Fluttershy</b>, <b>Pinkie Pie</b> and <b>Rainbow Dash</b>: [general agreement]
+<b>Princess Celestia</b>: In light of the little one's 
+abilities, this Crystalling might be more important than ever. [to 
+Cadance] Perhaps you should address your subjects and remind them of 
+that.
+<b>Princess Cadance</b>: Hm. [kisses]
+<b>Flurry Heart</b>: [baby noise]
+<b>Shining Armor</b>: [snoring]
+<b>Twilight Sparkle</b>: Shining Armor! Do you have everything you need for the ceremony?
+<b>Shining Armor</b>: [tired] Huh? Oh, no! I still have to interview the honor guards, choose the purity crystal, and pick a crystaller!
+<b>Twilight Sparkle</b>: Alright, take it easy. Pinkie can stay here with me and keep an eye on the baby.
+<b>Pinkie Pie</b>: [squee]
+<b>Flurry Heart</b>: [giggles]
+<b>Applejack</b>: And we'll all help you with everythin' else.
+<b>Shining Armor</b>: [snores] ...baby...
+<b>Rarity</b>: That is, if you can stay awake long enough to tell us <i>how</i>.
+<b>Spike</b>: ...and that's how we found the Crystal Heart, defeated King Sombra, and saved the Empire.
+[Crystal Ponies cheering]
+<b>"Cloudy Spinel"</b>: We love you, Spike!
+<b>"Coral Shores"</b>: Yeah. Tell the one about the Equestria Games!
+<b>Spike</b>: Well, as much as I love reliving my heroic deeds,
+ Starlight and I have an important lesson to do, by order of the 
+Princess of Friendship!
+<b>Foals</b>: Awwww!
+<b>Starlight Glimmer</b>: Aw, come on, Spike! I want to hear about the Games too!
+[scribbling]
+<b>Spike</b>: I know you're nervous about seeing Sunburst, but 
+it says right in step 3, to, uh, "Deal with your fears by facing them, 
+not by putting it off."
+<b>Starlight Glimmer</b>: Ugh. Let's go get this over with.
+<b>Spike</b>: Wait!
+<b>Starlight Glimmer</b>: Huh? What?!
+<b>Spike</b>: Knocking on the door isn't the next thing on the list!
+<b>Starlight Glimmer</b>: Seriously?
+<b>Spike</b>: I know Twilight can be a little nitpicky, but this is your first lesson as her pupil, and it's important that we do it right!
+<b>Starlight Glimmer</b>: Fine. What's the next thing on the list?
+<b>Spike</b>: [clears throat] [reading] "Before they see each other, be sure to highlight the importance of the meeting."
+<b>Starlight Glimmer</b>: I'm pretty sure we can skip that.
+<b>Spike</b>: I don't know... I mean if we skip it, the whole 
+lesson could go south! And then you might end up taking a giant step 
+backwards instead of forwards! Maybe you'll never be able to learn 
+anything about friendship at all! It's almost like your whole future 
+depends on this moment. [beat] "Highlight the importance of the meeting"
+ – check! I can't believe you wanted to skip that!
+[knocking]
+[long beat]
+[door opens]
+<b>Starlight Glimmer</b>: Sunburst?
+<b>Sunburst</b>: Yes? What can I do for you?
+<b>Starlight Glimmer</b>: It's... It's me, Starlight. We used to be friends?
+<b>Sunburst</b>: [beat] Oh, of course! S-Starlight! My goodness, it-it's been a long time! What, uh, what have you been up to?
+<b>Starlight Glimmer</b>: Me? Oh! You know, some of this, some of that, different... stuff. Right now, I'm sort of Twilight Sparkle's new pupil.
+<b>Sunburst</b>: The Princess of Friendship?
+<b>Starlight Glimmer</b>: Heh... yeah... that's actually kind of why I'm here. I mean, I know you're probably very busy.
+<b>Sunburst</b>: What do you mean?
+<b>Starlight Glimmer</b>: Well, I figured after magic school, you'd go on to do important wizard work, but...
+<b>Sunburst</b>: Oh. No. Y-Yes! Uh, y-yes, that's me, yup. 
+[nervous chuckle] Important wizard! Really busy with lots of, uh, 
+wi-wizarding... stuff. [beat] Right. Uh, well... good to see you.
+[door closes]
+<b>Spike</b>: Huh. Maybe we should have skipped highlighting the importance of the meeting after all.
+<b>Starlight Glimmer</b>: Well, I guess that's that!
+<b>Spike</b>: Starlight, come on! We have to at least explain what Twilight wants!
+<b>Starlight Glimmer</b>: [groans]
+[knocking]
+[door opens]
+<b>Princess Cadance</b>: [tired, amplified] Dearest citizens, I 
+am sure you are all just as thrilled and ready for this Crystalling as 
+myself and Shining Armor.
+[crowd cheering]
+<b>Shining Armor</b>: [panicked breathing] I'm not ready!
+<b>Rainbow Dash</b>: Take it easy! Just pick whoever looks the most like honor guard material.
+<b>Shining Armor</b>: Right... right.
+[thump]
+<b>Royal guards</b>: [whimpering]
+<b>Shining Armor</b>: I'm sorry. Fatherhood is way more stressful than I ever thought.
+<b>Fluttershy</b>: I can only imagine.
+<b>Rarity</b>: Now, I know choosing the crystal of purity is a 
+very important decision. So I have gone through the trouble of arranging
+ them in order from incredibly pure to outrageously pure.
+<b>Fluttershy</b>: Um, Rarity, don't they all sort of look the same?
+<b>Rarity</b>: Oh, well, to the untrained eye, perhaps. What do you think, Shining Armor?
+<b>Shining Armor</b>: [incoherent stammering] <i>I don't know!</i>
+<b>Rarity</b>: [hushed] I hope Twilight and Pinkie are having better luck with the baby!
+<b>Flurry Heart</b>: [burbling]
+<b>Pinkie Pie</b>: Well... at least she's having... fun!
+[magic zaps]
+<b>Pinkie Pie</b>: Whee!
+<b>Twilight Sparkle</b>: Pinkie, hold her still!
+<b>Pinkie Pie</b>: I'm tryiiiiiiing!
+<b>Sunburst</b>: So... the Princess of Friendship wants you and I to be friends again?
+<b>Starlight Glimmer</b>: Heh, I know. Weird, right?
+<b>Sunburst</b>: Uh, I don't understand. Did something happen to you after I left for magic school?
+<b>Starlight Glimmer</b>: What?
+[thump]
+<b>Starlight Glimmer</b>: No! I-I don't see what that has to do with anything. W-Why would you even ask that?
+[tea pouring]
+<b>Starlight Glimmer</b>: I mean, did something happen to <i>you</i> after you left for magic school?
+<b>Sunburst</b>: What? Um, no. L-Like you said, I'm a, [clears throat] i-important wizard.
+<b>Spike</b>: I'm sure there's something on Twilight's list that can help here.
+<b>Shining Armor</b>: [heavy breathing]
+[door opens]
+<b>Shining Armor</b>: Okay. I chose the honor guard, picked the
+ purity crystal, and I know exactly who I want to be our crystaller. So,
+ all we need is...
+<b>Princess Cadance</b>: The baby?
+[beat]
+<b>Twilight Sparkle</b>: We're here!
+<b>Flurry Heart</b>: [burbling]
+<b>Pinkie Pie</b>: She's a <i>really</i> strong flyer!
+[magic bubbling]
+<b>Flurry Heart</b>: [sniffling] [loud crying]
+[cracking]
+[shattering]
+<b>Everypony</b>: [gasps]
+<b>Flurry Heart</b>: [burbling]
+<b>Applejack</b>: I'm guessin' that's gonna make it harder to do the Crystalling.
+<b>Twilight Sparkle</b>: It's worse than that. Without the Heart, the Crystal Empire's about to be buried under a mountain of ice and snow!
+<b>Flurry Heart</b>: [burbles]
+[To be continued...]
+[jaunty music over credits]

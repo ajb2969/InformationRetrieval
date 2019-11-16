@@ -1,207 +1,316 @@
-<b>Applejack</b>: The map is sendin' us  <i>where</i>?! 
-<b>Fluttershy</b>: Las Pegasus?! 
-<b>Applejack</b>: But Las Pegasus is a wild vacation spot! It's just one big party! 
-<b>Fluttershy</b>: All those lights and sounds, not to mention the crowds... Oh, just the thought of it is overwhelming! 
-<b>Twilight Sparkle</b>: I know Las Pegasus doesn't seem like either of your cups of tea, but I have total faith you wouldn't have been called unless you were the perfect ponies for the job. 
-<b>Applejack</b>: Probably not as bad as we think. It can't just be a loud, obnoxious party all the time... right? 
-[pop] 
-<b>Fluttershy</b>: Uh, Applejack? It isn't as bad as we thought. 
-[crowds cheering] 
-<b>Applejack</b>: You're right. It's worse! <b>Applejack</b> and  <b>Fluttershy</b>: [gasp] 
-[general chatter] 
-<b>Fluttershy</b>: Do you think the map could be on the fritz again? I mean, this place seems a lot more suited to Pinkie Pie or even Rainbow Dash. 
-<b>Applejack</b>: If Twilight trusts the map, then so do I. All we have to do is solve our friendship problem and get back home. 'Course, we have to find it first. 
-<b>Barker</b>: And make sure to experience our signature show,  <i>Ponet Fantastique</i>! Trust me when I say you've never seen anything like it! Unparalleled acrobatics! Unique animal antics! Your only regret will be that you didn't see it sooner! And like everything at this amazing, incredible, I-can't-believe-it-even-exists hotel,  <i>Ponet Fantastique</i> is brought to you by the chairpony of kindness – Gladmane himself! 
-[crowd gasping] 
-<b>Fluttershy</b>: Wow. This Gladmane sure seems impressive. 
-<b>Gladmane</b>: Well, uh, it is a little embarrassing, but the crowds seem to like it. Uh-huh-huh. 
-<b>Applejack</b>: Mr. Gladmane? 
-<b>Gladmane</b>: Just Gladmane'll do. And it's a pleasure to meet actual cohorts of the Princess of Friendship! Thank you for coming. Thank you very much. 
-<b>Fluttershy</b>: You know who we are? 
-<b>Gladmane</b>: I'm what you might call a friendship connoisseur, so naturally I'm familiar with the friends of the great Twilight Sparkle! Applejack, Fluttershy, it's an honor to have you here. Uh-huh-huh. 
-<b>Applejack</b>: I have to admit you're not the type of pony I expected to find in Las Pegasus. 
-<b>Gladmane</b>: [laughs] Well, my guests may be looking for lights, music, and parties, but working hard and making friends is how I turned this hotel into what it is today, and how I plan to make it even bigger. Uh-huh-huh! Uh, excuse me for a second. [inhales] [through loudspeaker]  <i>Wise ponies may say the folks that come here are customers, but I can't help but thinkin' of each and every one of you as friends. That's why there's a three-for-one special on apple fritters in the cafe for the next hour! Enjoy! Uh-huh-huh!</i> 
-[crowd chattering] 
-<b>Gladmane</b>: Would you two like to take a tour of the place? I'm just about to do my rounds and check on my friends who work here. 
-<b>Fluttershy</b>: [hushed] We do have a friendship problem to find. 
-<b>Applejack</b>: Lead the way, Mr. Gladmane! 
-<b>Gladmane</b>: Just Gladmane now, you hear? <b>Trapeze Star</b>: [gasps] Gladmane, you're just in time to see my newest move! 
-<b>Gladmane</b>: New moves or not, I'm glad to have a star like you working for me, I'll tell you what. 
-<b>Trapeze Star</b>: Oh, don't make me blush! Now watch this! 
-<b>Gladmane</b>: Stellar! Uh-huh-huh! 
-<b>Director</b>: Oh! Oh! Monsieur Gladmane himself is here! Let's run through the whole routine! 
-<b>Gladmane</b>: Now, don't make a fuss for ol' me. I'm just gonna keep on giving a tour to my new friends Applejack and Fluttershy. 
-<b>Applejack</b>: Howdy! 
-<b>Fluttershy</b>: Hi. 
-<b>Director</b>: If zis pony calls you friend, you're welcome backstage anytime! I owe him my entire career. 
-<b>Gladmane</b>: Aw, shucks. Well, let's leave the artists to their work. 
-<b>Applejack</b>: [hushed] Doesn't look like there's any friendship problems here. 
-<b>Fluttershy</b>: [gasps] I've never seen a pink prairie dog before! 
-[prairie dog squeaking] 
-<b>Gladmane</b>: I like the folks that come here to have a unique experience. Uh-huh-huh. 
-<b>"Roar Horn"</b>: Und we love him for it! 
-<b>"Sprigfield"</b>: With Gladmane's help, we've been able to take care of all these little guys! 
-<b>Fluttershy</b>: Now this place is overwhelming in a good way! 
-<b>Gladmane</b>: Aw, glad you like it. 
-<b>Applejack</b>: [clears throat] Fluttershy? 
-<b>Fluttershy</b>: Hmm? Oh, um, coming! <b>Fluttershy</b>: There doesn't seem to be anything wrong around here at all. 
-<b>Applejack</b>: I figured lookin' for a friendship problem in Las Pegasus would be like tryin' to find a needle in a stack of needles. But everypony seems to be gettin' along just fine. 
-<b>Flim</b>: Ladies and gentleponies, despite what my competition might say, I know you've come to this fair city to be entertained, and I assure you there is nothing more entertaining than the astounding acrobatics in Gladmane's  <i>Ponet Fantastique</i>! 
-<b>Flam</b>: Now, I suppose that might be true if it weren't for the existence, and far superiorly entertaining presence, of the show-stopping exotic animal act that  <i>Ponet Fantastique</i> includes! 
-<b>Fluttershy</b>: Those voices sound familiar. 
-<b>Applejack</b>: They sure do.  <i>Flim and Flam.</i> 
-<b>Flim</b>: Why, I won't even dignify that assertion with a response! Except to say that if you were to consider buying your tickets from  <i>me</i>, I might consider offering them to  <i>you</i> at a substantial discount! 
-<b>Flam</b>: But I've always thought you get what you pay for, and in my humble opinion,  <i>these</i> tickets are a value at twice the price! 
-<b>Flim</b>: Don't let this price-gouging charlatan take you for a ride! 
-<b>Flam</b>: [gasps] Charlatan? How dare you! 
-<b>Flim</b>: Hah! How dare I?! 
-<b>Flam</b>: [simultaneous] Yes, how dare you! I was the one that... 
-<b>Flim</b>: [simultaneous] I call 'em likes I see them, dear brother of mine! 
-<b>Flam</b>: [simultaneous, background] I'm two minutes older than you – don't you forget that, brother of mine! 
-<b>Flim</b>: [simultaneous, background] I'm sick and tired of this... 
-<b>Flim</b> and  <b>Flam</b>: [further unintelligible arguing] 
-<b>Fluttershy</b>:  <i>They</i> certainly don't seem to be getting along. [gasps] You don't suppose we've been brought here to help  <i>them</i>? 
-<b>Applejack</b>: Absolutely not! <b>Flim</b> and  <b>Flam</b>: [arguing] 
-<b>Fluttershy</b>: I know you and the rest of the Apple family have had your issues with Flim and Flam in the past, but they're definitely having trouble, and solving a friendship problem is important, no matter who's having it. 
-<b>Applejack</b>: Well, of course that's true... for anypony but  <i>them</i>! 
-<b>Gladmane</b>: I'm sorry you had to see that. I don't know why, but those two have been fightin' ever since they got here. I thought giving them these jobs might help, but I... I guess it just made matters worse. 
-<b>Applejack</b>: Trust me. I know those ponies, and you're better off with them apart. The two of them together will cheat the hooves right out from under you! 
-<b>Gladmane</b>: Yeah, I suppose you're right. Flim's such a showpony, and Flam has such a head for business. Why, if they ever did work together, they'd be running this place in two shakes! Ah, speaking of which, I'd better get back to work. Y'all enjoy your stay now, you hear? 
-<b>Fluttershy</b>: I'm pretty sure we should help Flim and Flam... 
-<b>Applejack</b>: And  <i>I'm</i> pretty sure there's another friendship problem here, and I'm gonna search this resort top to bottom 'til I find it! 
-<b>Fluttershy</b>: [sighs] <b>Flim</b>: I hope you didn't travel all the way from Ponyville to try to get me to reconcile with my no-account brother. <b>Flam</b>: Brother? I don't believe I  <i>have</i> one of those. <b>Flim</b>: No! I already know what he thinks of me! All show and no substance! Well, if he's so smart, he should have no trouble becoming a big success on his own! <b>Flam</b>: "Ooh, why, he's the greatest salespony that ever lived, of course!" Just ask him. He'll tell you  <i>all</i> about it. <b>Fluttershy</b>: I'm sure you could work out your differences if you just sat down and talked to each other. 
-<b>Flim</b> and  <b>Flam</b>: I'm never speaking to that pony again! 
-<b>Fluttershy</b>: [sighs] [general casino chatter and noises] 
-<b>Director</b>: [muffled]  <i>No!</i> [normal] You are ruining my show! 
-<b>Trapeze Star</b>: It isn't just  <i>your</i> show, and  <i>I'm</i> improving it. 
-<b>Director</b>: You don't pull a rabbit out of a hat  <i>on</i> the trapeze! 
-<b>Trapeze Star</b>: That's the point – to give the audience something they've never seen before! Acrobatic magic! 
-[twirling] 
-<b>Bernard Rabbit</b>: Ta-da! 
-<b>Trapeze Star</b>: It's called "blending genres", and it's  <i>awesome</i>! 
-<b>Applejack</b>: Shouldn't somepony do somethin'? 
-<b>"Back Stage"</b>: Hah. They've been doing this since they started working here. Too bad, really. If they ever stopped shouting at each other, we could take the show on tour. They'd be  <i>way</i> more successful than staying at Gladmane's. 
-<b>Applejack</b>: Heh-heh. Now  <i>that</i> sounds like a  <i>real</i> friendship problem! 
-<b>"Roar Horn"</b>: Hup! Hup! Hup! Hup! 
-<b>"Sprigfield"</b>: Stop! What are you doing?! It's supposed to be a pink prairie dog  <i>pyramid</i>! It's alliterative! 
-<b>"Roar Horn"</b>: Wha— You said a tower! Why do you keep changing everything? 
-[prairie dogs squeaking] 
-<b>"Sprigfield"</b>: I'm not changing anything!  <i>You</i> said pyramid! 
-<b>"Roar Horn"</b>: [shrieks] You are driving me crazy! 
-<b>Applejack</b>: I thought you two got along. 
-<b>"Sprigfield"</b>: We used to, but we just can't seem to agree on anything anymore. We used to perform all over Equestria, but if we can't agree on a new act, we might as well stay at Gladmane's forever. [stomping] 
-<b>Applejack</b>:  <i>Two</i> friendship problems in the same theater? Now we're talkin'! <b>Fluttershy</b>: If you count Flim and Flam, that's  <i>three</i> big friendship problems all in the same place! 
-<b>Applejack</b>: Well, I don't count Flim and Flam since those two not bein' friends isn't a problem. 
-<b>Fluttershy</b>: It certainly isn't for Gladmane. Sounds like he's better off with them fighting. 
-<b>Applejack</b>: Actually, the other ponies' problems seemed to be good for Gladmane too. Both the trapeze show and the animal act would be better off if they left, but everypony's so busy arguin' that they can't. 
-<b>Fluttershy</b>: Do you think he knows? 
-<b>Applejack</b>: I don't know, but I'm startin' to think we should find out. <b>Trapeze Star</b>: Of course Gladmane wants everypony to get along. He's the nicest, most genuine pony I've ever met. Did the director put you up to this? 
-<b>Bernard Rabbit</b>: [unintelligible whispering] <b>Director</b>: I tell you, if Gladmane is your friend, you are welcome backstage. But if you are speaking of him poorly, you leave! <b>"Roar Horn"</b>: Gladmane is the kindest, most gentle... 
-<b>"Sprigfield"</b>: ...most compassionate pony I've ever known! 
-<b>"Roar Horn"</b> and  <b>"Sprigfield"</b>: My problem... is with  <i>him</i>! 
-[prairie dogs squeaking] <b>Applejack</b>: I just can't figure it! The only pony who benefits from all this feudin' is Gladmane, but by all accounts, he's the best friend any of these ponies have! 
-<b>Fluttershy</b>: Well, Bernard – that adorable bunny from the acrobat's act – claims that every morning, Gladmane tells the director that the star wants control of the show, and every afternoon tells the star that the director wants to get rid of her! But neither is true! 
-<b>Applejack</b>: [snorts] 
-<b>Fluttershy</b>: And the Flying Prairinos – the pink prairie dog family – say Gladmane keeps changing their act to make each trainer think the other is doing it! 
-<b>Applejack</b>: So all his talk about friendship is just a load of applesauce! He's gettin' them all to fight with each other on purpose! 
-<b>Fluttershy</b>: But how can we get everypony to believe that's what he's doing? 
-<b>Applejack</b>: There must be a way to trick him into telling the truth! 
-<b>Fluttershy</b>: Gee, if only there was a pony who knew how to trick a trickster. 
-<b>Flim</b> and  <b>Flam</b>: [unintelligible arguing] 
-<b>Fluttershy</b>: Or maybe a  <i>pair</i> of ponies? 
-<b>Applejack</b>: [sighs] Fine. Guess bringin' Flim and Flam back together might be why we're here. Maybe. <b>Flim</b>: Sorry if I don't take the word of somepony off the street, even if that street is in Ponyville. 
-<b>Fluttershy</b>: But Gladmane is behind so many other friendship problems. How can you be sure he isn't the cause of yours? 
-<b>Flam</b>: Because the only problem I have is standing right there. 
-<b>Flim</b>: Same here, buster! 
-<b>Applejack</b>: Do either of you even know what you're fightin' over? 
-<b>Flim</b>: Gladmane let me know that  <i>ex</i>-brother of mine thinks I'm just a mouthpiece without a single good idea! 
-<b>Flam</b>: Gladmane assured me this  <i>former</i> fraternal foal here thinks I couldn't sell heat lamps to yaks! 
-<b>Applejack</b>: Sounds to me like neither of you said those things. Why'd you believe Gladmane when he said you did? 
-<b>Flim</b>: Why would he lie? 
-<b>Fluttershy</b>: Because he's afraid that the two of you together could move in and take over his resort. 
-<b>Applejack</b>: And if I'm tellin' you he said it, you know it's the absolute truth because— 
-<b>Flim</b> and  <b>Flam</b>: You never lie! 
-<b>Flam</b>: Oh, brother of mine, I think it's time for a little payback! 
-<b>Flim</b>: The Canterlot Two-Step? 
-<b>Flam</b>: Mmm, we don't have the chickens. How about the Baltimare Flair? 
-<b>Flim</b>: Ah, my flair isn't what it used to be. 
-<b>Gladmane</b>: [over loudspeaker]  <i>Listen here, y'all! If you're a friend of mine, you're entitled to a free night's stay, and everypony is a friend of mine! Thank you. Thank you very much.</i> 
-<b>Flim</b>: Are you thinking what I am? 
-<b>Flam</b>: The High Roller Hustle! 
-<b>Applejack</b>: The what now? 
-<b>Flam</b>: Trust us. When we're done, there won't be a pony in town who doesn't know the Applejack-iest truth about Gladmane! That is, assuming you two are willing to help. 
-<b>Flim</b>: What size gown do you wear? [crowd chattering and cameras clicking] 
-<b>Gladmane</b>: Wh-What's all the fuss, now? 
-<b>Flim</b>: It's the grand matriarch of the Rich family, Impossibly Rich! She's one of the wealthiest ponies in Equestria. 
-<b>Gladmane</b>: Well, why didn't somepony tell me? You know how I like to give VIP guests my personal touch. 
-<b>Flim</b>: Well, she's not exactly a guest. Word is she's planning a resort of her own. [hushed] I think she's here to scout the competition. 
-<b>Gladmane</b>: [hushed] Oh, really? 
-<b>Flim</b>: And with her bits, she could take over the whole strip, hire away anypony she wants! 
-<b>Gladmane</b>: [growling] 
-<b>Flim</b>: Uh, not me, of course! I love it here. My good-for-nothing brother, on the other hoof... 
-<b>Gladmane</b>: [snorts] Impossibly Rich, what an honor it is to have you at my humble five-hoof resort. I'm sure Flam has done an excellent job showing you around, but nothing could beat a personalized tour from the mane himself. Uh-huh-huh. 
-<b>Fluttershy</b>: [unintelligible whispering] 
-<b>Flam</b>: You'll have to excuse Ms. Rich. She saves the energy other ponies spend talking out loud and uses it to make more money. 
-<b>Fluttershy</b>: [unintelligible whispering] 
-<b>Flam</b>: She'd  <i>love</i> a personal tour! Say, in, uh, about an hour? 
-<b>Gladmane</b>: Well, that sounds right pleasant. And if you can break away for a moment, Flam, I'd love to see you in my office so I can get ready. 
-[curtain rustling] 
-<b>Fluttershy</b>: Are all of you sure this is a good idea? 
-<b>Flim</b>: Abso-tively! 
-<b>Flam</b>: Gladmane is one fish that's hooked but good! 
-<b>Applejack</b>: I sure hope you two know what you're doin'. 
-<b>Flam</b>: Oho, don't you worry. When it comes to throwing ponies off their game... 
-<b>Flim</b>: No two ponies do it better than us! 
-<b>Applejack</b>: Can't argue with that. [door opens] 
-<b>Flam</b>: Hey there, boss, Impossibly Rich is just about ready for that tour. So what did you want to see me about? 
-<b>Gladmane</b>: Actually, there's something I want  <i>you</i> to see – the Grand Plan. Every hotel on this strip as amazing as this one, and every one of 'em  <i>mine</i>. 
-<b>Flam</b>: [whistles] 
-<b>Gladmane</b>: And all it'll take is a little salesponyship, like this. 
-[click] 
-<b>Gladmane</b>: [over loudspeaker]  <i>Hey there, friends. Uh-huh-huh. If you think my resort is fantastic, wait 'til you see </i>Ponet Fantastique <i>! Tickets are on sale now. Two for the price of one! Thank you. Thank you very much.</i> 
-[click] 
-<b>Gladmane</b>: Now I know Impossibly Rich has probably made you a tempting offer to come work for her. 
-<b>Flam</b>: Well uh, now that you mention it... 
-<b>Gladmane</b>: And as your friend, I'd never tell you what to do. But nopony's gonna stand in the way of my plans, no matter how rich she is! And I sure wouldn't want you to end up on the losing side. Think you might consider staying here? 
-<b>Flam</b>: Um... 
-<b>Gladmane</b>: Well all right then. <b>Applejack</b>: They're comin'! 
-<b>Gladmane</b>: And last but not least, Ms. Rich, the jewel in my crown. 
-<b>Fluttershy</b>: [unintelligible whispering] 
-<b>Flam</b>: Impossibly wants you to know she's  <i>very</i> impressed but doesn't think you can keep a resort of this caliber going for long. 
-<b>Gladmane</b>: Oh? And why's that? 
-<b>Fluttershy</b>: [unintelligible whispering] 
-<b>Flam</b>: Because  <i>you've</i> got the best talents in the industry. What stops them from just leaving to join  <i>any</i> competitor? 
-<b>Gladmane</b>: [laughs] Well, you see I have a trick for that, I must confess. Uh-huh-huh. And it all has to do [also over loudspeaker] with how I handle my employees. 
-<b>Flam</b>: And how is that? 
-<b>Gladmane</b>: [also over loudspeaker] Well, like friends, of course! And I treat every one of my employees with the kindness they deserve. 
-<b>Flam</b>: [stammering] That's it? That's your secret, heh-heh? There's... [clears throat] ... <i>nothing</i> else? 
-<b>Gladmane</b>: Nope, just friendship. But you know all about friendship, don't you...  <i>Fluttershy?!</i> 
-<b>Flim</b>: You knew the whole time? 
-<b>Gladmane</b>: Never try to con a con-pony. Uh-huh-huh. [laughs] Yeah! [bits jingling] 
-[door opens] 
-<b>Gladmane</b>: I'd have thought you'd have hit the road by now. 
-<b>Fluttershy</b>: Whether we were able to fool you or not, you can't just go on keeping ponies from getting along! It's just... mean! 
-<b>Gladmane</b>: Now, maybe it is. But it's a meanness that works. Unlike your pathetic little ploy. I practically invented the "High Roller Hustle". But I suppose I should be impressed. You're the only ponies to ever figure out the secret to my success. Takes a lot of work keepin' everypony fightin'. But as long as I keep 'em convinced that I'm their  <i>only</i> friend, all of Las Pegasus will be mine. Oh, you can't trick a confession out of a pony like me! I'm  <i>always</i> one step ahead. 
-<b>Applejack</b>: Well, you better check your hooves, because you've just stepped in a confession! 
-<b>Gladmane</b>: Oh, no. No, no, w-w-wait, wait! 
-<b>Fluttershy</b>: [over loudspeaker] Did that sound okay? 
-<b>Flim</b> and  <b>Flam</b>: Never better! 
-<b>Applejack</b>: [over loudspeaker] Flim and Flam told us you'd see right through the fake rich pony bit, and that once you did, you wouldn't be able to resist gloatin' about it! This was all part of the plan! 
-<b>Gladmane</b>: Oh, now, now, friends! Listen, I-I can explain everything! 
-<b>Director</b>: I think you've done enough of that! Darling? 
-<b>Trapeze Star</b>: Hmph! 
-<b>"Roar Horn"</b>: Oh, I cannot believe we let him almost ruin our friendship! 
-<b>"Sprigfield"</b>: And our act. Good luck finding another one! 
-<b>Gladmane</b>: Wait! No! Y'all come back! Come on, I-I'm gonna be ruined! This is Gladmane's, y'all! Come on, you can't do this to... [wailing trails off] 
-<b>Applejack</b>: Gladmane has left the buildin'! [crunching, crash] 
-<b>Fluttershy</b>: I guess the map wasn't on the fritz after all. 
-[cutie marks ringing] 
-<b>Fluttershy</b>: If it weren't for your history with Flim and Flam, you never would've been so determined to find somepony else to help, and we never would have found out what Gladmane was doing. 
-<b>Applejack</b>: And if it weren't for  <i>you</i> wantin' to show even those two con-ponies kindness, we never would have been able to trick the trickster. [to Flim and Flam] Must've felt pretty nice to finally put all your connivin' and cheatin' skills to good use. 
-<b>Flam</b>: In fact, we might think of it as a once-in-a-lifetime opportunity. 
-<b>Flim</b>: Emphasis on "once". 
-<b>Fluttershy</b>: [suspiciously] What do you mean? 
-<b>Flam</b>: [over loudspeaker]  <i>While this establishment undergoes a slight change in management, my brother and I want to assure you that it remains the pinnacle of Las Pegasus entertainment! Which is why we invite each and every one of you to experience the wonder of the </i>Ponet Fantastique <i> Theater – at half the normal cost of admission!</i> 
-<b>Flim</b>: [over loudspeaker]  <i>And while you're appreciating this historic venue totally devoid of any performers of any kind, we invite you to use the wonder of your own imaginations to fill the space at no additional charge!</i> 
-[crowd excited chattering] 
-<b>Applejack</b>:  <i>Flim and Flam!</i> [credits] 
+<b>Applejack</b>: The map is sendin' us <i>where</i>?!
+<b>Fluttershy</b>: Las Pegasus?!
+<b>Applejack</b>: But Las Pegasus is a wild vacation spot! It's just one big party!
+<b>Fluttershy</b>: All those lights and sounds, not to mention the crowds... Oh, just the thought of it is overwhelming!
+<b>Twilight Sparkle</b>: I know Las Pegasus doesn't seem like 
+either of your cups of tea, but I have total faith you wouldn't have 
+been called unless you were the perfect ponies for the job.
+<b>Applejack</b>: Probably not as bad as we think. It can't just be a loud, obnoxious party all the time... right?
+[pop]
+<b>Fluttershy</b>: Uh, Applejack? It isn't as bad as we thought.
+[crowds cheering]
+<b>Applejack</b>: You're right. It's worse!
+[theme song]
+<b>Applejack</b> and <b>Fluttershy</b>: [gasp]
+[general chatter]
+<b>Fluttershy</b>: Do you think the map could be on the fritz 
+again? I mean, this place seems a lot more suited to Pinkie Pie or even 
+Rainbow Dash.
+<b>Applejack</b>: If Twilight trusts the map, then so do I. All
+ we have to do is solve our friendship problem and get back home. 
+'Course, we have to find it first.
+<b>Barker</b>: And make sure to experience our signature show, <i>Ponet Fantastique</i>!
+ Trust me when I say you've never seen anything like it! Unparalleled 
+acrobatics! Unique animal antics! Your only regret will be that you 
+didn't see it sooner! And like everything at this amazing, incredible, 
+I-can't-believe-it-even-exists hotel, <i>Ponet Fantastique</i> is brought to you by the chairpony of kindness – Gladmane himself!
+[crowd gasping]
+<b>Fluttershy</b>: Wow. This Gladmane sure seems impressive.
+<b>Gladmane</b>: Well, uh, it is a little embarrassing, but the crowds seem to like it. Uh-huh-huh.
+<b>Applejack</b>: Mr. Gladmane?
+<b>Gladmane</b>: Just Gladmane'll do. And it's a pleasure to 
+meet actual cohorts of the Princess of Friendship! Thank you for coming.
+ Thank you very much.
+<b>Fluttershy</b>: You know who we are?
+<b>Gladmane</b>: I'm what you might call a friendship 
+connoisseur, so naturally I'm familiar with the friends of the great 
+Twilight Sparkle! Applejack, Fluttershy, it's an honor to have you here.
+ Uh-huh-huh.
+<b>Applejack</b>: I have to admit you're not the type of pony I expected to find in Las Pegasus.
+<b>Gladmane</b>: [laughs] Well, my guests may be looking for 
+lights, music, and parties, but working hard and making friends is how I
+ turned this hotel into what it is today, and how I plan to make it even
+ bigger. Uh-huh-huh! Uh, excuse me for a second. [inhales] [through 
+loudspeaker] <i>Wise ponies may say the folks that come here are customers, but I can't help but thinkin' of each and every one of you as friends. That's why there's a three-for-one special on apple fritters in the cafe for the next hour! Enjoy! Uh-huh-huh!</i>
+[crowd chattering]
+<b>Gladmane</b>: Would you two like to take a tour of the place? I'm just about to do my rounds and check on my friends who work here.
+<b>Fluttershy</b>: [hushed] We do have a friendship problem to find.
+<b>Applejack</b>: Lead the way, Mr. Gladmane!
+<b>Gladmane</b>: Just Gladmane now, you hear?
+<b>Trapeze Star</b>: [gasps] Gladmane, you're just in time to see my newest move!
+<b>Gladmane</b>: New moves or not, I'm glad to have a star like you working for me, I'll tell you what.
+<b>Trapeze Star</b>: Oh, don't make me blush! Now watch this!
+<b>Gladmane</b>: Stellar! Uh-huh-huh!
+<b>Director</b>: Oh! Oh! Monsieur Gladmane himself is here! Let's run through the whole routine!
+<b>Gladmane</b>: Now, don't make a fuss for ol' me. I'm just gonna keep on giving a tour to my new friends Applejack and Fluttershy.
+<b>Applejack</b>: Howdy!
+<b>Fluttershy</b>: Hi.
+<b>Director</b>: If zis pony calls you friend, you're welcome backstage anytime! I owe him my entire career.
+<b>Gladmane</b>: Aw, shucks. Well, let's leave the artists to their work.
+<b>Applejack</b>: [hushed] Doesn't look like there's any friendship problems here.
+<b>Fluttershy</b>: [gasps] I've never seen a pink prairie dog before!
+[prairie dog squeaking]
+<b>Gladmane</b>: I like the folks that come here to have a unique experience. Uh-huh-huh.
+<b>"Roar Horn"</b>: Und we love him for it!
+<b>"Sprigfield"</b>: With Gladmane's help, we've been able to take care of all these little guys!
+<b>Fluttershy</b>: Now this place is overwhelming in a good way!
+<b>Gladmane</b>: Aw, glad you like it.
+<b>Applejack</b>: [clears throat] Fluttershy?
+<b>Fluttershy</b>: Hmm? Oh, um, coming!
+<b>Fluttershy</b>: There doesn't seem to be anything wrong around here at all.
+<b>Applejack</b>: I figured lookin' for a friendship problem in
+ Las Pegasus would be like tryin' to find a needle in a stack of 
+needles. But everypony seems to be gettin' along just fine.
+<b>Flim</b>: Ladies and gentleponies, despite what my 
+competition might say, I know you've come to this fair city to be 
+entertained, and I assure you there is nothing more entertaining than 
+the astounding acrobatics in Gladmane's <i>Ponet Fantastique</i>!
+<b>Flam</b>: Now, I suppose that might be true if it weren't 
+for the existence, and far superiorly entertaining presence, of the 
+show-stopping exotic animal act that <i>Ponet Fantastique</i> includes!
+<b>Fluttershy</b>: Those voices sound familiar.
+<b>Applejack</b>: They sure do. <i>Flim and Flam.</i>
+<b>Flim</b>: Why, I won't even dignify that assertion with a response! Except to say that if you were to consider buying your tickets from <i>me</i>, I might consider offering them to <i>you</i> at a substantial discount!
+<b>Flam</b>: But I've always thought you get what you pay for, and in my humble opinion, <i>these</i> tickets are a value at twice the price!
+<b>Flim</b>: Don't let this price-gouging charlatan take you for a ride!
+<b>Flam</b>: [gasps] Charlatan? How dare you!
+<b>Flim</b>: Hah! How dare I?!
+<b>Flam</b>: [simultaneous] Yes, how dare you! I was the one that...
+<b>Flim</b>: [simultaneous] I call 'em likes I see them, dear brother of mine!
+<b>Flam</b>: [simultaneous, background] I'm two minutes older than you – don't you forget that, brother of mine!
+<b>Flim</b>: [simultaneous, background] I'm sick and tired of this...
+<b>Flim</b> and <b>Flam</b>: [further unintelligible arguing]
+<b>Fluttershy</b>: <i>They</i> certainly don't seem to be getting along. [gasps] You don't suppose we've been brought here to help <i>them</i>?
+<b>Applejack</b>: Absolutely not!
+<b>Flim</b> and <b>Flam</b>: [arguing]
+<b>Fluttershy</b>: I know you and the rest of the Apple family 
+have had your issues with Flim and Flam in the past, but they're 
+definitely having trouble, and solving a friendship problem is 
+important, no matter who's having it.
+<b>Applejack</b>: Well, of course that's true... for anypony but <i>them</i>!
+<b>Gladmane</b>: I'm sorry you had to see that. I don't know 
+why, but those two have been fightin' ever since they got here. I 
+thought giving them these jobs might help, but I... I guess it just made
+ matters worse.
+<b>Applejack</b>: Trust me. I know those ponies, and you're 
+better off with them apart. The two of them together will cheat the 
+hooves right out from under you!
+<b>Gladmane</b>: Yeah, I suppose you're right. Flim's such a 
+showpony, and Flam has such a head for business. Why, if they ever did 
+work together, they'd be running this place in two shakes! Ah, speaking 
+of which, I'd better get back to work. Y'all enjoy your stay now, you 
+hear?
+<b>Fluttershy</b>: I'm pretty sure we should help Flim and Flam...
+<b>Applejack</b>: And <i>I'm</i> pretty sure there's another friendship problem here, and I'm gonna search this resort top to bottom 'til I find it!
+<b>Fluttershy</b>: [sighs]
+<b>Flim</b>: I hope you didn't travel all the way from Ponyville to try to get me to reconcile with my no-account brother.
+<b>Flam</b>: Brother? I don't believe I <i>have</i> one of those.
+<b>Flim</b>: No! I already know what he thinks of me! All show 
+and no substance! Well, if he's so smart, he should have no trouble 
+becoming a big success on his own!
+<b>Flam</b>: "Ooh, why, he's the greatest salespony that ever lived, of course!" Just ask him. He'll tell you <i>all</i> about it.
+<b>Fluttershy</b>: I'm sure you could work out your differences if you just sat down and talked to each other.
+<b>Flim</b> and <b>Flam</b>: I'm never speaking to that pony again!
+<b>Fluttershy</b>: [sighs]
+[general casino chatter and noises]
+<b>Director</b>: [muffled] <i>No!</i> [normal] You are ruining my show!
+<b>Trapeze Star</b>: It isn't just <i>your</i> show, and <i>I'm</i> improving it.
+<b>Director</b>: You don't pull a rabbit out of a hat <i>on</i> the trapeze!
+<b>Trapeze Star</b>: That's the point – to give the audience something they've never seen before! Acrobatic magic!
+[twirling]
+<b>Bernard Rabbit</b>: Ta-da!
+<b>Trapeze Star</b>: It's called "blending genres", and it's <i>awesome</i>!
+<b>Applejack</b>: Shouldn't somepony do somethin'?
+<b>"Back Stage"</b>: Hah. They've been doing this since they 
+started working here. Too bad, really. If they ever stopped shouting at 
+each other, we could take the show on tour. They'd be <i>way</i> more successful than staying at Gladmane's.
+<b>Applejack</b>: Heh-heh. Now <i>that</i> sounds like a <i>real</i> friendship problem!
+<b>"Roar Horn"</b>: Hup! Hup! Hup! Hup!
+<b>"Sprigfield"</b>: Stop! What are you doing?! It's supposed to be a pink prairie dog <i>pyramid</i>! It's alliterative!
+<b>"Roar Horn"</b>: Wha— You said a tower! Why do you keep changing everything?
+[prairie dogs squeaking]
+<b>"Sprigfield"</b>: I'm not changing anything! <i>You</i> said pyramid!
+<b>"Roar Horn"</b>: [shrieks] You are driving me crazy!
+<b>Applejack</b>: I thought you two got along.
+<b>"Sprigfield"</b>: We used to, but we just can't seem to 
+agree on anything anymore. We used to perform all over Equestria, but if
+ we can't agree on a new act, we might as well stay at Gladmane's 
+forever. [stomping]
+<b>Applejack</b>: <i>Two</i> friendship problems in the same theater? Now we're talkin'!
+<b>Fluttershy</b>: If you count Flim and Flam, that's <i>three</i> big friendship problems all in the same place!
+<b>Applejack</b>: Well, I don't count Flim and Flam since those two not bein' friends isn't a problem.
+<b>Fluttershy</b>: It certainly isn't for Gladmane. Sounds like he's better off with them fighting.
+<b>Applejack</b>: Actually, the other ponies' problems seemed 
+to be good for Gladmane too. Both the trapeze show and the animal act 
+would be better off if they left, but everypony's so busy arguin' that 
+they can't.
+<b>Fluttershy</b>: Do you think he knows?
+<b>Applejack</b>: I don't know, but I'm startin' to think we should find out.
+<b>Trapeze Star</b>: Of course Gladmane wants everypony to get 
+along. He's the nicest, most genuine pony I've ever met. Did the 
+director put you up to this?
+<b>Bernard Rabbit</b>: [unintelligible whispering]
+<b>Director</b>: I tell you, if Gladmane is your friend, you are welcome backstage. But if you are speaking of him poorly, you leave!
+<b>"Roar Horn"</b>: Gladmane is the kindest, most gentle...
+<b>"Sprigfield"</b>: ...most compassionate pony I've ever known!
+<b>"Roar Horn"</b> and <b>"Sprigfield"</b>: My problem... is with <i>him</i>!
+[prairie dogs squeaking]
+<b>Applejack</b>: I just can't figure it! The only pony who 
+benefits from all this feudin' is Gladmane, but by all accounts, he's 
+the best friend any of these ponies have!
+<b>Fluttershy</b>: Well, Bernard – that adorable bunny from the
+ acrobat's act – claims that every morning, Gladmane tells the director 
+that the star wants control of the show, and every afternoon tells the 
+star that the director wants to get rid of her! But neither is true!
+<b>Applejack</b>: [snorts]
+<b>Fluttershy</b>: And the Flying Prairinos – the pink prairie 
+dog family – say Gladmane keeps changing their act to make each trainer 
+think the other is doing it!
+<b>Applejack</b>: So all his talk about friendship is just a load of applesauce! He's gettin' them all to fight with each other on purpose!
+<b>Fluttershy</b>: But how can we get everypony to believe that's what he's doing?
+<b>Applejack</b>: There must be a way to trick him into telling the truth!
+<b>Fluttershy</b>: Gee, if only there was a pony who knew how to trick a trickster.
+<b>Flim</b> and <b>Flam</b>: [unintelligible arguing]
+<b>Fluttershy</b>: Or maybe a <i>pair</i> of ponies?
+<b>Applejack</b>: [sighs] Fine. Guess bringin' Flim and Flam back together might be why we're here. Maybe.
+<b>Flim</b>: Sorry if I don't take the word of somepony off the street, even if that street is in Ponyville.
+<b>Fluttershy</b>: But Gladmane is behind so many other friendship problems. How can you be sure he isn't the cause of yours?
+<b>Flam</b>: Because the only problem I have is standing right there.
+<b>Flim</b>: Same here, buster!
+<b>Applejack</b>: Do either of you even know what you're fightin' over?
+<b>Flim</b>: Gladmane let me know that <i>ex</i>-brother of mine thinks I'm just a mouthpiece without a single good idea!
+<b>Flam</b>: Gladmane assured me this <i>former</i> fraternal foal here thinks I couldn't sell heat lamps to yaks!
+<b>Applejack</b>: Sounds to me like neither of you said those things. Why'd you believe Gladmane when he said you did?
+<b>Flim</b>: Why would he lie?
+<b>Fluttershy</b>: Because he's afraid that the two of you together could move in and take over his resort.
+<b>Applejack</b>: And if I'm tellin' you he said it, you know it's the absolute truth because—
+<b>Flim</b> and <b>Flam</b>: You never lie!
+<b>Flam</b>: Oh, brother of mine, I think it's time for a little payback!
+<b>Flim</b>: The Canterlot Two-Step?
+<b>Flam</b>: Mmm, we don't have the chickens. How about the Baltimare Flair?
+<b>Flim</b>: Ah, my flair isn't what it used to be.
+<b>Gladmane</b>: [over loudspeaker] <i>Listen here, y'all! If you're a friend of mine, you're entitled to a free night's stay, and everypony is a friend of mine! Thank you. Thank you very much.</i>
+<b>Flim</b>: Are you thinking what I am?
+<b>Flam</b>: The High Roller Hustle!
+<b>Applejack</b>: The what now?
+<b>Flam</b>: Trust us. When we're done, there won't be a pony 
+in town who doesn't know the Applejack-iest truth about Gladmane! That 
+is, assuming you two are willing to help.
+<b>Flim</b>: What size gown do you wear?
+[crowd chattering and cameras clicking]
+<b>Gladmane</b>: Wh-What's all the fuss, now?
+<b>Flim</b>: It's the grand matriarch of the Rich family, Impossibly Rich! She's one of the wealthiest ponies in Equestria.
+<b>Gladmane</b>: Well, why didn't somepony tell me? You know how I like to give VIP guests my personal touch.
+<b>Flim</b>: Well, she's not exactly a guest. Word is she's 
+planning a resort of her own. [hushed] I think she's here to scout the 
+competition.
+<b>Gladmane</b>: [hushed] Oh, really?
+<b>Flim</b>: And with her bits, she could take over the whole strip, hire away anypony she wants!
+<b>Gladmane</b>: [growling]
+<b>Flim</b>: Uh, not me, of course! I love it here. My good-for-nothing brother, on the other hoof...
+<b>Gladmane</b>: [snorts] Impossibly Rich, what an honor it is 
+to have you at my humble five-hoof resort. I'm sure Flam has done an 
+excellent job showing you around, but nothing could beat a personalized 
+tour from the mane himself. Uh-huh-huh.
+<b>Fluttershy</b>: [unintelligible whispering]
+<b>Flam</b>: You'll have to excuse Ms. Rich. She saves the energy other ponies spend talking out loud and uses it to make more money.
+<b>Fluttershy</b>: [unintelligible whispering]
+<b>Flam</b>: She'd <i>love</i> a personal tour! Say, in, uh, about an hour?
+<b>Gladmane</b>: Well, that sounds right pleasant. And if you 
+can break away for a moment, Flam, I'd love to see you in my office so I
+ can get ready.
+[curtain rustling]
+<b>Fluttershy</b>: Are all of you sure this is a good idea?
+<b>Flim</b>: Abso-tively!
+<b>Flam</b>: Gladmane is one fish that's hooked but good!
+<b>Applejack</b>: I sure hope you two know what you're doin'.
+<b>Flam</b>: Oho, don't you worry. When it comes to throwing ponies off their game...
+<b>Flim</b>: No two ponies do it better than us!
+<b>Applejack</b>: Can't argue with that.
+[door opens]
+<b>Flam</b>: Hey there, boss, Impossibly Rich is just about ready for that tour. So what did you want to see me about?
+<b>Gladmane</b>: Actually, there's something I want <i>you</i> to see – the Grand Plan. Every hotel on this strip as amazing as this one, and every one of 'em <i>mine</i>.
+<b>Flam</b>: [whistles]
+<b>Gladmane</b>: And all it'll take is a little salesponyship, like this.
+[click]
+<b>Gladmane</b>: [over loudspeaker] <i>Hey there, friends. Uh-huh-huh. If you think my resort is fantastic, wait 'til you see </i>Ponet Fantastique<i>! Tickets are on sale now. Two for the price of one! Thank you. Thank you very much.</i>
+[click]
+<b>Gladmane</b>: Now I know Impossibly Rich has probably made you a tempting offer to come work for her.
+<b>Flam</b>: Well uh, now that you mention it...
+<b>Gladmane</b>: And as your friend, I'd never tell you what to
+ do. But nopony's gonna stand in the way of my plans, no matter how rich
+ she is! And I sure wouldn't want you to end up on the losing side. 
+Think you might consider staying here?
+<b>Flam</b>: Um...
+<b>Gladmane</b>: Well all right then.
+<b>Applejack</b>: They're comin'!
+<b>Gladmane</b>: And last but not least, Ms. Rich, the jewel in my crown.
+<b>Fluttershy</b>: [unintelligible whispering]
+<b>Flam</b>: Impossibly wants you to know she's <i>very</i> impressed but doesn't think you can keep a resort of this caliber going for long.
+<b>Gladmane</b>: Oh? And why's that?
+<b>Fluttershy</b>: [unintelligible whispering]
+<b>Flam</b>: Because <i>you've</i> got the best talents in the industry. What stops them from just leaving to join <i>any</i> competitor?
+<b>Gladmane</b>: [laughs] Well, you see I have a trick for 
+that, I must confess. Uh-huh-huh. And it all has to do [also over 
+loudspeaker] with how I handle my employees.
+<b>Flam</b>: And how is that?
+<b>Gladmane</b>: [also over loudspeaker] Well, like friends, of course! And I treat every one of my employees with the kindness they deserve.
+<b>Flam</b>: [stammering] That's it? That's your secret, heh-heh? There's... [clears throat] ...<i>nothing</i> else?
+<b>Gladmane</b>: Nope, just friendship. But you know all about friendship, don't you... <i>Fluttershy?!</i>
+<b>Flim</b>: You knew the whole time?
+<b>Gladmane</b>: Never try to con a con-pony. Uh-huh-huh. [laughs] Yeah!
+[bits jingling]
+[door opens]
+<b>Gladmane</b>: I'd have thought you'd have hit the road by now.
+<b>Fluttershy</b>: Whether we were able to fool you or not, you can't just go on keeping ponies from getting along! It's just... mean!
+<b>Gladmane</b>: Now, maybe it is. But it's a meanness that 
+works. Unlike your pathetic little ploy. I practically invented the 
+"High Roller Hustle". But I suppose I should be impressed. You're the 
+only ponies to ever figure out the secret to my success. Takes a lot of 
+work keepin' everypony fightin'. But as long as I keep 'em convinced 
+that I'm their <i>only</i> friend, all of Las Pegasus will be mine. Oh, you can't trick a confession out of a pony like me! I'm <i>always</i> one step ahead.
+<b>Applejack</b>: Well, you better check your hooves, because you've just stepped in a confession!
+<b>Gladmane</b>: Oh, no. No, no, w-w-wait, wait!
+<b>Fluttershy</b>: [over loudspeaker] Did that sound okay?
+<b>Flim</b> and <b>Flam</b>: Never better!
+<b>Applejack</b>: [over loudspeaker] Flim and Flam told us 
+you'd see right through the fake rich pony bit, and that once you did, 
+you wouldn't be able to resist gloatin' about it! This was all part of 
+the plan!
+<b>Gladmane</b>: Oh, now, now, friends! Listen, I-I can explain everything!
+<b>Director</b>: I think you've done enough of that! Darling?
+<b>Trapeze Star</b>: Hmph!
+<b>"Roar Horn"</b>: Oh, I cannot believe we let him almost ruin our friendship!
+<b>"Sprigfield"</b>: And our act. Good luck finding another one!
+<b>Gladmane</b>: Wait! No! Y'all come back! Come on, I-I'm 
+gonna be ruined! This is Gladmane's, y'all! Come on, you can't do this 
+to... [wailing trails off]
+<b>Applejack</b>: Gladmane has left the buildin'!
+[crunching, crash]
+<b>Fluttershy</b>: I guess the map wasn't on the fritz after all.
+[cutie marks ringing]
+<b>Fluttershy</b>: If it weren't for your history with Flim and
+ Flam, you never would've been so determined to find somepony else to 
+help, and we never would have found out what Gladmane was doing.
+<b>Applejack</b>: And if it weren't for <i>you</i> wantin' to 
+show even those two con-ponies kindness, we never would have been able 
+to trick the trickster. [to Flim and Flam] Must've felt pretty nice to 
+finally put all your connivin' and cheatin' skills to good use.
+<b>Flam</b>: In fact, we might think of it as a once-in-a-lifetime opportunity.
+<b>Flim</b>: Emphasis on "once".
+<b>Fluttershy</b>: [suspiciously] What do you mean?
+<b>Flam</b>: [over loudspeaker] <i>While this establishment undergoes a slight change in management, my brother and I want to assure you that it remains the pinnacle of Las Pegasus entertainment! Which is why we invite each and every one of you to experience the wonder of the </i>Ponet Fantastique<i> Theater – at half the normal cost of admission!</i>
+<b>Flim</b>: [over loudspeaker] <i>And while you're appreciating this historic venue totally devoid of any performers of any kind, we invite you to use the wonder of your own imaginations to fill the space at no additional charge!</i>
+[crowd excited chattering]
+<b>Applejack</b>: <i>Flim and Flam!</i>
+[credits]

@@ -1,253 +1,312 @@
-[shades closing] 
-[windows clattering] 
-<b>Fluttershy</b>: Fuzzy Legs, do you think you could secure those windows? 
-[webs shooting] 
-[windows close] 
-<b>Fluttershy</b>: And you'll alert me if anything scary comes close to the cottage? 
-[birds squawk] 
-<b>Fluttershy</b>: Oh, who am I kidding?  <i>When</i> something scary comes close to the cottage!  <i>Please</i> tell me my hiding place is ready. 
-<b>Harry</b>: [growls] 
-<b>Fluttershy</b>: Oh, look, you've filled it with everything I need to survive this awful night. Thank you. Thank you all! Now I don't have to step a hoof outside until this whole thing is over. 
-[bucket clattering] 
-<b>Fluttershy</b>: Oh, no! You don't have any carrots? Do we have any other fresh veggies you may enjoy? 
-<b>Angel</b>: [growls] 
-<b>Fluttershy</b>: Or maybe some hay? But that means I'll need to go out... on Nightmare Night! 
-[thunder and lightning] 
-[ponies laughing] [fireworks] 
-[eerie sound effects] 
-<b>Twinkleshine</b> and  <b>Amethyst Star</b>: [giggling] 
-<b>Fluttershy</b>: [screams] 
-<b>Foals</b>: [singsongy] Nightmare Night, what a fright! Give me something sweet to bite! 
-<b>Fluttershy</b>: [gasps] 
-<b>Foals</b>: [singsongy] Nightmare Night, what a fright! Give me something sweet to bite! 
-<b>Granny Smith</b>: Fluttershy? What're you doin' out and about? It's Nightmare Night, remember? 
-<b>Fluttershy</b>: How could I forget? Oh, I don't suppose I could borrow a few pieces of hay from you? I forgot to stock up on food for Angel, and you do seem to have quite a lot. 
-<b>Granny Smith</b>: We need it for the Apple Family Haunted Maze. [spooky voice] The scariest maze that there ever was. Who knows what lurks inside? 
-<b>Fluttershy</b>: Oh, I'm sure  <i>I</i> don't. 
-<b>Granny Smith</b>: Is that a mummified pony that just leaped out at ya? 
-<b>Fluttershy</b>: I don't know. Is it? 
-<b>Granny Smith</b>: And what's that crunchin' sound beneath yer hooves? Maybe it's the bones of ponies that didn't make it out alive! 
-<b>Fluttershy</b>: B-B-B-B-Bones?! 
-<b>Granny Smith</b>: And are those peeled grapes or a thousand slimy eyeballs starin' at ya from beyond the grave? 
-<b>Fluttershy</b>: Please tell me they're grapes! 
-<b>Granny Smith</b>: Oh, I'll never tell. [maniacal laughter] 
-[thunder and lightning] 
-<b>Fluttershy</b>: [frightened sobs] 
-<b>Granny Smith</b>: Huh. I wonder what got stuck in her craw. [thunder and lightning] 
-[door opens] 
-<b>Fluttershy</b>: Twilight? Hello? [screams] 
-<b>Spike</b>: You think it's scary  <i>now</i>, just wait until it's done. 
-<b>Fluttershy</b>: That's okay. I'll take your word for it. 
-<b>Spike</b>: [grunts] Hey, wait a minute! It's Nightmare Night and you're here and not holed up in your cottage! Does this mean what I think it means? 
-<b>Fluttershy</b>: That I foolishly forgot to stock up on food for Angel and had to go out to get him something but got spooked in town so I came here hoping Twilight had some lettuce I could give him? 
-<b>Spike</b>: Oh. I thought maybe you decided to come out with us tonight. 
-<b>Fluttershy</b>: Goodness, no! I couldn't be out tonight. I just couldn't. 
-<b>Spike</b>: Technically speaking, you already are out right now. 
-<b>Fluttershy</b>: Oh. I guess that is true. 
-<b>Spike</b>: So what if you stayed out a little longer with your friends? I know they'd be super excited. 
-<b>Fluttershy</b>: You think so? 
-<b>Spike</b>: You would make them  <i>so</i> happy if you joined in. They wouldn't believe their eyes! Come on, Fluttershy, what do you say? 
-[distant laughter] <b>Pinkie Pie</b>: And then it got very, very quiet and suddenly they realized  <i>the balloons had never been inflated</i>! 
-<b>All but Pinkie Pie</b>: [scream, laugh] 
-<b>Rarity</b>: Did I ever tell you about the night that the mannequin came to life and haunted all the costumes? 
-<b>Rainbow Dash</b>: What happened? 
-<b>Rarity</b>: I just told you, darling. A mannequin came to life and haunted all the costumes. 
-<b>Pinkie Pie</b>: [squeals] 
-<b>Fluttershy</b>: Hi, everypony. 
-<b>All but Fluttershy</b>: [scream] 
-<b>Twilight Sparkle</b>: Fluttershy, what are you doing here? Is everything okay? 
-<b>Fluttershy</b>: Everything is fine. In fact, it's  <i>more</i> than fine. I've decided to join you in your Nightmare Night festivities. 
-<b>Rainbow Dash</b>: [scoffs] Seriously? You? Out? Tonight? 
-<b>Fluttershy</b>: Every Nightmare Night, I shut myself in my cottage and refuse to come out until morning. But it's just like when I was afraid to sing in front of anypony. If I hadn't given it a try, I never would've found out how much I enjoy it. 
-<b>Applejack</b>: And we'd have missed out on how great you sound. 
-<b>Rarity</b>: Fluttershy with us on Nightmare Night? Why, that's positively the most wonderful news I've heard in ages! 
-<b>Pinkie Pie</b>: You can get dressed up in a costume with us and play Nightmare Night games with us  <i>and</i> eat candy apples with us! 
-<b>Applejack</b>: Don't forget the best part. Goin' through my family's corn maze! 
-<b>Pinkie Pie</b>: [squee] 
-<b>Fluttershy</b>: Oh, right. The maze. 
-<b>Applejack</b>: Uh, only if you're up for it. 
-<b>Fluttershy</b>: Oh, I am! I am ready to take on Nightmare Night! 
-<b>All but Fluttershy</b>: [cheering] 
-<b>Fluttershy</b>: [shuddering] [giggles] Just practicing. [nervous laugh] <b>Cutie Mark Crusaders</b>: [giggling] 
-<b>Rarity</b>: Mummy? No. Headless pony? No. Vampire fruit bat? Ugh, definitely no. You see, Fluttershy, the beauty of Nightmare Night is that you don't have to dress up as something scary. 
-[smack] 
-<b>Rarity</b>: Ooh! Yes. This one will look gorgeous on you. Period costumes are all the rage this year. What? No good? 
-<b>Fluttershy</b>: What if we encounter something terrifying and need to get away quickly? All those layers could slow me down, or worse, make me trip! 
-<b>Rarity</b>: Oh. I never... considered that. Never fear! 
-[smack] 
-<b>Rarity</b>: [hums] Ooh, now this is a  <i>real</i> stunner! I call it "Masquerade"! Just a simple black dress underneath but with this ornately decorated mask! 
-<b>Fluttershy</b>: A mask? 
-<b>Rarity</b>: No? 
-<b>Fluttershy</b>: They can just be so difficult to see out of. 
-<b>Rarity</b>: Yes, but this one has eyeholes. 
-<b>Fluttershy</b>: W-What about being able to see what's to the left or right of me? 
-<b>Rarity</b>: I suppose your vision  <i>would</i> be somewhat obscured. It's your first Nightmare Night out and about, and we  <i>do</i> want you to be comfortable. 
-<b>Fluttershy</b>: What if I just wear the dress? 
-<b>Rarity</b>: Oh, sure, dear. That's... fine. [to herself] It's so plain, it's frightening. [out loud] Oh, my! Look at all of you! My costumes fit you to a T! 
-<b>Applejack</b>: Hoo-wee, we're gonna have the best time! 
-[door opens] 
-<b>Rainbow Dash</b>: Hey, Fluttershy, where's  <i>your</i> costume? 
-<b>Fluttershy</b>: I'm wearing it. 
-<b>Pinkie Pie</b>: [gasps] I get it! You're a robber escaping into the night! You're a  <i>ninja</i> escaping into the night! You're  <i>black licorice</i> escaping into the night! 
-<b>Fluttershy</b>: Close. I'm going to a masquerade ball. Without the mask. 
-[bonk] 
-<b>Twilight Sparkle</b>: Oh, that's great! Isn't it great? 
-<b>Rainbow Dash</b>: Oh, yeah. 
-<b>Pinkie Pie</b>: So creative. 
-<b>Applejack</b>: Great costume. <b>Pinkie Pie</b>: I figured I'd save the really scary games for next year when Fluttershy's more used to it. 
-<b>All but Rainbow Dash</b>: Round and round and round you go, where you stop nopony knows! 
-<b>Pinkie Pie</b>: Okay... go! 
-<b>Rainbow Dash</b>: [grunting] Good luck beating  <i>that</i>, Fluttershy! 
-<b>Fluttershy</b>: Well, um, it's just that if I'm blindfolded and somepony were to leap out in front of me, I'd never have the chance to defend myself. 
-<b>Rarity</b>: That's fine, darling. You don't have to do anything you don't want to. 
-<b>Twilight Sparkle</b>: We're just glad you're here. 
-<b>Pinkie Pie</b>: We don't have to finish that game. I have another one I  <i>know</i> you'll love! Bobbing for apples! 
-[splash] 
-<b>Fluttershy</b>: [gulps] 
-<b>Twilight Sparkle</b>: Fluttershy, what's wrong? 
-<b>Fluttershy</b>: It's just that, um... What happens if, when my head is deep down in the water, some kind of scary monster appears? How would I even hear to know I was under attack? 
-[beat] 
-<b>Pinkie Pie</b>: Time for candy! 
-<b>Fluttershy</b>: It is? 
-<b>Pinkie Pie</b>: I made candy bags. Each bag has been made with each of  <i>you</i> in mind, complete with each of your favorite candies! 
-<b>Rainbow Dash</b>: Ha! Awesome! 
-<b>Pinkie Pie</b>: Here. Take it. Take it! What are you waiting for? 
-<b>Fluttershy</b>: Well, it's just... What if when I'm eating one of these chewy taffies, my mouth becomes glued shut and I can't scream for help? 
-[beat] 
-<b>Fluttershy</b>: Oh, goodness. We've only just started to celebrate Nightmare Night together, and I'm already taking all the fun out of it, aren't I? 
-<b>Pinkie Pie</b>: You're not taking out  <i>all</i> of the fun. 
-<b>Rainbow Dash</b>: Just, like, ninety per— 
-[clang] 
-<b>Rainbow Dash</b>: ... <i>Some</i> of it. 
-<b>Fluttershy</b>: I really wanna do this. But there's just so many things that terrify me about tonight. I couldn't possibly predict what might upset me. 
-<b>Twilight Sparkle</b>: Unless...  <i>you</i> were the one doing the scaring! 
-<b>Rainbow Dash</b>:  <i>Her</i> scaring  <i>us</i>? [laughing] Oh. You're being serious. 
-<b>Twilight Sparkle</b>: The thing you hate is being scared, but if  <i>you're</i> the one doing the scaring, then... 
-<b>Fluttershy</b>: Then I can help you all have fun and I can still be a part of Nightmare Night! 
-<b>Twilight Sparkle</b>: So you like that idea? 
-<b>Fluttershy</b>: I think I do! And I don't want to get ahead of myself, but I think I have the  <i>perfect</i> idea for how I'm gonna do it! 
-<b>Pinkie Pie</b>: Really? Oh, this is so exciting! 
-<b>Fluttershy</b>: [spooky voice] Meet me at my cottage in an hour. [normal voice] Oh, I'm excited to see everypony soon! [knocking at door] 
-[door creaks] 
-<b>Fluttershy</b>: [spooky voice] Welcome to Fluttershy's tea party! 
-<b>Rainbow Dash</b>: Did she just say "tea party"? 
-<b>Twilight Sparkle</b>: It sounds like it's a scary tea party? 
-<b>Rainbow Dash</b>: [sighs] 
-<b>Fluttershy</b>: [spooky voice] Have a seat. Don't be scared of what awaits you. Go on. Pass the sugar. Oh, no! There  <i>is</i> none! You're a terrible host! Rarity, put your coat on! 
-<b>Rarity</b>: Why would I do that? 
-<b>Fluttershy</b>: [spooky voice] You need to cover up because no one has complimented your dressssssss! Pinkie Pie, look to your left and ask your best friend to pass the cucumber sandwiches! 
-<b>Pinkie Pie</b>: Huh? I can't. There's nopony there. 
-<b>Fluttershy</b>: [spooky voice] That's right. Because she didn't care to show uuuuuup. 
-<b>Pinkie Pie</b>: What? 
-<b>Fluttershy</b>: [spooky voice] A friend who didn't come through. That must scare you to the coooore. Quick, everypony, look behind you! 
-<b>Rainbow Dash</b>: Uh, what are those? 
-<b>Fluttershy</b>: [spooky voice] They're unplanned guests. Your woooorst nightmare. You don't have enough food for them! Oh, no! There's a tiny kitten that needs a home! But you are over-scheduled right now. You don't have time to help! I said, "You don't have time to help!" This should appear to scare you! [normal voice] Why don't you look terrified? You showed up to a party and everypony was extremely disappointed in you. Can you imagine anything more upsetting? 
-<b>Rarity</b>: It was a really good try, darling, but the scares at Nightmare Night are of an entirely different nature. 
-<b>Twilight Sparkle</b>: It was really creative, though. I  <i>never</i> would have thought of... all this. 
-[thunk] 
-<b>Fluttershy</b>: Oh, I'm just not cut out for this. Just go on without me. 
-<b>Rarity</b>: Oh, no. We couldn't possibly. 
-<b>Fluttershy</b>: You  <i>have</i> to. This is the night you look forward to all year. 
-<b>Pinkie Pie</b>: We could... stay here? 
-<b>Fluttershy</b>: It's okay. I really want you all to have fun. This is how I spend  <i>every</i> Nightmare Night. Please go. I'll be fine. 
-<b>Pinkie Pie</b>: Eh, it's funny. I actually thought she had an idea for something really scary for a second there. 
-<b>Applejack</b>: She definitely tried her hardest. 
-[door closes] 
-<b>Fluttershy</b>: I  <i>did</i> try my hardest. 
-<b>Angel</b>: [thumping on table] 
-<b>Fluttershy</b>: Or... maybe not. I suppose I  <i>could</i> have gone with something a bit scarier. You're right! I've been taking baby steps! I think it's time for grown up ones! I don't suppose you have any ideas how I could do that? 
-<b>Angel</b>: [growls mischievously] <b>Applejack</b>: Everypony's linin' up for the corn maze, y'all! Let's go! 
-<b>Spike</b>: Oh, yeah! I can't believe we're finally doin' this! 
-[horse whinnies] 
-<b>All</b>: [scream, laugh] 
-<b>Rainbow Dash</b>: It's a good thing Fluttershy isn't here because she would  <i>never</i> be able to handle this! 
-[distant screams] 
-<b>All</b>: [gasp] 
-<b>Big McIntosh</b>: Boooo... Eeyup. 
-<b>All</b>: [laugh] 
-[crackling] 
-<b>Rarity</b>: What. Is. That. Sound? 
-<b>Pinkie Pie</b>: It looks like... bones! 
-<b>All</b>: [scream] 
-<b>Rainbow Dash</b>: Looks like a bunch of dried sticks painted white to me. 
-<b>Applejack</b>: Hey,  <i>try</i> to keep up the illusion, would ya? 
-<b>Rarity </b>and  <b>Spike</b>: Gah! 
-<b>All</b>: [laugh] 
-<b>Pinkie Pie</b>: Whoo! 
-[whoosh] 
-<b>Applejack</b>: Agh! What was that? 
-<b>Spike</b>: Don't  <i>you</i> know? 
-<b>Applejack</b>: Uh, o-of course I do. It was, uh... 
-[ghostly moans] 
-[peeyow!] 
-<b>All</b>: [scream] 
-[moaning continues] 
-<b>Rarity</b>: [grunts] Fluttershy had a point with the layers on the dress. 
-[moaning continues] 
-<b>Applejack</b>: [exclaims] 
-<b>All</b>: [yell] 
-[thud] 
-<b>All</b>: [groan] 
-<b>Rarity</b>: What is this? Is it a tunnel? Where does it lead?! 
-[grinding] 
-[slam] 
-<b>Twilight Sparkle</b>: Which way are we supposed to go now?! 
-<b>Applejack</b>: Uh, I don't know! I don't know  <i>what's</i> goin' on! 
-<b>Rainbow Dash</b>: [grunts] What do you mean? Didn't  <i>you</i> help plan this? 
-[creaking chair] 
-<b>Applejack</b>: Whew. There's Granny Smith. Not that I was ever  <i>scared</i>, 'cause I wasn't. I'm a pretty good actress when I wanna be. Granny? [screams] 
-<b>All</b>: [scream] [panting] 
-[crash] 
-<b>Spike</b>: Applejack, didn't you know about any of this?! 
-<b>Applejack</b>: Alright, I got to admit I didn't know about  <i>any</i> of this, but maybe they're just tryin' to make it interestin' for me, too! I'm sure Granny Smith or Big Mac is behind this. 
-<b>Granny Smith</b>: [muffled] Are those peeled grapes or eyeballs starin' at ya from beyond the grave? [cackling] 
-<b>Big McIntosh</b>: Eeyup. 
-<b>Cutie Mark Crusaders</b>: [playful scream] 
-<b>Applejack</b>: [teeth chatter] That's what  <i>we</i> were supposed to do! I don't know why we're down here! This is really scarin' me now! 
-<b>Pinkie Pie</b>: [teeth chattering] 
-[foot stomps] 
-<b>Monster</b>: [growls] 
-<b>Pinkie Pie</b>: How did  <i>that</i> get down here?! 
-<b>Monster</b>: [roars] 
-<b>Rainbow Dash</b>:  <i>RUUUUUUUUUN!</i> 
-<b>Pinkie Pie</b> and  <b>Spike</b>: [panting] [grunt] 
-<b>Pinkie Pie</b>: I can't see! 
-<b>Rainbow Dash</b>: I can barely move! 
-<b>All</b>: [grunting] 
-<b>Rainbow Dash</b>: It's like glue! 
-<b>All</b>: [grunting] 
-<b>Monster</b>: [roaring] 
-<b>Twilight Sparkle</b>: [grunts] 
-[teleportation zap] 
-<b>Monster</b>: [growls] 
-<b>All</b>: [panicked screams] 
-<b>Flutterbat</b>: [deep cackles] [snarls] 
-<b>All</b>: [whimpering] 
-<b>Fluttershy</b>: Oh, my! I'm so, so sorry. Can you ever forgive me? 
-<b>Applejack</b>: Fluttershy? 
-<b>Rainbow Dash</b>: It was  <i>you</i> the whole time?! 
-<b>Twilight Sparkle</b>: I can't believe it! 
-<b>Rarity</b>: That... was... 
-<b>Pinkie Pie</b>: THE BEST THING EVER! [squee] 
-<b>Rainbow Dash</b>: It was way more terrifying than the most terrifying thing I could have thought of! 
-<b>Applejack</b>: You out-nightmared the scariest part of the corn maze! 
-<b>Twilight Sparkle</b>: How did you do all this?! 
-<b>Fluttershy</b>: After you left, I realized that I wasn't ready to give up on Nightmare Night. So I asked Granny Smith if I could try to make the maze even scarier for my friends. 
-<b>Rainbow Dash</b>:  <i>You</i> came up with all of this? 
-<b>Fluttershy</b>: I had some help. Angel was the scary figure that kept scurrying after you in the maze. Fuzzy Legs made the sticky wall that made it difficult for you to see and move. And, of course, Harry was the especially scary monster. 
-<b>Harry</b>: [growls happily] 
-<b>Twilight Sparkle</b>: Wow! That was inspired! 
-<b>Pinkie Pie</b>: You have to do this  <i>every</i> year! 
-<b>Applejack</b>: Uh-huh! 
-<b>Rarity</b>: Absolutely! 
-<b>Twilight Sparkle</b>: Every year! 
-<b>Rainbow Dash</b>: Yeah! 
-<b>Fluttershy</b>: We  <i>could</i> celebrate Nightmare Night together every year. But the truth is I really don't want to. 
-<b>Pinkie Pie</b>: You  <i>don't</i>?! 
-<b>Rarity</b>: But you've done it. You found a way that we can all have a fabulous time together. 
-<b>Fluttershy</b>: Yes, but I've also realized something. You all may love Nightmare Night and I may be good at being a part of it, but it's no fun for me to see my friends feel like they're in danger, even if I know they're not. I really don't like it. It's just not my cup of tea. 
-<b>Pinkie Pie</b>: Spoooooooooky tea? 
-<b>Fluttershy</b>: No. Just regular tea. We do lots of fun things together, but I'm afraid this just isn't gonna be one of them. Actually, I'm  <i>not</i> afraid. I'm perfectly fine with it. 
-<b>Twilight Sparkle</b>: Then we are, too. 
-<b>Harry</b>: [growls happily] 
-[bats squeaking] <b>Fluttershy</b>: [sighs] I don't know why I doubted myself for a second. Now  <i>this</i> is what I call a perfect Nightmare Night. [credits] 
+[shades closing]
+[windows clattering]
+<b>Fluttershy</b>: Fuzzy Legs, do you think you could secure those windows?
+[webs shooting]
+[windows close]
+<b>Fluttershy</b>: And you'll alert me if anything scary comes close to the cottage?
+[birds squawk]
+<b>Fluttershy</b>: Oh, who am I kidding? <i>When</i> something scary comes close to the cottage! <i>Please</i> tell me my hiding place is ready.
+<b>Harry</b>: [growls]
+<b>Fluttershy</b>: Oh, look, you've filled it with everything I
+ need to survive this awful night. Thank you. Thank you all! Now I don't
+ have to step a hoof outside until this whole thing is over.
+[bucket clattering]
+<b>Fluttershy</b>: Oh, no! You don't have any carrots? Do we have any other fresh veggies you may enjoy?
+<b>Angel</b>: [growls]
+<b>Fluttershy</b>: Or maybe some hay? But that means I'll need to go out... on Nightmare Night!
+[thunder and lightning]
+[ponies laughing]
+[theme song]
+[fireworks]
+[eerie sound effects]
+<b>Twinkleshine</b> and <b>Amethyst Star</b>: [giggling]
+<b>Fluttershy</b>: [screams]
+<b>Foals</b>: [singsongy] Nightmare Night, what a fright! Give me something sweet to bite!
+<b>Fluttershy</b>: [gasps]
+<b>Foals</b>: [singsongy] Nightmare Night, what a fright! Give me something sweet to bite!
+<b>Granny Smith</b>: Fluttershy? What're you doin' out and about? It's Nightmare Night, remember?
+<b>Fluttershy</b>: How could I forget? Oh, I don't suppose I 
+could borrow a few pieces of hay from you? I forgot to stock up on food 
+for Angel, and you do seem to have quite a lot.
+<b>Granny Smith</b>: We need it for the Apple Family Haunted 
+Maze. [spooky voice] The scariest maze that there ever was. Who knows 
+what lurks inside?
+<b>Fluttershy</b>: Oh, I'm sure <i>I</i> don't.
+<b>Granny Smith</b>: Is that a mummified pony that just leaped out at ya?
+<b>Fluttershy</b>: I don't know. Is it?
+<b>Granny Smith</b>: And what's that crunchin' sound beneath yer hooves? Maybe it's the bones of ponies that didn't make it out alive!
+<b>Fluttershy</b>: B-B-B-B-Bones?!
+<b>Granny Smith</b>: And are those peeled grapes or a thousand slimy eyeballs starin' at ya from beyond the grave?
+<b>Fluttershy</b>: Please tell me they're grapes!
+<b>Granny Smith</b>: Oh, I'll never tell. [maniacal laughter]
+[thunder and lightning]
+<b>Fluttershy</b>: [frightened sobs]
+<b>Granny Smith</b>: Huh. I wonder what got stuck in her craw.
+[thunder and lightning]
+[door opens]
+<b>Fluttershy</b>: Twilight? Hello? [screams]
+<b>Spike</b>: You think it's scary <i>now</i>, just wait until it's done.
+<b>Fluttershy</b>: That's okay. I'll take your word for it.
+<b>Spike</b>: [grunts] Hey, wait a minute! It's Nightmare Night
+ and you're here and not holed up in your cottage! Does this mean what I
+ think it means?
+<b>Fluttershy</b>: That I foolishly forgot to stock up on food 
+for Angel and had to go out to get him something but got spooked in town
+ so I came here hoping Twilight had some lettuce I could give him?
+<b>Spike</b>: Oh. I thought maybe you decided to come out with us tonight.
+<b>Fluttershy</b>: Goodness, no! I couldn't be out tonight. I just couldn't.
+<b>Spike</b>: Technically speaking, you already are out right now.
+<b>Fluttershy</b>: Oh. I guess that is true.
+<b>Spike</b>: So what if you stayed out a little longer with your friends? I know they'd be super excited.
+<b>Fluttershy</b>: You think so?
+<b>Spike</b>: You would make them <i>so</i> happy if you joined in. They wouldn't believe their eyes! Come on, Fluttershy, what do you say?
+[distant laughter]
+<b>Pinkie Pie</b>: And then it got very, very quiet and suddenly they realized <i>the balloons had never been inflated</i>!
+<b>All but Pinkie Pie</b>: [scream, laugh]
+<b>Rarity</b>: Did I ever tell you about the night that the mannequin came to life and haunted all the costumes?
+<b>Rainbow Dash</b>: What happened?
+<b>Rarity</b>: I just told you, darling. A mannequin came to life and haunted all the costumes.
+<b>Pinkie Pie</b>: [squeals]
+<b>Fluttershy</b>: Hi, everypony.
+<b>All but Fluttershy</b>: [scream]
+<b>Twilight Sparkle</b>: Fluttershy, what are you doing here? Is everything okay?
+<b>Fluttershy</b>: Everything is fine. In fact, it's <i>more</i> than fine. I've decided to join you in your Nightmare Night festivities.
+<b>Rainbow Dash</b>: [scoffs] Seriously? You? Out? Tonight?
+<b>Fluttershy</b>: Every Nightmare Night, I shut myself in my 
+cottage and refuse to come out until morning. But it's just like when I 
+was afraid to sing in front of anypony. If I hadn't given it a try, I 
+never would've found out how much I enjoy it.
+<b>Applejack</b>: And we'd have missed out on how great you sound.
+<b>Rarity</b>: Fluttershy with us on Nightmare Night? Why, that's positively the most wonderful news I've heard in ages!
+<b>Pinkie Pie</b>: You can get dressed up in a costume with us and play Nightmare Night games with us <i>and</i> eat candy apples with us!
+<b>Applejack</b>: Don't forget the best part. Goin' through my family's corn maze!
+<b>Pinkie Pie</b>: [squee]
+<b>Fluttershy</b>: Oh, right. The maze.
+<b>Applejack</b>: Uh, only if you're up for it.
+<b>Fluttershy</b>: Oh, I am! I am ready to take on Nightmare Night!
+<b>All but Fluttershy</b>: [cheering]
+<b>Fluttershy</b>: [shuddering] [giggles] Just practicing. [nervous laugh]
+<b>Cutie Mark Crusaders</b>: [giggling]
+<b>Rarity</b>: Mummy? No. Headless pony? No. Vampire fruit bat?
+ Ugh, definitely no. You see, Fluttershy, the beauty of Nightmare Night 
+is that you don't have to dress up as something scary.
+[smack]
+<b>Rarity</b>: Ooh! Yes. This one will look gorgeous on you. Period costumes are all the rage this year. What? No good?
+<b>Fluttershy</b>: What if we encounter something terrifying 
+and need to get away quickly? All those layers could slow me down, or 
+worse, make me trip!
+<b>Rarity</b>: Oh. I never... considered that. Never fear!
+[smack]
+<b>Rarity</b>: [hums] Ooh, now this is a <i>real</i> stunner! I call it "Masquerade"! Just a simple black dress underneath but with this ornately decorated mask!
+<b>Fluttershy</b>: A mask?
+<b>Rarity</b>: No?
+<b>Fluttershy</b>: They can just be so difficult to see out of.
+<b>Rarity</b>: Yes, but this one has eyeholes.
+<b>Fluttershy</b>: W-What about being able to see what's to the left or right of me?
+<b>Rarity</b>: I suppose your vision <i>would</i> be somewhat obscured. It's your first Nightmare Night out and about, and we <i>do</i> want you to be comfortable.
+<b>Fluttershy</b>: What if I just wear the dress?
+<b>Rarity</b>: Oh, sure, dear. That's... fine. [to herself] 
+It's so plain, it's frightening. [out loud] Oh, my! Look at all of you! 
+My costumes fit you to a T!
+<b>Applejack</b>: Hoo-wee, we're gonna have the best time!
+[door opens]
+<b>Rainbow Dash</b>: Hey, Fluttershy, where's <i>your</i> costume?
+<b>Fluttershy</b>: I'm wearing it.
+<b>Pinkie Pie</b>: [gasps] I get it! You're a robber escaping into the night! You're a <i>ninja</i> escaping into the night! You're <i>black licorice</i> escaping into the night!
+<b>Fluttershy</b>: Close. I'm going to a masquerade ball. Without the mask.
+[bonk]
+<b>Twilight Sparkle</b>: Oh, that's great! Isn't it great?
+<b>Rainbow Dash</b>: Oh, yeah.
+<b>Pinkie Pie</b>: So creative.
+<b>Applejack</b>: Great costume.
+<b>Pinkie Pie</b>: I figured I'd save the really scary games for next year when Fluttershy's more used to it.
+<b>All but Rainbow Dash</b>: Round and round and round you go, where you stop nopony knows!
+<b>Pinkie Pie</b>: Okay... go!
+<b>Rainbow Dash</b>: [grunting] Good luck beating <i>that</i>, Fluttershy!
+<b>Fluttershy</b>: Well, um, it's just that if I'm blindfolded 
+and somepony were to leap out in front of me, I'd never have the chance 
+to defend myself.
+<b>Rarity</b>: That's fine, darling. You don't have to do anything you don't want to.
+<b>Twilight Sparkle</b>: We're just glad you're here.
+<b>Pinkie Pie</b>: We don't have to finish that game. I have another one I <i>know</i> you'll love! Bobbing for apples!
+[splash]
+<b>Fluttershy</b>: [gulps]
+<b>Twilight Sparkle</b>: Fluttershy, what's wrong?
+<b>Fluttershy</b>: It's just that, um... What happens if, when 
+my head is deep down in the water, some kind of scary monster appears? 
+How would I even hear to know I was under attack?
+[beat]
+<b>Pinkie Pie</b>: Time for candy!
+<b>Fluttershy</b>: It is?
+<b>Pinkie Pie</b>: I made candy bags. Each bag has been made with each of <i>you</i> in mind, complete with each of your favorite candies!
+<b>Rainbow Dash</b>: Ha! Awesome!
+<b>Pinkie Pie</b>: Here. Take it. Take it! What are you waiting for?
+<b>Fluttershy</b>: Well, it's just... What if when I'm eating 
+one of these chewy taffies, my mouth becomes glued shut and I can't 
+scream for help?
+[beat]
+<b>Fluttershy</b>: Oh, goodness. We've only just started to 
+celebrate Nightmare Night together, and I'm already taking all the fun 
+out of it, aren't I?
+<b>Pinkie Pie</b>: You're not taking out <i>all</i> of the fun.
+<b>Rainbow Dash</b>: Just, like, ninety per—
+[clang]
+<b>Rainbow Dash</b>: ...<i>Some</i> of it.
+<b>Fluttershy</b>: I really wanna do this. But there's just so 
+many things that terrify me about tonight. I couldn't possibly predict 
+what might upset me.
+<b>Twilight Sparkle</b>: Unless... <i>you</i> were the one doing the scaring!
+<b>Rainbow Dash</b>: <i>Her</i> scaring <i>us</i>? [laughing] Oh. You're being serious.
+<b>Twilight Sparkle</b>: The thing you hate is being scared, but if <i>you're</i> the one doing the scaring, then...
+<b>Fluttershy</b>: Then I can help you all have fun and I can still be a part of Nightmare Night!
+<b>Twilight Sparkle</b>: So you like that idea?
+<b>Fluttershy</b>: I think I do! And I don't want to get ahead of myself, but I think I have the <i>perfect</i> idea for how I'm gonna do it!
+<b>Pinkie Pie</b>: Really? Oh, this is so exciting!
+<b>Fluttershy</b>: [spooky voice] Meet me at my cottage in an hour. [normal voice] Oh, I'm excited to see everypony soon!
+[knocking at door]
+[door creaks]
+<b>Fluttershy</b>: [spooky voice] Welcome to Fluttershy's tea party!
+<b>Rainbow Dash</b>: Did she just say "tea party"?
+<b>Twilight Sparkle</b>: It sounds like it's a scary tea party?
+<b>Rainbow Dash</b>: [sighs]
+<b>Fluttershy</b>: [spooky voice] Have a seat. Don't be scared of what awaits you. Go on. Pass the sugar. Oh, no! There <i>is</i> none! You're a terrible host! Rarity, put your coat on!
+<b>Rarity</b>: Why would I do that?
+<b>Fluttershy</b>: [spooky voice] You need to cover up because 
+no one has complimented your dressssssss! Pinkie Pie, look to your left 
+and ask your best friend to pass the cucumber sandwiches!
+<b>Pinkie Pie</b>: Huh? I can't. There's nopony there.
+<b>Fluttershy</b>: [spooky voice] That's right. Because she didn't care to show uuuuuup.
+<b>Pinkie Pie</b>: What?
+<b>Fluttershy</b>: [spooky voice] A friend who didn't come through. That must scare you to the coooore. Quick, everypony, look behind you!
+<b>Rainbow Dash</b>: Uh, what are those?
+<b>Fluttershy</b>: [spooky voice] They're unplanned guests. 
+Your woooorst nightmare. You don't have enough food for them! Oh, no! 
+There's a tiny kitten that needs a home! But you are over-scheduled 
+right now. You don't have time to help! I said, "You don't have time to 
+help!" This should appear to scare you! [normal voice] Why don't you 
+look terrified? You showed up to a party and everypony was extremely 
+disappointed in you. Can you imagine anything more upsetting?
+<b>Rarity</b>: It was a really good try, darling, but the scares at Nightmare Night are of an entirely different nature.
+<b>Twilight Sparkle</b>: It was really creative, though. I <i>never</i> would have thought of... all this.
+[thunk]
+<b>Fluttershy</b>: Oh, I'm just not cut out for this. Just go on without me.
+<b>Rarity</b>: Oh, no. We couldn't possibly.
+<b>Fluttershy</b>: You <i>have</i> to. This is the night you look forward to all year.
+<b>Pinkie Pie</b>: We could... stay here?
+<b>Fluttershy</b>: It's okay. I really want you all to have fun. This is how I spend <i>every</i> Nightmare Night. Please go. I'll be fine.
+<b>Pinkie Pie</b>: Eh, it's funny. I actually thought she had an idea for something really scary for a second there.
+<b>Applejack</b>: She definitely tried her hardest.
+[door closes]
+<b>Fluttershy</b>: I <i>did</i> try my hardest.
+<b>Angel</b>: [thumping on table]
+<b>Fluttershy</b>: Or... maybe not. I suppose I <i>could</i> 
+have gone with something a bit scarier. You're right! I've been taking 
+baby steps! I think it's time for grown up ones! I don't suppose you 
+have any ideas how I could do that?
+<b>Angel</b>: [growls mischievously]
+<b>Applejack</b>: Everypony's linin' up for the corn maze, y'all! Let's go!
+<b>Spike</b>: Oh, yeah! I can't believe we're finally doin' this!
+[horse whinnies]
+<b>All</b>: [scream, laugh]
+<b>Rainbow Dash</b>: It's a good thing Fluttershy isn't here because she would <i>never</i> be able to handle this!
+[distant screams]
+<b>All</b>: [gasp]
+<b>Big McIntosh</b>: Boooo... Eeyup.
+<b>All</b>: [laugh]
+[crackling]
+<b>Rarity</b>: What. Is. That. Sound?
+<b>Pinkie Pie</b>: It looks like... bones!
+<b>All</b>: [scream]
+<b>Rainbow Dash</b>: Looks like a bunch of dried sticks painted white to me.
+<b>Applejack</b>: Hey, <i>try</i> to keep up the illusion, would ya?
+<b>Rarity </b>and <b>Spike</b>: Gah!
+<b>All</b>: [laugh]
+<b>Pinkie Pie</b>: Whoo!
+[whoosh]
+<b>Applejack</b>: Agh! What was that?
+<b>Spike</b>: Don't <i>you</i> know?
+<b>Applejack</b>: Uh, o-of course I do. It was, uh...
+[ghostly moans]
+[peeyow!]
+<b>All</b>: [scream]
+[moaning continues]
+<b>Rarity</b>: [grunts] Fluttershy had a point with the layers on the dress.
+[moaning continues]
+<b>Applejack</b>: [exclaims]
+<b>All</b>: [yell]
+[thud]
+<b>All</b>: [groan]
+<b>Rarity</b>: What is this? Is it a tunnel? Where does it lead?!
+[grinding]
+[slam]
+<b>Twilight Sparkle</b>: Which way are we supposed to go now?!
+<b>Applejack</b>: Uh, I don't know! I don't know <i>what's</i> goin' on!
+<b>Rainbow Dash</b>: [grunts] What do you mean? Didn't <i>you</i> help plan this?
+[creaking chair]
+<b>Applejack</b>: Whew. There's Granny Smith. Not that I was ever <i>scared</i>, 'cause I wasn't. I'm a pretty good actress when I wanna be. Granny? [screams]
+<b>All</b>: [scream] [panting]
+[crash]
+<b>Spike</b>: Applejack, didn't you know about any of this?!
+<b>Applejack</b>: Alright, I got to admit I didn't know about <i>any</i> of this, but maybe they're just tryin' to make it interestin' for me, too! I'm sure Granny Smith or Big Mac is behind this.
+<b>Granny Smith</b>: [muffled] Are those peeled grapes or eyeballs starin' at ya from beyond the grave? [cackling]
+<b>Big McIntosh</b>: Eeyup.
+<b>Cutie Mark Crusaders</b>: [playful scream]
+<b>Applejack</b>: [teeth chatter] That's what <i>we</i> were supposed to do! I don't know why we're down here! This is really scarin' me now!
+<b>Pinkie Pie</b>: [teeth chattering]
+[foot stomps]
+<b>Monster</b>: [growls]
+<b>Pinkie Pie</b>: How did <i>that</i> get down here?!
+<b>Monster</b>: [roars]
+<b>Rainbow Dash</b>: <i>RUUUUUUUUUN!</i>
+<b>Pinkie Pie</b> and <b>Spike</b>: [panting] [grunt]
+<b>Pinkie Pie</b>: I can't see!
+<b>Rainbow Dash</b>: I can barely move!
+<b>All</b>: [grunting]
+<b>Rainbow Dash</b>: It's like glue!
+<b>All</b>: [grunting]
+<b>Monster</b>: [roaring]
+<b>Twilight Sparkle</b>: [grunts]
+[teleportation zap]
+<b>Monster</b>: [growls]
+<b>All</b>: [panicked screams]
+<b>Flutterbat</b>: [deep cackles] [snarls]
+<b>All</b>: [whimpering]
+<b>Fluttershy</b>: Oh, my! I'm so, so sorry. Can you ever forgive me?
+<b>Applejack</b>: Fluttershy?
+<b>Rainbow Dash</b>: It was <i>you</i> the whole time?!
+<b>Twilight Sparkle</b>: I can't believe it!
+<b>Rarity</b>: That... was...
+<b>Pinkie Pie</b>: THE BEST THING EVER! [squee]
+<b>Rainbow Dash</b>: It was way more terrifying than the most terrifying thing I could have thought of!
+<b>Applejack</b>: You out-nightmared the scariest part of the corn maze!
+<b>Twilight Sparkle</b>: How did you do all this?!
+<b>Fluttershy</b>: After you left, I realized that I wasn't 
+ready to give up on Nightmare Night. So I asked Granny Smith if I could 
+try to make the maze even scarier for my friends.
+<b>Rainbow Dash</b>: <i>You</i> came up with all of this?
+<b>Fluttershy</b>: I had some help. Angel was the scary figure 
+that kept scurrying after you in the maze. Fuzzy Legs made the sticky 
+wall that made it difficult for you to see and move. And, of course, 
+Harry was the especially scary monster.
+<b>Harry</b>: [growls happily]
+<b>Twilight Sparkle</b>: Wow! That was inspired!
+<b>Pinkie Pie</b>: You have to do this <i>every</i> year!
+<b>Applejack</b>: Uh-huh!
+<b>Rarity</b>: Absolutely!
+<b>Twilight Sparkle</b>: Every year!
+<b>Rainbow Dash</b>: Yeah!
+<b>Fluttershy</b>: We <i>could</i> celebrate Nightmare Night together every year. But the truth is I really don't want to.
+<b>Pinkie Pie</b>: You <i>don't</i>?!
+<b>Rarity</b>: But you've done it. You found a way that we can all have a fabulous time together.
+<b>Fluttershy</b>: Yes, but I've also realized something. You 
+all may love Nightmare Night and I may be good at being a part of it, 
+but it's no fun for me to see my friends feel like they're in danger, 
+even if I know they're not. I really don't like it. It's just not my cup
+ of tea.
+<b>Pinkie Pie</b>: Spoooooooooky tea?
+<b>Fluttershy</b>: No. Just regular tea. We do lots of fun things together, but I'm afraid this just isn't gonna be one of them. Actually, I'm <i>not</i> afraid. I'm perfectly fine with it.
+<b>Twilight Sparkle</b>: Then we are, too.
+<b>Harry</b>: [growls happily]
+[bats squeaking]
+<b>Fluttershy</b>: [sighs] I don't know why I doubted myself for a second. Now <i>this</i> is what I call a perfect Nightmare Night.
+[credits]

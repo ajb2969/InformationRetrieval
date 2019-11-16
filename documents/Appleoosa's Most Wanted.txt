@@ -1,250 +1,325 @@
-<b>Apple Bloom</b>: Aren't you glad y'all came with me to see Applejack compete in the Appleloosa rodeo? 
-<b>Scootaloo</b>: Totally! This place is a cutie mark gold mine! There's barrel racing... 
-[klonks] 
-<b>Scootaloo</b>: ...roping contests, rodeo clowning... 
-[thwack] 
-<b>Scootaloo</b>: ...steeplechase...! 
-<b>Apple Bloom</b>: If we can get into some of these events, we could all three walk off the train back in Ponyville with brand spankin' new cutie marks! 
-<b>Scootaloo</b>: Wouldn't a barrel look good here? 
-<b>Apple Bloom</b>: I want a lasso! 
-<b>Sweetie Belle</b>: I don't know... All these events look a little, well, dangerous. 
-<b>Apple Bloom</b>: No risk, no reward. 
-<b>Sheriff Silverstar</b>: Alright, everypony, listen up! We need a big presence at this here rodeo, so make yourself plenty seen! I want that low-down varmint to know we mean business! 
-<b>Sweetie Belle</b>: I hope nothing bad is going on. 
-<b>Apple Bloom</b>: A cutie mark-apalooza  <i>and</i> a low-down varmint? This is shapin' up to be the most excitin' rodeo ever! 
-<b>Scootaloo</b>: Yeah, come on! 
-[Western harmonica riff] [bale being tossed] 
-<b>Braeburn</b>: Woo-hoo! Yee-haw! That's my cousin! Go, Applejack, go! 
-<b>Applejack</b>: Whew! It's been a dog's age since I got to compete. All the rodeos 'round Ponyville are closed down for some reason. 
-<b>Braeburn</b>: Well, I guess havin' injured kinfolk in Appleloosa sure paid off then, huh, cuz? 
-<b>Applejack</b>: Just doin' my best to fill your horseshoes, Braeburn. 
-<b>Braeburn</b>: Keep tossin' like that and I'll be out of a job! 
-[poink!] 
-<b>Braeburn</b>: Ow, ow! 
-<b>Applejack</b>: Ooh, sorry. Say, where's my sister and her friends? 
-<b>Braeburn</b>: Uh-oh. Gee, uh, I guess I got so caught up watchin' you that I— 
-<b>Applejack</b>: You said you'd keep an eye on those fillies! How am I supposed to focus on practicin' if you're not gonna— 
-<b>Braeburn</b>: There they are! Heh, right where I left 'em... Aw, don't be mad! [beat] Owwwwch! My foreleg! Hurts so much...! 
-<b>Cutie Mark Crusaders</b>: [giggling] 
-<b>Applejack</b>: Y'all can't go runnin' off like that, y'hear? Backstage at a rodeo ain't no kind of playground! 
-<b>Apple Bloom</b>: Sorry, Applejack. We won't wander off again. But, uh, speakin' of the rodeo... what would you say about me and the Crusaders maybe competin' in one teensy-weensy little event or three? 
-<b>Braeburn</b>: Look out! 
-<b>Cutie Mark Crusaders</b>: [yelps] 
-[myriad thumps] 
-<b>Applejack</b>: [gasps] What the hay just happened? 
-<b>Braeburn</b>: You fillies alright? 
-<b>Apple Bloom</b> and  <b>Scootaloo</b>: Uh-huh... 
-<b>Sweetie Belle</b>: [simultaneously] Yeah... 
-<b>Sheriff Silverstar</b>: Sugar and salt licks! Well, I'll be... 
-<b>Applejack</b>: What is it, Sheriff? 
-<b>Braeburn</b>: Is it  <i>him</i>? 
-<b>Sheriff Silverstar</b>: Ain't no doubt. It's  <i>Trouble Shoes</i>. 
-<b>Caramel</b>: [Western harmonica riff] 
-<b>Sheriff Silverstar</b>: [surprised snort] <b>Crowd</b>: [shouting] 
-<b>Townspony 1</b>: Is it true? Is Trouble Shoes here? 
-<b>Townspony 2</b>: You ain't gonna shut down the rodeo, are ya?! 
-<b>Sheriff Silverstar</b>: All right now, I called for a meetin', not a mob scene. Now, as many of you know, the Equestria rodeo circuit has been plagued by the dirty dealin's of a notorious outlaw. 
-<b>Townspony 3</b>: He knocked barrels every which way at the Hoof City rodeo! Nearly crushed my Aunt Bae Mare! 
-<b>Townspony 4</b>: That's nothin'! He sabotaged the steer pen at Pinto Creek rodeo, settin' off such a stampede they cancelled the whole dadgum thing! 
-<b>Crowd</b>: [shouting] 
-<b>Sheriff Silverstar</b>: Now, now, it's true we had an incident this mornin' at our own Appleloosa rodeo. Hay bale stack came down right near on top of three little fillies! I examined them hoof-prints myself and, uh... it  <i>was</i> Trouble Shoes, all right. 
-<b>Crowd</b>: [gasps] 
-<b>Sheriff Silverstar</b>: I reckon I oughta cancel this rodeo like all the others done. But dag-hoof it, this has gone far enough! We'll double the patrols! This rodeo will go on! Appleloosa ain't gonna be intimidated! 
-[ponies cheering] 
-<b>Apple Bloom</b>: Glad that's settled. So, uh, Applejack, about me and my pals competin' in the rodeo... [nervous chuckle] <b>Apple Bloom</b>: Don't send us home! It's not fair! 
-<b>Applejack</b>: Now, quit yer bellyachin'. I can't have y'all around here with some outlaw on the loose. Aw, maybe I oughta call it quits and go home too. 
-<b>Braeburn</b>: No, you can't! This rodeo is important to Appleloosa! And with you in there, we got a real shot at winnin'! Come on, now, you head on back to practice and don't worry none about these three. I won't let 'em outta my sight. 
-[door slams, locks click, chair drags] 
-<b>Braeburn</b>: [to Crusaders] Ya hear? Y'all ain't leavin' my sight! <b>Braeburn</b>: [snores] 
-[window opens] 
-<b>Sweetie Belle</b>: I thought we weren't going to wander off again. 
-<b>Apple Bloom</b>: This ain't wanderin'. We know exactly where we're headed – to find Trouble Shoes! 
-<b>Sweetie Belle</b>: But isn't he a dangerous criminal? 
-<b>Apple Bloom</b>: We only need to find him. We don't need to  <i>capture</i> him. The sheriff can handle that! 
-<b>Scootaloo</b>: And once he's in jail, we'll be competing! And then it's... 
-<b>Apple Bloom</b> and  <b>Scootaloo</b>: Cutie mark city! 
-<b>Sweetie Belle</b>: Worst idea  <i>ever</i>. [owl hoots] 
-<b>Apple Bloom</b>: It's another giant hoof print! 
-<b>Sweetie Belle</b>: Do either of you have any idea where we are? 
-[lightning cracks] 
-[rain starts falling] 
-<b>Scootaloo</b>: Uh, maybe we should head back and try again later. 
-<b>Apple Bloom</b>: C'mon, before we lose the trail! 
-[lightning cracks] 
-<b>Sweetie Belle</b>: [high-pitched squeal] <b>Sweetie Belle</b>: Come on, we've gone far enough! It's time to go back! 
-<b>Scootaloo</b>: The rain is only getting worse, Apple Bloom! Let's come back tomorrow. 
-<b>Apple Bloom</b>: Maybe y'all are right. So, how do we get back? 
-<b>Sweetie Belle</b>: You mean you don't know?! 
-[lightning cracks] <b>Applejack</b>: Whew! Good job, y'all. I know they need lots of mud for the rodeo tomorrow, but I wish they would've warned us about this rainstorm. 
-<b>Braeburn</b>: [whinnies] 
-<b>Applejack</b>: Braeburn? Where are the girls? 
-<b>Braeburn</b>: [nervous laugh] 
-<b>Applejack</b>: [echoing]  <b>What?!</b> <b>Sheriff Silverstar</b>: Ha! Fish my wish! 
-<b>Star Spur</b>: Aw! 
-<b>Senior Deputy</b>: Dagnabbit! 
-<b>Applejack</b>: Sheriff Silverstar! You gotta help! My sister's gone! And her friends too! 
-<b>Braeburn</b>: I've searched and searched, but no sign of 'em anywhere! 
-<b>Applejack</b>: It must've been Trouble Shoes! 
-<b>Sheriff Silverstar</b>: Now, now, hold on there. Trouble Shoes done a lot of bad things in his day, but nothin' like that! 
-<b>Applejack</b>: You really wanna take that chance? 
-<b>Sheriff Silverstar</b>: Come on, y'all! Let's ride! <b>Sweetie Belle</b>: You sure about this, Scootaloo? 
-<b>Scootaloo</b>: I thought I was, but now I'm not. 
-<b>Apple Bloom</b>: So I pretty much got us completely and totally lost. How could this get any worse? 
-<b>Cutie Mark Crusaders</b>: [screaming] 
-[splash] 
-<b>Apple Bloom</b>: We gotta get out of this rain. There's no tellin' how long this storm could last. 
-<b>Scootaloo</b>: Look! 
-<b>Apple Bloom</b>: It looks abandoned. Let's go see if we can find some blankets or somethin'. 
-[door creaking] 
-[lightning cracks] 
-[hoofsteps falling] 
-[door creaking] 
-[lightning cracks] 
-<b>Cutie Mark Crusaders</b>: [screaming] 
-<b>Trouble Shoes</b>: [screaming] 
-[multiple crashes] 
-<b>Trouble Shoes</b>: [multiple exclamations of surprise and pain] 
-[thwack] 
-[tinnitus] 
-<b>Trouble Shoes</b>: [groaning] 
-<b>Apple Bloom</b>: [through tinnitus] Hello? You alright? 
-<b>Trouble Shoes</b>: Surely. 
-<b>Apple Bloom</b>: We didn't mean no harm. We just came in to get out of the rain. 
-<b>Trouble Shoes</b>: Had some hot cider a-cookin' in the kitchen. Doubt it survived. 
-[clang] 
-<b>Trouble Shoes</b>: I ain't gonna rise to greet y'all. Awfully rude, I reckon, but as you can see, I'm the fresh casualty of an unusually unfortunate circumstance. My lot in life, I suppose. 
-<b>Apple Bloom</b>: Are you... Trouble Shoes? 
-<b>Trouble Shoes</b>: That's me. 
-<b>Scootaloo</b>: W-what are you doing? 
-<b>Apple Bloom</b>: I'm gonna unwrap him. 
-<b>Sweetie Belle</b>: You can't do that! That's Trouble Shoes! 
-<b>Apple Bloom</b>: Aw, he don't seem so bad. 
-[lightning cracks] 
-<b>Trouble Shoes</b>: Of course guests would arrive while I ain't got no pie to offer. Scores more misfortune points for old Trouble Shoes. Wh-whooaaa! 
-[crash, bonks] 
-<b>Trouble Shoes</b>: Typical. Bad luck never rests. 
-<b>Apple Bloom</b>: You sure that's bad luck? Seems like maybe you're just a little, um... 
-<b>Sweetie Belle</b>: Klutzy? 
-<b>Trouble Shoes</b>: Tell that to the flank! Upside-down horseshoe – bad luck. Follows me wherever I go like sour on old milk. Y'all best vamoose before my bad luck rubs off and sticks to y'all. Get along! Skedaddle! 
-[lightning cracks] 
-<b>Trouble Shoes</b>:  <i>Am-scray!</i> 
-<b>Scootaloo</b>: Um, we don't really know the way back to Appleloosa... 
-<b>Trouble Shoes</b>: But o' course  <i>I</i> do. Wouldn't you know it? My lucky day. <b>Sweetie Belle</b>: It's actually kind of sweet of him to help us out like this. 
-<b>Scootaloo</b>: I know! What do we do if he takes us back to Appleloosa and the sheriff arrests him? If I get a cutie mark for that, I'll feel guilty every time I see it. 
-<b>Apple Bloom</b>: Say there, Trouble Shoes, you might not want to take us  <i>all</i> the way back to Appleloosa. The sheriff sort of has it in his mind that you're a no-good outlaw lookin' to shut down the rodeo. 
-<b>Trouble Shoes</b>: My kind of luck he'd think that. 
-<b>Apple Bloom</b>: But... is it true? 
-<b>Trouble Shoes</b>: Y'all like stories? 
-<b>Cutie Mark Crusaders</b>: Mm-hmm! 
-<b>Trouble Shoes</b>: Just my luck. I was hopin' you'd say no. [narrating flashback] When I was a colt, I wanted to be a rodeo star somethin' fierce, but I just didn't seem to have the knack for it. 
-[thwack] 
-<b>Young Trouble Shoes</b>: Whoooa! 
-<b>Buffalo</b>: [laughing] 
-<b>Young Trouble Shoes</b>: [grunting] Awww! 
-<b>Buffalo</b>: [laughing] 
-<b>Trouble Shoes</b>: [narrating] I practiced and practiced... 
-<b>Young Trouble Shoes</b>: Whoooa-oof! 
-<b>Trouble Shoes</b>: [narrating] And finally, I wrangled up the guts to audition for rodeo school. Right in the middle of that tryout, I knew I was doin' what I was meant to. And wouldn't you know it? In a flash comes this here cutie mark. 
-[whip lashing noise] 
-[thunk] 
-<b>Judges</b>: [laughing] 
-<b>Trouble Shoes</b>: [narrating] I can still remember them judges a-laughin'. Didn't even finish my routine 'cause right then I knew bad luck was my fate. That fire for rodeo never did leave me, though. Couldn't keep away from 'em. So I'd sneak down and have a look, and wouldn't you know it? Bad luck would strike again. Just my lot in life, I reckon... 
-<b>Sweetie Belle</b>: Poor Trouble Shoes. I can't believe those mean judges would laugh at him like that. 
-<b>Apple Bloom</b>: Don't you see? They weren't laughin'  <i>at</i> him. They were just enjoyin' the show. 
-<b>Scootaloo</b>: What are you saying? 
-<b>Apple Bloom</b>: Think about it. If we saw a rodeo  <i>clown</i> doin' what he did back in that shack, we'd think he was the greatest! 
-<b>Sweetie Belle</b>: You're right! He could still be in rodeos, just not the way he thought! 
-<b>Scootaloo</b>: So he's been looking at his cutie mark wrong the whole time! It's not bad luck, it's— 
-<b>Sheriff Silverstar</b>: Gotcha! 
-<b>Trouble Shoes</b>: Just my luck. 
-<b>Sheriff Silverstar</b>: Trouble Shoes, you're under arrest for vandalizin' the property and peace of mind of the good rodeo-lovin' ponies of Equestria! Not to mention fillynappin'! And... generalized mayhem! 
-<b>Apple Bloom</b>: Wait! 
-<b>Applejack</b>: Braeburn? Get these fillies someplace safe. 
-<b>Apple Bloom</b>: Wait, no! Listen, Applejack! 
-<b>Cutie Mark Crusaders</b>:  <i>No!</i> <b>Apple Bloom</b>: But Trouble Shoes isn't the menace everypony thinks! 
-<b>Applejack</b>: Sakes alive, what's with you? Why in tarnation would you want me to help get him out of jail when he's the one who ran off with y'all to begin with?! Now if y'all excuse me, I'm off to win the Appleloosa rodeo hay bale monster stack. 
-<b>Apple Bloom</b>: Um, Applejack? 
-[door closes] <b>Trouble Shoes</b>: [sighs] Well, at least I get me a view of one small corner of the rodeo. 
-[bed creaking, crash] 
-<b>Trouble Shoes</b>: Figures. 
-<b>Sheriff Silverstar</b>: Aw, come on now, Trouble Shoes! I'm runnin' out of mattresses! 
-[magic fizzling] 
-[keys jingling] 
-[door opens] 
-<b>Apple Bloom</b>: Come on, sheriff! You're about to miss the hay bale monster stack! 
-<b>Sheriff Silverstar</b>: Jiminy, that's startin' already?! 
-[jail door opens] 
-<b>Apple Bloom</b>: Let's go, Trouble Shoes! This here's a jailbreak! 
-<b>Trouble Shoes</b>: Ain't no need. Can hear the rodeo just fine from this vantage. 
-<b>Scootaloo</b>: But we've got a plan to help you live your dream! 
-<b>Trouble Shoes</b>: Listen, y'all, I'm a known criminal. How you proposin' on gettin' me into a rodeo? 
-[bed creaks and clatters] [crowd cheering] 
-[bale being kicked] 
-<b>Apple Bloom</b>: Go, Applejack! 
-<b>Scootaloo</b>: [simultaneously] You can do it! 
-<b>Sweetie Belle</b>: [simultaneously] Woo-hoo! 
-<b>Trouble Shoes</b>: Well, how do I look? 
-<b>Cutie Mark Crusaders</b>: [giggling] 
-<b>Trouble Shoes</b>: Come on now, stack them bales! Woo-hoo! 
-[bale being kicked] 
-[crowd gasps] 
-[crowd cheers] 
-<b>Apple Bloom</b>: That's my sister! 
-[entertainment music starts, crowd laughs] 
-<b>Apple Bloom</b>: 'Kay now, Trouble Shoes, you're on! 
-<b>Trouble Shoes</b>: Say what?! I may be dressed like one, but I  <i>ain't</i> no rodeo clown. 
-<b>Apple Bloom</b>: You got your cutie mark all wrong, Trouble Shoes! You were born to  <i>entertain</i>! You've got a gift for makin' folks laugh, don't you? 
-<b>Trouble Shoes</b>: But my cutie mark's an upside-down horseshoe, and that means bad luck. 
-<b>Sweetie Belle</b>: That all depends on how you look at it. 
-<b>Apple Bloom</b>: You always wanted to be a part of the rodeo, right? Well, now's your chance. Go on! 
-<b>Trouble Shoes</b>: Whoa! 
-[boing!] 
-[crowd laughs] 
-<b>Cutie Mark Crusaders</b>: [cheering] 
-<b>Applejack</b>: There y'all are! How 'bout your big sis, huh? 
-<b>Apple Bloom</b>: [flatly] Yeah, way to go. 
-<b>Applejack</b>: Since when are y'all so into rodeo clowns? 
-[crashes] 
-[crowd laughs] 
-<b>Trouble Shoes</b>: Just leave me be, cutie mark! I aim to clear that there hoop! 
-[crowd laughs] 
-[crashing] 
-<b>Trouble Shoes</b>: [muffled grunts] Come on now! [grunting] 
-[multiple plops] 
-[click, slide whistle] 
-[crowd laughs] 
-<b>Applejack</b>: That's the best rodeo clown I ever seen! [laughs] 
-<b>Cutie Mark Crusaders</b>: [cheering] 
-[pop] 
-[muffled laughing] 
-[splash] 
-[pop] 
-[crowd gasps] 
-<b>Crowd</b>: Trouble Shoes! 
-<b>Applejack</b>: What the hay?! 
-<b>Female Townspony #1</b>: He escaped from jail! 
-<b>Male Townspony #1</b>: Ruinin' another rodeo! 
-<b>Female Townspony #2</b>: Let's get him! 
-[crowd shouting] 
-<b>Apple Bloom</b>: Wait, y'all! He ain't what you think he is! 
-<b>Sheriff Silverstar</b>: Stand aside, young'uns! This one's goin' back to jail. 
-<b>Sweetie Belle</b>: But he never wanted to  <i>ruin</i> any rodeos! Those were just bad accidents! 
-<b>Applejack</b>: Sweetie Belle, what are you talkin' about? 
-<b>Scootaloo</b>: Trouble Shoes has a gift for making ponies laugh! He's maybe the best rodeo clown I've ever seen! 
-<b>Judge</b>: That's true! He is awful funny. 
-<b>Apple Bloom</b>: He thought his cutie mark was telling him to keep away from rodeos, but deep inside he knew it's where he was meant to be. He just didn't know how to do it. 
-[crowd muttering] 
-<b>Trouble Shoes</b>: What she says is true. This here entertainin' y'all with my klutzin'? That's what I was  <i>supposed</i> to be doin'. I know it now. I didn't mean no harm, honest! I just ain't never loved nothin' like I love the rodeo, so I kept on sneakin' back and makin' a big old mess of things. Turns out I was just a-lookin' at my cutie mark all wrong. 
-<b>Sheriff Silverstar</b>: That may be so, Trouble Shoes, but you still gotta face charges for the problems you've caused! 
-<b>Trouble Shoes</b>: If I done wrong, I'll see to it that I take my medicine and square my accounts. 
-<b>Sheriff Silverstar</b>: Truth be told, we could understand all the trouble with the rodeos, but why'd you have to run off with these here little'uns last night? 
-<b>Apple Bloom</b>: Uh, yeah, about that... [barrel rolling] 
-[sweeping] 
-<b>Apple Bloom</b>: [sighs] You really want us to clean up all this mess Trouble Shoes made? 
-<b>Applejack</b>: Maybe it'll teach you not to go wanderin' off after I say not to! 
-<b>Apple Bloom</b>: Ugh. Ain't it bad enough that you get to go back to Ponyville with a shiny trophy, and all we're bringing back is these same old blank flanks? 
-<b>Applejack</b>: Y'all helped Trouble Shoes realize what his cutie mark really means. Ain't that a nice feelin' you can take back with you? 
-<b>Sweetie Belle</b>: I guess we did make things a little better. 
-<b>Scootaloo</b>: It does feel kinda nice. 
-<b>Apple Bloom</b>: So... we can stop now? 
-<b>Applejack</b>: Nnope. [credits] 
+<b>Apple Bloom</b>: Aren't you glad y'all came with me to see Applejack compete in the Appleloosa rodeo?
+<b>Scootaloo</b>: Totally! This place is a cutie mark gold mine! There's barrel racing...
+[klonks]
+<b>Scootaloo</b>: ...roping contests, rodeo clowning...
+[thwack]
+<b>Scootaloo</b>: ...steeplechase...!
+<b>Apple Bloom</b>: If we can get into some of these events, we
+ could all three walk off the train back in Ponyville with brand 
+spankin' new cutie marks!
+<b>Scootaloo</b>: Wouldn't a barrel look good here?
+<b>Apple Bloom</b>: I want a lasso!
+<b>Sweetie Belle</b>: I don't know... All these events look a little, well, dangerous.
+<b>Apple Bloom</b>: No risk, no reward.
+<b>Sheriff Silverstar</b>: Alright, everypony, listen up! We 
+need a big presence at this here rodeo, so make yourself plenty seen! I 
+want that low-down varmint to know we mean business!
+<b>Sweetie Belle</b>: I hope nothing bad is going on.
+<b>Apple Bloom</b>: A cutie mark-apalooza <i>and</i> a low-down varmint? This is shapin' up to be the most excitin' rodeo ever!
+<b>Scootaloo</b>: Yeah, come on!
+[Western harmonica riff]
+[theme song]
+[bale being tossed]
+<b>Braeburn</b>: Woo-hoo! Yee-haw! That's my cousin! Go, Applejack, go!
+<b>Applejack</b>: Whew! It's been a dog's age since I got to compete. All the rodeos 'round Ponyville are closed down for some reason.
+<b>Braeburn</b>: Well, I guess havin' injured kinfolk in Appleloosa sure paid off then, huh, cuz?
+<b>Applejack</b>: Just doin' my best to fill your horseshoes, Braeburn.
+<b>Braeburn</b>: Keep tossin' like that and I'll be out of a job!
+[poink!]
+<b>Braeburn</b>: Ow, ow!
+<b>Applejack</b>: Ooh, sorry. Say, where's my sister and her friends?
+<b>Braeburn</b>: Uh-oh. Gee, uh, I guess I got so caught up watchin' you that I—
+<b>Applejack</b>: You said you'd keep an eye on those fillies! How am I supposed to focus on practicin' if you're not gonna—
+<b>Braeburn</b>: There they are! Heh, right where I left 'em... Aw, don't be mad! [beat] Owwwwch! My foreleg! Hurts so much...!
+<b>Cutie Mark Crusaders</b>: [giggling]
+<b>Applejack</b>: Y'all can't go runnin' off like that, y'hear? Backstage at a rodeo ain't no kind of playground!
+<b>Apple Bloom</b>: Sorry, Applejack. We won't wander off 
+again. But, uh, speakin' of the rodeo... what would you say about me and
+ the Crusaders maybe competin' in one teensy-weensy little event or 
+three?
+<b>Braeburn</b>: Look out!
+<b>Cutie Mark Crusaders</b>: [yelps]
+[myriad thumps]
+<b>Applejack</b>: [gasps] What the hay just happened?
+<b>Braeburn</b>: You fillies alright?
+<b>Apple Bloom</b> and <b>Scootaloo</b>: Uh-huh...
+<b>Sweetie Belle</b>: [simultaneously] Yeah...
+<b>Sheriff Silverstar</b>: Sugar and salt licks! Well, I'll be...
+<b>Applejack</b>: What is it, Sheriff?
+<b>Braeburn</b>: Is it <i>him</i>?
+<b>Sheriff Silverstar</b>: Ain't no doubt. It's <i>Trouble Shoes</i>.
+<b>Caramel</b>: [Western harmonica riff]
+<b>Sheriff Silverstar</b>: [surprised snort]
+<b>Crowd</b>: [shouting]
+<b>Townspony 1</b>: Is it true? Is Trouble Shoes here?
+<b>Townspony 2</b>: You ain't gonna shut down the rodeo, are ya?!
+<b>Sheriff Silverstar</b>: All right now, I called for a 
+meetin', not a mob scene. Now, as many of you know, the Equestria rodeo 
+circuit has been plagued by the dirty dealin's of a notorious outlaw.
+<b>Townspony 3</b>: He knocked barrels every which way at the Hoof City rodeo! Nearly crushed my Aunt Bae Mare!
+<b>Townspony 4</b>: That's nothin'! He sabotaged the steer pen 
+at Pinto Creek rodeo, settin' off such a stampede they cancelled the 
+whole dadgum thing!
+<b>Crowd</b>: [shouting]
+<b>Sheriff Silverstar</b>: Now, now, it's true we had an 
+incident this mornin' at our own Appleloosa rodeo. Hay bale stack came 
+down right near on top of three little fillies! I examined them 
+hoof-prints myself and, uh... it <i>was</i> Trouble Shoes, all right.
+<b>Crowd</b>: [gasps]
+<b>Sheriff Silverstar</b>: I reckon I oughta cancel this rodeo 
+like all the others done. But dag-hoof it, this has gone far enough! 
+We'll double the patrols! This rodeo will go on! Appleloosa ain't gonna 
+be intimidated!
+[ponies cheering]
+<b>Apple Bloom</b>: Glad that's settled. So, uh, Applejack, about me and my pals competin' in the rodeo... [nervous chuckle]
+<b>Apple Bloom</b>: Don't send us home! It's not fair!
+<b>Applejack</b>: Now, quit yer bellyachin'. I can't have y'all
+ around here with some outlaw on the loose. Aw, maybe I oughta call it 
+quits and go home too.
+<b>Braeburn</b>: No, you can't! This rodeo is important to 
+Appleloosa! And with you in there, we got a real shot at winnin'! Come 
+on, now, you head on back to practice and don't worry none about these 
+three. I won't let 'em outta my sight.
+[door slams, locks click, chair drags]
+<b>Braeburn</b>: [to Crusaders] Ya hear? Y'all ain't leavin' my sight!
+<b>Braeburn</b>: [snores]
+[window opens]
+<b>Sweetie Belle</b>: I thought we weren't going to wander off again.
+<b>Apple Bloom</b>: This ain't wanderin'. We know exactly where we're headed – to find Trouble Shoes!
+<b>Sweetie Belle</b>: But isn't he a dangerous criminal?
+<b>Apple Bloom</b>: We only need to find him. We don't need to <i>capture</i> him. The sheriff can handle that!
+<b>Scootaloo</b>: And once he's in jail, we'll be competing! And then it's...
+<b>Apple Bloom</b> and <b>Scootaloo</b>: Cutie mark city!
+<b>Sweetie Belle</b>: Worst idea <i>ever</i>.
+[owl hoots]
+<b>Apple Bloom</b>: It's another giant hoof print!
+<b>Sweetie Belle</b>: Do either of you have any idea where we are?
+[lightning cracks]
+[rain starts falling]
+<b>Scootaloo</b>: Uh, maybe we should head back and try again later.
+<b>Apple Bloom</b>: C'mon, before we lose the trail!
+[lightning cracks]
+<b>Sweetie Belle</b>: [high-pitched squeal]
+<b>Sweetie Belle</b>: Come on, we've gone far enough! It's time to go back!
+<b>Scootaloo</b>: The rain is only getting worse, Apple Bloom! Let's come back tomorrow.
+<b>Apple Bloom</b>: Maybe y'all are right. So, how do we get back?
+<b>Sweetie Belle</b>: You mean you don't know?!
+[lightning cracks]
+<b>Applejack</b>: Whew! Good job, y'all. I know they need lots 
+of mud for the rodeo tomorrow, but I wish they would've warned us about 
+this rainstorm.
+<b>Braeburn</b>: [whinnies]
+<b>Applejack</b>: Braeburn? Where are the girls?
+<b>Braeburn</b>: [nervous laugh]
+<b>Applejack</b>: [echoing] <b>What?!</b>
+<b>Sheriff Silverstar</b>: Ha! Fish my wish!
+<b>Star Spur</b>: Aw!
+<b>Senior Deputy</b>: Dagnabbit!
+<b>Applejack</b>: Sheriff Silverstar! You gotta help! My sister's gone! And her friends too!
+<b>Braeburn</b>: I've searched and searched, but no sign of 'em anywhere!
+<b>Applejack</b>: It must've been Trouble Shoes!
+<b>Sheriff Silverstar</b>: Now, now, hold on there. Trouble Shoes done a lot of bad things in his day, but nothin' like that!
+<b>Applejack</b>: You really wanna take that chance?
+<b>Sheriff Silverstar</b>: Come on, y'all! Let's ride!
+<b>Sweetie Belle</b>: You sure about this, Scootaloo?
+<b>Scootaloo</b>: I thought I was, but now I'm not.
+<b>Apple Bloom</b>: So I pretty much got us completely and totally lost. How could this get any worse?
+<b>Cutie Mark Crusaders</b>: [screaming]
+[splash]
+<b>Apple Bloom</b>: We gotta get out of this rain. There's no tellin' how long this storm could last.
+<b>Scootaloo</b>: Look!
+<b>Apple Bloom</b>: It looks abandoned. Let's go see if we can find some blankets or somethin'.
+[door creaking]
+[lightning cracks]
+[hoofsteps falling]
+[door creaking]
+[lightning cracks]
+<b>Cutie Mark Crusaders</b>: [screaming]
+<b>Trouble Shoes</b>: [screaming]
+[multiple crashes]
+<b>Trouble Shoes</b>: [multiple exclamations of surprise and pain]
+[thwack]
+[tinnitus]
+<b>Trouble Shoes</b>: [groaning]
+<b>Apple Bloom</b>: [through tinnitus] Hello? You alright?
+<b>Trouble Shoes</b>: Surely.
+<b>Apple Bloom</b>: We didn't mean no harm. We just came in to get out of the rain.
+<b>Trouble Shoes</b>: Had some hot cider a-cookin' in the kitchen. Doubt it survived.
+[clang]
+<b>Trouble Shoes</b>: I ain't gonna rise to greet y'all. 
+Awfully rude, I reckon, but as you can see, I'm the fresh casualty of an
+ unusually unfortunate circumstance. My lot in life, I suppose.
+<b>Apple Bloom</b>: Are you... Trouble Shoes?
+<b>Trouble Shoes</b>: That's me.
+<b>Scootaloo</b>: W-what are you doing?
+<b>Apple Bloom</b>: I'm gonna unwrap him.
+<b>Sweetie Belle</b>: You can't do that! That's Trouble Shoes!
+<b>Apple Bloom</b>: Aw, he don't seem so bad.
+[lightning cracks]
+<b>Trouble Shoes</b>: Of course guests would arrive while I 
+ain't got no pie to offer. Scores more misfortune points for old Trouble
+ Shoes. Wh-whooaaa!
+[crash, bonks]
+<b>Trouble Shoes</b>: Typical. Bad luck never rests.
+<b>Apple Bloom</b>: You sure that's bad luck? Seems like maybe you're just a little, um...
+<b>Sweetie Belle</b>: Klutzy?
+<b>Trouble Shoes</b>: Tell that to the flank! Upside-down 
+horseshoe – bad luck. Follows me wherever I go like sour on old milk. 
+Y'all best vamoose before my bad luck rubs off and sticks to y'all. Get 
+along! Skedaddle!
+[lightning cracks]
+<b>Trouble Shoes</b>: <i>Am-scray!</i>
+<b>Scootaloo</b>: Um, we don't really know the way back to Appleloosa...
+<b>Trouble Shoes</b>: But o' course <i>I</i> do. Wouldn't you know it? My lucky day.
+<b>Sweetie Belle</b>: It's actually kind of sweet of him to help us out like this.
+<b>Scootaloo</b>: I know! What do we do if he takes us back to 
+Appleloosa and the sheriff arrests him? If I get a cutie mark for that, 
+I'll feel guilty every time I see it.
+<b>Apple Bloom</b>: Say there, Trouble Shoes, you might not want to take us <i>all</i> the way back to Appleloosa. The sheriff sort of has it in his mind that you're a no-good outlaw lookin' to shut down the rodeo.
+<b>Trouble Shoes</b>: My kind of luck he'd think that.
+<b>Apple Bloom</b>: But... is it true?
+<b>Trouble Shoes</b>: Y'all like stories?
+<b>Cutie Mark Crusaders</b>: Mm-hmm!
+<b>Trouble Shoes</b>: Just my luck. I was hopin' you'd say no. 
+[narrating flashback] When I was a colt, I wanted to be a rodeo star 
+somethin' fierce, but I just didn't seem to have the knack for it.
+[thwack]
+<b>Young Trouble Shoes</b>: Whoooa!
+<b>Buffalo</b>: [laughing]
+<b>Young Trouble Shoes</b>: [grunting] Awww!
+<b>Buffalo</b>: [laughing]
+<b>Trouble Shoes</b>: [narrating] I practiced and practiced...
+<b>Young Trouble Shoes</b>: Whoooa-oof!
+<b>Trouble Shoes</b>: [narrating] And finally, I wrangled up 
+the guts to audition for rodeo school. Right in the middle of that 
+tryout, I knew I was doin' what I was meant to. And wouldn't you know 
+it? In a flash comes this here cutie mark.
+[whip lashing noise]
+[thunk]
+<b>Judges</b>: [laughing]
+<b>Trouble Shoes</b>: [narrating] I can still remember them 
+judges a-laughin'. Didn't even finish my routine 'cause right then I 
+knew bad luck was my fate. That fire for rodeo never did leave me, 
+though. Couldn't keep away from 'em. So I'd sneak down and have a look, 
+and wouldn't you know it? Bad luck would strike again. Just my lot in 
+life, I reckon...
+<b>Sweetie Belle</b>: Poor Trouble Shoes. I can't believe those mean judges would laugh at him like that.
+<b>Apple Bloom</b>: Don't you see? They weren't laughin' <i>at</i> him. They were just enjoyin' the show.
+<b>Scootaloo</b>: What are you saying?
+<b>Apple Bloom</b>: Think about it. If we saw a rodeo <i>clown</i> doin' what he did back in that shack, we'd think he was the greatest!
+<b>Sweetie Belle</b>: You're right! He could still be in rodeos, just not the way he thought!
+<b>Scootaloo</b>: So he's been looking at his cutie mark wrong the whole time! It's not bad luck, it's—
+<b>Sheriff Silverstar</b>: Gotcha!
+<b>Trouble Shoes</b>: Just my luck.
+<b>Sheriff Silverstar</b>: Trouble Shoes, you're under arrest 
+for vandalizin' the property and peace of mind of the good rodeo-lovin' 
+ponies of Equestria! Not to mention fillynappin'! And... generalized 
+mayhem!
+<b>Apple Bloom</b>: Wait!
+<b>Applejack</b>: Braeburn? Get these fillies someplace safe.
+<b>Apple Bloom</b>: Wait, no! Listen, Applejack!
+<b>Cutie Mark Crusaders</b>: <i>No!</i>
+<b>Apple Bloom</b>: But Trouble Shoes isn't the menace everypony thinks!
+<b>Applejack</b>: Sakes alive, what's with you? Why in 
+tarnation would you want me to help get him out of jail when he's the 
+one who ran off with y'all to begin with?! Now if y'all excuse me, I'm 
+off to win the Appleloosa rodeo hay bale monster stack.
+<b>Apple Bloom</b>: Um, Applejack?
+[door closes]
+<b>Trouble Shoes</b>: [sighs] Well, at least I get me a view of one small corner of the rodeo.
+[bed creaking, crash]
+<b>Trouble Shoes</b>: Figures.
+<b>Sheriff Silverstar</b>: Aw, come on now, Trouble Shoes! I'm runnin' out of mattresses!
+[magic fizzling]
+[keys jingling]
+[door opens]
+<b>Apple Bloom</b>: Come on, sheriff! You're about to miss the hay bale monster stack!
+<b>Sheriff Silverstar</b>: Jiminy, that's startin' already?!
+[jail door opens]
+<b>Apple Bloom</b>: Let's go, Trouble Shoes! This here's a jailbreak!
+<b>Trouble Shoes</b>: Ain't no need. Can hear the rodeo just fine from this vantage.
+<b>Scootaloo</b>: But we've got a plan to help you live your dream!
+<b>Trouble Shoes</b>: Listen, y'all, I'm a known criminal. How you proposin' on gettin' me into a rodeo?
+[bed creaks and clatters]
+[crowd cheering]
+[bale being kicked]
+<b>Apple Bloom</b>: Go, Applejack!
+<b>Scootaloo</b>: [simultaneously] You can do it!
+<b>Sweetie Belle</b>: [simultaneously] Woo-hoo!
+<b>Trouble Shoes</b>: Well, how do I look?
+<b>Cutie Mark Crusaders</b>: [giggling]
+<b>Trouble Shoes</b>: Come on now, stack them bales! Woo-hoo!
+[bale being kicked]
+[crowd gasps]
+[crowd cheers]
+<b>Apple Bloom</b>: That's my sister!
+[entertainment music starts, crowd laughs]
+<b>Apple Bloom</b>: 'Kay now, Trouble Shoes, you're on!
+<b>Trouble Shoes</b>: Say what?! I may be dressed like one, but I <i>ain't</i> no rodeo clown.
+<b>Apple Bloom</b>: You got your cutie mark all wrong, Trouble Shoes! You were born to <i>entertain</i>! You've got a gift for makin' folks laugh, don't you?
+<b>Trouble Shoes</b>: But my cutie mark's an upside-down horseshoe, and that means bad luck.
+<b>Sweetie Belle</b>: That all depends on how you look at it.
+<b>Apple Bloom</b>: You always wanted to be a part of the rodeo, right? Well, now's your chance. Go on!
+<b>Trouble Shoes</b>: Whoa!
+[boing!]
+[crowd laughs]
+<b>Cutie Mark Crusaders</b>: [cheering]
+<b>Applejack</b>: There y'all are! How 'bout your big sis, huh?
+<b>Apple Bloom</b>: [flatly] Yeah, way to go.
+<b>Applejack</b>: Since when are y'all so into rodeo clowns?
+[crashes]
+[crowd laughs]
+<b>Trouble Shoes</b>: Just leave me be, cutie mark! I aim to clear that there hoop!
+[crowd laughs]
+[crashing]
+<b>Trouble Shoes</b>: [muffled grunts] Come on now! [grunting]
+[multiple plops]
+[click, slide whistle]
+[crowd laughs]
+<b>Applejack</b>: That's the best rodeo clown I ever seen! [laughs]
+<b>Cutie Mark Crusaders</b>: [cheering]
+[pop]
+[muffled laughing]
+[splash]
+[pop]
+[crowd gasps]
+<b>Crowd</b>: Trouble Shoes!
+<b>Applejack</b>: What the hay?!
+<b>Female Townspony #1</b>: He escaped from jail!
+<b>Male Townspony #1</b>: Ruinin' another rodeo!
+<b>Female Townspony #2</b>: Let's get him!
+[crowd shouting]
+<b>Apple Bloom</b>: Wait, y'all! He ain't what you think he is!
+<b>Sheriff Silverstar</b>: Stand aside, young'uns! This one's goin' back to jail.
+<b>Sweetie Belle</b>: But he never wanted to <i>ruin</i> any rodeos! Those were just bad accidents!
+<b>Applejack</b>: Sweetie Belle, what are you talkin' about?
+<b>Scootaloo</b>: Trouble Shoes has a gift for making ponies laugh! He's maybe the best rodeo clown I've ever seen!
+<b>Judge</b>: That's true! He is awful funny.
+<b>Apple Bloom</b>: He thought his cutie mark was telling him 
+to keep away from rodeos, but deep inside he knew it's where he was 
+meant to be. He just didn't know how to do it.
+[crowd muttering]
+<b>Trouble Shoes</b>: What she says is true. This here entertainin' y'all with my klutzin'? That's what I was <i>supposed</i>
+ to be doin'. I know it now. I didn't mean no harm, honest! I just ain't
+ never loved nothin' like I love the rodeo, so I kept on sneakin' back 
+and makin' a big old mess of things. Turns out I was just a-lookin' at 
+my cutie mark all wrong.
+<b>Sheriff Silverstar</b>: That may be so, Trouble Shoes, but you still gotta face charges for the problems you've caused!
+<b>Trouble Shoes</b>: If I done wrong, I'll see to it that I take my medicine and square my accounts.
+<b>Sheriff Silverstar</b>: Truth be told, we could understand 
+all the trouble with the rodeos, but why'd you have to run off with 
+these here little'uns last night?
+<b>Apple Bloom</b>: Uh, yeah, about that...
+[barrel rolling]
+[sweeping]
+<b>Apple Bloom</b>: [sighs] You really want us to clean up all this mess Trouble Shoes made?
+<b>Applejack</b>: Maybe it'll teach you not to go wanderin' off after I say not to!
+<b>Apple Bloom</b>: Ugh. Ain't it bad enough that you get to go
+ back to Ponyville with a shiny trophy, and all we're bringing back is 
+these same old blank flanks?
+<b>Applejack</b>: Y'all helped Trouble Shoes realize what his cutie mark really means. Ain't that a nice feelin' you can take back with you?
+<b>Sweetie Belle</b>: I guess we did make things a little better.
+<b>Scootaloo</b>: It does feel kinda nice.
+<b>Apple Bloom</b>: So... we can stop now?
+<b>Applejack</b>: Nnope.
+[credits]

@@ -1,266 +1,346 @@
-[train puffing] 
-<b>Twilight Sparkle</b>: You absolutely sure you can do this? 
-<b>Spike</b>: Of course. Wouldn't have agreed to it if I couldn't. Piece of cake. Speaking of cake, I got a little something I need to attend to. 
-<b>Twilight Sparkle</b>: Yeah, like keeping an eye on a house full of critters. 
-<b>Spike</b>: [slurp] Uh, yeah, uh, that was totally what I was talking about. Relax. Go to your welcoming thing in the Crystal Empire. Spike's got it all under control. 
-[door closes] 
-[noises of ruckus] 
-<b>Rainbow Dash</b>: Hurry up, Twilight! We can't miss our train! 
-<b>Conductor</b>: Tickets. 
-<b>Applejack</b>: Oh, this is gonna be a real treat. Princess Cadance said she'd never seen the Crystal Ponies so excited. 
-<b>Rainbow Dash</b>: Duh! Of  <i>course</i> they're excited. They're up for the Equestria Games. It's only  <i>the</i> biggest sporting event in all of Equestria. 
-<b>Rarity</b>: Didn't Cloudsdale host the Equestria Games one year? 
-<b>Rainbow Dash</b>: No. Cloudsdale  <i>should</i> have hosted the games one year. I'll never forget when we got the bad news. <b>Laurette</b>: The Equestria Games go to... the city of Fillydelphia. 
-<b>Young Rainbow Dash</b>:  <i>NOOOOOOOOOOO!</i> <b>Rainbow Dash</b>: These Crystal Ponies lost a thousand years to an evil king's curse. They've had enough bad news. No way we're letting them experience the pain of losing out on these games. 
-<b>Twilight Sparkle</b>: Exactly. Princess Cadance is counting on us to do our part to convince the Games Inspector to choose the Crystal Empire. And we are not gonna let her down. Are we? 
-<b>Pinkie Pie</b>:  <i>NOOOOOOOOOOO!</i> What? I was just answering Twilight's question. [train whistle] 
-<b>Main cast</b>:  <i>Four, three, two, one! The Crystal Empire, that's the one!</i> 
-<b>Pinkie Pie</b>: [through megaphone] Okay, everypony, great job! Sounds like we're ready. 
-<b>Main cast</b>: [cheers, etc.] 
-<b>Twilight Sparkle</b>: One more time from the top. 
-<b>Rest of main cast</b>: [groans] 
-<b>Rarity</b>: Oh, please! I think that was perfect. 
-<b>Applejack</b>: [sighs] But we've run this, like, twelve times already. I think we've got it. 
-<b>Twilight Sparkle</b>: Cadance said the Games Inspector really puts folks through the wringer on her visits. There's no margin for error here. And this time we need to practice the steps. 
-<b>Applejack</b>: On a train car? 
-<b>Rainbow Dash</b>: You heard the pony! On your hooves! 
-<b>Main Cast</b>:  <i>Two, four, six, eight–</i> [screams] 
-[brakes squealing] 
-[crash] 
-<b>Train Conductor</b>: Crystal Empire, ladies! Watch your step leaving the train! 
-<b>Rarity</b>: [groans] 
-<b>Applejack</b>: [sighs] Probably should've watched our step while we were still  <i>on</i> it, too. 
-[train chugging] 
-<b>Pinkie Pie</b>: Wow! The Crystal Empire looks crystallier than ever! 
-<b>Applejack</b>: They must have everypony in the Empire out sprucing it up! 
-<b>Twilight Sparkle</b>: This must be why we were asked to handle the welcome committee routine. 
-<b>Rainbow Dash</b>: And it's probably also because we'll be  <i>awesome</i> at it. 
-<b>Applejack</b>: Princess Cadance was right. These ponies do look pretty darn excited. 
-<b>Rainbow Dash</b>: Yup, I remember that feeling. But not as much as I remember the crushing wave of disappointment that came when things  <i>didn't</i> work out. That right there.  <i>That</i> is the face I do  <i>not</i> want to see. 
-<b>Rest of main cast</b>: [mutters of agreement] [door opens] 
-<b>Twilight Sparkle</b>: We're here. 
-<b>Princess Cadance</b>: [giggles] There are my girls. 
-<b>Twilight</b> and  <b>Cadance</b>: Sunshine, sunshine, ladybugs awake! 
-<b>Rarity</b>: [gasp] 
-<b>Twilight</b> and  <b>Cadance</b>: Clap your hooves and do a little shake! [giggling] 
-<b>Rarity</b>: Oh, my. This is spectacular. Please, everypony, stand back! I need air! 
-<b>Princess Cadance</b>: Go ahead and try whatever you like. It's all complimentary for the welcome committee. 
-<b>Rarity</b>: Ooh-hoo-hoo-hoo! 
-<b>Princess Cadance</b>: That over there is a crystal mud bath, which relaxes your body and rejuvenates your coat. Now, I realize it can be kind of strange to climb into mud, but if you'll just give it a chance, I'm sure– 
-<b>Pinkie Pie</b>: Woo-hoo! 
-<b>Twilight Sparkle</b>: Pinkie, no! 
-<b>Pinkie Pie</b>: [laughing] Ahh, so relaxing! 
-<b>Twilight Sparkle</b>: Pinkie Pie! Honestly! 
-<b>Princess Cadance</b>: [breathes in] 
-<b>Twilight Sparkle</b>: [breathes in] 
-<b>Princess Cadance</b>: [breathes out] 
-<b>Twilight Sparkle</b>: [breathes out] 
-<b>Princess Cadance</b>: Go ahead, have a good time while I get my ceremonial headdress done. 
-<b>Rarity</b>: Ceremonial... headdress? 
-<b>Princess Cadance</b>: When meeting with important guests, it was tradition for rulers of the Crystal Empire to weave crystals into their manes in a very specific way. The Games Inspector is known for doing her homework. She'll certainly be expecting my look to reflect the importance of her visit. 
-[door opens] 
-<b>Golden Hooves</b>: Princess, if I may have a word... I-I have two pieces of news for you. First, your mane stylist has the flu and won't be able to make it for fear of you catching it, too. 
-<b>Princess Cadance</b>: Oh. Well... I hope she's better soon. Do any of the other stylists here know how to do the traditional royal ceremonial headdress? 
-<b>Crystal Ponies</b>: Um... well... uh... (No.) 
-<b>Princess Cadance</b>: Oh. [breaths in] [breaths out] Just a... small detail. 
-<b>Rainbow Dash</b>: Whoa, whoa, whoa! You're trying to land the Equestria Games here. There is no such thing as a small detail! 
-<b>Twilight Sparkle</b>: Rainbow Dash! 
-<b>Rarity</b>: I suppose... I could give it a shot. 
-<b>Princess Cadance</b>: Oh, Rarity, you would do that for me? 
-<b>Rainbow Dash</b>: Way to step it up, Rare! 
-<b>Princess Cadance</b>: Fortunately, I have all the precise instructions right here. 
-[paper unfurling] 
-<b>Rarity</b>: Oh, my! 
-<b>Princess Cadance</b>: You sure you're up to this? 
-<b>Rarity</b>: Working on the hair of royalty on such an auspicious occasion is the opportunity of a lifetime! I will give it everything I've got! 
-<b>Twilight Sparkle</b>: See? No worries! 
-<b>Rarity</b>: Besides, the Games Inspector isn't expected for several hours. I'll have plenty of time to figure out exactly how to... do... this... 
-<b>Princess Cadance</b>: Oh, Rarity, that's wonderful! [to Golden Hooves] You said you had a second bit of news? 
-<b>Golden Hooves</b>: Yes, quite. The Games Inspector, Ms. Harshwhinny, will be arriving on the... next train. 
-<b>All</b>: [gasp] 
-<b>Rainbow Dash</b>:  <i>What!?</i> You couldn't have told her that news  <i>first</i>!? That's fifteen minutes from now! 
-<b>Fluttershy</b>: Oh, my goodness! 
-<b>Rainbow Dash</b>: [panicked breathing] 
-<b>Twilight Sparkle</b>: [breathes in] [breathes out] How long before Cadance is ready? 
-<b>Rarity</b>: Hmmmm... I'm sure to find some shortcuts. 
-<b>Twilight Sparkle</b>: Can you have her back at the castle when we're done? 
-<b>Rarity</b>: Done. 
-<b>Twilight Sparkle</b>: Okay, we'll be fine. Everypony, just be on the look out for the pony with the flower print luggage. 
-<b>Pinkie Pie</b>: Easy peasy, pudding in the freezy! 
-<b>Twilight Sparkle</b>: We bring the Games Inspector back to the castle, put on our big welcome committee how-do-you-do and then... 
-<b>Pinkie Pie</b>: Put the pudding out to thaw before you eat it or you'll crack a tooth? 
-<b>Rainbow Dash</b>: I'll just ignore that. We need to remember that the Games Inspector arriving  <i>early</i> is probably part of a plan to psych us out. 
-<b>Twilight Sparkle</b>: What do you mean? 
-<b>Rainbow Dash</b>: You said it yourself. She's got a rep for trying to catch hosts off-guard, just to see if we can handle the kind of massive pressure that comes with hosting the Equestria Games. 
-<b>Fluttershy</b>: Oh, no... We're gonna blow it... 
-<b>Rainbow Dash</b>: Not if we always stay one step ahead and don't fall for any of her mind games. Anything she throws at us, we just need to remember she's testing us and roll with it. [train braking] 
-<b>Rainbow Dash</b>: Excuse me, ma'am? 
-<b>Ms. Peachbottom</b>: Yes, what is it? 
-<b>Fluttershy</b>: Oh, no! 
-<b>Twilight Sparkle</b>: Be cool. [to Ms. Peachbottom] Well, I know you're not expecting us, but we're here to personally welcome you to the Crystal Empire. 
-<b>Ms. Peachbottom</b>: The whole lot of you came to do that? 
-<b>Twilight Sparkle</b>: Uh, well, um... yes! 
-<b>Ms. Peachbottom</b>: Well, darn tootin', ain't that the cat's meow! Y'all didn't need to do that. Why, I hardly expected anything like this. 
-<b>Applejack</b>: Whew! The Princess wouldn't have had it any other way. 
-<b>Ms. Peachbottom</b>: The Princess? Princess Cadance? 
-<b>Twilight Sparkle</b>: None other! 
-<b>Ms. Peachbottom</b>: Well, tie me up and throw me down! This just keeps gettin' better and better! 
-<b>Fluttershy</b>: Can we help you with your bags? 
-<b>Ms. Peachbottom</b>: Don't mind if ya do! 
-<b>Fluttershy</b>: Ooh, I love flower print! Sorry. 
-<b>Pinkie Pie</b>: Our first stop is the castle, where we got a big razzamatazzy welcome planned for you! 
-<b>Ms. Peachbottom</b>: The castle? Are you kidding?! Hot-diggety-dawg! 
-<b>Twilight Sparkle</b>: See that? We just gotta roll with it until the Princess gets there and we'll be just fine. 
-[train chugging] [drilling noise] 
-[stretching noise] 
-<b>Princess Cadance</b>: So, uh... how's it going so far? 
-<b>Rarity</b>: Oh, I'm so sorry... It's just... oh so complicated. [laughs nervously] I can fix it! 
-<b>Princess Cadance</b>: Fix what?! 
-<b>Rarity</b>: Well, I-I was looking for shortcuts and I thought step twelve was optional! But it's not! <b>Ms. Peachbottom</b>: My golly, the crystal castle! [gasps] Why, I've seen pictures, but I never expected to see it with my very own eyes! [gulps] From the inside... 
-<b>Fluttershy</b>: Oh, my gosh, she's so nice! 
-<b>Rainbow Dash</b>: You're letting her lull you into a false sense of confidence. Watch that. It's all part of the game. 
-[twang] 
-<b>Ms. Peachbottom</b>: Oh, my, I'm so excited. 
-<b>Twilight Sparkle</b>: Please, have a seat, won't you? 
-<b>Ms. Peachbottom</b>: Mind if I take a quick run outside first? It was an awfully long train ride and my legs could use a stretch. 
-<b>Twilight Sparkle</b>: Oh, well... we were just about to start. 
-<b>Ms. Peachbottom</b>: Oh! Never you mind. You go on ahead. I'm listening. 
-<b>Rainbow Dash</b>: She was probably testing us to see if we could remain in control of a complex situation. Looks like we passed. Bump– 
-<b>Fluttershy</b>: –cha! 
-<b>Twilight Sparkle</b>: We'd like to thank you for this opportunity to introduce you to this wonderful kingdom! 
-<b>Ms. Peachbottom</b>: Oh, why, the pleasure is all mine. 
-<b>Twilight Sparkle</b>: And since we're not even from here ourselves, who better than us to let you know just how welcoming this place can be! 
-<b>Main cast</b>:  <dl>  <dd>   <i>Two, four, six, eight!</i>   </dd>  <dd>   <i>Name a place that's really great!</i>   </dd>  <dd>   <i>One, two, three, four!</i>   </dd>  <dd>   <i>Keeps you coming back for more!</i>   </dd>  <dd>   <i>Two, seven, nine, three!</i>   </dd>  <dd>   <i>The place that we all wanna be!</i>   </dd>  <dd>   <i>Four, three, two, one!</i>   </dd>  <dd>   <i>The Crystal Empire, that's the one!</i>   </dd> </dl> 
-<b>Ms. Peachbottom</b>: Oooh, yeah! [whistles] 
-<b>Main cast</b>: [panting] 
-<b>Ms. Peachbottom</b>: Ooh, I tell ya! I have traveled far and wide, but I have never,  <i>ever</i> been welcomed anyplace in the fashion that y'all have done here today. 
-<b>Twilight Sparkle</b>: That's fantastic! Princess Cadance would be so glad to hear that! 
-<b>Ms. Peachbottom</b>: Honestly, I'm surprised she knows anything about me at all! 
-[pause] 
-<b>Twilight Sparkle</b>: Of course she does! She's been looking forward to your visit for weeks! 
-<b>Ms. Peachbottom</b>: Oh, goody! Is she here? 
-<b>Twilight Sparkle</b>: Uh... 
-<b>Applejack</b>: [hushed] Where the heck is she anyway? Wasn't she supposed to be here by now? 
-<b>Ms. Peachbottom</b>: Oh, that's all right. [gulps] Maybe I-I-I'll just take my little run outside now. [panting] 
-<b>Rainbow Dash</b>: Or, if you like, we could give you a tour of the castle! That way you could be learning and stretching all at the same time! 
-<b>Ms. Peachbottom</b>: Ooh, a tour of the crystal castle... I'd love that a whole heap. 
-<b>Twilight Sparkle</b>: [hushed] Dash! We've hardly ever even been here before! 
-<b>Rainbow Dash</b>: [hushed] It's just another test! We gotta roll with it, remember? 
-<b>Pinkie Pie</b>: Oooh! Lemme give the tour! I'lldoit, I'lldoit, letmeletmeletme! 
-<b>Twilight Sparkle</b>: [breathes in] [breathes out] Fine. You all start giving her the tour, and I'll go see what's keeping Cadance. 
-[luggage dragging] 
-<b>Ms. Harshwhinny</b>: Oof! 
-<b>Twilight Sparkle</b>: Hello there! 
-<b>Ms. Harshwhinny</b>: Hello yourself. First hello of the day– 
-[splash] 
-<b>Ms. Harshwhinny</b>: Oof! [groans] <b>Twilight Sparkle</b>: [humming] 
-<b>Rarity</b>: [gasps] W-What are you doing here? 
-<b>Twilight Sparkle</b>: We finished the welcome committee song and we just wanted to introduce Ms. Harshwhinny to– 
-<b>Rarity</b>: No, no! Princess Cadance isn't ready. Something's gone terribly wrong! 
-<b>Twilight Sparkle</b>: I need to speak to the Princess. 
-<b>Rarity</b>: You can't! You mustn't! She's in the middle of a delicate conditioning rinse that must go perfectly if there's to be  <i>any</i> hope for her hair! 
-<b>Twilight Sparkle</b>: Come on, how bad can it be? 
-<b>Rarity</b>: Imagine her mane turned into a porcupine. 
-<b>Twilight Sparkle</b>: Ew. 
-<b>Rarity</b>: Please! I will bring her back from the brink of tragedy, but you have got to buy me some time!  <i>There's no other way!</i> 
-[door slams] <b>Pinkie Pie</b>: So, you see this here? This, um, this is, um... a big,  <i>round</i> room. It's known for its  <i>roundness</i> and bigness. And did I mention that it's  <i>round</i>? 
-<b>Ms. Peachbottom</b>: I think they call it a rotunda? A small, confining, rotunda... 
-<b>Pinkie Pie</b>: [blows raspberry] Whatever. Round is round, am I right? 
-<b>Applejack</b>: [hushed] Easy, Pinkie, let's play this safe! We got her in a good mood, so let's not do anything to ruin that. 
-<b>Ms. Peachbottom</b>: You know... I love this sort of architecture. I-I-I detect a neo-Gothic inspiration in the design, yes? 
-<b>Pinkie Pie</b>: Hey! Look at me! [makes funny noises] 
-<b>Applejack</b>: [sighs] And not a moment too soon. Where's Cadance? Please tell me she's right behind you. 
-<b>Twilight Sparkle</b>: There's a bit of a problem with her headdress. How's it going here? 
-<b>Pinkie Pie</b>: Boingy, boingy, boingy! [wibbles tongue] 
-<b>Ms. Peachbottom</b>: I, uh, hate to be a bother, but the legs are cramping up on me with all this standing around... 
-<b>Rainbow Dash</b>: Huh? 
-<b>Twilight Sparkle</b>: She's getting bored, and we have to buy Rarity some more time. [breathes in] [breathes out] I'll see if Shining Armor can come help. Can't one of you other ponies take over in the meantime? 
-<b>Rainbow Dash</b>: I got this. Wanna stretch your legs, huh? Well, whatever you need, I'm sure we can provide. Let's just make our way to the castle's gymnasium. Our tour will now be headed... this way. And we're walking, and we're walking... <b>Twilight Sparkle</b>: [humming] 
-[door opens] 
-<b>Athletes</b>: [indistinct conversations] 
-<b>Shining Armor</b>: Twily! 
-<b>Twilight Sparkle</b>: Hello there! Shining Armor, you've gotta help me. 
-<b>Shining Armor</b>: [blows whistle] Everything okay? 
-<b>Twilight Sparkle</b>: I left the other ponies behind giving the Games Inspector the worst castle tour ever. 
-<b>Shining Armor</b>: Come on, gang! Are we gonna gallop, or are we gonna trot!? [to Twilight] Castle tour, huh? I'm pretty sure I can give you a hoof with that. [to athletes]  <i>Let's move, move, move!</i> [to Twilight] Everything's gonna be okay. 
-<b>Twilight Sparkle</b>: I know, I'm not worried. I'm not worried... it worked! 
-<b>Ms. Peachbottom</b>: [gasping] I'm outside! [laughing] Feels  <i>so</i> good to stretch the old legs! 
-<b>Shining Armor</b>: Uh, what the– 
-<b>Rainbow Dash</b>: Turns out the crystal castle  <i>doesn't</i> have a gymnasium. 
-<b>Shining Armor</b>: Watch it! 
-[crash] 
-<b>Ms. Peachbottom</b>: Woo-hoo! 
-<b>Shining Armor</b>: Make her stop! 
-<b>Rainbow Dash</b>: Wait, that's the Games Inspector! Let her do her thing. 
-<b>Ms. Peachbottom</b>: Good. Oh, these hooves! I'm outside! 
-<b>Shining Armor</b>: Why would she do that? 
-<b>Rainbow Dash</b>: I have no idea, but that's why she's who's in charge of choosing who gets the Games, and we're not. 
-[crashing] 
-[skidding] 
-<b>Ms. Peachbottom</b>: [muffled] Oh! Oh, get me outside for a run! 
-<b>Shining Armor</b>: Look out! 
-[crash] 
-<b>Rainbow Dash</b>: Yeah, okay, we need to stop her. <b>Ms. Peachbottom</b>: [muffled, hysterical yelps] 
-[splash] 
-<b>Fluttershy</b>: Where's she going in such a hurry? 
-<b>Ms. Peachbottom</b>: [muffled, hysterical yelps] 
-<b>Rainbow Dash</b>: Closer... closer... I think we've got her... Yaaaaaaah! 
-[thud] 
-[glass squeaking] 
-<b>Ms. Peachbottom</b>: Hoo-eee! Oh, that felt good! Nothing like a great run to shake the cobwebs off these old bones. 
-<b>Rainbow Dash</b>: [panting] 
-<b>Ms. Peachbottom</b>: Hey there, speedy. Ah, these wide open spaces y'all got here remind me of home. This is great! 
-<b>Rainbow Dash</b>: Oh! [pants] So you're [pants] enjoying your visit? [pants] Well, I'm so [pants] glad! [pants] 
-<b>Ms. Peachbottom</b>: Oh, good golly, yes. I just love to travel and see new places. Such a beautiful spot you got here, too! 
-<b>Shining Armor</b>: Why... thank you so much! I'm Shining Armor. 
-<b>Ms. Peachbottom</b>: [gasps] The Prince! 
-<b>Twilight Sparkle</b>: What's going on? 
-<b>Rainbow Dash</b>: From the looks of it, just locking up the games for the Crystal Empire is all. Ain't no thing. 
-<b>Ms. Peachbottom</b>: My, oh, my... I never met a  <i>Prince</i> before... 
-<b>Shining Armor</b>: [chuckles] I'm surprised. I'd think in your line of work you'd meet princes all the time. 
-<b>Ms. Peachbottom</b>: Hardly. Just an ordinary wild mustang from Mustangia here to enjoy a little vay-cay. Never thought I'd also be meeting royalty to boot. [giggles] 
-<b>Twilight Sparkle</b>: You...  <i>are</i> Ms. Harshwhinny, the Equestria Games Inspector, aren't you? 
-<b>Ms. Peachbottom</b>: Inspector what-now? 
-<b>Rainbow Dash</b>:  <i>We got the wrong pony?!</i> 
-<b>Pinkie Pie</b>:  <i>NOOOOOOOOOOO!</i> I mean,  <i>YEEEEEEESSSSSSSS!</i> 
-<b>Twilight Sparkle</b>: [panicked breathing] <b>Applejack</b>: Oh, please still be here... Oh please, oh please, oh please... 
-<b>Twilight Sparkle</b>: There's got to be another pony with flower print luggage around here somewhere. 
-<b>Rainbow Dash</b>: Except that there isn't! 
-<b>Twilight Sparkle</b>: We've gotta find her before Cadance finds out what a mess we've made of things. 
-<b>Rainbow Dash</b>: Okay, here's what we do. We split the Empire up into five sectors. 
-<b>Fluttershy</b>: Each of us search a sector. 
-<b>Pinkie Pie</b>: Well... except for the spa. What's the point of checking there?  <i>That's</i> where Cadance is. If Ms. Harshwhinny is there, well, then, game over, right? 
-<b>Rest of main cast</b>: [gasp] <b>Ms. Harshwhinny</b>: Every city and empire wants to host the Equestria Games. So, I have to go through all the big phony-baloney song and dance, though of course, I'm never getting the real inside scoop. 
-<b>Ms. Peachbottom</b>: Oh, golly, I've been having a swell time since I got here. I'm actually thinking of extendin' my stay. 
-<b>Ms. Harshwhinny</b>: And what exactly has made your visit so  <i>special</i>? 
-<b>Ms. Peachbottom</b>: Oohohohoooh, gosh, where to start? 
-<b>Rainbow Dash</b>: Oh, there she is! We're in luck! I don't think either of them knows yet that the other one's here! 
-[bell rings] 
-<b>Rarity</b>: Wonderful news, look! Princess Cadance, better than new! 
-<b>Ms. Harshwhinny</b>: Princess Cadance? So,  <i>this</i> is where you've been! I will have you know this is by far the  <i>worst</i> welcome I've had in all my years! 
-<b>Princess Cadance</b>: I-I can't believe it... What was wrong with your welcome? 
-<b>Ms. Harshwhinny</b>: There  <i>wasn't</i> one! 
-<b>Princess Cadance</b>: What is going on? 
-<b>Rainbow Dash</b>: Princess, we gave our welcome to the wrong pony, left the right one waiting at the station, and completely ruined everything. 
-<b>Pinkie Pie</b>: [nervously] Cinnamon bun? [squee] 
-<b>Rainbow Dash</b>: When I was a little filly, I wanted so badly for Cloudsdale to win the Equestria Games. But it didn't happen. So I thought I could make up for that disappointment by helping the Crystal Empire win the chance to host the Games. But it looks like I ruined your chances instead. 
-<b>Ms. Peachbottom</b>: Not so fast, speedy. 
-<b>Ms. Harshwhinny</b>: I just finished hearing about how this pony was just treated to the warmest, finest, most fabulous reception she ever had. 
-<b>Ms. Peachbottom</b>: Darn tootin'! 
-<b>Ms. Harshwhinny</b>: Courtesy of these fine ponies right here. Which, in my expert opinion, amounts to the first ever unvarnished, unrehearsed, and unbiased appraisal of a potential host of the Equestria Games. Which can only mean one thing... <b>Princess Cadance</b>: [through microphone] The next host of the Equestria Games is... the Crystal Empire! 
-[cheering] 
-<b>Rainbow Dash</b>: We did it! 
-<b>Princess Cadance</b>: [through microphone] Congratulations, Crystal Ponies! 
-[boom] <b>Rainbow Dash</b>: [sighs] You know, it feels good to help others get something you always wanted but never had. Almost as good as getting it yourself. Almost. 
-<b>Twilight Sparkle</b>: We'll still be able to come back here and watch the games when they're played. 
-<b>Rainbow Dash</b>: You're right. That'll rock! 
-[luggage collapsing] 
-<b>Fluttershy</b>: Oh, my goodness. 
-<b>Conductor</b>: All aboard! 
-<b>Rainbow Dash</b>: Huh, bummer Spike had to miss out on all this. He woulda' had fun here. 
-<b>Twilight Sparkle</b>: I'm sure he's having a great time watching all the critters back at home. 
-<b>Applejack</b>: Think he's still got a handle on things? 
-<b>Twilight Sparkle</b>: [breathes out] If he's staying calm and collected, I bet he's doing a terrific job as a leader. 
-<b>Spike</b>: [stomach growls] 
-<b>Applejack</b>: You all hear that? [music] 
-[credits] 
+[train puffing]
+<b>Twilight Sparkle</b>: You absolutely sure you can do this?
+<b>Spike</b>: Of course. Wouldn't have agreed to it if I 
+couldn't. Piece of cake. Speaking of cake, I got a little something I 
+need to attend to.
+<b>Twilight Sparkle</b>: Yeah, like keeping an eye on a house full of critters.
+<b>Spike</b>: [slurp] Uh, yeah, uh, that was totally what I was
+ talking about. Relax. Go to your welcoming thing in the Crystal Empire.
+ Spike's got it all under control.
+[door closes]
+[noises of ruckus]
+<b>Rainbow Dash</b>: Hurry up, Twilight! We can't miss our train!
+<b>Conductor</b>: Tickets.
+<b>Applejack</b>: Oh, this is gonna be a real treat. Princess Cadance said she'd never seen the Crystal Ponies so excited.
+<b>Rainbow Dash</b>: Duh! Of <i>course</i> they're excited. They're up for the Equestria Games. It's only <i>the</i> biggest sporting event in all of Equestria.
+<b>Rarity</b>: Didn't Cloudsdale host the Equestria Games one year?
+<b>Rainbow Dash</b>: No. Cloudsdale <i>should</i> have hosted the games one year. I'll never forget when we got the bad news.
+<b>Laurette</b>: The Equestria Games go to... the city of Fillydelphia.
+<b>Young Rainbow Dash</b>: <i>NOOOOOOOOOOO!</i>
+<b>Rainbow Dash</b>: These Crystal Ponies lost a thousand years 
+to an evil king's curse. They've had enough bad news. No way we're 
+letting them experience the pain of losing out on these games.
+<b>Twilight Sparkle</b>: Exactly. Princess Cadance is counting 
+on us to do our part to convince the Games Inspector to choose the 
+Crystal Empire. And we are not gonna let her down. Are we?
+<b>Pinkie Pie</b>: <i>NOOOOOOOOOOO!</i> What? I was just answering Twilight's question.
+[theme song]
+[train whistle]
+<b>Main cast</b>: <i>Four, three, two, one! The Crystal Empire, that's the one!</i>
+<b>Pinkie Pie</b>: [through megaphone] Okay, everypony, great job! Sounds like we're ready.
+<b>Main cast</b>: [cheers, etc.]
+<b>Twilight Sparkle</b>: One more time from the top.
+<b>Rest of main cast</b>: [groans]
+<b>Rarity</b>: Oh, please! I think that was perfect.
+<b>Applejack</b>: [sighs] But we've run this, like, twelve times already. I think we've got it.
+<b>Twilight Sparkle</b>: Cadance said the Games Inspector 
+really puts folks through the wringer on her visits. There's no margin 
+for error here. And this time we need to practice the steps.
+<b>Applejack</b>: On a train car?
+<b>Rainbow Dash</b>: You heard the pony! On your hooves!
+<b>Main Cast</b>: <i>Two, four, six, eight–</i> [screams]
+[brakes squealing]
+[crash]
+<b>Train Conductor</b>: Crystal Empire, ladies! Watch your step leaving the train!
+<b>Rarity</b>: [groans]
+<b>Applejack</b>: [sighs] Probably should've watched our step while we were still <i>on</i> it, too.
+[train chugging]
+<b>Pinkie Pie</b>: Wow! The Crystal Empire looks crystallier than ever!
+<b>Applejack</b>: They must have everypony in the Empire out sprucing it up!
+<b>Twilight Sparkle</b>: This must be why we were asked to handle the welcome committee routine.
+<b>Rainbow Dash</b>: And it's probably also because we'll be <i>awesome</i> at it.
+<b>Applejack</b>: Princess Cadance was right. These ponies do look pretty darn excited.
+<b>Rainbow Dash</b>: Yup, I remember that feeling. But not as much as I remember the crushing wave of disappointment that came when things <i>didn't</i> work out. That right there. <i>That</i> is the face I do <i>not</i> want to see.
+<b>Rest of main cast</b>: [mutters of agreement]
+[door opens]
+<b>Twilight Sparkle</b>: We're here.
+<b>Princess Cadance</b>: [giggles] There are my girls.
+<b>Twilight</b> and <b>Cadance</b>: Sunshine, sunshine, ladybugs awake!
+<b>Rarity</b>: [gasp]
+<b>Twilight</b> and <b>Cadance</b>: Clap your hooves and do a little shake! [giggling]
+<b>Rarity</b>: Oh, my. This is spectacular. Please, everypony, stand back! I need air!
+<b>Princess Cadance</b>: Go ahead and try whatever you like. It's all complimentary for the welcome committee.
+<b>Rarity</b>: Ooh-hoo-hoo-hoo!
+<b>Princess Cadance</b>: That over there is a crystal mud bath,
+ which relaxes your body and rejuvenates your coat. Now, I realize it 
+can be kind of strange to climb into mud, but if you'll just give it a 
+chance, I'm sure–
+<b>Pinkie Pie</b>: Woo-hoo!
+<b>Twilight Sparkle</b>: Pinkie, no!
+<b>Pinkie Pie</b>: [laughing] Ahh, so relaxing!
+<b>Twilight Sparkle</b>: Pinkie Pie! Honestly!
+<b>Princess Cadance</b>: [breathes in]
+<b>Twilight Sparkle</b>: [breathes in]
+<b>Princess Cadance</b>: [breathes out]
+<b>Twilight Sparkle</b>: [breathes out]
+<b>Princess Cadance</b>: Go ahead, have a good time while I get my ceremonial headdress done.
+<b>Rarity</b>: Ceremonial... headdress?
+<b>Princess Cadance</b>: When meeting with important guests, it
+ was tradition for rulers of the Crystal Empire to weave crystals into 
+their manes in a very specific way. The Games Inspector is known for 
+doing her homework. She'll certainly be expecting my look to reflect the
+ importance of her visit.
+[door opens]
+<b>Golden Hooves</b>: Princess, if I may have a word... I-I 
+have two pieces of news for you. First, your mane stylist has the flu 
+and won't be able to make it for fear of you catching it, too.
+<b>Princess Cadance</b>: Oh. Well... I hope she's better soon. 
+Do any of the other stylists here know how to do the traditional royal 
+ceremonial headdress?
+<b>Crystal Ponies</b>: Um... well... uh... (No.)
+<b>Princess Cadance</b>: Oh. [breaths in] [breaths out] Just a... small detail.
+<b>Rainbow Dash</b>: Whoa, whoa, whoa! You're trying to land the Equestria Games here. There is no such thing as a small detail!
+<b>Twilight Sparkle</b>: Rainbow Dash!
+<b>Rarity</b>: I suppose... I could give it a shot.
+<b>Princess Cadance</b>: Oh, Rarity, you would do that for me?
+<b>Rainbow Dash</b>: Way to step it up, Rare!
+<b>Princess Cadance</b>: Fortunately, I have all the precise instructions right here.
+[paper unfurling]
+<b>Rarity</b>: Oh, my!
+<b>Princess Cadance</b>: You sure you're up to this?
+<b>Rarity</b>: Working on the hair of royalty on such an 
+auspicious occasion is the opportunity of a lifetime! I will give it 
+everything I've got!
+<b>Twilight Sparkle</b>: See? No worries!
+<b>Rarity</b>: Besides, the Games Inspector isn't expected for 
+several hours. I'll have plenty of time to figure out exactly how to... 
+do... this...
+<b>Princess Cadance</b>: Oh, Rarity, that's wonderful! [to Golden Hooves] You said you had a second bit of news?
+<b>Golden Hooves</b>: Yes, quite. The Games Inspector, Ms. Harshwhinny, will be arriving on the... next train.
+<b>All</b>: [gasp]
+<b>Rainbow Dash</b>: <i>What!?</i> You couldn't have told her that news <i>first</i>!? That's fifteen minutes from now!
+<b>Fluttershy</b>: Oh, my goodness!
+<b>Rainbow Dash</b>: [panicked breathing]
+<b>Twilight Sparkle</b>: [breathes in] [breathes out] How long before Cadance is ready?
+<b>Rarity</b>: Hmmmm... I'm sure to find some shortcuts.
+<b>Twilight Sparkle</b>: Can you have her back at the castle when we're done?
+<b>Rarity</b>: Done.
+<b>Twilight Sparkle</b>: Okay, we'll be fine. Everypony, just be on the look out for the pony with the flower print luggage.
+<b>Pinkie Pie</b>: Easy peasy, pudding in the freezy!
+<b>Twilight Sparkle</b>: We bring the Games Inspector back to the castle, put on our big welcome committee how-do-you-do and then...
+<b>Pinkie Pie</b>: Put the pudding out to thaw before you eat it or you'll crack a tooth?
+<b>Rainbow Dash</b>: I'll just ignore that. We need to remember that the Games Inspector arriving <i>early</i> is probably part of a plan to psych us out.
+<b>Twilight Sparkle</b>: What do you mean?
+<b>Rainbow Dash</b>: You said it yourself. She's got a rep for 
+trying to catch hosts off-guard, just to see if we can handle the kind 
+of massive pressure that comes with hosting the Equestria Games.
+<b>Fluttershy</b>: Oh, no... We're gonna blow it...
+<b>Rainbow Dash</b>: Not if we always stay one step ahead and 
+don't fall for any of her mind games. Anything she throws at us, we just
+ need to remember she's testing us and roll with it.
+[train braking]
+<b>Rainbow Dash</b>: Excuse me, ma'am?
+<b>Ms. Peachbottom</b>: Yes, what is it?
+<b>Fluttershy</b>: Oh, no!
+<b>Twilight Sparkle</b>: Be cool. [to Ms. Peachbottom] Well, I 
+know you're not expecting us, but we're here to personally welcome you 
+to the Crystal Empire.
+<b>Ms. Peachbottom</b>: The whole lot of you came to do that?
+<b>Twilight Sparkle</b>: Uh, well, um... yes!
+<b>Ms. Peachbottom</b>: Well, darn tootin', ain't that the cat's meow! Y'all didn't need to do that. Why, I hardly expected anything like this.
+<b>Applejack</b>: Whew! The Princess wouldn't have had it any other way.
+<b>Ms. Peachbottom</b>: The Princess? Princess Cadance?
+<b>Twilight Sparkle</b>: None other!
+<b>Ms. Peachbottom</b>: Well, tie me up and throw me down! This just keeps gettin' better and better!
+<b>Fluttershy</b>: Can we help you with your bags?
+<b>Ms. Peachbottom</b>: Don't mind if ya do!
+<b>Fluttershy</b>: Ooh, I love flower print! Sorry.
+<b>Pinkie Pie</b>: Our first stop is the castle, where we got a big razzamatazzy welcome planned for you!
+<b>Ms. Peachbottom</b>: The castle? Are you kidding?! Hot-diggety-dawg!
+<b>Twilight Sparkle</b>: See that? We just gotta roll with it until the Princess gets there and we'll be just fine.
+[train chugging]
+[drilling noise]
+[stretching noise]
+<b>Princess Cadance</b>: So, uh... how's it going so far?
+<b>Rarity</b>: Oh, I'm so sorry... It's just... oh so complicated. [laughs nervously] I can fix it!
+<b>Princess Cadance</b>: Fix what?!
+<b>Rarity</b>: Well, I-I was looking for shortcuts and I thought step twelve was optional! But it's not!
+<b>Ms. Peachbottom</b>: My golly, the crystal castle! [gasps] 
+Why, I've seen pictures, but I never expected to see it with my very own
+ eyes! [gulps] From the inside...
+<b>Fluttershy</b>: Oh, my gosh, she's so nice!
+<b>Rainbow Dash</b>: You're letting her lull you into a false sense of confidence. Watch that. It's all part of the game.
+[twang]
+<b>Ms. Peachbottom</b>: Oh, my, I'm so excited.
+<b>Twilight Sparkle</b>: Please, have a seat, won't you?
+<b>Ms. Peachbottom</b>: Mind if I take a quick run outside first? It was an awfully long train ride and my legs could use a stretch.
+<b>Twilight Sparkle</b>: Oh, well... we were just about to start.
+<b>Ms. Peachbottom</b>: Oh! Never you mind. You go on ahead. I'm listening.
+<b>Rainbow Dash</b>: She was probably testing us to see if we could remain in control of a complex situation. Looks like we passed. Bump–
+<b>Fluttershy</b>: –cha!
+<b>Twilight Sparkle</b>: We'd like to thank you for this opportunity to introduce you to this wonderful kingdom!
+<b>Ms. Peachbottom</b>: Oh, why, the pleasure is all mine.
+<b>Twilight Sparkle</b>: And since we're not even from here ourselves, who better than us to let you know just how welcoming this place can be!
+<b>Main cast</b>:
+<i>Two, four, six, eight!</i>
+<i>Name a place that's really great!</i>
+<i>One, two, three, four!</i>
+<i>Keeps you coming back for more!</i>
+<i>Two, seven, nine, three!</i>
+<i>The place that we all wanna be!</i>
+<i>Four, three, two, one!</i>
+<i>The Crystal Empire, that's the one!</i>
+
+<b>Ms. Peachbottom</b>: Oooh, yeah! [whistles]
+<b>Main cast</b>: [panting]
+<b>Ms. Peachbottom</b>: Ooh, I tell ya! I have traveled far and wide, but I have never, <i>ever</i> been welcomed anyplace in the fashion that y'all have done here today.
+<b>Twilight Sparkle</b>: That's fantastic! Princess Cadance would be so glad to hear that!
+<b>Ms. Peachbottom</b>: Honestly, I'm surprised she knows anything about me at all!
+[pause]
+<b>Twilight Sparkle</b>: Of course she does! She's been looking forward to your visit for weeks!
+<b>Ms. Peachbottom</b>: Oh, goody! Is she here?
+<b>Twilight Sparkle</b>: Uh...
+<b>Applejack</b>: [hushed] Where the heck is she anyway? Wasn't she supposed to be here by now?
+<b>Ms. Peachbottom</b>: Oh, that's all right. [gulps] Maybe I-I-I'll just take my little run outside now. [panting]
+<b>Rainbow Dash</b>: Or, if you like, we could give you a tour of the castle! That way you could be learning and stretching all at the same time!
+<b>Ms. Peachbottom</b>: Ooh, a tour of the crystal castle... I'd love that a whole heap.
+<b>Twilight Sparkle</b>: [hushed] Dash! We've hardly ever even been here before!
+<b>Rainbow Dash</b>: [hushed] It's just another test! We gotta roll with it, remember?
+<b>Pinkie Pie</b>: Oooh! Lemme give the tour! I'lldoit, I'lldoit, letmeletmeletme!
+<b>Twilight Sparkle</b>: [breathes in] [breathes out] Fine. You all start giving her the tour, and I'll go see what's keeping Cadance.
+[luggage dragging]
+<b>Ms. Harshwhinny</b>: Oof!
+<b>Twilight Sparkle</b>: Hello there!
+<b>Ms. Harshwhinny</b>: Hello yourself. First hello of the day–
+[splash]
+<b>Ms. Harshwhinny</b>: Oof! [groans]
+<b>Twilight Sparkle</b>: [humming]
+<b>Rarity</b>: [gasps] W-What are you doing here?
+<b>Twilight Sparkle</b>: We finished the welcome committee song and we just wanted to introduce Ms. Harshwhinny to–
+<b>Rarity</b>: No, no! Princess Cadance isn't ready. Something's gone terribly wrong!
+<b>Twilight Sparkle</b>: I need to speak to the Princess.
+<b>Rarity</b>: You can't! You mustn't! She's in the middle of a delicate conditioning rinse that must go perfectly if there's to be <i>any</i> hope for her hair!
+<b>Twilight Sparkle</b>: Come on, how bad can it be?
+<b>Rarity</b>: Imagine her mane turned into a porcupine.
+<b>Twilight Sparkle</b>: Ew.
+<b>Rarity</b>: Please! I will bring her back from the brink of tragedy, but you have got to buy me some time! <i>There's no other way!</i>
+[door slams]
+<b>Pinkie Pie</b>: So, you see this here? This, um, this is, um... a big, <i>round</i> room. It's known for its <i>roundness</i> and bigness. And did I mention that it's <i>round</i>?
+<b>Ms. Peachbottom</b>: I think they call it a rotunda? A small, confining, rotunda...
+<b>Pinkie Pie</b>: [blows raspberry] Whatever. Round is round, am I right?
+<b>Applejack</b>: [hushed] Easy, Pinkie, let's play this safe! We got her in a good mood, so let's not do anything to ruin that.
+<b>Ms. Peachbottom</b>: You know... I love this sort of architecture. I-I-I detect a neo-Gothic inspiration in the design, yes?
+<b>Pinkie Pie</b>: Hey! Look at me! [makes funny noises]
+<b>Applejack</b>: [sighs] And not a moment too soon. Where's Cadance? Please tell me she's right behind you.
+<b>Twilight Sparkle</b>: There's a bit of a problem with her headdress. How's it going here?
+<b>Pinkie Pie</b>: Boingy, boingy, boingy! [wibbles tongue]
+<b>Ms. Peachbottom</b>: I, uh, hate to be a bother, but the legs are cramping up on me with all this standing around...
+<b>Rainbow Dash</b>: Huh?
+<b>Twilight Sparkle</b>: She's getting bored, and we have to 
+buy Rarity some more time. [breathes in] [breathes out] I'll see if 
+Shining Armor can come help. Can't one of you other ponies take over in 
+the meantime?
+<b>Rainbow Dash</b>: I got this. Wanna stretch your legs, huh? 
+Well, whatever you need, I'm sure we can provide. Let's just make our 
+way to the castle's gymnasium. Our tour will now be headed... this way. 
+And we're walking, and we're walking...
+<b>Twilight Sparkle</b>: [humming]
+[door opens]
+<b>Athletes</b>: [indistinct conversations]
+<b>Shining Armor</b>: Twily!
+<b>Twilight Sparkle</b>: Hello there! Shining Armor, you've gotta help me.
+<b>Shining Armor</b>: [blows whistle] Everything okay?
+<b>Twilight Sparkle</b>: I left the other ponies behind giving the Games Inspector the worst castle tour ever.
+<b>Shining Armor</b>: Come on, gang! Are we gonna gallop, or 
+are we gonna trot!? [to Twilight] Castle tour, huh? I'm pretty sure I 
+can give you a hoof with that. [to athletes] <i>Let's move, move, move!</i> [to Twilight] Everything's gonna be okay.
+<b>Twilight Sparkle</b>: I know, I'm not worried. I'm not worried... it worked!
+<b>Ms. Peachbottom</b>: [gasping] I'm outside! [laughing] Feels <i>so</i> good to stretch the old legs!
+<b>Shining Armor</b>: Uh, what the–
+<b>Rainbow Dash</b>: Turns out the crystal castle <i>doesn't</i> have a gymnasium.
+<b>Shining Armor</b>: Watch it!
+[crash]
+<b>Ms. Peachbottom</b>: Woo-hoo!
+<b>Shining Armor</b>: Make her stop!
+<b>Rainbow Dash</b>: Wait, that's the Games Inspector! Let her do her thing.
+<b>Ms. Peachbottom</b>: Good. Oh, these hooves! I'm outside!
+<b>Shining Armor</b>: Why would she do that?
+<b>Rainbow Dash</b>: I have no idea, but that's why she's who's in charge of choosing who gets the Games, and we're not.
+[crashing]
+[skidding]
+<b>Ms. Peachbottom</b>: [muffled] Oh! Oh, get me outside for a run!
+<b>Shining Armor</b>: Look out!
+[crash]
+<b>Rainbow Dash</b>: Yeah, okay, we need to stop her.
+<b>Ms. Peachbottom</b>: [muffled, hysterical yelps]
+[splash]
+<b>Fluttershy</b>: Where's she going in such a hurry?
+<b>Ms. Peachbottom</b>: [muffled, hysterical yelps]
+<b>Rainbow Dash</b>: Closer... closer... I think we've got her... Yaaaaaaah!
+[thud]
+[glass squeaking]
+<b>Ms. Peachbottom</b>: Hoo-eee! Oh, that felt good! Nothing like a great run to shake the cobwebs off these old bones.
+<b>Rainbow Dash</b>: [panting]
+<b>Ms. Peachbottom</b>: Hey there, speedy. Ah, these wide open spaces y'all got here remind me of home. This is great!
+<b>Rainbow Dash</b>: Oh! [pants] So you're [pants] enjoying your visit? [pants] Well, I'm so [pants] glad! [pants]
+<b>Ms. Peachbottom</b>: Oh, good golly, yes. I just love to travel and see new places. Such a beautiful spot you got here, too!
+<b>Shining Armor</b>: Why... thank you so much! I'm Shining Armor.
+<b>Ms. Peachbottom</b>: [gasps] The Prince!
+<b>Twilight Sparkle</b>: What's going on?
+<b>Rainbow Dash</b>: From the looks of it, just locking up the games for the Crystal Empire is all. Ain't no thing.
+<b>Ms. Peachbottom</b>: My, oh, my... I never met a <i>Prince</i> before...
+<b>Shining Armor</b>: [chuckles] I'm surprised. I'd think in your line of work you'd meet princes all the time.
+<b>Ms. Peachbottom</b>: Hardly. Just an ordinary wild mustang 
+from Mustangia here to enjoy a little vay-cay. Never thought I'd also be
+ meeting royalty to boot. [giggles]
+<b>Twilight Sparkle</b>: You... <i>are</i> Ms. Harshwhinny, the Equestria Games Inspector, aren't you?
+<b>Ms. Peachbottom</b>: Inspector what-now?
+<b>Rainbow Dash</b>: <i>We got the wrong pony?!</i>
+<b>Pinkie Pie</b>: <i>NOOOOOOOOOOO!</i> I mean, <i>YEEEEEEESSSSSSSS!</i>
+<b>Twilight Sparkle</b>: [panicked breathing]
+<b>Applejack</b>: Oh, please still be here... Oh please, oh please, oh please...
+<b>Twilight Sparkle</b>: There's got to be another pony with flower print luggage around here somewhere.
+<b>Rainbow Dash</b>: Except that there isn't!
+<b>Twilight Sparkle</b>: We've gotta find her before Cadance finds out what a mess we've made of things.
+<b>Rainbow Dash</b>: Okay, here's what we do. We split the Empire up into five sectors.
+<b>Fluttershy</b>: Each of us search a sector.
+<b>Pinkie Pie</b>: Well... except for the spa. What's the point of checking there? <i>That's</i> where Cadance is. If Ms. Harshwhinny is there, well, then, game over, right?
+<b>Rest of main cast</b>: [gasp]
+<b>Ms. Harshwhinny</b>: Every city and empire wants to host the 
+Equestria Games. So, I have to go through all the big phony-baloney song
+ and dance, though of course, I'm never getting the real inside scoop.
+<b>Ms. Peachbottom</b>: Oh, golly, I've been having a swell time since I got here. I'm actually thinking of extendin' my stay.
+<b>Ms. Harshwhinny</b>: And what exactly has made your visit so <i>special</i>?
+<b>Ms. Peachbottom</b>: Oohohohoooh, gosh, where to start?
+<b>Rainbow Dash</b>: Oh, there she is! We're in luck! I don't think either of them knows yet that the other one's here!
+[bell rings]
+<b>Rarity</b>: Wonderful news, look! Princess Cadance, better than new!
+<b>Ms. Harshwhinny</b>: Princess Cadance? So, <i>this</i> is where you've been! I will have you know this is by far the <i>worst</i> welcome I've had in all my years!
+<b>Princess Cadance</b>: I-I can't believe it... What was wrong with your welcome?
+<b>Ms. Harshwhinny</b>: There <i>wasn't</i> one!
+<b>Princess Cadance</b>: What is going on?
+<b>Rainbow Dash</b>: Princess, we gave our welcome to the wrong pony, left the right one waiting at the station, and completely ruined everything.
+<b>Pinkie Pie</b>: [nervously] Cinnamon bun? [squee]
+<b>Rainbow Dash</b>: When I was a little filly, I wanted so 
+badly for Cloudsdale to win the Equestria Games. But it didn't happen. 
+So I thought I could make up for that disappointment by helping the 
+Crystal Empire win the chance to host the Games. But it looks like I 
+ruined your chances instead.
+<b>Ms. Peachbottom</b>: Not so fast, speedy.
+<b>Ms. Harshwhinny</b>: I just finished hearing about how this pony was just treated to the warmest, finest, most fabulous reception she ever had.
+<b>Ms. Peachbottom</b>: Darn tootin'!
+<b>Ms. Harshwhinny</b>: Courtesy of these fine ponies right 
+here. Which, in my expert opinion, amounts to the first ever 
+unvarnished, unrehearsed, and unbiased appraisal of a potential host of 
+the Equestria Games. Which can only mean one thing...
+<b>Princess Cadance</b>: [through microphone] The next host of the Equestria Games is... the Crystal Empire!
+[cheering]
+<b>Rainbow Dash</b>: We did it!
+<b>Princess Cadance</b>: [through microphone] Congratulations, Crystal Ponies!
+[boom]
+<b>Rainbow Dash</b>: [sighs] You know, it feels good to help 
+others get something you always wanted but never had. Almost as good as 
+getting it yourself. Almost.
+<b>Twilight Sparkle</b>: We'll still be able to come back here and watch the games when they're played.
+<b>Rainbow Dash</b>: You're right. That'll rock!
+[luggage collapsing]
+<b>Fluttershy</b>: Oh, my goodness.
+<b>Conductor</b>: All aboard!
+<b>Rainbow Dash</b>: Huh, bummer Spike had to miss out on all this. He woulda' had fun here.
+<b>Twilight Sparkle</b>: I'm sure he's having a great time watching all the critters back at home.
+<b>Applejack</b>: Think he's still got a handle on things?
+<b>Twilight Sparkle</b>: [breathes out] If he's staying calm and collected, I bet he's doing a terrific job as a leader.
+<b>Spike</b>: [stomach growls]
+<b>Applejack</b>: You all hear that?
+[music]
+[credits]

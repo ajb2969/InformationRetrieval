@@ -1,252 +1,305 @@
-[knocking on door] 
-<b>Mail Pony</b>: [sighs] 
-[knocking on door] 
-[pounding on door] 
-[door opens] 
-<b>Mail Pony</b>: [clears throat] Morning, Sunburst. 
-<b>Sunburst</b>: What? Oh! Hi! [chuckles nervously] You know, no matter how many times I read it,  <i>Houyhnhnm's Guide to Magical Arcana</i> never gets boring. 
-<b>Mail Pony</b>: If you say so. I've got another letter for you. From Sire's Hollow. 
-<b>Sunburst</b>: Mm-hmm. Sure thing. 
-[door closes] 
-<b>Mail Pony</b>: [groans] 
-[thud] 
-[shimmering sounds] 
-<b>Sunburst</b>: What's this? Could I be experiencing the cerebration transmogrification effect described in chapter seventeen—? 
-[thud] 
-<b>Sunburst</b>: Oh. My cutie mark is glowing. My cutie mark is glowing! I know what this means! Why am I yelling?! <b>Sunburst</b>: Princess Twilight, what an honor this is! I-I mean, it is, right?  <i>I'm</i> called for a friendship mission? 
-<b>Twilight Sparkle</b>: You sure are. And it must be a special one. Nopony outside of Ponyville has ever been called before. 
-<b>Spike</b>: If you need some pointers, let me know. I've been on my fair share of missions. 
-<b>Twilight Sparkle</b>: You've been on  <i>one</i>, Spike. 
-<b>Spike</b>: And that's my fair share. 
-[door opens] 
-<b>Sunburst</b>: Starlight! You mean we've both been called? This is great! 
-<b>Starlight Glimmer</b>: [depressed] Yeah... Great... 
-<b>Sunburst</b>: Aren't you excited? You and me on a mission together! 
-<b>Starlight Glimmer</b>: [groans] 
-<b>Sunburst</b>: I'm... sorry. Are you not excited to go on a mission with me? 
-<b>Starlight Glimmer</b>: No. Uh, no! I mean, yes. Heh. Totally excited about us going together. Just... not so excited about  <i>where</i>. 
-<b>Sunburst</b>: Sire's Hollow? 
-<b>Starlight Glimmer</b>: Yep. Home. 
-<b>Sunburst</b>: [deflated] Oh. Great. 
-<b>Spike</b>: You know, I can go if you two don't want to. I am kind of an expert. 
-<b>Twilight Sparkle</b>,  <b>Starlight Glimmer</b>, and  <b>Sunburst</b>: [groans] [train chugging] 
-[indistinct conversations] 
-<b>Starlight Glimmer</b>: [sighs] It's not that I don't  <i>want</i> to go home. It's just that whenever I do, my dad treats me like a filly. Like nothing's changed since I was a foal. 
-<b>Sunburst</b>: Huh. 
-<b>Starlight Glimmer</b>: I know. I'm a horrible daughter. 
-<b>Sunburst</b>: N-No, no! My mom actually does kind of the same thing. 
-<b>Starlight Glimmer</b>: Really? 
-<b>Sunburst</b>: I don't even have to go home. She sends me letters constantly asking about my plans for the future. [imitating Stellar Flare] "You're a grown-up pony, Sunburst! You need a plan!" [sighs] I haven't been home in a while either. 
-<b>Starlight Glimmer</b>: Hmph. We'll just have to explain to our parents that we're on an important friendship mission so they can't bother us. 
-<b>Sunburst</b>: Do you really think that will work? 
-<b>Starlight Glimmer</b>: Nope! 
-[brakes hissing] 
-[train whistle] 
-[train chugging] 
-<b>Sunburst</b>: [sniffs, sighs] The great thing about home is it always stays just how you le— 
-[thud] 
-<b>Sunburst</b>: Augh! 
-<b>Starlight Glimmer</b>: Where did  <i>that</i> come from? 
-[gate creaking] 
-<b>Automated voice</b>: Welcome to Sire's Hollow! 
-<b>"Ever Essence"</b>: Essence? 
-<b>Sunburst</b>: Essence of what? 
-<b>"Ever Essence"</b>: You tell me. 
-[spritz] 
-<b>Sunburst</b>: [coughing] 
-<b>Starlight Glimmer</b>: What is it? 
-<b>Sunburst</b>: Uh... chocolate maybe? 
-<b>"Ever Essence"</b>: Not chocolate maybe. Chocolate definitely! And all of the benefits with none of the drawbacks. 
-<b>Sunburst</b>: Didn't this used to be a fruit stand? 
-<b>"Ever Essence"</b>: I don't know what it  <i>used to be</i>. The Sire's Hollow Development Committee determined what it  <i>is</i>. 
-<b>Sunburst</b>: The Sire's Hollow Development what? Where do ponies buy fruit? 
-<b>"Ever Essence"</b>: You can get a fruit smoothie two doors down. 
-<b>Sunburst</b>: All the shops are different. Everything's changed! 
-<b>Starlight Glimmer</b>: Not everything.  <i>That's</i> the same as it ever was. 
-[door opens] 
-<b>"Raspberry Latte"</b>: Sorry. Our bookstore's been declared a site of historical significance by the Sire's Hollow Preservation Society. 
-<b>"Minty Mocha"</b>: You'll have to experience the books from here. That's why windows are see-through. 
-[door slams] 
-<b>Sunburst</b>: What?! 
-<b>Starlight Glimmer</b>: Preservation Society? What is happening around here? 
-<b>Firelight</b>: I'll explain it to you, sugarplum! [chuckles] You are just as cutesy-wutesy as ever! 
-<b>Starlight Glimmer</b>: [muffled] Dad! [normally] Quit it! What is going on? 
-<b>Firelight</b>: Oh, just a father wanting to preserve our town's rich history for his little pumpky-wumpkin! [chuckles] 
-<b>Starlight Glimmer</b>: Dad, you promised no "pumpky-wumpkin"'s in public! 
-<b>Sunburst</b>: [stifled laughter] 
-<b>Firelight</b>: [whispering] Sorry, chipmunk cheeks. 
-[smack!] 
-<b>Starlight Glimmer</b>: Don't. You're preserving the whole town? That's crazy! 
-<b>Stellar Flare</b>: That's exactly what I told him! I said, "Firelight, you're crazy!" 
-<b>Sunburst</b>: Mom? 
-<b>Stellar Flare</b>: Our village needs the same thing you do, Sunburst – a clear plan for the future. 
-[snip!] 
-<b>Stellar Flare</b>: That's why I started the Sire's Hollow Development Committee. And I've got plans for this little town. Big plans! 
-<b>Firelight</b>: Listen here, Stellar Flare! I'm not gonna let you turn our historical heritage into Las Pegasus! 
-<b>Stellar Flare</b>: And  <i>I'm</i> not gonna let you turn it into a museum! 
-<b>Firelight</b> and  <b>Stellar Flare</b>: [growling] 
-<b>Starlight Glimmer</b>: W-Wait. Are you two fighting over this? 
-<b>Sunburst</b>: Like having a friendship problem? 
-<b>Stellar Flare</b>: Oh, there's no problem. 
-<b>Firelight</b>: Because there  <i>is</i> no friendship! 
-<b>Sunburst</b>: Well, the good news is we know why we're here. 
-<b>Starlight Glimmer</b>: [huffs] <b>Sunburst</b>: [sighs] Maybe we should've sent Spike after all. 
-<b>Starlight Glimmer</b>: [sighs] 
-[magic sounds] 
-<b>Starlight Glimmer</b>: Sunburst and I were called here to do a job, and it looks like you two are it. 
-<b>Stellar Flare</b>: You mean  <i>your</i> success depends on  <i>us</i>? 
-<b>Sunburst</b>: Uh... 
-<b>Firelight</b>: And you have to hang out with us the whole time you're here?! 
-<b>Starlight Glimmer</b>: Um... 
-<b>Stellar Flare</b>: Well, I'll hear what you have to say. But every plan I've made for this town is perfectly reasonable. 
-<b>Firelight</b>: Good luck convincing me my preservation efforts don't make sense. 
-<b>Starlight Glimmer</b> and  <b>Sunburst</b>: [sighs] [gate creaking] 
-<b>Automated voice</b>: Welcome to Sire's Hollow! <b>Starlight Glimmer</b>: So we can't hold the books? 
-<b>"Raspberry Latte"</b>: [laughing] No! 
-<b>Sunburst</b>: Can  <i>you</i> hold the books? 
-<b>"Minty Mocha"</b>: No. 
-<b>Starlight Glimmer</b>: So nopony can  <i>read</i> the books? 
-<b>Firelight</b>: [chuckles] Isn't she adorable? [chuckles] [gate clanking] 
-<b>Automated voice</b>: Welcome to Sire's Hollow! <b>"Ever Essence"</b>: You can call them... mm... "smells". But I call them essence! 
-[spritz] 
-<b>Sunburst</b>: [coughing] 
-<b>Starlight Glimmer</b>: [sniffs] Fruity. 
-<b>Sunburst</b>: Too bad there's nowhere to get  <i>actual</i> fruit. 
-<b>Stellar Flare</b>: In the future, all ponies will drink their fruit! 
-<b>Starlight Glimmer</b> and  <b>Sunburst</b>: [slurping] 
-<b>Starlight Glimmer</b>: [coughing] [thud] 
-<b>"Cracked Wheat"</b>: One hundred percent ancient pony grains! Just like the town founders ate! Hope you like crust! 
-[crunch, thud] [gate creaking] 
-<b>Automated voice</b>: Welcome to Sire's Hollow! 
-[gate creaking] 
-<b>Automated voice</b>: Welcome to Sire's Hollow! 
-[gate creaking] 
-<b>Automated voice</b>: Welcome to Sire's Hollow! 
-[gate creaking] 
-<b>Automated voice</b>: Welcome to Sire's Hollow! 
-[gate creaking] 
-<b>Automated voice</b>: Welcome to Sire's—! 
-<b>Stellar Flare</b>: Okay, it's annoying. I get it. <b>Firelight</b>: Maybe my preservation efforts were a little over the top. 
-[crash!] 
-<b>"Cracked Wheat"</b>: [groans] Oh, no. 
-<b>Stellar Flare</b>: And I might have been trying to turn the town into a shopping mall. 
-<b>Firelight</b>: Well, whatever direction the town takes from now on, how about we work together on it? 
-<b>Stellar Flare</b>: Deal! Sunburst, you should move closer to Ponyville. After this success, I'm sure the Princess of Friendship will want to send you on more missions. 
-[smack!] 
-<b>Sunburst</b>: That's not really how it works. Oh, look at the time! We should get going now that we solved the friendship problem, right, Starlight? 
-<b>Starlight Glimmer</b>: Yeah... The thing is, I don't think we did solve it. When we solve a friendship problem, our cutie marks are supposed to glow. 
-<b>Firelight</b>: Aw, don't be disappointed, puddin'. Your papa will work this out for ya. 
-<b>Starlight Glimmer</b>: Heh. My papa wasn't called by the map in Twilight's castle.  <i>I</i> was. 
-<b>Stellar Flare</b>: How are you gonna explain this to the princess? What's your plan if she fires you from friendship quests? 
-<b>Sunburst</b>: Mom! She doesn't—! It-It's not—! 
-<b>Stellar Flare</b>: Use your words, Sunburst. 
-<b>Sunburst</b>: [angry groan] 
-<b>Starlight Glimmer</b>: I guess you two weren't the problem we were sent to solve after all. 
-<b>Stellar Flare</b>: So now you don't even know why you're here? Ah! We have to figure this out before we run out of time! 
-<b>Sunburst</b>: [sighs] Mom, there isn't a time limit. 
-<b>Firelight</b>: So you're here for an extra long visit? [laughs] You can stay in your old room, punkie wunk! It's just like you left it! 
-[guitar riff] 
-<b>Starlight Glimmer</b>: [whispering] We need to find this friendship problem now! 
-<b>Firelight</b>: Now, I know you have your little job to do, but Stellar and I know the town a lot better than you two. 
-<b>Stellar Flare</b>: That's right! Neither of you have been home in ages. You're gonna need our help to succeed! 
-<b>Starlight Glimmer</b>: I guess that makes sense... 
-<b>Firelight</b> and  <b>Stellar Flare</b>: [chuckling] 
-<b>Stellar Flare</b>: I already have some ideas! 
-<b>Firelight</b>: Me, too! 
-<b>Sunburst</b>: I think I liked it better when they were fighting. [chalk tapping] 
-<b>Firelight</b>: Okay! Now that I've explained how Sire's Hollow was founded, we can start to explore all the possible friendship problems that might have developed over time. 
-<b>Starlight Glimmer</b>: [inhales] I appreciate the history lesson, Dad, but I need to find the problem now. In the present. 
-<b>Firelight</b>: Aw, now, hon-bun. How are you gonna do that without all the backstory, huh? Oh! Of course I know how hard it is for you to sit still and focus, soooo... would it help you pay attention to hold on to your bwankie? 
-<b>Starlight Glimmer</b>: [growling] <b>Stellar Flare</b>: Now, you've had a little setback. But don't worry. I know exactly what you need to do. 
-<b>Sunburst</b>: Make a plan? 
-<b>Stellar Flare</b>: Already got one! Step one – interview the suspects. Step two – use your talents to solve the issue. Step three – get the Princess of Friendship to send you on more missions! 
-<b>Sunburst</b>: Mom! It does not work like that! 
-<b>Stellar Flare</b>: Uh-huh. 
-[beat] 
-<b>Stellar Flare</b>: [clears throat] 
-<b>"Ever Essence"</b>: [poorly acted] Oh! Thank goodness you are here! These two ponies refuse to use my essences. 
-<b>"Raspberry Latte"</b>: Maybe because we don't like to cover our natural scent! 
-<b>Stellar Flare</b>: [clears throat irritably] 
-<b>"Ever Essence"</b>: Ugh. 
-<b>"Raspberry Latte"</b>: Ugh. 
-<b>"Minty Mocha"</b>: [sighs] [poorly acted] And she refuses to buy our books. 
-<b>"Ever Essence"</b>,  <b>"Raspberry Latte"</b>, and  <b>"Minty Mocha"</b>: [poorly acted] Surely this is a friendship problem. 
-<b>Sunburst</b>: Ugh! It needs to be a  <i>real</i> friendship problem! You can't just make one up! [angry groan] 
-<b>Stellar Flare</b>: This is what happens when we don't rehearse! Ugh! <b>Firelight</b>: Starlight? Sweetie? I found a really old town bylaw that nopony agrees on. Apparently, we're not supposed to prance or canter after dinnertime. Could that be the problem? Silly-filly? 
-<b>Starlight Glimmer</b>: Whew! What are  <i>you</i> doing? 
-<b>Sunburst</b>: [sighs] Hiding from my mother. She started making up friendship problems for me to solve. 
-<b>Starlight Glimmer</b>: [scoffs] My dad won't even let me talk to anypony in case they're "strangers". I'm a grown mare! 
-<b>Sunburst</b>: [sighs] We're never going to find the friendship problem with them around, let alone solve it. 
-<b>"Cracked Wheat"</b>: Maybe you two should start looking for it on your own? [crunching] [lamp clicks] 
-<b>Starlight Glimmer</b>: [whispering] Okay! So we wanted to talk to all of you, you know, in private. 
-<b>Sunburst</b>: [whispering] Just to see if there were issues any of you had with your friends. 
-<b>"Ever Essence"</b>: [whispering] Got it. Just one question. Why are we whispering? 
-<b>"Cracked Wheat"</b>: They're avoiding their parents. 
-<b>"Ever Essence"</b>,  <b>"Raspberry Latte"</b>, and  <b>"Minty Mocha"</b>: Ohhhh... [various agreement] 
-<b>Sunburst</b>: No. Not avoiding. Just... taking a break. 
-<b>Starlight Glimmer</b>: Yeah. We needed to focus. B-But we're definitely not avoiding them. 
-<b>"Raspberry Latte"</b>: So you're whispering with all of us in the darkest corner of the shop where nopony can possibly see because you're  <i>not</i> avoiding them? 
-<b>Starlight Glimmer</b>: Mm-hmm. 
-<b>Sunburst</b>: Uh, but they definitely can't hear us in here, right? 
-<b>"Cracked Wheat"</b>: No way! This is the antiquities section. Nopony ever comes back here. 
-<b>Firelight</b>: There you are! But what are you doing in here? [gasps] Is the friendship problem in my favorite section of the bookstore? 
-<b>Starlight Glimmer</b> and  <b>Sunburst</b>: [groans] <b>Firelight</b>: ...And then, I thought the best way to look for a friendship problem in the present... 
-<b>Starlight Glimmer</b>: Dad! 
-<b>Firelight</b>: ...was to look back in our town history even farther! 
-<b>Starlight Glimmer</b>: [angry groan] 
-<b>Stellar Flare</b>: Sunburst! Oh, finally! Now, I know you don't want me to make  <i>up</i> a problem, but what if I start one? 
-<b>Sunburst</b>: That's not how this—! 
-<b>Stellar Flare</b>: I mean, nopony ever became a success by following  <i>all</i> the rules, right? 
-<b>Sunburst</b>: [nickers angrily] 
-<b>Stellar Flare</b>: [to Firelight] How are things on your end? 
-<b>Firelight</b>: Couldn't be better! New leads and such! 
-<b>Starlight Glimmer</b>: Guys...? 
-<b>Stellar Flare</b>: We really are providing excellent assistance, aren't we? 
-<b>Sunburst</b>: Guys! 
-<b>Firelight</b>: I dare say our children should be grateful for our help. 
-<b>Starlight Glimmer</b>:  <i>Guys!</i> 
-<b>Starlight Glimmer</b> and  <b>Sunburst</b>:  <i>We don't want your help!</i> <b>Stellar Flare</b>: I'm sorry. You don't want our help? 
-<b>Firelight</b>: [chuckles] That's... That's ridiculous! What reason could you possibly have for that? 
-<b>Starlight Glimmer</b>: Because you're driving us crazy! 
-<b>Stellar Flare</b>: Oh, really? And just how am I driving you crazy? 
-<b>Sunburst</b>: By always coming up with plans! I don't need a plan! I mean, maybe I do, but it'll be mine, not yours! 
-<b>Stellar Flare</b>: [choking up] Well... I'm sorry for trying to help! [crying] 
-<b>Starlight Glimmer</b>: And  <i>you're</i> not any better! I'm not a filly! I'm a grown pony with a job to do, and I'll do it on my own! 
-<b>Firelight</b>: Well. I'll let you get to it then. 
-<b>Starlight Glimmer</b>: Great. Now we have to smooth things over with our parents on top of finding and solving a friendship problem. 
-<b>Sunburst</b>: It's almost like our relationship with our parents  <i>is</i> the friendship problem. 
-<b>Starlight Glimmer</b>: You don't think that's it, do you? 
-<b>"Cracked Wheat"</b>: [clears throat] That's what all of us think. 
-<b>Starlight Glimmer</b>: [groans, collapses] Why couldn't we have been sent to stop a war or something?! <b>Starlight Glimmer</b>: Dad? 
-<b>Firelight</b>: Hello,  <i>Ms.</i> Glimmer. How is your friendship problem search going? I only ask as an interested observer, since I know you are an adult who's capable of doing things without help from anypony else. 
-<b>Starlight Glimmer</b>: Actually... I think Sunburst and I figured out what it is. 
-<b>Firelight</b>: So Stellar and I weren't really helpful after all. 
-<b>Starlight Glimmer</b>: Well, we haven't actually solved it. And I don't think we can. Not without you. <b>Stellar Flare</b>: [sniffs] 
-[spritz] 
-<b>Stellar Flare</b>: [coughing] Pungent. Ugh. [to Sunburst] Oh. Did you come by to be driven crazy by more of your mother's plans? 
-<b>Sunburst</b>: No, I came to apologize. 
-<b>Stellar Flare</b>: Well, it's going to take more than an apology to make up for telling me you don't want my help finding your friendship problem. 
-<b>Sunburst</b>: Oh, I'm not sorry for that. Starlight and I already figured out what the problem is. 
-<b>Stellar Flare</b>: This is a terrible apology. 
-<b>Sunburst</b>: Well, if you come with me and help fix it, I'll give you a better one. <b>Starlight Glimmer</b>: Usually, Twilight or one of our other friends gets called to a place with a friendship problem to fix. 
-<b>Sunburst</b>: But Starlight and I realized we came here to fix a friendship problem we already had. 
-<b>Starlight Glimmer</b>: I'm sorry I've been avoiding coming home, Dad. But you can't keep treating me like a foal. 
-<b>Firelight</b>: I'm sorry, sugarbun. [sighs] I just know how hard things were for you when you left home. I guess I wanted you to feel safe, like... when you were young. 
-<b>Starlight Glimmer</b>: Dad, I know I've made some mistakes, and I'll probably make a bunch more. But I learn from them. I think that's what growing up is. 
-<b>Sunburst</b>: I'm sorry I never told you how much your plans bothered me, and I know you just want me to succeed. But I need to do that on my own. 
-<b>Stellar Flare</b>: I remember how lost you were when you flunked out of magic school. I thought as long as you had a plan, you'd never feel that way again. 
-<b>Sunburst</b>: You don't have to worry, Mom. I need to find my own way. And I definitely don't feel lost anymore. 
-[shimmering sounds] 
-<b>"Cracked Wheat"</b>: [crying] That's so beautiful! <b>Stellar Flare</b>: The glowing cutie mark is such a symbol of accomplishment. I don't suppose there's a way for you to get it to glow all the time. 
-<b>Sunburst</b>: [chuckles] Pretty sure it doesn't work that way. 
-<b>Starlight Glimmer</b>: Not unless we solved a friendship problem every few seconds, and I kinda hope this one will be it for a while. 
-<b>Firelight</b>: You know, it seems to me your map is saying we're not just your parents. Heh. We're your friends, too. 
-<b>Starlight Glimmer</b>: I guess so. 
-<b>Firelight</b>: So if I promise to treat you less like a little filly and more like a friend, will you visit more? 
-<b>Starlight Glimmer</b>: Absolutely. Mmm. 
-<b>Sunburst</b>: And if you start to drive me crazy again, I'll tell you instead of never coming home. 
-<b>Stellar Flare</b>: That's lovely of you to say, dear. But you know, I can always visit you. 
-<b>Firelight</b>: Stellar, you're a genius! [laughs] How do you feel about a road trip? 
-<b>Stellar Flare</b>: I might have a few plans for that. 
-<b>Starlight Glimmer</b> and  <b>Sunburst</b>: [chuckling nervously] 
-[train chugging] [credits] 
+[knocking on door]
+<b>Mail Pony</b>: [sighs]
+[knocking on door]
+[pounding on door]
+[door opens]
+<b>Mail Pony</b>: [clears throat] Morning, Sunburst.
+<b>Sunburst</b>: What? Oh! Hi! [chuckles nervously] You know, no matter how many times I read it, <i>Houyhnhnm's Guide to Magical Arcana</i> never gets boring.
+<b>Mail Pony</b>: If you say so. I've got another letter for you. From Sire's Hollow.
+<b>Sunburst</b>: Mm-hmm. Sure thing.
+[door closes]
+<b>Mail Pony</b>: [groans]
+[thud]
+[shimmering sounds]
+<b>Sunburst</b>: What's this? Could I be experiencing the cerebration transmogrification effect described in chapter seventeen—?
+[thud]
+<b>Sunburst</b>: Oh. My cutie mark is glowing. My cutie mark is glowing! I know what this means! Why am I yelling?!
+[theme song]
+<b>Sunburst</b>: Princess Twilight, what an honor this is! I-I mean, it is, right? <i>I'm</i> called for a friendship mission?
+<b>Twilight Sparkle</b>: You sure are. And it must be a special one. Nopony outside of Ponyville has ever been called before.
+<b>Spike</b>: If you need some pointers, let me know. I've been on my fair share of missions.
+<b>Twilight Sparkle</b>: You've been on <i>one</i>, Spike.
+<b>Spike</b>: And that's my fair share.
+[door opens]
+<b>Sunburst</b>: Starlight! You mean we've both been called? This is great!
+<b>Starlight Glimmer</b>: [depressed] Yeah... Great...
+<b>Sunburst</b>: Aren't you excited? You and me on a mission together!
+<b>Starlight Glimmer</b>: [groans]
+<b>Sunburst</b>: I'm... sorry. Are you not excited to go on a mission with me?
+<b>Starlight Glimmer</b>: No. Uh, no! I mean, yes. Heh. Totally excited about us going together. Just... not so excited about <i>where</i>.
+<b>Sunburst</b>: Sire's Hollow?
+<b>Starlight Glimmer</b>: Yep. Home.
+<b>Sunburst</b>: [deflated] Oh. Great.
+<b>Spike</b>: You know, I can go if you two don't want to. I am kind of an expert.
+<b>Twilight Sparkle</b>, <b>Starlight Glimmer</b>, and <b>Sunburst</b>: [groans]
+[train chugging]
+[indistinct conversations]
+<b>Starlight Glimmer</b>: [sighs] It's not that I don't <i>want</i> to go home. It's just that whenever I do, my dad treats me like a filly. Like nothing's changed since I was a foal.
+<b>Sunburst</b>: Huh.
+<b>Starlight Glimmer</b>: I know. I'm a horrible daughter.
+<b>Sunburst</b>: N-No, no! My mom actually does kind of the same thing.
+<b>Starlight Glimmer</b>: Really?
+<b>Sunburst</b>: I don't even have to go home. She sends me 
+letters constantly asking about my plans for the future. [imitating 
+Stellar Flare] "You're a grown-up pony, Sunburst! You need a plan!" 
+[sighs] I haven't been home in a while either.
+<b>Starlight Glimmer</b>: Hmph. We'll just have to explain to our parents that we're on an important friendship mission so they can't bother us.
+<b>Sunburst</b>: Do you really think that will work?
+<b>Starlight Glimmer</b>: Nope!
+[brakes hissing]
+[train whistle]
+[train chugging]
+<b>Sunburst</b>: [sniffs, sighs] The great thing about home is it always stays just how you le—
+[thud]
+<b>Sunburst</b>: Augh!
+<b>Starlight Glimmer</b>: Where did <i>that</i> come from?
+[gate creaking]
+<b>Automated voice</b>: Welcome to Sire's Hollow!
+<b>"Ever Essence"</b>: Essence?
+<b>Sunburst</b>: Essence of what?
+<b>"Ever Essence"</b>: You tell me.
+[spritz]
+<b>Sunburst</b>: [coughing]
+<b>Starlight Glimmer</b>: What is it?
+<b>Sunburst</b>: Uh... chocolate maybe?
+<b>"Ever Essence"</b>: Not chocolate maybe. Chocolate definitely! And all of the benefits with none of the drawbacks.
+<b>Sunburst</b>: Didn't this used to be a fruit stand?
+<b>"Ever Essence"</b>: I don't know what it <i>used to be</i>. The Sire's Hollow Development Committee determined what it <i>is</i>.
+<b>Sunburst</b>: The Sire's Hollow Development what? Where do ponies buy fruit?
+<b>"Ever Essence"</b>: You can get a fruit smoothie two doors down.
+<b>Sunburst</b>: All the shops are different. Everything's changed!
+<b>Starlight Glimmer</b>: Not everything. <i>That's</i> the same as it ever was.
+[door opens]
+<b>"Raspberry Latte"</b>: Sorry. Our bookstore's been declared a site of historical significance by the Sire's Hollow Preservation Society.
+<b>"Minty Mocha"</b>: You'll have to experience the books from here. That's why windows are see-through.
+[door slams]
+<b>Sunburst</b>: What?!
+<b>Starlight Glimmer</b>: Preservation Society? What is happening around here?
+<b>Firelight</b>: I'll explain it to you, sugarplum! [chuckles] You are just as cutesy-wutesy as ever!
+<b>Starlight Glimmer</b>: [muffled] Dad! [normally] Quit it! What is going on?
+<b>Firelight</b>: Oh, just a father wanting to preserve our town's rich history for his little pumpky-wumpkin! [chuckles]
+<b>Starlight Glimmer</b>: Dad, you promised no "pumpky-wumpkin"'s in public!
+<b>Sunburst</b>: [stifled laughter]
+<b>Firelight</b>: [whispering] Sorry, chipmunk cheeks.
+[smack!]
+<b>Starlight Glimmer</b>: Don't. You're preserving the whole town? That's crazy!
+<b>Stellar Flare</b>: That's exactly what I told him! I said, "Firelight, you're crazy!"
+<b>Sunburst</b>: Mom?
+<b>Stellar Flare</b>: Our village needs the same thing you do, Sunburst – a clear plan for the future.
+[snip!]
+<b>Stellar Flare</b>: That's why I started the Sire's Hollow Development Committee. And I've got plans for this little town. Big plans!
+<b>Firelight</b>: Listen here, Stellar Flare! I'm not gonna let you turn our historical heritage into Las Pegasus!
+<b>Stellar Flare</b>: And <i>I'm</i> not gonna let you turn it into a museum!
+<b>Firelight</b> and <b>Stellar Flare</b>: [growling]
+<b>Starlight Glimmer</b>: W-Wait. Are you two fighting over this?
+<b>Sunburst</b>: Like having a friendship problem?
+<b>Stellar Flare</b>: Oh, there's no problem.
+<b>Firelight</b>: Because there <i>is</i> no friendship!
+<b>Sunburst</b>: Well, the good news is we know why we're here.
+<b>Starlight Glimmer</b>: [huffs]
+<b>Sunburst</b>: [sighs] Maybe we should've sent Spike after all.
+<b>Starlight Glimmer</b>: [sighs]
+[magic sounds]
+<b>Starlight Glimmer</b>: Sunburst and I were called here to do a job, and it looks like you two are it.
+<b>Stellar Flare</b>: You mean <i>your</i> success depends on <i>us</i>?
+<b>Sunburst</b>: Uh...
+<b>Firelight</b>: And you have to hang out with us the whole time you're here?!
+<b>Starlight Glimmer</b>: Um...
+<b>Stellar Flare</b>: Well, I'll hear what you have to say. But every plan I've made for this town is perfectly reasonable.
+<b>Firelight</b>: Good luck convincing me my preservation efforts don't make sense.
+<b>Starlight Glimmer</b> and <b>Sunburst</b>: [sighs]
+[gate creaking]
+<b>Automated voice</b>: Welcome to Sire's Hollow!
+<b>Starlight Glimmer</b>: So we can't hold the books?
+<b>"Raspberry Latte"</b>: [laughing] No!
+<b>Sunburst</b>: Can <i>you</i> hold the books?
+<b>"Minty Mocha"</b>: No.
+<b>Starlight Glimmer</b>: So nopony can <i>read</i> the books?
+<b>Firelight</b>: [chuckles] Isn't she adorable? [chuckles]
+[gate clanking]
+<b>Automated voice</b>: Welcome to Sire's Hollow!
+<b>"Ever Essence"</b>: You can call them... mm... "smells". But I call them essence!
+[spritz]
+<b>Sunburst</b>: [coughing]
+<b>Starlight Glimmer</b>: [sniffs] Fruity.
+<b>Sunburst</b>: Too bad there's nowhere to get <i>actual</i> fruit.
+<b>Stellar Flare</b>: In the future, all ponies will drink their fruit!
+<b>Starlight Glimmer</b> and <b>Sunburst</b>: [slurping]
+<b>Starlight Glimmer</b>: [coughing]
+[thud]
+<b>"Cracked Wheat"</b>: One hundred percent ancient pony grains! Just like the town founders ate! Hope you like crust!
+[crunch, thud]
+[gate creaking]
+<b>Automated voice</b>: Welcome to Sire's Hollow!
+[gate creaking]
+<b>Automated voice</b>: Welcome to Sire's Hollow!
+[gate creaking]
+<b>Automated voice</b>: Welcome to Sire's Hollow!
+[gate creaking]
+<b>Automated voice</b>: Welcome to Sire's Hollow!
+[gate creaking]
+<b>Automated voice</b>: Welcome to Sire's—!
+<b>Stellar Flare</b>: Okay, it's annoying. I get it.
+<b>Firelight</b>: Maybe my preservation efforts were a little over the top.
+[crash!]
+<b>"Cracked Wheat"</b>: [groans] Oh, no.
+<b>Stellar Flare</b>: And I might have been trying to turn the town into a shopping mall.
+<b>Firelight</b>: Well, whatever direction the town takes from now on, how about we work together on it?
+<b>Stellar Flare</b>: Deal! Sunburst, you should move closer to
+ Ponyville. After this success, I'm sure the Princess of Friendship will
+ want to send you on more missions.
+[smack!]
+<b>Sunburst</b>: That's not really how it works. Oh, look at 
+the time! We should get going now that we solved the friendship problem,
+ right, Starlight?
+<b>Starlight Glimmer</b>: Yeah... The thing is, I don't think we did solve it. When we solve a friendship problem, our cutie marks are supposed to glow.
+<b>Firelight</b>: Aw, don't be disappointed, puddin'. Your papa will work this out for ya.
+<b>Starlight Glimmer</b>: Heh. My papa wasn't called by the map in Twilight's castle. <i>I</i> was.
+<b>Stellar Flare</b>: How are you gonna explain this to the princess? What's your plan if she fires you from friendship quests?
+<b>Sunburst</b>: Mom! She doesn't—! It-It's not—!
+<b>Stellar Flare</b>: Use your words, Sunburst.
+<b>Sunburst</b>: [angry groan]
+<b>Starlight Glimmer</b>: I guess you two weren't the problem we were sent to solve after all.
+<b>Stellar Flare</b>: So now you don't even know why you're here? Ah! We have to figure this out before we run out of time!
+<b>Sunburst</b>: [sighs] Mom, there isn't a time limit.
+<b>Firelight</b>: So you're here for an extra long visit? [laughs] You can stay in your old room, punkie wunk! It's just like you left it!
+[guitar riff]
+<b>Starlight Glimmer</b>: [whispering] We need to find this friendship problem now!
+<b>Firelight</b>: Now, I know you have your little job to do, but Stellar and I know the town a lot better than you two.
+<b>Stellar Flare</b>: That's right! Neither of you have been home in ages. You're gonna need our help to succeed!
+<b>Starlight Glimmer</b>: I guess that makes sense...
+<b>Firelight</b> and <b>Stellar Flare</b>: [chuckling]
+<b>Stellar Flare</b>: I already have some ideas!
+<b>Firelight</b>: Me, too!
+<b>Sunburst</b>: I think I liked it better when they were fighting.
+[chalk tapping]
+<b>Firelight</b>: Okay! Now that I've explained how Sire's 
+Hollow was founded, we can start to explore all the possible friendship 
+problems that might have developed over time.
+<b>Starlight Glimmer</b>: [inhales] I appreciate the history lesson, Dad, but I need to find the problem now. In the present.
+<b>Firelight</b>: Aw, now, hon-bun. How are you gonna do that 
+without all the backstory, huh? Oh! Of course I know how hard it is for 
+you to sit still and focus, soooo... would it help you pay attention to 
+hold on to your bwankie?
+<b>Starlight Glimmer</b>: [growling]
+<b>Stellar Flare</b>: Now, you've had a little setback. But don't worry. I know exactly what you need to do.
+<b>Sunburst</b>: Make a plan?
+<b>Stellar Flare</b>: Already got one! Step one – interview the
+ suspects. Step two – use your talents to solve the issue. Step three – 
+get the Princess of Friendship to send you on more missions!
+<b>Sunburst</b>: Mom! It does not work like that!
+<b>Stellar Flare</b>: Uh-huh.
+[beat]
+<b>Stellar Flare</b>: [clears throat]
+<b>"Ever Essence"</b>: [poorly acted] Oh! Thank goodness you are here! These two ponies refuse to use my essences.
+<b>"Raspberry Latte"</b>: Maybe because we don't like to cover our natural scent!
+<b>Stellar Flare</b>: [clears throat irritably]
+<b>"Ever Essence"</b>: Ugh.
+<b>"Raspberry Latte"</b>: Ugh.
+<b>"Minty Mocha"</b>: [sighs] [poorly acted] And she refuses to buy our books.
+<b>"Ever Essence"</b>, <b>"Raspberry Latte"</b>, and <b>"Minty Mocha"</b>: [poorly acted] Surely this is a friendship problem.
+<b>Sunburst</b>: Ugh! It needs to be a <i>real</i> friendship problem! You can't just make one up! [angry groan]
+<b>Stellar Flare</b>: This is what happens when we don't rehearse! Ugh!
+<b>Firelight</b>: Starlight? Sweetie? I found a really old town 
+bylaw that nopony agrees on. Apparently, we're not supposed to prance or
+ canter after dinnertime. Could that be the problem? Silly-filly?
+<b>Starlight Glimmer</b>: Whew! What are <i>you</i> doing?
+<b>Sunburst</b>: [sighs] Hiding from my mother. She started making up friendship problems for me to solve.
+<b>Starlight Glimmer</b>: [scoffs] My dad won't even let me talk to anypony in case they're "strangers". I'm a grown mare!
+<b>Sunburst</b>: [sighs] We're never going to find the friendship problem with them around, let alone solve it.
+<b>"Cracked Wheat"</b>: Maybe you two should start looking for it on your own? [crunching]
+[lamp clicks]
+<b>Starlight Glimmer</b>: [whispering] Okay! So we wanted to talk to all of you, you know, in private.
+<b>Sunburst</b>: [whispering] Just to see if there were issues any of you had with your friends.
+<b>"Ever Essence"</b>: [whispering] Got it. Just one question. Why are we whispering?
+<b>"Cracked Wheat"</b>: They're avoiding their parents.
+<b>"Ever Essence"</b>, <b>"Raspberry Latte"</b>, and <b>"Minty Mocha"</b>: Ohhhh... [various agreement]
+<b>Sunburst</b>: No. Not avoiding. Just... taking a break.
+<b>Starlight Glimmer</b>: Yeah. We needed to focus. B-But we're definitely not avoiding them.
+<b>"Raspberry Latte"</b>: So you're whispering with all of us in the darkest corner of the shop where nopony can possibly see because you're <i>not</i> avoiding them?
+<b>Starlight Glimmer</b>: Mm-hmm.
+<b>Sunburst</b>: Uh, but they definitely can't hear us in here, right?
+<b>"Cracked Wheat"</b>: No way! This is the antiquities section. Nopony ever comes back here.
+<b>Firelight</b>: There you are! But what are you doing in here? [gasps] Is the friendship problem in my favorite section of the bookstore?
+<b>Starlight Glimmer</b> and <b>Sunburst</b>: [groans]
+<b>Firelight</b>: ...And then, I thought the best way to look for a friendship problem in the present...
+<b>Starlight Glimmer</b>: Dad!
+<b>Firelight</b>: ...was to look back in our town history even farther!
+<b>Starlight Glimmer</b>: [angry groan]
+<b>Stellar Flare</b>: Sunburst! Oh, finally! Now, I know you don't want me to make <i>up</i> a problem, but what if I start one?
+<b>Sunburst</b>: That's not how this—!
+<b>Stellar Flare</b>: I mean, nopony ever became a success by following <i>all</i> the rules, right?
+<b>Sunburst</b>: [nickers angrily]
+<b>Stellar Flare</b>: [to Firelight] How are things on your end?
+<b>Firelight</b>: Couldn't be better! New leads and such!
+<b>Starlight Glimmer</b>: Guys...?
+<b>Stellar Flare</b>: We really are providing excellent assistance, aren't we?
+<b>Sunburst</b>: Guys!
+<b>Firelight</b>: I dare say our children should be grateful for our help.
+<b>Starlight Glimmer</b>: <i>Guys!</i>
+<b>Starlight Glimmer</b> and <b>Sunburst</b>: <i>We don't want your help!</i>
+<b>Stellar Flare</b>: I'm sorry. You don't want our help?
+<b>Firelight</b>: [chuckles] That's... That's ridiculous! What reason could you possibly have for that?
+<b>Starlight Glimmer</b>: Because you're driving us crazy!
+<b>Stellar Flare</b>: Oh, really? And just how am I driving you crazy?
+<b>Sunburst</b>: By always coming up with plans! I don't need a plan! I mean, maybe I do, but it'll be mine, not yours!
+<b>Stellar Flare</b>: [choking up] Well... I'm sorry for trying to help! [crying]
+<b>Starlight Glimmer</b>: And <i>you're</i> not any better! I'm not a filly! I'm a grown pony with a job to do, and I'll do it on my own!
+<b>Firelight</b>: Well. I'll let you get to it then.
+<b>Starlight Glimmer</b>: Great. Now we have to smooth things over with our parents on top of finding and solving a friendship problem.
+<b>Sunburst</b>: It's almost like our relationship with our parents <i>is</i> the friendship problem.
+<b>Starlight Glimmer</b>: You don't think that's it, do you?
+<b>"Cracked Wheat"</b>: [clears throat] That's what all of us think.
+<b>Starlight Glimmer</b>: [groans, collapses] Why couldn't we have been sent to stop a war or something?!
+<b>Starlight Glimmer</b>: Dad?
+<b>Firelight</b>: Hello, <i>Ms.</i> Glimmer. How is your 
+friendship problem search going? I only ask as an interested observer, 
+since I know you are an adult who's capable of doing things without help
+ from anypony else.
+<b>Starlight Glimmer</b>: Actually... I think Sunburst and I figured out what it is.
+<b>Firelight</b>: So Stellar and I weren't really helpful after all.
+<b>Starlight Glimmer</b>: Well, we haven't actually solved it. And I don't think we can. Not without you.
+<b>Stellar Flare</b>: [sniffs]
+[spritz]
+<b>Stellar Flare</b>: [coughing] Pungent. Ugh. [to Sunburst] Oh. Did you come by to be driven crazy by more of your mother's plans?
+<b>Sunburst</b>: No, I came to apologize.
+<b>Stellar Flare</b>: Well, it's going to take more than an 
+apology to make up for telling me you don't want my help finding your 
+friendship problem.
+<b>Sunburst</b>: Oh, I'm not sorry for that. Starlight and I already figured out what the problem is.
+<b>Stellar Flare</b>: This is a terrible apology.
+<b>Sunburst</b>: Well, if you come with me and help fix it, I'll give you a better one.
+<b>Starlight Glimmer</b>: Usually, Twilight or one of our other friends gets called to a place with a friendship problem to fix.
+<b>Sunburst</b>: But Starlight and I realized we came here to fix a friendship problem we already had.
+<b>Starlight Glimmer</b>: I'm sorry I've been avoiding coming home, Dad. But you can't keep treating me like a foal.
+<b>Firelight</b>: I'm sorry, sugarbun. [sighs] I just know how 
+hard things were for you when you left home. I guess I wanted you to 
+feel safe, like... when you were young.
+<b>Starlight Glimmer</b>: Dad, I know I've made some mistakes, 
+and I'll probably make a bunch more. But I learn from them. I think 
+that's what growing up is.
+<b>Sunburst</b>: I'm sorry I never told you how much your plans
+ bothered me, and I know you just want me to succeed. But I need to do 
+that on my own.
+<b>Stellar Flare</b>: I remember how lost you were when you 
+flunked out of magic school. I thought as long as you had a plan, you'd 
+never feel that way again.
+<b>Sunburst</b>: You don't have to worry, Mom. I need to find my own way. And I definitely don't feel lost anymore.
+[shimmering sounds]
+<b>"Cracked Wheat"</b>: [crying] That's so beautiful!
+<b>Stellar Flare</b>: The glowing cutie mark is such a symbol of
+ accomplishment. I don't suppose there's a way for you to get it to glow
+ all the time.
+<b>Sunburst</b>: [chuckles] Pretty sure it doesn't work that way.
+<b>Starlight Glimmer</b>: Not unless we solved a friendship problem every few seconds, and I kinda hope this one will be it for a while.
+<b>Firelight</b>: You know, it seems to me your map is saying we're not just your parents. Heh. We're your friends, too.
+<b>Starlight Glimmer</b>: I guess so.
+<b>Firelight</b>: So if I promise to treat you less like a little filly and more like a friend, will you visit more?
+<b>Starlight Glimmer</b>: Absolutely. Mmm.
+<b>Sunburst</b>: And if you start to drive me crazy again, I'll tell you instead of never coming home.
+<b>Stellar Flare</b>: That's lovely of you to say, dear. But you know, I can always visit you.
+<b>Firelight</b>: Stellar, you're a genius! [laughs] How do you feel about a road trip?
+<b>Stellar Flare</b>: I might have a few plans for that.
+<b>Starlight Glimmer</b> and <b>Sunburst</b>: [chuckling nervously]
+[train chugging]
+[credits]

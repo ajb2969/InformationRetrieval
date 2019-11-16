@@ -1,241 +1,295 @@
-<b>Spike</b>: [grunting, yelps] Well, we don't  <i>all</i> have magical horns. 
-<b>Twilight Sparkle</b>: I've been meaning to move these older books to my reference section for a while. Got to keep the new books front and center! Thank you both for your help. 
-<b>Starlight Glimmer</b>: Are you kidding? After all you've done for me, this is the least I can do. 
-<b>Twilight Sparkle</b>: Oh, please. I haven't done that much. 
-<b>Starlight Glimmer</b>: Nah. You just taught me the value of friendship. Not much at all. 
-<b>Twilight Sparkle</b>: I may have offered some guidance, but you are responsible for the pony you've become. I'm proud to call you my student and my friend. Now we just need to get rid of these boxes. Spike, can you—? Spike? 
-<b>Spike</b>: What's that? 
-<b>Twilight Sparkle</b>: Is it a bird? 
-<b>Starlight Glimmer</b>: Is it a parasprite? 
-<b>Spike</b>: It's... it's...  <i>incoming!</i> 
-[crash] 
-<b>Twilight Sparkle</b>: Oh. I usually get letters by dragon. 
-<b>Spike</b>: It is the fastest way to get mail! 
-<b>Starlight Glimmer</b>: For me? Who'd be sending  <i>me</i> a letter? It's... the ponies from my old village. 
-<b>Twilight Sparkle</b>: Are they in danger? 
-<b>Spike</b>: Are they upset with you? 
-<b>Starlight Glimmer</b>: No... It's worse! They've invited me to the annual Sunset Festival! <b>Starlight Glimmer</b>: [exhales] Uh, hey there, everypony. 
-<b>Party Favor</b>: Uh... Hey, Starlight. What are  <i>you</i> doing here? 
-<b>Starlight Glimmer</b>: I-I... I was invited. To the Sunset Festival? 
-<b>Double Diamond</b>: Uh, yeah, but we didn't think you'd actually show up. 
-<b>Party Favor</b>: You didn't think we really wanted you here, did you? 
-[paper tearing] 
-<b>Starlight Glimmer</b>: But... I... apologized. I thought everything was fine. 
-<b>Double Diamond</b> and  <b>Party Favor</b>: [laughing derisively] 
-<b>Village ponies</b>: [increasingly deranged laughter] 
-<b>Starlight Glimmer</b>: Please...! Stop...!  <i>Stop!</i> 
-[beat] 
-<b>Starlight Glimmer</b>: What happened? Is anypony there? Princess Luna? W-What are you doing here? 
-<b>Princess Luna</b>: Dreams are my domain, Starlight Glimmer. I am here because you need me to be. 
-<b>Starlight Glimmer</b>: Oh. It's only a dream. 
-<b>Princess Luna</b>: It may only be a dream, but the feelings in it are real. 
-<b>Starlight Glimmer</b>: [sighs] Great. So I guess I'm more afraid of going back to the village than I thought. What do I do now? 
-<b>Princess Luna</b>: I have been helped time and time again by six very special ponies. They helped me overcome  <i>my</i> past. You're fortunate to have them as friends. I suggest you share  <i>your</i> concerns with them. I see much of myself in you, Starlight Glimmer, and I can tell you from personal experience that things do indeed get better. 
-[magic zap] 
-<b>Starlight Glimmer</b>: [gasps] <b>Starlight Glimmer</b>: ...and Princess Luna said I should tell you all how I was feeling. So... there it is. I'm afraid to go back to the village for the celebration. 
-<b>Rarity</b>: But why, darling? You went back to apologize. They accepted. Everypony has moved on. 
-<b>Starlight Glimmer</b>: But have they? They don't really know how much I've changed. Or even worse, maybe I haven't changed as much as I think I have! 
-<b>Rainbow Dash</b>: Trust me. You are a  <i>totally</i> different pony now. I mean, you were pretty awful. 
-<b>Applejack</b>: Rainbow Dash! 
-<b>Rainbow Dash</b>: What? She was! It's a compliment! 
-<b>Fluttershy</b>: I don't think they would've sent the invitation if they didn't want you to come. I'm sure they'd be happy to see you. 
-<b>Pinkie Pie</b>: And getting an invitation to a party and  <i>not going</i>?! That's like... I-It's like...! Well, I don't know what it's like, but it is definitely bad. 
-<b>Applejack</b>: Just be honest with them. I'm sure they'll understand where you're comin' from. 
-<b>Twilight Sparkle</b>: I understand how hard this is for you. Maybe if you took a friend along, it might make things easier. Somepony you trust who would look out for you? <b>Starlight Glimmer</b>: Thanks so much for doing this, Trixie. When Twilight said I should bring a friend, you were the first pony I thought of. 
-<b>Trixie</b>: Great idea, Princess Twilight. Asking  <i>me</i> – Starlight's  <i>best</i> friend – to help her on this difficult journey really shows how wise a princess you have become. 
-<b>Twilight Sparkle</b>: [through gritted teeth] Thanks, Trixie. [hushed, to Spike] I was talking about  <i>me</i>. 
-<b>Starlight Glimmer</b>: The festival lasts a whole week, but I'm sure we won't stay that long. 
-<b>Trixie</b>: Oh. I don't know, Starlight. Time really  <i>flies</i> when you're spending it with your  <i>best</i> friend! [giggles] 
-<b>Twilight Sparkle</b>: [strained noise] 
-<b>Main cast</b>: [overlapping farewells] [eagle cries] 
-<b>Trixie</b>: There it is! The town where you— 
-<b>Starlight Glimmer</b>: Magically stole everypony's cutie marks, replaced them with equal signs, and forced them all to hide their natural talents? Yes. 
-<b>Trixie</b>: I was  <i>going</i> to say where you  <i>came</i> from, but yours is a more... emotionally traumatic answer. 
-<b>Starlight Glimmer</b>: [sighs] I just want to... blend in. Be just another pony in the crowd enjoying the Sunset Festival with my friend. 
-<b>Trixie</b>: Sounds good to me! And if things get weird for you, just let me know. I've got your flank. 
-<b>Starlight Glimmer</b>: Is that a promise? 
-<b>Trixie</b>: Not just a promise. A  <i>great</i> and  <i>powerful</i> promise! 
-[bamf] 
-<b>Trixie</b>: [coughing] 
-<b>Starlight Glimmer</b>: Well, I couldn't ask for more than that. If we're gonna do this, let's do it. <b>Double Diamond</b>: Oh! Starlight, you came! 
-<b>Starlight Glimmer</b>: [nervous giggle] 
-<b>Party Favor</b>: We were worried you wouldn't be able to make it! Are you staying the whole week? We have different events planned each day! 
-<b>Sugar Belle</b>: How is it living in a castle? 
-<b>Double Diamond</b>: It is  <i>so</i>&nbsp;good to see you! 
-<b>Trixie</b>: [mock-whisper] Oh, yeah. These ponies are  <i>terrifying</i>. [giggles] 
-<b>Starlight Glimmer</b>: [small groan] It's good to see all of you, too. 
-<b>Party Favor</b>: You got here  <i>just</i> in time. We were having some debate about these banners. Which do you think feels more "sunsetty"? 
-<b>Starlight Glimmer</b>: O-Oh, you don't need me to decide that. Heh. Whatever you think is probably best. 
-<b>Double Diamond</b>: Uh, well, how about helping us with the routes for the relay races tomorrow? Can you take a look? 
-<b>Starlight Glimmer</b>: Oh, I-I shouldn't. You all go ahead. I-I just want to enjoy the festival. 
-<b>Sugar Belle</b>: But you  <i>will</i> be a judge for the baking competition, right? 
-<b>Double Diamond</b>: We had a few questions about the order of the acts for the talent show. 
-<b>Night Glider</b>: And the unicorns have a fireworks show planned! We could really use your help! 
-[villagers chattering loudly] 
-[magic zap] 
-<b>Starlight Glimmer</b>:  <i>No!</i> [trembling] 
-[villagers gasping] 
-<b>Trixie</b>: The Great and Powerful Trixie would like to thank you  <i>all</i> for being such an amazing audience. Sadly, it is time for us to depart. Good night, fillies and gentlefoals! 
-[bamf] 
-[villagers coughing] 
-[villagers shocked muttering] <b>Starlight Glimmer</b>: Ugh! I was  <i>horrible</i> when I led that town! I was ready for them to not trust me, but... I wasn't ready for them to put me in charge again! With my past, I should never be in charge of anything! 
-<b>Trixie</b>: So you messed up. Big deal. [hushed] Don't you ever tell another pony I said this, but even  <i>Trixie's</i> made mistakes. [giggles] I know! The trick is to just move on and pretend they never happened. 
-<b>Starlight Glimmer</b>: I feel like that's almost good advice. <b>Starlight Glimmer</b>: Hey, uh, Pinkie Pie! 
-<b>Pinkie Pie</b>: Hey... [beat] you! 
-<b>Starlight Glimmer</b>: So... you're probably wondering why I'm back so soon. 
-<b>Pinkie Pie</b>: Where were you? 
-<b>Starlight Glimmer</b>: I... went to my old village? For the festival? 
-<b>Pinkie Pie</b>: Ooh, sounds fun! How was it? 
-<b>Starlight Glimmer</b>: It was kind of a disaster. I came back early because I freaked out! 
-<b>Pinkie Pie</b>: Ooh, sounds awful! Bye! 
-<b>Starlight Glimmer</b>: That was... strange. 
-<b>Trixie</b>: Isn't she  <i>always</i> strange? 
-<b>Starlight Glimmer</b>: Yeah, but not like that. Hey! I'm back early. 
-<b>Rarity</b>: Ah. Welcome back? 
-<b>Starlight Glimmer</b>: Have you two noticed Pinkie acting a little strange? 
-<b>Applejack</b>: Pinkie Pie  <i>always</i> acts strange. 
-<b>Trixie</b>: Told you. 
-<b>Starlight Glimmer</b>: Anyway, I wanted to talk to all of you. Things didn't go the way I thought they were going to go at the Sunset Festival. 
-<b>Rarity</b>: What happened? 
-<b>Starlight Glimmer</b>: I kind of freaked out and ran out of the village. 
-<b>Applejack</b> and  <b>Rarity</b>: [laughing] 
-<b>Applejack</b>: You freaked out and ran away from a  <i>festival</i>? Ha! That's the funniest danged thing I've heard all day. 
-<b>Rarity</b>: [laughing] Oh my. Let me guess. The decorations were terrifying! 
-<b>Applejack</b> and  <b>Rarity</b>: [inconsiderate laughter] 
-<b>Fluttershy</b>: [whispering] ...Applejack for friendship business. 
-<b>Rainbow Dash</b>: Hello, ponies. We need Rarity and Applejack. Very important friendship business. 
-<b>Trixie</b>: I have to say, I'm really not as impressed with your friends as the rest of Equestria is. 
-<b>Starlight Glimmer</b>: I need to talk to Twilight! [door creaking] 
-[knocking] 
-<b>Starlight Glimmer</b>: Twilight? Hello? 
-<b>Spike</b>: What do  <i>you</i> want? Twilight's very busy! 
-<b>Starlight Glimmer</b>: Spike, I really need to speak with her. 
-<b>Spike</b>: Make an appointment! She's a princess, after all! 
-[hatch slams] 
-[knocking] 
-<b>Starlight Glimmer</b>: What's wrong with you? Why are you being so— 
-<b>Twilight Sparkle</b>: Rude? I think a certain dragon didn't get his nap today. 
-<b>Spike</b>: Yeah, right. Whatever. 
-<b>Twilight Sparkle</b>: Sorry. He's been acting a little off all day. I think he missed a meal or something. 
-<b>Starlight Glimmer</b>: He's not the only one. Everypony's acting a little strange today. 
-<b>Twilight Sparkle</b>: Yes, it's definitely been one of those days! How are you? 
-<b>Starlight Glimmer</b>: Not great, actually. You're probably wondering why I'm back from the village so early. 
-<b>Twilight Sparkle</b>: I didn't want to bring it up, but yeah, it did seem strange. Did it not go well? 
-<b>Starlight Glimmer</b>: The townsponies kept asking me things, like they expected me to be in charge again. But being a leader is the  <i>last</i> thing I should ever be. So we left. Very suddenly. In a literal puff of smoke. 
-<b>Twilight Sparkle</b>: Wow, you should definitely never go back to that village. 
-<b>Starlight Glimmer</b>: What? 
-<b>Twilight Sparkle</b>: If you were worried about what they thought of you before, it's probably way worse now. I'd cut my losses. 
-<b>Starlight Glimmer</b>: That's... surprising advice, coming from you. 
-<b>Twilight Sparkle</b>: Trust me. I'm the Princess of Friendship. You don't need those ponies. You can always make more friends. 
-[door opens] 
-<b>Twilight Sparkle</b>: Ah! Speaking of friends, if you'll excuse me, important business to attend to! 
-[door closes] <b>Starlight Glimmer</b>: Cut my losses? That can't be right. [tumbleweeds rolling] 
-[doors open] 
-<b>Starlight Glimmer</b>: Hey, I wanted to apologize for my behavior earlier. Party Favor, can you hear me? 
-<b>Twilight Sparkle</b>: I told you you can never speak to them again! 
-<b>Starlight Glimmer</b>: What are you all doing here? 
-<b>Twilight Sparkle</b>: Making sure you do what  <i>I</i> said! I'm your teacher, aren't I? Didn't I say to never come back here?! 
-<b>Starlight Glimmer</b>: Yes, but that just doesn't seem right. You aren't acting like yourself. 
-<b>Starlight Glimmer</b> and  <b>Princess Luna</b>: Something is wrong! 
-[wind blows] 
-<b>Starlight Glimmer</b>: A dream? This is another dream! 
-<b>Princess Luna</b>: [whispering] Starlight Glimmer...! 
-<b>Starlight Glimmer</b>: Princess Luna? 
-<b>Princess Luna</b>: Starlight Glimmer! 
-<b>Starlight Glimmer</b>: Princess Luna, where are you? 
-<b>Princess Luna</b>: Starlight Glimmer, there is no time! You must get help! 
-<b>Starlight Glimmer</b>: What? What are you talking about? This is just a dream! 
-<b>Princess Luna</b>: Not here! In the waking world! They've taken my sister and I! It's worse than the last time! Your dream called to me, and I was able to break through! You must find help! 
-<b>Starlight Glimmer</b>: What are you saying?! Who's taken you?! 
-<b>Princess Luna</b>: Be careful who you trust! You need all the help you can find! The changelings have returned and— [gasps] 
-<b>Starlight Glimmer</b>: Princess Luna! <b>Starlight Glimmer</b>: [panting] They're back! [bushes rustling] 
-[knocking] 
-<b>Starlight Glimmer</b>: Trixie? Trixie, it's Starlight! Are you awake? 
-<b>Trixie</b>: [muffled, bleary] Of course, Princess Celestia... I'd love to perform for peanut butter crackers... 
-[knocking] 
-<b>Starlight Glimmer</b>: Trixie, wake up! 
-[fireworks exploding] 
-<b>Trixie</b>: [coughing] [tired] Starlight? What time is it? 
-<b>Starlight Glimmer</b>: It's late. I think I figured out what's wrong with my friends! 
-<b>Trixie</b>: [yawning] I have a whole list of things that are wrong with your friends. We can go over it in the morning. 
-<b>Starlight Glimmer</b>: No, Trixie, we're in danger! 
-[door opens] 
-<b>Trixie</b>: [sighs] Okay, fine! Aside from lack of sleep, how are we in danger? 
-<b>Starlight Glimmer</b>: I think the—! [beat] What did you tell me never to tell another pony? 
-<b>Trixie</b>: Starlight, if you woke me up to play guessing games— 
-<b>Starlight Glimmer</b>: After we left my village, what did you tell me to  <i>never</i> tell another pony you said? 
-<b>Trixie</b>: [sighs] [through very gritted teeth] That even Trixie's made mistakes. 
-<b>Starlight Glimmer</b>: Trixie, there's no time for this! What did you say? 
-<b>Trixie</b>: That even Trixie's made mistakes! Okay?  <i>Are you happy?!</i> 
-<b>Starlight Glimmer</b>: [sighs] Yes. Sorry. I just had to make sure you weren't... [hushed] one of them! 
-<b>Trixie</b>: [hushed] One of who? 
-<b>Starlight Glimmer</b>: A changeling! I think they've taken Princess Celestia  <i>and</i> Princess Luna! 
-<b>Trixie</b>:  <i>What?!</i> Are you sure?! I mean, what do we—? We have to tell Twilight! 
-<b>Starlight Glimmer</b>: If I'm right, then it's too late for that. <b>Main cast</b>: [unintelligible mutterings] 
-[thwack] 
-<b>Spike</b>: [yelps] 
-[thwack] 
-<b>Spike</b>: [groans] 
-<b>Rarity</b>: [inconsiderate laughter] 
-<b>Twilight Sparkle</b>: Is it ready? 
-<b>Applejack</b>: Just one more. 
-[magic energy crackling] 
-<b>Starlight Glimmer</b>: Queen Chrysalis! 
-<b>Queen Chrysalis</b>: Ugh. I can't take any of you seriously when you look like that. 
-<b>Twilight Sparkle</b>: Oh, right. 
-[changeling transforming zaps] 
-<b>Queen Chrysalis</b>: Much better. Now report! 
-<b>Changeling</b>: Everything here is going according to plan! We've replaced the six ponies and their dragon, and have taken control of the castle! 
-<b>Queen Chrysalis</b>: Excellent. And I've just received word that the princesses from Canterlot have successfully been replaced as well. 
-<b>Changelings</b>: [laughing] 
-<b>Queen Chrysalis</b>: We thought too small last time.  <i>One</i> ponynapped princess wasn't enough. With all the most beloved ponies of Equestria taken care of, nopony can stop us! [evil laughter] 
-<b>Changelings</b>: [laughing] 
-[door creaks] 
-<b>Changelings</b>: [hissing] 
-[changeling transforming zaps] 
-[door slams opens] 
-<b>Changeling Twilight</b>: [as Twilight] [sniffing] 
-<b>Trixie</b>: [gasps for breath] 
-[magic zap] [magic zap] 
-<b>Trixie</b>: [panting] I can't deal with this! I'm just a performer! This is... This is princess-level stuff! But the changelings have all the princesses... We're doomed! 
-<b>Starlight Glimmer</b>: Maybe not. Uh, Queen Chrysalis only said they took Luna and Celestia and obviously Twilight and the others... but maybe Cadance is still safe. Our best bet is to get to the Crystal Empire before the changelings do. That way we can— 
-<b>Thorax</b>: There's no help coming from the Crystal Empire. 
-<b>Trixie</b>: [shrieks] 
-<b>Starlight Glimmer</b>: Thorax? 
-<b>Thorax</b>: Yes. 
-<b>Starlight Glimmer</b>: Your wings look... different. 
-<b>Thorax</b>: I guess they do. 
-<b>Starlight Glimmer</b>: How do I know you aren't some other changeling  <i>pretending</i> to be Thorax? 
-<b>Thorax</b>: You were there when Spike defended me to the ponies of the Crystal Empire. Princess Twilight said— 
-[changeling transforming zap] 
-<span title="as Twilight Sparkle" style="cursor:help; border-bottom:1px dotted"><b>Thorax</b></span>: As the Princess of Friendship, I should set an example for all of Equestria. But today it was Spike who taught  <i>me</i>— 
-<b>Starlight Glimmer</b>: Okay, okay. I believe you. We don't need the whole speech. 
-[changeling transforming zap] 
-<b>Starlight Glimmer</b>: Trixie, this is Thorax. He's a reformed changeling. He's on our side. Understand? 
-[pop] 
-<b>Thorax</b>: Hi. It's a pleasure to... 
-<b>Trixie</b>: If Starlight says you're on our side, I believe her. But maybe just stay over there for now, okay? 
-<b>Starlight Glimmer</b>: What did you mean there's no help? Did the changelings get Cadance too? 
-<b>Thorax</b>: They took Cadance, Shining Armor,  <i>and</i> Flurry Heart! Sunburst sent me here to get Princess Twilight's help, but... but it sounds like it's too late for that, too! So... what should we do? 
-<b>Trixie</b>: Yeah, Starlight. What are we gonna do? 
-<b>Starlight Glimmer</b>: I... I don't know! There has to be somepony else who can handle this? 
-<b>Trixie</b>: There is  <i>nopony</i> else! Everypony with powerful magic is already gone! 
-<b>Discord</b>: You know whenever ponies talk about powerful magic, they always leave me out. If I weren't so evolved, I might decide to take it personally. Well, isn't this quite the combination of secondary characters? Where are Twilight and the girls? 
-<b>Starlight Glimmer</b>: First, how do we know that you're really you? 
-<b>Discord</b>: [snaps fingers] 
-[magic zaps] 
-[splash] 
-<b>Discord</b>: Shall I continue? 
-<b>Starlight Glimmer</b>: Chrysalis and the changelings are back. They've ponynapped all of the most powerful ponies in Equestria! Celestia, Luna, Cadance, Shining Armor, Flurry Heart, Twilight and her friends. We need to— 
-[magic zap] 
-<b>Discord</b>: [hushed] They took Fluttershy? 
-<b>Starlight Glimmer</b>: Yes! 
-<b>Discord</b>: [menacingly]  <i>Where?</i> 
-<b>Starlight Glimmer</b>: The Changeling Kingdom. With you on our side, I can— 
-<b>Discord</b>: [snaps fingers] 
-[magic zap] [magic zap] 
-<b>Discord</b>: Odd. I was trying to take us right to Fluttershy, but there  <i>is</i> no Fluttershy. 
-[crunch] 
-<b>Trixie</b>: [whimpers] I think I have a pretty good idea where she might be... 
-<b>Thorax</b>: I'd hoped never to see that place again. Now what? [to be continued] 
-[credits] 
+<b>Spike</b>: [grunting, yelps] Well, we don't <i>all</i> have magical horns.
+<b>Twilight Sparkle</b>: I've been meaning to move these older 
+books to my reference section for a while. Got to keep the new books 
+front and center! Thank you both for your help.
+<b>Starlight Glimmer</b>: Are you kidding? After all you've done for me, this is the least I can do.
+<b>Twilight Sparkle</b>: Oh, please. I haven't done that much.
+<b>Starlight Glimmer</b>: Nah. You just taught me the value of friendship. Not much at all.
+<b>Twilight Sparkle</b>: I may have offered some guidance, but 
+you are responsible for the pony you've become. I'm proud to call you my
+ student and my friend. Now we just need to get rid of these boxes. 
+Spike, can you—? Spike?
+<b>Spike</b>: What's that?
+<b>Twilight Sparkle</b>: Is it a bird?
+<b>Starlight Glimmer</b>: Is it a parasprite?
+<b>Spike</b>: It's... it's... <i>incoming!</i>
+[crash]
+<b>Twilight Sparkle</b>: Oh. I usually get letters by dragon.
+<b>Spike</b>: It is the fastest way to get mail!
+<b>Starlight Glimmer</b>: For me? Who'd be sending <i>me</i> a letter? It's... the ponies from my old village.
+<b>Twilight Sparkle</b>: Are they in danger?
+<b>Spike</b>: Are they upset with you?
+<b>Starlight Glimmer</b>: No... It's worse! They've invited me to the annual Sunset Festival!
+[theme song]
+<b>Starlight Glimmer</b>: [exhales] Uh, hey there, everypony.
+<b>Party Favor</b>: Uh... Hey, Starlight. What are <i>you</i> doing here?
+<b>Starlight Glimmer</b>: I-I... I was invited. To the Sunset Festival?
+<b>Double Diamond</b>: Uh, yeah, but we didn't think you'd actually show up.
+<b>Party Favor</b>: You didn't think we really wanted you here, did you?
+[paper tearing]
+<b>Starlight Glimmer</b>: But... I... apologized. I thought everything was fine.
+<b>Double Diamond</b> and <b>Party Favor</b>: [laughing derisively]
+<b>Village ponies</b>: [increasingly deranged laughter]
+<b>Starlight Glimmer</b>: Please...! Stop...! <i>Stop!</i>
+[beat]
+<b>Starlight Glimmer</b>: What happened? Is anypony there? Princess Luna? W-What are you doing here?
+<b>Princess Luna</b>: Dreams are my domain, Starlight Glimmer. I am here because you need me to be.
+<b>Starlight Glimmer</b>: Oh. It's only a dream.
+<b>Princess Luna</b>: It may only be a dream, but the feelings in it are real.
+<b>Starlight Glimmer</b>: [sighs] Great. So I guess I'm more afraid of going back to the village than I thought. What do I do now?
+<b>Princess Luna</b>: I have been helped time and time again by six very special ponies. They helped me overcome <i>my</i> past. You're fortunate to have them as friends. I suggest you share <i>your</i>
+ concerns with them. I see much of myself in you, Starlight Glimmer, and
+ I can tell you from personal experience that things do indeed get 
+better.
+[magic zap]
+<b>Starlight Glimmer</b>: [gasps]
+<b>Starlight Glimmer</b>: ...and Princess Luna said I should 
+tell you all how I was feeling. So... there it is. I'm afraid to go back
+ to the village for the celebration.
+<b>Rarity</b>: But why, darling? You went back to apologize. They accepted. Everypony has moved on.
+<b>Starlight Glimmer</b>: But have they? They don't really know how much I've changed. Or even worse, maybe I haven't changed as much as I think I have!
+<b>Rainbow Dash</b>: Trust me. You are a <i>totally</i> different pony now. I mean, you were pretty awful.
+<b>Applejack</b>: Rainbow Dash!
+<b>Rainbow Dash</b>: What? She was! It's a compliment!
+<b>Fluttershy</b>: I don't think they would've sent the invitation if they didn't want you to come. I'm sure they'd be happy to see you.
+<b>Pinkie Pie</b>: And getting an invitation to a party and <i>not going</i>?! That's like... I-It's like...! Well, I don't know what it's like, but it is definitely bad.
+<b>Applejack</b>: Just be honest with them. I'm sure they'll understand where you're comin' from.
+<b>Twilight Sparkle</b>: I understand how hard this is for you.
+ Maybe if you took a friend along, it might make things easier. Somepony
+ you trust who would look out for you?
+<b>Starlight Glimmer</b>: Thanks so much for doing this, Trixie. When Twilight said I should bring a friend, you were the first pony I thought of.
+<b>Trixie</b>: Great idea, Princess Twilight. Asking <i>me</i> – Starlight's <i>best</i> friend – to help her on this difficult journey really shows how wise a princess you have become.
+<b>Twilight Sparkle</b>: [through gritted teeth] Thanks, Trixie. [hushed, to Spike] I was talking about <i>me</i>.
+<b>Starlight Glimmer</b>: The festival lasts a whole week, but I'm sure we won't stay that long.
+<b>Trixie</b>: Oh. I don't know, Starlight. Time really <i>flies</i> when you're spending it with your <i>best</i> friend! [giggles]
+<b>Twilight Sparkle</b>: [strained noise]
+<b>Main cast</b>: [overlapping farewells]
+[eagle cries]
+<b>Trixie</b>: There it is! The town where you—
+<b>Starlight Glimmer</b>: Magically stole everypony's cutie 
+marks, replaced them with equal signs, and forced them all to hide their
+ natural talents? Yes.
+<b>Trixie</b>: I was <i>going</i> to say where you <i>came</i> from, but yours is a more... emotionally traumatic answer.
+<b>Starlight Glimmer</b>: [sighs] I just want to... blend in. Be just another pony in the crowd enjoying the Sunset Festival with my friend.
+<b>Trixie</b>: Sounds good to me! And if things get weird for you, just let me know. I've got your flank.
+<b>Starlight Glimmer</b>: Is that a promise?
+<b>Trixie</b>: Not just a promise. A <i>great</i> and <i>powerful</i> promise!
+[bamf]
+<b>Trixie</b>: [coughing]
+<b>Starlight Glimmer</b>: Well, I couldn't ask for more than that. If we're gonna do this, let's do it.
+<b>Double Diamond</b>: Oh! Starlight, you came!
+<b>Starlight Glimmer</b>: [nervous giggle]
+<b>Party Favor</b>: We were worried you wouldn't be able to make it! Are you staying the whole week? We have different events planned each day!
+<b>Sugar Belle</b>: How is it living in a castle?
+<b>Double Diamond</b>: It is <i>so</i> good to see you!
+<b>Trixie</b>: [mock-whisper] Oh, yeah. These ponies are <i>terrifying</i>. [giggles]
+<b>Starlight Glimmer</b>: [small groan] It's good to see all of you, too.
+<b>Party Favor</b>: You got here <i>just</i> in time. We were having some debate about these banners. Which do you think feels more "sunsetty"?
+<b>Starlight Glimmer</b>: O-Oh, you don't need me to decide that. Heh. Whatever you think is probably best.
+<b>Double Diamond</b>: Uh, well, how about helping us with the routes for the relay races tomorrow? Can you take a look?
+<b>Starlight Glimmer</b>: Oh, I-I shouldn't. You all go ahead. I-I just want to enjoy the festival.
+<b>Sugar Belle</b>: But you <i>will</i> be a judge for the baking competition, right?
+<b>Double Diamond</b>: We had a few questions about the order of the acts for the talent show.
+<b>Night Glider</b>: And the unicorns have a fireworks show planned! We could really use your help!
+[villagers chattering loudly]
+[magic zap]
+<b>Starlight Glimmer</b>: <i>No!</i> [trembling]
+[villagers gasping]
+<b>Trixie</b>: The Great and Powerful Trixie would like to thank you <i>all</i> for being such an amazing audience. Sadly, it is time for us to depart. Good night, fillies and gentlefoals!
+[bamf]
+[villagers coughing]
+[villagers shocked muttering]
+<b>Starlight Glimmer</b>: Ugh! I was <i>horrible</i> when I led 
+that town! I was ready for them to not trust me, but... I wasn't ready 
+for them to put me in charge again! With my past, I should never be in 
+charge of anything!
+<b>Trixie</b>: So you messed up. Big deal. [hushed] Don't you ever tell another pony I said this, but even <i>Trixie's</i> made mistakes. [giggles] I know! The trick is to just move on and pretend they never happened.
+<b>Starlight Glimmer</b>: I feel like that's almost good advice.
+<b>Starlight Glimmer</b>: Hey, uh, Pinkie Pie!
+<b>Pinkie Pie</b>: Hey... [beat] you!
+<b>Starlight Glimmer</b>: So... you're probably wondering why I'm back so soon.
+<b>Pinkie Pie</b>: Where were you?
+<b>Starlight Glimmer</b>: I... went to my old village? For the festival?
+<b>Pinkie Pie</b>: Ooh, sounds fun! How was it?
+<b>Starlight Glimmer</b>: It was kind of a disaster. I came back early because I freaked out!
+<b>Pinkie Pie</b>: Ooh, sounds awful! Bye!
+<b>Starlight Glimmer</b>: That was... strange.
+<b>Trixie</b>: Isn't she <i>always</i> strange?
+<b>Starlight Glimmer</b>: Yeah, but not like that. Hey! I'm back early.
+<b>Rarity</b>: Ah. Welcome back?
+<b>Starlight Glimmer</b>: Have you two noticed Pinkie acting a little strange?
+<b>Applejack</b>: Pinkie Pie <i>always</i> acts strange.
+<b>Trixie</b>: Told you.
+<b>Starlight Glimmer</b>: Anyway, I wanted to talk to all of you. Things didn't go the way I thought they were going to go at the Sunset Festival.
+<b>Rarity</b>: What happened?
+<b>Starlight Glimmer</b>: I kind of freaked out and ran out of the village.
+<b>Applejack</b> and <b>Rarity</b>: [laughing]
+<b>Applejack</b>: You freaked out and ran away from a <i>festival</i>? Ha! That's the funniest danged thing I've heard all day.
+<b>Rarity</b>: [laughing] Oh my. Let me guess. The decorations were terrifying!
+<b>Applejack</b> and <b>Rarity</b>: [inconsiderate laughter]
+<b>Fluttershy</b>: [whispering] ...Applejack for friendship business.
+<b>Rainbow Dash</b>: Hello, ponies. We need Rarity and Applejack. Very important friendship business.
+<b>Trixie</b>: I have to say, I'm really not as impressed with your friends as the rest of Equestria is.
+<b>Starlight Glimmer</b>: I need to talk to Twilight!
+[door creaking]
+[knocking]
+<b>Starlight Glimmer</b>: Twilight? Hello?
+<b>Spike</b>: What do <i>you</i> want? Twilight's very busy!
+<b>Starlight Glimmer</b>: Spike, I really need to speak with her.
+<b>Spike</b>: Make an appointment! She's a princess, after all!
+[hatch slams]
+[knocking]
+<b>Starlight Glimmer</b>: What's wrong with you? Why are you being so—
+<b>Twilight Sparkle</b>: Rude? I think a certain dragon didn't get his nap today.
+<b>Spike</b>: Yeah, right. Whatever.
+<b>Twilight Sparkle</b>: Sorry. He's been acting a little off all day. I think he missed a meal or something.
+<b>Starlight Glimmer</b>: He's not the only one. Everypony's acting a little strange today.
+<b>Twilight Sparkle</b>: Yes, it's definitely been one of those days! How are you?
+<b>Starlight Glimmer</b>: Not great, actually. You're probably wondering why I'm back from the village so early.
+<b>Twilight Sparkle</b>: I didn't want to bring it up, but yeah, it did seem strange. Did it not go well?
+<b>Starlight Glimmer</b>: The townsponies kept asking me things, like they expected me to be in charge again. But being a leader is the <i>last</i> thing I should ever be. So we left. Very suddenly. In a literal puff of smoke.
+<b>Twilight Sparkle</b>: Wow, you should definitely never go back to that village.
+<b>Starlight Glimmer</b>: What?
+<b>Twilight Sparkle</b>: If you were worried about what they thought of you before, it's probably way worse now. I'd cut my losses.
+<b>Starlight Glimmer</b>: That's... surprising advice, coming from you.
+<b>Twilight Sparkle</b>: Trust me. I'm the Princess of Friendship. You don't need those ponies. You can always make more friends.
+[door opens]
+<b>Twilight Sparkle</b>: Ah! Speaking of friends, if you'll excuse me, important business to attend to!
+[door closes]
+<b>Starlight Glimmer</b>: Cut my losses? That can't be right.
+[tumbleweeds rolling]
+[doors open]
+<b>Starlight Glimmer</b>: Hey, I wanted to apologize for my behavior earlier. Party Favor, can you hear me?
+<b>Twilight Sparkle</b>: I told you you can never speak to them again!
+<b>Starlight Glimmer</b>: What are you all doing here?
+<b>Twilight Sparkle</b>: Making sure you do what <i>I</i> said! I'm your teacher, aren't I? Didn't I say to never come back here?!
+<b>Starlight Glimmer</b>: Yes, but that just doesn't seem right. You aren't acting like yourself.
+<b>Starlight Glimmer</b> and <b>Princess Luna</b>: Something is wrong!
+[wind blows]
+<b>Starlight Glimmer</b>: A dream? This is another dream!
+<b>Princess Luna</b>: [whispering] Starlight Glimmer...!
+<b>Starlight Glimmer</b>: Princess Luna?
+<b>Princess Luna</b>: Starlight Glimmer!
+<b>Starlight Glimmer</b>: Princess Luna, where are you?
+<b>Princess Luna</b>: Starlight Glimmer, there is no time! You must get help!
+<b>Starlight Glimmer</b>: What? What are you talking about? This is just a dream!
+<b>Princess Luna</b>: Not here! In the waking world! They've 
+taken my sister and I! It's worse than the last time! Your dream called 
+to me, and I was able to break through! You must find help!
+<b>Starlight Glimmer</b>: What are you saying?! Who's taken you?!
+<b>Princess Luna</b>: Be careful who you trust! You need all the help you can find! The changelings have returned and— [gasps]
+<b>Starlight Glimmer</b>: Princess Luna!
+<b>Starlight Glimmer</b>: [panting] They're back!
+[bushes rustling]
+[knocking]
+<b>Starlight Glimmer</b>: Trixie? Trixie, it's Starlight! Are you awake?
+<b>Trixie</b>: [muffled, bleary] Of course, Princess Celestia... I'd love to perform for peanut butter crackers...
+[knocking]
+<b>Starlight Glimmer</b>: Trixie, wake up!
+[fireworks exploding]
+<b>Trixie</b>: [coughing] [tired] Starlight? What time is it?
+<b>Starlight Glimmer</b>: It's late. I think I figured out what's wrong with my friends!
+<b>Trixie</b>: [yawning] I have a whole list of things that are wrong with your friends. We can go over it in the morning.
+<b>Starlight Glimmer</b>: No, Trixie, we're in danger!
+[door opens]
+<b>Trixie</b>: [sighs] Okay, fine! Aside from lack of sleep, how are we in danger?
+<b>Starlight Glimmer</b>: I think the—! [beat] What did you tell me never to tell another pony?
+<b>Trixie</b>: Starlight, if you woke me up to play guessing games—
+<b>Starlight Glimmer</b>: After we left my village, what did you tell me to <i>never</i> tell another pony you said?
+<b>Trixie</b>: [sighs] [through very gritted teeth] That even Trixie's made mistakes.
+<b>Starlight Glimmer</b>: Trixie, there's no time for this! What did you say?
+<b>Trixie</b>: That even Trixie's made mistakes! Okay? <i>Are you happy?!</i>
+<b>Starlight Glimmer</b>: [sighs] Yes. Sorry. I just had to make sure you weren't... [hushed] one of them!
+<b>Trixie</b>: [hushed] One of who?
+<b>Starlight Glimmer</b>: A changeling! I think they've taken Princess Celestia <i>and</i> Princess Luna!
+<b>Trixie</b>: <i>What?!</i> Are you sure?! I mean, what do we—? We have to tell Twilight!
+<b>Starlight Glimmer</b>: If I'm right, then it's too late for that.
+<b>Main cast</b>: [unintelligible mutterings]
+[thwack]
+<b>Spike</b>: [yelps]
+[thwack]
+<b>Spike</b>: [groans]
+<b>Rarity</b>: [inconsiderate laughter]
+<b>Twilight Sparkle</b>: Is it ready?
+<b>Applejack</b>: Just one more.
+[magic energy crackling]
+<b>Starlight Glimmer</b>: Queen Chrysalis!
+<b>Queen Chrysalis</b>: Ugh. I can't take any of you seriously when you look like that.
+<b>Twilight Sparkle</b>: Oh, right.
+[changeling transforming zaps]
+<b>Queen Chrysalis</b>: Much better. Now report!
+<b>Changeling</b>: Everything here is going according to plan! 
+We've replaced the six ponies and their dragon, and have taken control 
+of the castle!
+<b>Queen Chrysalis</b>: Excellent. And I've just received word that the princesses from Canterlot have successfully been replaced as well.
+<b>Changelings</b>: [laughing]
+<b>Queen Chrysalis</b>: We thought too small last time. <i>One</i>
+ ponynapped princess wasn't enough. With all the most beloved ponies of 
+Equestria taken care of, nopony can stop us! [evil laughter]
+<b>Changelings</b>: [laughing]
+[door creaks]
+<b>Changelings</b>: [hissing]
+[changeling transforming zaps]
+[door slams opens]
+<b>Changeling Twilight</b>: [as Twilight] [sniffing]
+<b>Trixie</b>: [gasps for breath]
+[magic zap]
+[magic zap]
+<b>Trixie</b>: [panting] I can't deal with this! I'm just a 
+performer! This is... This is princess-level stuff! But the changelings 
+have all the princesses... We're doomed!
+<b>Starlight Glimmer</b>: Maybe not. Uh, Queen Chrysalis only 
+said they took Luna and Celestia and obviously Twilight and the 
+others... but maybe Cadance is still safe. Our best bet is to get to the
+ Crystal Empire before the changelings do. That way we can—
+<b>Thorax</b>: There's no help coming from the Crystal Empire.
+<b>Trixie</b>: [shrieks]
+<b>Starlight Glimmer</b>: Thorax?
+<b>Thorax</b>: Yes.
+<b>Starlight Glimmer</b>: Your wings look... different.
+<b>Thorax</b>: I guess they do.
+<b>Starlight Glimmer</b>: How do I know you aren't some other changeling <i>pretending</i> to be Thorax?
+<b>Thorax</b>: You were there when Spike defended me to the ponies of the Crystal Empire. Princess Twilight said—
+[changeling transforming zap]
+<b>Thorax</b>: As the Princess of Friendship, I should set an example for all of Equestria. But today it was Spike who taught <i>me</i>—
+<b>Starlight Glimmer</b>: Okay, okay. I believe you. We don't need the whole speech.
+[changeling transforming zap]
+<b>Starlight Glimmer</b>: Trixie, this is Thorax. He's a reformed changeling. He's on our side. Understand?
+[pop]
+<b>Thorax</b>: Hi. It's a pleasure to...
+<b>Trixie</b>: If Starlight says you're on our side, I believe her. But maybe just stay over there for now, okay?
+<b>Starlight Glimmer</b>: What did you mean there's no help? Did the changelings get Cadance too?
+<b>Thorax</b>: They took Cadance, Shining Armor, <i>and</i> 
+Flurry Heart! Sunburst sent me here to get Princess Twilight's help, 
+but... but it sounds like it's too late for that, too! So... what should
+ we do?
+<b>Trixie</b>: Yeah, Starlight. What are we gonna do?
+<b>Starlight Glimmer</b>: I... I don't know! There has to be somepony else who can handle this?
+<b>Trixie</b>: There is <i>nopony</i> else! Everypony with powerful magic is already gone!
+<b>Discord</b>: You know whenever ponies talk about powerful 
+magic, they always leave me out. If I weren't so evolved, I might decide
+ to take it personally. Well, isn't this quite the combination of 
+secondary characters? Where are Twilight and the girls?
+<b>Starlight Glimmer</b>: First, how do we know that you're really you?
+<b>Discord</b>: [snaps fingers]
+[magic zaps]
+[splash]
+<b>Discord</b>: Shall I continue?
+<b>Starlight Glimmer</b>: Chrysalis and the changelings are 
+back. They've ponynapped all of the most powerful ponies in Equestria! 
+Celestia, Luna, Cadance, Shining Armor, Flurry Heart, Twilight and her 
+friends. We need to—
+[magic zap]
+<b>Discord</b>: [hushed] They took Fluttershy?
+<b>Starlight Glimmer</b>: Yes!
+<b>Discord</b>: [menacingly] <i>Where?</i>
+<b>Starlight Glimmer</b>: The Changeling Kingdom. With you on our side, I can—
+<b>Discord</b>: [snaps fingers]
+[magic zap]
+[magic zap]
+<b>Discord</b>: Odd. I was trying to take us right to Fluttershy, but there <i>is</i> no Fluttershy.
+[crunch]
+<b>Trixie</b>: [whimpers] I think I have a pretty good idea where she might be...
+<b>Thorax</b>: I'd hoped never to see that place again. Now what?
+[to be continued]
+[credits]
