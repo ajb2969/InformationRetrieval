@@ -1,0 +1,360 @@
+[stomping]
+<b>Twilight Sparkle</b>: Remind me how this happened again!
+[crunch]
+<b>Applejack</b>: And why there's a giant turtle eatin' my family's entire summer crop!
+<b>Fluttershy</b>: Oh, dear. Mr. Tortoise-Snap said he was hungry. But he promised me he would only take a few small bites.
+<b>Rainbow Dash</b>: I don't think that thing knows what "small" is.
+<b>Mr. Tortoise-Snap</b>: [gulps]
+[stomping]
+<b>Spike</b>: Aah!
+<b>Rarity</b>: Spikey-Wikey!
+<b>Spike</b>: Whoa!
+<b>Mr. Tortoise-Snap</b>: [chomps]
+<b>Twilight Sparkle</b>: Applejack and Pinkie, you distract him! Rainbow Dash, Rarity, and Fluttershy, let's save Spike!
+<b>Applejack</b>: [grunting]
+[whirring]
+<b>Mr. Tortoise-Snap</b>: [low growl]
+[snap!]
+<b>Fluttershy</b>: Mr. Tortoise-Snap, I'm only asking nicely once! Let my friend go!
+<b>Mr. Tortoise-Snap</b>: [low growl]
+<b>Spike</b>: Whoa! Whoa!
+<b>Twilight Sparkle</b>: And now, a simple teleportation spell should—
+<b>Princess Celestia</b>: <i>Halt, interloper!</i>
+<b>Princess Luna</b>: Stay back, friends! My sister and I will take care of the beast!
+[magic zaps]
+<b>Rainbow Dash</b>: All the times we've actually needed their help, and they show up for <i>this</i>?
+[whooshing]
+[teleportation zap]
+<b>Twilight Sparkle</b>: That's just what <i>I</i> was about to do!
+<b>Princess Luna</b>: [laughs] Goodness, sister! That was fun!
+<b>Princess Celestia</b>: No need to thank us. To be honest, we've recently realized we like being part of the action.
+<b>Princess Luna</b>: Experiencing life instead of just dreaming about it.
+<b>Princess Celestia</b>: And making a difference outside the throne room.
+<b>Princess Celestia</b> and <b>Princess Luna</b>: [laughing]
+<b>Applejack</b>: Y'all think they're gonna be doin' this a lot?
+[theme song]
+[crunch]
+[splash]
+<b>Fluttershy</b>: Oh, my. We'd better ask somepony to fix that hole. It seems very dangerous.
+<b>Princess Luna</b>: Which is why <i>we're</i> here!
+[whoosh]
+[thud]
+[ponies cheering]
+<b>Rainbow Dash</b>: [growls] I can't read this thing. How am I supposed to lead a Filly Guides hike if the map makes us <i>more</i> lost?
+<b>Princess Celestia</b>: Did somepony say "lost"?
+<b>Princess Luna</b>: Not for long! [laughs]
+[zap!]
+<b>Pinkie Pie</b>: [slurps]
+<b>Mrs. Cake</b>: Oh, now, this is just terrible! Miss Cheerilee ordered cupcakes for school today, and I forgot to make the order!
+<b>Pinkie Pie</b>: Ah, no biggie. We could—
+[crash!]
+<b>Princess Celestia</b>: Students going hungry? Not on our watch!
+<b>Princess Luna</b>: Let us bake, sister!
+<b>Pinkie Pie</b>: [gasps]
+[splattering]
+<b>Applejack</b>: And then they carried Granny Smith across the street. There wasn't even any traffic!
+<b>Fluttershy</b>: It's not that we don't appreciate their help.
+<b>Rarity</b>: But suddenly, Celestia and Luna seem to think we can't do anything on our own.
+<b>Rainbow Dash</b>: How are we supposed to learn to be rulers of Equestria with them fixing every teensy problem for us?
+<b>Twilight Sparkle</b>: Maybe the princesses changed their 
+minds. Maybe they don't think we're up to the responsibility of 
+protecting Equestria after all!
+<b>Spike</b>: Or maybe this week's just a one-time thing that'll never happen again.
+[doors open]
+<b>Princess Celestia</b>: Ah! A strategy meeting! What is the danger this time? A rampaging beast? Evil spell? Friendship problem?
+<b>Princess Luna</b>: We're ready to do whatever we can.
+<b>Twilight Sparkle</b>: Great. But is something wrong? It's 
+just... You've been helping us an awful lot, and we know you have way 
+more important ruler-y things to do, so...
+<b>Princess Luna</b>: We've spent more than enough time in the throne room. Real life is happening out here.
+<b>Twilight Sparkle</b>: Wait. That's what this is about? You're sick of being princesses?
+<b>Princess Celestia</b>: Not exactly. Battling the Everfree 
+Forest alongside Star Swirl made us realize what we've missed out on. 
+So, instead of spending the day ruling...
+<b>Princess Luna</b>: ...and the night patrolling dreams...
+<b>Princess Celestia</b>: ...we wanted a chance to do the things <i>you</i> do. Save the day! Adventure with friends! Shampoo anteaters.
+<b>Spike</b>: I'm pretty sure Fluttershy's the only pony that does that.
+<b>Rainbow Dash</b>: Well, there are waaaay more fun things to do than follow us around.
+<b>Pinkie Pie</b>: Ooh! You should make a list of all the stuff
+ you never tried but always wanted to! There's a lotta little things out
+ there to do!
+<b>Princess Celestia</b>: What an intriguing idea. Only... it's
+ much harder to justify a vacation from the castle when it's not an 
+emergency we're responding to.
+<b>Twilight Sparkle</b>: Don't worry. We'll cover your palace duties. It'll be a good chance for us to practice for when you retire.
+<b>Princess Luna</b>: Well, if you're sure you don't mind the extra effort.
+<b>Twilight Sparkle</b>: [scoffs]
+<b>Princess Celestia</b>: Thank you, Twilight! What a relief to know the Royal Swanifying Ceremony is in good hooves. [laughs]
+<b>Applejack</b>: The what now?
+<b>Princess Celestia</b>: "Fun Not Yet Had". [squeals] I can't wait to start planning our time off!
+<b>Princess Luna</b>: The chance to do whatever we want! And you know what that means!
+<b>Princess Celestia</b>:
+Adventure!
+<b>Princess Luna</b>:
+Relaxation!
+<b>Princess Luna</b>: Well, it's just that I... I spend each night in everypony's intense dreams. So I could use some real-world downtime.
+<b>Princess Celestia</b>: [sighs] I understand. But for me, every day <i>is</i> real-world. Meetings and decrees and meetings about decrees and decrees about the meetings... I crave excitement!
+<b>Princess Luna</b>: Uh, I'm not sure how we can both be happy. Unless...
+<b>Princess Celestia</b>: [gasps] We take turns doing what we like!
+<b>Princess Celestia</b> and <b>Princess Luna</b>: Sister trip!
+<b>Princess Luna</b>: And I have the perfect accessories for us to wear! Wait right here!
+[teleportation zap]
+[teleportation zap]
+<b>Princess Celestia</b>: Oh. [nervous laugh] We'll be... twin-sies.
+<b>Princess Luna</b>: [giggling] Just like regular pony tourists. I knew you'd love it.
+<b>Princess Celestia</b>: I have a few things for us, too.
+[thud]
+<b>Princess Celestia</b>: Sunglasses, bug spray, ice boots, hoof sanitizer, and travel snacks!
+<b>Princess Luna</b>: [slurps, chews, coughs]
+<b>Princess Celestia</b>: You have to add water. What do you think?
+<b>Princess Luna</b>: It's perfect, sister.
+<b>Princess Celestia</b>: And here are instructions of how to prepare for the Royal Swanifying.
+<b>Twilight Sparkle</b>: If it's written down, I'm sure we can handle it. Have fun!
+<b>Princess Luna</b>: One more thing. We're leaving you in charge of raising the sun and moon while we're gone.
+<b>Twilight Sparkle</b> and <b>Spike</b>: [gasp]
+<b>Twilight Sparkle</b>: [nervous laugh]
+<b>Princess Celestia</b>: We have put a small part of our power
+ in this amulet. You can activate it with your magic at any time. 
+Preferably dawn and dusk.
+<b>Pinkie Pie</b>: Ooh! That's not a terrifying level of responsibility or anything!
+<b>Twilight Sparkle</b>: We won't let you down, princesses. [to Spike] Please tell me that scroll says what the the Royal Swanifying is.
+<b>Spike</b>: Apparently it's a celebration of all the swans in
+ the royal lake. We round them up, parade them through the streets, and 
+finish with a party in the castle.
+[swan squawks]
+<b>Rainbow Dash</b>: One question. <i>Why?!</i>
+<b>Twilight Sparkle</b>: It doesn't matter. This is our chance 
+to show Celestia and Luna we'll do whatever the job requires. If they 
+can take care of all this themselves, then I know <i>we</i> can. Together.
+<b>Fluttershy</b>: Um... hmm.
+<b>Rarity</b>: Ah. Jolly good.
+<b>Spike</b>: You're definitely not reading the same scroll I am.
+<b>Princess Celestia</b>: Remember, sister. From now on, we are regular, carefree ponies!
+[excited chattering]
+[camera clicks]
+<b>Princess Luna</b>: We're leaving the princess life behind, and we're not even going to fly!
+<b>Princess Celestia</b>: Of course. [laughs] How new and different. It's just like Pinkie Pie said.
+<b>[Princess Celestia]</b>
+There's a lotta little things you gotta do in this world
+
+<b>[Princess Luna]</b>
+There's a lotta little things you gotta try
+
+<b>[Princess Celestia]</b>
+Just a pack of punchy plunges other ponies all take
+
+<b>[Princess Luna]</b>
+That have princess-pony-passed us right by
+
+<b>[Both]</b>
+Nopony knows you like your little sister
+Nopony is a better confidante
+Nopony is truer than the one you are
+Nopony else here I could want
+
+<b>[Princess Celestia]</b>
+You can't saunter on a sojourn hid behind castle walls
+
+<b>[Princess Luna]</b>
+You can't throw a throne down on the beach
+
+<b>[Princess Celestia]</b>
+So we're gonna be absconding
+
+<b>[Princess Luna]</b>
+To a little vagabonding
+
+<b>[Princess Celestia]</b>
+And this bucket list is gonna be a peach
+
+<b>[Both]</b>
+Nopony knows you like your older sister
+Nopony is a better confidante
+Nopony is truer than the one you are
+Nopony else here I could want
+
+There's a lotta little things you gotta try in this world
+There's a lotta little things you gotta see
+
+<b>[Princess Luna]</b>
+But just reading by a river and resting our hooves
+Would practically be perfect for me
+
+<b>[Both]</b>
+Nopony knows you like your sister
+Nopony is a better confidante
+Nopony is truer than the one you are
+Nopony else here I could want
+
+<b>[Princess Celestia]</b>
+You can't venture on adventures if you're taking a nap
+You can't check things off your checklist while you sleep
+So let's take another hill
+
+<b>[Princess Luna]</b>
+Sometimes you can be a pill
+And why's the way ahead always so steep?
+
+[doors open]
+<b>Fancy Pants</b>: Princesses, we are here to... Oh.
+<b>Applejack</b>: Uh, we're fillin' in for Their Majesties. What can we help y'all with?
+<b>Fancy Pants</b>: I say. How irregular. Well then. We offer our assistance as heads of the Royal Swanifying Committee.
+<b>Rarity</b>: Ah, what a relief.
+<b>Twilight Sparkle</b>: Thank you, but we have it all covered.
+<b>Fancy Pants</b>: Reeeeeally? Well, good luck with that.
+<b>Twilight Sparkle</b>: If we ask for help, it's just like 
+admitting we're not as good at the job as Luna and Celestia are. 
+Besides, how hard can throwing a swan party be?
+<b>Pinkie Pie</b>: Yeah! All we have left to do is polish the 
+armor, bubble the punch, glitter the carpet, puff the pastry, float the 
+floats, and carpet every road in Canterlot! Should I keep reading?
+<b>Twilight Sparkle</b>: [nervous laugh]
+<b>Princess Luna</b>: Uh, Celestia? Since we're both a little tired, m-maybe the first thing we do shouldn't be too wild.
+<b>Princess Celestia</b>: Exactly what I was thinking.
+<b>Princess Celestia</b>: <i><span style="text-transform:uppercase;">ziiiiip liiiiiiiiiine!</span></i>
+<b>Princess Celestia</b>: Now, every time we have tea, we can remember this magical day!
+<b>Princess Luna</b>: Well, I'm glad you enjoyed yourself. But now, we're going to do something <i>I've</i> always wanted to do but never could because of my night shift.
+<b>Princess Celestia</b>: Is it another zip line?
+<b>Princess Luna</b>: No.
+<b>Princess Luna</b>: It's the post office!
+<b>Princess Celestia</b>: It is indeed.
+<b>Princess Luna</b>: Just think! All the mail in Ponyville goes through here! Isn't that amazing?!
+[thump]
+<b>Princess Luna</b>: One stamp, please!
+[clattering]
+<b>Princess Luna</b>: [licks] Wait for it...
+[watch ticking]
+[door opens]
+<b>Princess Celestia</b>: You didn't need a stamp if you were just going to give this to me.
+<b>Princess Luna</b>: Yes, but <i>I</i> didn't give it to you. A
+ mailpony took it from me, searched to find who it was meant for, and 
+gave it to you! It's about the process!
+<b>Princess Celestia</b>: [echoing] Did you know that nopony has ever explored the bottom of these caverns?
+[roaring]
+[rocks crunching]
+<b>Princess Luna</b>: [flatly] I wonder why.
+<b>Princess Luna</b>: I have always wanted to try this!
+[technopop]
+<b>Princess Luna</b>: Isn't this wonderful, sister?
+<b>[Princess Celestia]</b>
+There's a lotta little things you gotta do in this world
+
+<b>[Princess Luna]</b>
+There's a lotta little things you ought to view
+
+<b>[Princess Celestia]</b>
+And our little lotta list may be a little bit long
+
+<b>[Princess Luna]</b>
+[sighs] And might take a lotta bother to do
+
+<b>[Both]</b>
+But I'm sure it gets better later on
+
+<b>[Princess Celestia]</b>
+And after darkest night, a new dawn
+
+<b>[Princess Luna]</b>
+It's my turn to do the choosing
+
+<b>[Princess Celestia]</b>
+After river rapid cruising
+
+<b>[Both]</b>
+This adventure isn't too fun to be on
+
+[inflating sounds]
+[doors open]
+<b>Fancy Pants</b>: Princess Twilight! It has come to our attention that you don't intend to serve watercress at the Royal Swanifying Ceremony.
+<b>Twilight Sparkle</b>: There's not enough in the castle kitchens to—
+<b>Fancy Pants</b>: Don't tell <i>me</i>. Tell <i>him</i>.
+[swan squawks]
+<b>Fancy Pants</b>: And you must do something about the garbage
+ piling up outside. The street sweepers are on strike, and the royal 
+carpeters can't do their jobs.
+<b>Applejack</b>: Did you even know there were royal street carpeters?
+<b>Fancy Pants</b>: Oh, dear. I do hope those aren't the final decorations for the gala.
+<b>Rarity</b>: How rude.
+<b>Twilight Sparkle</b>: Thank you for your constructive criticism. But we really don't have time to chat, so...
+[doors close]
+<b>Princess Celestia</b>: [chewing, gulps] Well, I hope <i>you're</i> enjoying yourself on your super-relaxing picnic, sister.
+<b>Princess Luna</b>: I would be if you hadn't made us hike through a million prickle bushes! [groans]
+<b>Princess Celestia</b>: Well, they hurt less than that horrible howling you dragged us to.
+<b>Princess Luna</b>: That was <i>Ponygliacci</i>, and it's an opera! And you made us leave early, even though it was still <i>my</i> turn.
+<b>Princess Celestia</b>: Oh, just face it, Luna. You are never happy!
+<b>Princess Luna</b>: Because you don't want me to be happy. I always have to do things <i>your</i> way. I bet you wish I'd never come back so you could still rule day <i>and</i> night!
+<b>Princess Celestia</b>: You think I <i>like</i> that kind of pressure?! Being responsible for every little thing in Equestria <i>and</i> you?! What I'd like is a [booming] <i>sister I can depend on!</i>
+<b>Princess Luna</b>: [booming] <i>You mean boss around!</i>
+<b>Princess Celestia</b>: [booming] <i>Calm down, Luna!</i>
+<b>Princess Luna</b>: No! And don't you <i>dare</i> use your Canterlot Voice on me! I think this adventure would be better if I did it by myself!
+<b>Princess Celestia</b>: <i>Fine!</i> I just remembered something I forgot I always wanted to do. Be alone!
+<b>Princess Luna</b>: [tearing up] Guess we have the same thing on both of our lists then.
+<b>Applejack</b>: Pinkie! You got those appetizers yet?!
+<b>Pinkie Pie</b>: Still mashing the guacamole!
+<b>Spike</b>: [yelping]
+<b>Rarity</b>: So we're just going to have to do with sequins!
+<b>Fluttershy</b>: Um, sorry for the bad news, but the courtyard is full of swans waiting to get in!
+[swans squawking]
+<b>Rainbow Dash</b>: And we're nowhere near ready!
+<b>Twilight Sparkle</b>: How does Celestia and Luna rule a kingdom <i>and</i> get all this done by themselves every year?!
+<b>Fancy Pants</b>: [laughs] Oh, how droll.
+<b>Spike</b>: Uh, what's the funny part exactly?
+<b>Fancy Pants</b>: The princesses never do all the ceremony planning by themselves.
+<b>Twilight Sparkle</b>: They don't?
+<b>Fancy Pants</b>: Oh, goodness, no. That's what the gala planning committees are for. Nopony could handle all this. [sips] Are those... sequins?
+<b>Rarity</b>: Still rude.
+<b>Twilight Sparkle</b>: Ooh! New plan, everypony! We're going to delegate!
+<b>Rainbow Dash</b>: [to Upper Crust] You! You're on food duty!
+<b>Rarity</b>: [to Jet Set] I need gemstones! And purple satin!
+<b>Fluttershy</b>: [to Fleur de Lis] Tell the ponies at the 
+gates there's a slight delay on the gala! Oh, um, if it's not too much 
+trouble, I mean.
+<b>Applejack</b>: Uh... Now, who can we get to clean up all this garbage?
+[stomping]
+<b>Pinkie Pie</b>: I'm delegating!
+<b>Twilight Sparkle</b>: So <i>this</i> is how you rule Equestria!
+<b>Princess Luna</b>: [slurping, sighs] Things are so much more relaxing without my bossy sister.
+[ponies laughing]
+<b>Princess Celestia</b>: Who needs a gloomy sister moping around all the time anyway? [whinnies]
+<b>Princess Luna</b>: [groans]
+<b>"Nurse Sweetheart"</b>: Honestly, princess, didn't you wear any sunblock?
+<b>Princess Luna</b>: That's a thing? [sighs] Celestia would've warned me. If she were here.
+<b>Princess Celestia</b>: Now, was it two left turns and a right, or two right turns and a left?
+[whoosh!]
+<b>Princess Celestia</b>: Luna always handled directions.
+[twig snaps]
+[chicken clucks]
+<b>Princess Celestia</b>: [shakily] And scared away the chickens!
+<b>Princess Celestia</b>: Oh! Heh. I thought climbing Mount Filly-mane-jaro was on <i>my</i> list.
+<b>Princess Luna</b>: I'm not copying you! I just wanted to watch the sunrise.
+<b>Princess Celestia</b>: Ah. I'm, uh, here for the moonset.
+[beat]
+<b>Princess Celestia</b>: So, uh, how did the rest of your day go?
+<b>Princess Luna</b>: Oh, amazing! Yeah. Uh, f-fantastic. Best ever, really.
+<b>Princess Celestia</b>: Yeah. Me... too. Mmm.
+<b>Princess Luna</b>: You... You can walk with me. You know, i-if you want, I mean.
+<b>Princess Celestia</b>: Oh, well... [scoffs] Since we're going the same way. [laughs]
+<b>Princess Luna</b>: This is so beautiful. It must be amazing in the sunlight.
+<b>Princess Celestia</b>: The night's pretty special, too.
+<b>Princess Celestia</b> and <b>Princess Luna</b>: Lucky star!
+<b>Princess Luna</b>: You taught me to look for those when I was a filly.
+<b>Princess Celestia</b>: [laughs] Hope I wasn't too bossy doing it.
+<b>Princess Luna</b>: You know, being with your sister all the time is hard, but being without her? It's even harder.
+<b>Princess Celestia</b>: I <i>do</i> know. [sighs] And I wouldn't trade you for any of the adventures on my list.
+<b>Princess Luna</b>: Not even your zip line?
+[poof!]
+<b>Princess Celestia</b>: Not even my zip line.
+<b>Princess Luna</b>: I'm sorry I said those things before. Sometimes it's just tough being the little sister.
+<b>Princess Celestia</b>: It's not always easy being the big sister either. I'm sorry, too.
+<b>Princess Luna</b>: [gasps] The sun and the moon together? At the same time?
+<b>Princess Celestia</b>: Now, where have I seen <i>that</i> before?
+<b>Princess Celestia</b> and <b>Princess Luna</b>: [laugh]
+[long pause]
+<b>Princess Celestia</b>: You think maybe Twilight's having trouble with the amulet?
+<b>Princess Luna</b>: We should probably go help her.
+<b>Spike</b>: Okay, okay! I think I got it! Sunburst says we just need to reset the amulet with this! Turn the screw on the back—
+[cranking]
+[sproing!]
+<b>Spike</b>: ...and no more than one half turn.
+<b>Twilight Sparkle</b>: [whimpers] Does anypony have some tape?!
+[credits]

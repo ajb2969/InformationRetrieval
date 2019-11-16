@@ -1,0 +1,311 @@
+[thonk]
+[tick]
+<b>Rarity</b>: [sighs]
+[sewing machine whirring]
+<b>Rarity</b>: [humming]
+[bell ringing]
+<b>Rarity</b>: [gasps] Was that the Pony Post?!
+<b>Opalescence</b>: [mewls]
+<b>Rarity</b>: Oh, it's just you, Opal.
+<b>Opalescence</b>: [mewls]
+<b>Rarity</b>: Ohhh... Every other day he's here like clockwork! Not today! What could possibly be holding him up?!
+[thonk]
+<b>Pinkie Pie</b>: [muffled] Strawberry cinnamon cilantro salutations!
+<b>Rarity</b>: What?
+<b>Pinkie Pie</b>: What indeed. I bet you're wondering what 
+warrants such a welcome! Well, that welcome is warranted by a pony that 
+whisked up a warm batch of strawberry cinnamon cilantro cupcakes!
+[thonk]
+<b>Pinkie Pie</b>: [chomp] That strangely sickening flavor 
+combination sounds just as bad as it tastes. [gulps] Ugh. So I came here
+ to offer you some!
+<b>Rarity</b>: After that visually descriptive and <i>disturbing</i> endorsement, I'll pass.
+<b>Pinkie Pie</b>: Oh, I almost forgot! I have this letter for 
+you, Rarity! The post pony was going to deliver it, but after a 
+strawberry cinnamon cilantro cupcake, he was feeling kinda <i>queasy</i>. And since <i>I</i> was heading over anyway, I figured I could do it for him! Here you go!
+<b>Rarity</b>: [gasps]
+[paper ripping]
+<b>Rarity</b>: [inaudible reading]
+<b>Pinkie Pie</b>: [chews]
+<b>Rarity</b>: [loud gasp]
+<b>Pinkie Pie</b>: [with mouth full] What's it say?
+<b>Rarity</b>: <i>I got it!</i>
+<b>Pinkie Pie</b>: <i>Woo-hoo!</i> Got what?
+<b>Rarity</b>: Oh, I have been holding out for the perfect 
+location, and it finally became available! So now I can fulfill my dream
+ of opening a boutique in <i>Canterlot</i>!
+<b>Pinkie Pie</b>: Whoo! I'm so excited, I think I'm gonna lose my cupcakes! [hurk]
+[theme song]
+[train brakes hissing]
+<b>Twilight Sparkle</b>: Rarity's such a savvy businesspony. 
+I'm so impressed she used the huge bonus she earned making the costumes 
+for Sapphire Shores' Equestria-wide tour to open this second boutique!
+<b>Main cast sans Rarity</b>: [various exclamations of awe]
+<b>Rarity</b>: I take it from your reaction that you like the boutique?
+<b>Fluttershy</b>: It's lovely.
+<b>Applejack</b>: Gosh, Rarity. I know hard work when I see it, and it looks like you worked your hooves to the nub!
+<b>Pinkie Pie</b>: I don't know. Those hooves don't look nubby. They look scrubbied and buffied and pedied!
+<b>Rarity</b>: Well, despite my 'nubby scrubby buffy pony pedi,
+ I actually have been working very hard! However, I never could have 
+gotten the boutique ready for the grand opening without the help of my 
+new manager Sassy Saddles!
+<b>Sassy Saddles</b>: Bust my buttons, Rarity! The ponies from Ponyville!
+<b>Main cast sans Rarity</b>: [various greetings]
+<b>Rarity</b>: I knew I needed a manager for Canterlot 
+Carousel, so when Sassy showed me her resumé and I saw that she worked 
+in all of the finest boutiques in Canterlot, I hired her right on the 
+spot!
+<b>Sassy Saddles</b>: I then laid out this plan, or "pattern" 
+as we say in the fashion biz, for Canterlot Carousel so that Rarity's 
+boutique will be a guaranteed success and those doors will never, ever, <i>ever</i> close!
+<b>Twilight Sparkle</b>: Wow, Sassy. Your attention to detail is truly impressive.
+<b>Sassy Saddles</b>: I've already put a pin in the first piece of the pattern – <i>Beautify the Boutique</i>! But next was the very crucial pattern piece – <i>Marketing to the Mares</i>! Turns out that everypony here loves royalty!
+<b>Rarity</b>: So I created a collection that beautifully revolves around the royal element of Canterlot!
+<b>Sassy Saddles</b>: <i>And</i> it just so happens there's a hot new princess in Equestria!
+<b>Rarity</b>: [to Twilight] In every poll Sassy Saddles took, <i>you</i>
+ were the most popular princess! Coincidentally, one of my gowns is 
+inspired by the window in Canterlot Castle commemorating your 
+coronation!
+[curtains unfurling]
+<b>Main cast sans Rarity</b>: [various exclamations of awe]
+<b>Rarity</b>: While I've always prided myself on paying 
+attention to detail, I've taken my latest collection to a whole new 
+level with "Rarity's Rules of TLC"!
+<b>Pinkie Pie</b>: Judging by this baby, TLC stands for Tasty Liquorice Candy!
+[thump]
+<b>Rarity</b>: TLC stands for 'Time, Love, and Couture'. And while I do agree that this dress has potential, I've not had enough <i>time</i> to give it enough <i>love</i> to become <i>couture</i>.
+[door shuts]
+<b>Rarity</b>: But the rest of the gowns in tonight's line have met Rarity's Rules and are ready to be presented!
+<b>Sassy Saddles</b>: <i>My</i> marketing research also confirmed that customers that viewed somepony <i>famous</i> wearing a gown wish to own that gown for themselves. I call this piece of the pattern <i>Celebrity Status</i>!
+<b>Rarity</b>: So, Twilight, we were wondering if perhaps you might possibly wear this tonight?
+<b>Twilight Sparkle</b>: If being a princess and wearing that dress can help your boutique in any way, then I say stick a pin in it. It's done.
+<b>Sassy Saddles</b>: Alright, everypony! Let's set the stage!
+<b>Rarity</b>: Ever since I was a little filly, all I've ever 
+wanted was to own a boutique here in Canterlot. Somepony pinch me! I'm 
+about to open the doors to that very boutique!
+[door opens]
+<b>Sassy Saddles</b>: Welcome to the grand opening of Canterlot Carousel!
+[crowd cheers]
+<b>Sassy Saddles</b>: Oh, hello! Oh, nice to see you! Welcome, welcome! Oh, I'm so happy to... [fades out]
+<b>Applejack</b>: That Sassy totally stepped on your hooves, Rarity.
+<b>Pinkie Pie</b>: Oh, no! Did she mess up that nice pony pedi?! [sighs] Okay. Phew!
+<b>Rarity</b>: Oh, I don't think she meant to.
+<b>Sassy Saddles</b>: Rarity, are you ready to reveal the collection?
+<b>Applejack</b>: [under her breath] Is she sure she doesn't wanna do it <i>herself</i>?
+<b>Rainbow Dash</b>: [snorts] [under her breath] Yeah.
+<b>Rarity</b>: Yes, I am. Fluttershy, could you help Twilight get ready?
+<b>Fluttershy</b>: Oh, certainly.
+[customers chattering]
+<b>Rarity</b>: Fillies and gentlecolts! I am designer and 
+couturier Rarity, I'd like to welcome you – again [laughs nervously] – 
+to the grand opening of Canterlot Carousel, and I'm thrilled that you 
+are here to see my newest collection inspired by this regal city!
+[crowd oohs]
+[camera clicking]
+[BGM starts]
+<b>Fashion Plate</b>: Rarity, I'm—
+<b>Rarity</b>: Fashion Plate of <i>Cosmare</i> magazine! I'm so honored that <i>Cosmare</i> was able to do a piece on the grand opening of my boutique!
+<b>Fashion Plate</b>: Well, when Sassy Saddles calls, saying 
+she's found the latest and greatest in fashion, we hightail without 
+fail! Now tell me all about your latest collection!
+<b>Rarity</b>: Oh, uh, it's called "Rarity's Royal Regalia".
+<b>Fashion Plate</b>: [gasps] Royally radiant!
+<b>Rarity</b>: My favorite part of being a designer is finding 
+my inspiration, and that really wasn't difficult when it came to 
+Canterlot. Everywhere I looked, the royal city just spoke to me! I call 
+it "In-<i>spire</i>-ation".
+[crowd oohs]
+<b>Fashion Plate</b>: Genius! Simply genius!
+<b>Rarity</b>: I spent hours by the lily pond on the castle grounds, which inspired this gown – "Water Filly"!
+[crowd oohs]
+<b>Fashion Plate</b>: Oh, the whimsy!
+<b>Rarity</b>: Watching Celestia raise the sun each morning literally lit up my day... [beat] This is "Tripping the Light".
+[crowd oohs]
+<b>Fashion Plate</b>: Fantastic!
+<b>Rarity</b>: [giggles] And of course, Luna raising the moon guided me to sleep. I call this "Over the Moon"!
+[crowd oohs]
+<b>Fashion Plate</b>: Well, I certainly am!
+<b>Rarity</b>: And for our finale, I have something <i>very</i> special. I was inspired by the stained glass window created in honor of Princess Twilight... I call this "The Reign in Stain"!
+<b>Fashion Plate</b>: Because the dress is inspired by the—
+<b>Fashion Plate</b> and <b>Rarity</b>: —stained glass window of a reigning princess!
+<b>Rarity</b>: Yes!
+<b>Sassy Saddles</b>: Oh, well, <i>I</i> think "The Reign in Stain" is too difficult to explain! [short laugh] Especially for the signature piece of a collection?
+<b>Rarity</b>: But I rather like the—
+<b>Sassy Saddles</b>: Fillies and gentlecolts, I, Sassy 
+Saddles, am pleased to introduce the grand finale of the grand opening 
+of Rarity's Royal Regalia – the "Princess Dress"!
+<b>Fashion Plate</b>: [gasps] Success!
+[crowd oohing and chattering]
+<b>Sassy Saddles</b>: Everypony, please follow me and you can all place your orders for the <i>Princess Dress</i>!
+[crowd chattering]
+<b>Fashion Plate</b>: Rarity, I want to be the first pony to 
+congratulate you! The Princess Dress has just guaranteed Canterlot 
+Carousel's success! [gasps]
+[crowd chattering]
+<b>Main cast sans Rarity and Twilight</b>: [various congratulations]
+<b>Twilight Sparkle</b>: Yeah! Rarity's Royal Regalia is amazing! And everypony seemed to love the Princess Dress!
+<b>Sassy Saddles</b>: You bet your saddle they did. Rarity now has one hundred orders for her signature gown!
+<b>Rarity</b>: [stammers] <i>One hundred orders</i>?! All at one time?!
+<b>Sassy Saddles</b>: According to my pattern, the next piece is <i>The Success of the Signature Dress</i>, so <i>I</i> do not see the problem!
+[beat]
+<b>Applejack</b>: Uh...
+<b>Pinkie Pie</b>: Cupcake?
+<b>Rarity</b>: [clears throat] First of all, Sassy Saddles, I would have appreciated getting to name the final gown from <i>my</i> collection <i>myself</i>.
+<b>Sassy Saddles</b>: [short laugh] <i>My</i> research shows that your "Reign in Stain" name was a play on words that was both very confusing and quite unappealing.
+<b>Rarity</b>: [disgruntled laugh] While I see your point, we should have discussed it <i>prior</i> to the grand opening, Sassy.
+<b>Sassy Saddles</b>: My <i>only</i> goal is for Canterlot Carousel to succeed. <i>That's</i> why I changed the name, and that is why I took all those orders for the Princess Dress.
+<b>Rarity</b>: [stammering] But... But receiving orders for one hundred dresses in one day, [stammering] it's just too much too soon!
+<b>Sassy Saddles</b>: Are you actually saying we should... <i>cancel</i> these orders?!
+<b>Rarity</b>: Wha... But... [stammering] Uh, n-no, Sassy. 
+Promises were made, and I shall sew my very best to provide each and 
+every pony a Princess Dress full of TLC.
+<b>Sassy Saddles</b>: Oh, thank you, Rarity, thank you!
+<b>Rarity</b>: [sighs]
+<b>Sassy Saddles</b>: Oh, satin and silk, Rarity, are you sure you don't want your friends to help you make the dresses?
+<b>Rarity</b>: No, Sassy. These orders are my responsibility. 
+All I have to do is stick to my plan so I can deliver each and every 
+Princess Dress in keeping with my Rules of Rarity!
+
+<b>[Rarity]</b>
+The rules of Rarity, guaranteed quality
+This I can assure
+For each and every dress
+I vow to give finesse
+With time, love, and couture
+
+My favorite moment's when a pony sees it
+That special gown that she just adores
+That pony's now in style
+My hard work's all worthwhile
+Oh, yes, it makes my heart
+My heart just soar
+
+[instrumental]
+<b>[Rarity]</b>
+The rules of Rarity, just a parody
+No dress here's unique
+The panels all the same
+Each colored windowpane
+I fashion only makes me want to shriek!
+[sighs]
+
+Oh, to create would give me elation
+To feel once again some inspiration
+Come on now, Rarity
+Give me some clarity
+Time for your couture love to rule
+
+The rules of Rarity, extra TLC
+This feels more sublime
+Soon now, they will see how good these can be
+With a little extra shine
+
+The rules of Rarity, guaranteed quality
+All can see it's true
+These new gems add such flair
+Their beauty can't compare
+This old style suddenly gleams anew
+[humming]
+
+[door opens]
+[bell rings]
+<b>Rarity</b>: Is that the customer who ordered this Princess Dress?
+<b>Sassy Saddles</b>: I'll take care of her. You keep working.
+<b>Rarity</b>: Uh, actually, I'd love to see her reaction to this particular dress.
+<b>Sassy Saddles</b>: Paisley and poplin, Rarity, look at all the orders you still have to finish, and you want to take a break? <i>Now</i>?
+<b>Rarity</b>: Well, it's just I made some really lovely changes to this dress—
+<b>Sassy Saddles</b>: You did what?! But <i>every</i> Princess Dress is supposed to be <i>exactly</i> the same!
+<b>Rarity</b>: Yes yes I know, but these gems just spoke to me, and—
+<b>Sassy Saddles</b>: Fine. Go see her reaction.
+<b>Rarity</b>: Hello, and welcome to Canterlot Carousel! I am so pleased to present to you your—
+<b>"Cayenne"</b>: Princess Dress! Finally! I've been simply 
+desperate to get this ever since I saw Princess Twilight wearing it on 
+your— ...Wait a minute. There's something <i>different</i>.
+<b>Rarity</b>: Well as an artiste, I did take the liberty to change a few minor details.
+[beat]
+<b>Rarity</b>: I, eheh, I saw these gems glistening in the light, and they just spoke to me. Aren't they lovely? And so unique!
+<b>"Cayenne"</b>: [sigh] They're... fine. But they're not what I ordered, <i>are</i> they?
+<b>Rarity</b>: Uh, no. No, they're not.
+<b>"Cayenne"</b>: I want the dress to be <i>exactly</i> like the one Princess Twilight wore. Understand?
+<b>Rarity</b>: Yes... Y-Yes, of course.
+
+<b>[Rarity]</b>
+The rules of Rarity
+Once stood for something
+But now it feels just like some factory
+Now every dress I make
+With every flaw and mistake
+Oh, how it makes my heart
+My heart just break
+
+[sewing machine whirring]
+<b>Sassy Saddles</b>: Raving rick-rack, Rarity! You made <i>two</i> hundred Princess Dresses!
+<b>Rarity</b>: [deadpan] Yes. Isn't it spectacular?
+<b>Sassy Saddles</b>: And I have a special surprise for you! The latest issue of <i>Cosmare</i> magazine just hit the stands!
+<b>Rarity</b>: [reading] "Canterlot's newest rising star"?
+<b>Sassy Saddles</b>: And in the hour since the magazine's come out, we've gotten another hundred new orders for the Princess Dress!
+[thud]
+<b>Rarity</b>: [weakly] One... hundred more... Princess Dresses?! I'm the <i>Cosmare</i> cover pony... I have the most successful shop in Canterlot... I've gotten everything I ever wanted... but I'm miserable!
+<b>Sassy Saddles</b>: [short laugh] How could you <i>possibly</i> be miserable? My pattern is perfect! <i>Cosmare Cover Pony</i> – done! You have your signature gown, the <i>Princess Dress of Success</i>!
+<b>Rarity</b>: I don't <i>want</i> to make another hundred Princess Dresses!
+<b>Sassy Saddles</b>: I have a piece for that! <i>Assemble the Assembly Line</i>! You'll never have to sew again!
+<b>Rarity</b>: What?! No!
+<b>Sassy Saddles</b>: Yes! Then the Canterlot Carousel never closes! And Sassy Saddles' boutique succeeds!
+<b>Rarity</b>: <i>Stop!</i> This is <i>not</i> your boutique! 
+And if this is what success in Canterlot looks like, I want no part of 
+it! Now, make up flyers for a going-out-of-business sale! <i>I'm closing Canterlot Carousel!</i>
+<b>Sassy Saddles</b>: What?! No! Oh, you can't, Rarity! I-I've worked too hard to make this a success! I can't be a part of another failed boutique!
+[door closes]
+[magic noises]
+[hooks clinking]
+<b>Rarity</b>: [to a dress] Oh, don't you look lovely? Nice to 
+see you out here again. [to herself, hushed] Seems Sassy Saddles isn't 
+rushing to open the door this time. Hm.
+[door opens]
+<b>Rarity</b>: Welcome to the going-out-of-business sale of Canterlot Carousel.
+[ponies chattering]
+<b>Pretzel</b>: Hey, is this Princess Dress on sale?
+<b>Rarity</b>: Oh, no, I'm sorry, the Princess Dress has been discontinued. But there are plenty of other lovely dresses on sale today.
+<b>"Moonlight Raven"</b>: [flatly] Whoa. This dress completely speaks to my soul. Can I try it on?
+<b>Rarity</b>: Certainly. The dressing area is right back there.
+<b>"Sunshine Smiles"</b>: This is the most amazing of amazing dresses! Just looking at it brightens my day!
+<b>Rarity</b>: And I'm sure you'll feel even brighter once you try it on!
+<b>"North Point"</b>: Do you still have this In-spire-ation dress that's in the new issue of <i>Cosmare</i>?
+<b>Rarity</b>: Oh, yes, I do. It's-It's right here.
+<b>"North Point"</b>: Bats in the belfry! I have to try it on!
+<b>"Moonlight Raven"</b>: [flatly] Whoa. This dress makes me feel like a princess.
+<b>"Sunshine Smiles"</b>: And <i>this</i> dress makes <i>me</i> feel like a princess!
+<b>"Citrus Blush"</b>: This gown is quite beautiful, but it totally clashes with my complexion.
+<b>Rarity</b>: Hmmm. Perhaps you'd be even more taken with this
+ one. It was inspired by the fountain in the Canterlot Castle garden. I 
+call it the "Fountain of Truth"!
+<b>"Citrus Blush"</b>: It's <i>exactly</i> what I've been dreaming of!
+<b>Rarity</b>: Oh! Well, then I'll finish it, and the gown shall be yours! [to herself] How can I have forgotten? <i>This</i> is what I've been dreaming about!
+
+<b>[Rarity]</b>
+My favorite moment's when a pony sees it
+That special gown that she just adores
+That pony's now in style
+My hard work's all worthwhile
+Oh, yes, it makes my heart
+My heart just soar!
+
+<b>Rarity</b>: Attention, everypony! Canterlot Carousel will <i>not</i> be closing!
+[crowd cheering]
+<b>"Moonlight Raven"</b>: [flatly] But this stuff's still on sale, right?
+<b>Rarity</b>: [giggles] Yes, yes, of course.
+<b>Sassy Saddles</b>: Oh, Rarity, I'm so sorry. I focused on that one dress, and the rest of Rarity's Royal Regalia paid the price.
+<b>Rarity</b>: Well, so did the Princess Dress. The more I 
+sold, the more each dress lost its time, love, and couture, becoming 
+terrible, lackluster, and common.
+<b>Sassy Saddles</b>: I think I finally understand the Rules of Rarity... and will apply them at my <i>next</i> job.
+<b>Rarity</b>: I beg your pardon? The Rules of Rarity are <i>only</i> to be applied at Canterlot Carousel! Which is why you must continue to manage the boutique while I'm in Ponyville.
+<b>Sassy Saddles</b>: Ponyville?
+<b>Rarity</b>: Well, yes, I'll come to Canterlot with new 
+designs and to see the customers of course, but Ponyville was always 
+going to be my home base.
+<b>Sassy Saddles</b>: [gasps] Bobbins and bodkins, Rarity! Oh, thank you, thank you, thank you! And I promise to run everything following <i>your</i> rules.
+<b>Rarity</b>: I would expect nothing less.
+<b>"Whoa Nelly"</b>: Oh, my gosh, a sale! Do you have the Princess Dress?!
+<b>Rarity</b> and <b>Sassy Saddles</b>: No! [laughing]
+[credits]

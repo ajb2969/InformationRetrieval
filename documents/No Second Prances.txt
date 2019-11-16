@@ -1,0 +1,305 @@
+[wheels squeaking]
+[light thud]
+<b>Twilight Sparkle</b>: First lesson of the day, we very carefully set the table <i>without</i> using magic, so that— Yikes!
+[silverware clattering]
+<b>Twilight Sparkle</b>: Did you...?! How? When? <i>What?!</i>
+<b>Starlight Glimmer</b>: What?
+<b>Twilight Sparkle</b>: I said no magic. You were supposed to do it by hoof so I could work in a friendship lesson.
+<b>Starlight Glimmer</b>: Oh, I heard "set the table" and just kinda went for it.
+<b>Twilight Sparkle</b>: Well, if you <i>hadn't</i> used magic,
+ you'd have heard me say, uh... this plate represents your head, this 
+spoon is your heart, and the knives... are sharp! Always be careful with
+ knives. [sigh] The metaphors make more sense when you're actually 
+setting the table.
+<b>Starlight Glimmer</b>: Should I... change it back?
+<b>Twilight Sparkle</b>: I just want to make sure you're ready 
+for this dinner. Princess Celestia will be joining us tomorrow night to 
+see how the friendship lessons are going!
+<b>Starlight Glimmer</b>: If it's just you, me, and Princess Celestia, why are there <i>four</i> seats?
+<b>Twilight Sparkle</b>: Well, the whole point is for you to bring a new friend. That way, the princess will see for herself just how far you've come. <i>And</i> how good a teacher you have.
+<b>Starlight Glimmer</b>: Well, I can't choose. I like all your friends.
+<b>Twilight Sparkle</b>: That's the best part! You have to make a new friend!
+<b>Starlight Glimmer</b>: New friends? Hey, maybe I'll just force friendships by magically enslaving the entire population of Ponyville!
+<b>Twilight Sparkle</b>: Starlight!
+<b>Starlight Glimmer</b>: Kidding! [laughs nervously]
+[theme song]
+<b>Starlight Glimmer</b>: Let's see. Make new friends in Ponyville, the friendliest place in Equestria. Shouldn't be hard...
+<b>Pinkie Pie</b>: Need to make a new friend, huh? I know just the pony for you!
+<b>Pinkie Pie</b>: Miss Starlight Glimmer, meet Mrs. Cake!
+[small splats]
+<b>Mrs. Cake</b>: How are you, dearie?
+<b>Starlight Glimmer</b>: Are you baking? Can I help?
+[magic whirls]
+<b>Pinkie Pie</b>: Wow, Mrs. Cake! Look what your new friend made you!
+<b>Mrs. Cake</b>: [chuckles] New friend. I like the sound of– [gasps] <i>Howza-wowza!</i> A-Are you trying to put me out of business with your fancy magical-thingy-whatsit cake?!
+[splat]
+<b>Mrs. Cake</b>: [yelps and spits]
+<b>Starlight Glimmer</b>: Sorry...
+<b>Pinkie Pie</b>: [licks, swallows] In her defense, it <i>is</i> delicious! [chomps]
+[thump]
+[apples falling]
+<b>Applejack</b>: I think I have just the pony for you, Starlight. Meet Big Mac!
+<b>Big McIntosh</b>: Eeyup!
+<b>Applejack</b>: He's not much of a talker.
+<b>Big McIntosh</b>: Nnope.
+<b>Starlight Glimmer</b>: Oh, that's too bad. I love a good conversation.
+[magic wisps]
+<b>Big McIntosh</b>: [motormouth] 
+Eeyup-yup-yup-yup-yup-yup-yup-yup-y-y-y-y-you did something! Whoa! 
+What's happening? I feel really weird! I'm talkin' so much! And I'm so 
+articulate! Enunciating with such precise pronunciation! <i>Annie Apple awoke and accidentally ate an auburn azalea!</i> [screams] <i>Make it stop!</i>
+<b>Applejack</b>: [growls]
+<b>Starlight Glimmer</b>: I can't be friends with somepony who doesn't talk.
+<b>Applejack</b>: [growls]
+<b>Starlight Glimmer</b>: ...And I guess my first instinct shouldn't be to magically command ponies to act the way I want them to?
+<b>Applejack</b>: [growls]
+<b>Starlight Glimmer</b>: Alright, I'll change him back!
+<b>Rarity</b>: The trick to finding a new friend is to render yourself radiant. First impressions count a great deal, you know.
+<b>Starlight Glimmer</b>: I'm glad you all got past <i>my</i> first impression.
+<b>Rarity</b>: Well, everypony deserves a second chance. Ooh! 
+Now, I have a top-notch idea. I'm thinking pastel silk here and here 
+with a crinoline underneath.
+<b>Starlight Glimmer</b>: You really think a new outfit will help me meet ponies?
+<b>Rarity</b>: Oh, with the right outfit, you can do <i>anything</i>, darling!
+<b>Starlight Glimmer</b>: When will it be ready?
+<b>Rarity</b>: Three weeks.
+<b>Starlight Glimmer</b>: Dinner's tomorrow.
+<b>Rarity</b>: Well then, how about a hat from the... [clears throat] ...clearance bin?
+[fabric ripping]
+<b>Starlight Glimmer</b>: Ugh! Maybe not.
+<b>Rainbow Dash</b>: Heh. Nopony's gonna make friends with you because of your <i>outfit</i>. The only thing you want a new friend draped in is <i>coolness</i>.
+<b>Starlight Glimmer</b>: Like you?
+<b>Rainbow Dash</b>: Yeah, but you already know me, so... [gasps] [spitting] Spitfire! Heh. Sorry.
+<b>Starlight Glimmer</b>: Who's that?
+<b>Rainbow Dash</b>: [gasps] Only the Wonderbolt-iest pony in the Wonderbolts! Come on, I'll introduce you!
+[sonic boom]
+<b>Rainbow Dash</b>: You coming or what?
+<b>Starlight Glimmer</b>: I guess my first question would be, "What's a Wonderbolt?"
+<b>Rainbow Dash</b>: [gasps] You've <i>never</i> heard of the Wonderbolts?! Where have you <i>been</i>?!
+<b>Starlight Glimmer</b>: [nervously] Enslaving villages, I guess...
+<b>Rainbow Dash</b>: Right.
+<b>Angel</b>: [giggling]
+<b>Starlight Glimmer</b>: You're adorable, but probably not what Twilight had in mind.
+<b>Fluttershy</b>: [sighs]
+[ponies chattering]
+<b>Starlight Glimmer</b>: [groan] What is going on? This is Ponyville! If I can't make a friend here, there's gotta be something wrong with <i>me</i>! [sighs] Okay, calm down. Nobody makes friends with a total stresscase.
+[more ponies chattering]
+<b>Starlight Glimmer</b>: [to herself] Stop stressing... <i>Stop stressing!</i>
+[long beat]
+[door opens and shuts]
+<b>Starlight Glimmer</b>: [sighs] This is <i>just</i> what I needed.
+<b>Trixie</b>: [sighs] Tell me about it.
+<b>Starlight Glimmer</b>: You ever have one of <i>those</i> days?
+<b>Trixie</b>: For me, they're <i>all</i> one of those days.
+<b>Starlight Glimmer</b>: [giggles]
+<b>Trixie</b>: I'm gonna start coming here every time I visit Ponyville.
+<b>Starlight Glimmer</b>: I'm not from here either. I've been 
+trying to make friends, but it's not easy. They're not saying it, but I 
+think everypony knows about my past. I may have been a tiny bit... 
+completely and utterly evil?
+<b>Trixie</b>: Ponies judge me on my past too.
+<b>Starlight Glimmer</b>: Finally, a pony I can relate to.
+<b>Twilight Sparkle</b>: Soup spoon, salad fork, pasta spoon, 
+strawberry pick. I'm beginning to think that after friendship, the 
+greatest magic of all is proper silverware placement! [giggles]
+<b>Starlight Glimmer</b>: Twilight, guess what? I made a new friend!
+<b>Twilight Sparkle</b>: That's fantastic news!
+<b>Starlight Glimmer</b>: She's great!
+<b>Twilight Sparkle</b>: Great!
+<b>Starlight Glimmer</b>: She's powerful!
+<b>Twilight Sparkle</b>: Powerful?
+<b>Starlight Glimmer</b>: She's—
+<b>Trixie</b>: Hello... princess!
+<b>Twilight Sparkle</b>: Trixie?!
+<b>Starlight Glimmer</b>: You know each other?
+<b>Twilight Sparkle</b>: You could say that.
+<b>Trixie</b>: We've had our differences. What matters is Twilight gave me a second chance, and I appreciate it.
+[pause]
+<b>Twilight Sparkle</b>: So, um, what brings you to Ponyville?
+<b>Trixie</b>: The <i>Grrrreat</i> and <i>Powerful Trrrrixie</i>
+ has come to perform a new stage show of grand illusion! I am calling it
+ "The Humble and Penitent Trixie's Equestrian Apology Tour"!
+<b>Starlight Glimmer</b>: [hushed] That's kind of a mouthful.
+<b>Trixie</b>: [hushed] It's a working title.
+<b>Twilight Sparkle</b>: Starlight? A moment? Over here? [hushed] I know I said make friends with <i>anypony</i>, but, well, with Trixie's past, and your past, I'm not sure she's the best... first friend.
+<b>Starlight Glimmer</b>: But whatever she did, you've forgiven her, right?
+<b>Twilight Sparkle</b>: Of course. It's just... She wasn't the nicest pony.
+<b>Starlight Glimmer</b>: Well, you did say anypony, and I just assumed that you'd trust me to make my own friends the way Princess Celestia trusted <i>you</i>.
+<b>Twilight Sparkle</b>: [sighs] You're right. I trust you. Just be back in time for the dinner.
+<b>Starlight Glimmer</b>: Thanks, Twilight! You won't regret it!
+<b>Twilight Sparkle</b>: I hope not. [sighs]
+<b>Trixie</b>: This magic show's gonna be the greatest thing Ponyville's ever seen!
+<b>Cherry Berry</b> and <b>Goldengrape</b>: [unintelligible whispering] ...did you see...?
+<b>Caramel</b>, <b>Shoeshine</b>, and <b>Sunshower Raindrops</b>: [unintelligible whispering] ...did you hear...?
+<b>Trixie</b>: Everypony always says they'll give you a second chance, but deep down, they never forget.
+<b>Starlight Glimmer</b>: That's what I'm worried about.
+<b>Trixie</b>: [sighs]
+<b>Starlight Glimmer</b>: What is it?
+<b>Trixie</b>: I heard what Twilight said about me, and she's right. I wasn't very nice. So I'd understand if you didn't want to be friends.
+<b>Starlight Glimmer</b>: Are you kidding? You're the first pony I've met who has any idea how I feel!
+<b>Trixie</b>: Can you keep a secret?
+<b>Starlight Glimmer</b>: What are friends for?
+<b>Trixie</b>: [hushed] The things I've done? I did them because I was jealous of Twilight. She's just the best at <i>everything</i>, and I wanted to beat her at <i>something</i>!
+<b>Starlight Glimmer</b>: [hushed] Your secret's safe with me.
+<b>Trixie</b>: Thanks. Want to help me unpack my wagon?
+<b>Trixie</b>: I spend a lot of time on the road with my wagon, so it might be a <i>tad</i> messy.
+<b>Starlight Glimmer</b>: Maybe I can help. I'm pretty good at organizing stuff. Magic props, brainwashed crowds...
+<b>Starlight Glimmer</b> and <b>Trixie</b>: [laughing]
+<b>Twilight Sparkle</b>: Pssssssst! Pssst! <i>Psssssst</i>! Shhhhhh!
+<b>Starlight Glimmer</b>: Uh, I'll catch up. I think there's something in my hoof.
+<b>Trixie</b>: Sure. The wagon's right around the corner.
+<b>Twilight Sparkle</b>: [hushed] So, how's it going with your new friend?
+<b>Starlight Glimmer</b>: [sarcastically] Great. Thanks for asking in a completely not creepy way.
+<b>Twilight Sparkle</b>: Because you know, if it isn't working out for any reason, I could introduce you to my friend here.
+[bush rustling]
+<b>Starlight Glimmer</b>: [deadpan] Nice to meet you.
+<b>Twilight Sparkle</b>: No, no! You can come out now!
+[dubstep playing]
+<b>Twilight Sparkle</b>: You like music, right? DJ Pon-3'd be 
+the perfect friend for tonight's incredibly important dinner with 
+Celestia. You know, if you decide to make a last-minute change. Heh.
+<b>Starlight Glimmer</b>: So back at your castle when you said "I trust you", you meant "I <i>don't</i> trust you".
+<b>Twilight Sparkle</b>: [nervously] Who can really say who said what? I know I can't! [to DJ Pon-3] Can you?
+[dubstep fades out]
+<b>Twilight Sparkle</b>: Starlight, I'm just trying to look out for you.
+<b>Starlight Glimmer</b>: [sighs] I appreciate it, but you're wrong about Trixie. She's just like me. We have a real connection.
+<b>Twilight Sparkle</b>: That's kind of what I'm afraid of. Oh! What about her?
+[thump]
+<b>Starlight Glimmer</b>: Please, Twilight! I know you're trying to help, but I need to make friends on my own if I'm going to become a better pony.
+<b>Twilight Sparkle</b>: But do you really think Trixie's the one to help you with that?
+<b>Starlight Glimmer</b>: Wow. Trixie was right. You're not really giving her a second chance. I wonder what that says about how you feel about me.
+<b>Cranky Doodle Donkey</b>: [snorts]
+[bird flapping]
+<b>Twilight Sparkle</b>: Oh! Now he'd be perfect!
+<b>Starlight Glimmer</b>: [groans]
+[thump]
+[dragging]
+<b>Starlight Glimmer</b>: I was thinking. You said Twilight is better than you at everything, but that's not true. You're better at magic.
+<b>Trixie</b>: Only when I'm wearing a soul-sucking evil amulet, so I don't think that counts. Funny story. Don't need to get into it.
+<b>Starlight Glimmer</b>: I meant <i>stage</i> magic.
+<b>Trixie</b>: Well, of course! Great? Yes. Powerful? Obviously. But I'm not the <i>best</i>. As great and powerful as I am, there's one trick I've never been able to do – the Moonshot Manticore Mouth Dive!
+[silent film-type piano music and film reel flickering]
+<b>Trixie</b>: [narrating] Only one magician has ever pulled it
+ off – my hero, Hoofdini! You are supposed to blast yourself into the 
+open mouth of a hungry manticore! After the manticore chews you up and 
+swallows you, you magically step out of a box on the other side of the 
+stage!
+[film reel runs out]
+<b>Trixie</b>: Completely unharmed!
+<b>Starlight Glimmer</b>: That sounds very...
+<b>Trixie</b>: Dangerous?
+<b>Starlight Glimmer</b>: I was gonna say cool!
+<b>Trixie</b>: I knew I liked you for a reason. I don't know how he did it! If I tried it, I'd get chewed up and swallowed by that manticore.
+<b>Starlight Glimmer</b>: Not if you could use real magic.
+<b>Trixie</b>: Obviously. Way to rub it in.
+<b>Starlight Glimmer</b>: No, I mean, I could help! You could start the trick, and right before you got chewed up, I could use magic to save you...
+[magic zap]
+<b>Starlight Glimmer</b>: ...and make you appear in the black box!
+<b>Trixie</b>: I guess that would work... But if you made one mistake, I'd be a goner.
+<b>Starlight Glimmer</b>: Hah. When it comes to magic, I don't make mistakes. Maybe I could be your... magic show helper pony!
+<b>Trixie</b>: We call it "assistant" in the magician biz. And... nopony's ever offered to help before.
+<b>Starlight Glimmer</b>: Well, I'd be honored.
+<b>Trixie</b>: You may have just made my great and powerful 
+magic show even better! Which I didn't think was possible! We're gonna 
+blow them away tonight!
+<b>Starlight Glimmer</b>: [groans] I can't! Tonight's this incredibly important dinner with Twilight.
+<b>Trixie</b>: Oh.
+<b>Starlight Glimmer</b>: Can I vent for a minute?
+<b>Trixie</b>: What are friends for?
+<b>Starlight Glimmer</b>: Even after Twilight <i>says</i> she trusts me, she clearly doesn't trust me enough to choose my own friends. [sighs] I guess you were right. No second chances.
+<b>Trixie</b>: Hmph, I wish I could say I was surprised. Well, lucky for <i>Princess Twilight</i>, I have <i>my</i> magic show tonight. If you <i>have</i>
+ to go to the dinner, I completely understand. [dramatically] I just 
+hope I find a way to survive the Moonshot Manticore Mouth Dive without 
+my new assistant!
+[ice sculpture dripping]
+<b>Twilight Sparkle</b>: Starlight Glimmer should be here, heh,
+ any minute, heh. Any minute now... [nervous laugh] [forced] How about I
+ introduce everyone? Our friendship lessons are going so well! She made 
+three new friends! She has such great taste in friends. I don't know 
+where she would've learned that! [nervous laugh]
+<b>Cranky Doodle Donkey</b>: Starlight Glimmer? I thought you said "nosehair trimmers"! What's going on? I'm hungry! And my nose is too hairy. [snorts]
+<b>Twilight Sparkle</b>: [nervously] Ha-ha, Cranky Doodle! 
+You're so funny! If you'll excuse me, I'm gonna check the kitchen. Maybe
+ she got lost amongst the, uh... artichokes! [nervous laugh]
+<b>Twilight Sparkle</b>: Starlight? Has anyone seen Starlight Glimmer? I'm looking for her! <i>Trixie.</i>
+<b>Pinkie Pie</b>: So <i>this</i> is the Humble and Penitent Trixie's Equestrian Apology Tour?
+<b>Applejack</b>: Ain't that a mouthful of molasses.
+<b>Trixie</b>: It's a working title! Oh, this is gonna be the greatest night of my life! Excuse me. <i>Our</i> lives.
+<b>Starlight Glimmer</b>: [sighs] I'm so glad we're not at that boring dinner.
+<b>Twilight Sparkle</b>: Ahem? You just decided to skip our 
+dinner without telling me? Are you aware that, at this very moment, 
+Princess Celestia is waiting for you at a table with exquisite 
+silverware placement?!
+<b>Starlight Glimmer</b>: Yes, but—
+<b>Twilight Sparkle</b>: This is exactly why I didn't want you to make friends with Trixie.
+<b>Trixie</b>: A-<i>ha!</i> You still don't trust me! But guess what, <i>princess</i>?
+ It doesn't matter if you want to give me a second chance or not. 
+Starlight had to choose between you and me, and she chose me! Your pupil
+ chose me, so <i>ha!</i> I win!
+<b>Starlight Glimmer</b>: You win? That sounds like you just made friends with me to beat Twilight.
+<b>Trixie</b>: Exactly! [beat] Wait! I mean, no! I got caught 
+up in the moment. I like you. Beating Twilight is just a bonus. [gasps] 
+Saying that didn't help, did it?
+<b>Starlight Glimmer</b>: I should've known. Nopony else in Ponyville wanted to be my friend. Why would you? [controlled sobbing]
+<b>Trixie</b>: Wait, it's not like that! I <i>am</i> your friend. [groans]
+<b>Twilight Sparkle</b>: Well, you won. I hope you're happy!
+<b>Trixie</b>: [sighs] Looks like the Great and Powerful Trixie is back to a solo show.
+<b>Twilight Sparkle</b>: Trixie?
+<b>Trixie</b>: ...Which is <i>exactly</i> the way she likes it!
+ Thank you, Princess Twilight, for getting rid of that annoying pony who
+ wanted to be my first friend! I am not sad at all! I definitely don't 
+feel as if my heart is breaking into a million pieces!
+[spotlight clanks]
+<b>Trixie</b>: [unenthusiastic] Come one, come all. Come and 
+see the Pathetic and Friendless Trixie's 
+"Way-To-Go-Dum-Dum-You-Really-Messed-It-Up-This-Time Repentance Tour".
+[crowd confused]
+<b>Trixie</b>: <i>It's a working title!</i> [unenthusiastic] Behold, your fears come true. A pony-eating manticore.
+[manticore roars]
+<b>Fluttershy</b>: [trembling]
+<b>Trixie</b>: [unenthusiastic] For tonight, the Great and Powerful Trixie will be performing the Moonshot Manticore Mouth Dive.
+[crowd gasps]
+<b>Trixie</b>: [unenthusiastic] Now, now, save your gasps for 
+when I defy the beast's jaws of doom and appear inside that black box. 
+[dramatically] I was supposed to perform this trick with my great and 
+powerful assistant, who was also my great and powerful friend!
+<b>Twilight Sparkle</b>: Starlight, when I first came to 
+Ponyville, Princess Celestia gave me room to make my own decisions and 
+my own friends. I need to give you the same freedom. I shouldn't have 
+tried to pick and choose your friends for you. Just like me, you have to
+ make your own decisions and your own friends.
+<b>Starlight Glimmer</b>: But... what if Trixie really <i>was</i> using me just to one-up you?
+<b>Twilight Sparkle</b>: From what I've seen, she's the real thing.
+[fuse lights]
+<b>Twilight Sparkle</b>: But it's not my place to judge. It's all up to you.
+[manticore roars]
+[fuse hisses]
+<b>Trixie</b>: Starlight? If you're out there and you still 
+want to be friends, let's be great and powerful together! [slightly 
+echoing] Please?
+[cannon fires]
+[manticore roars]
+<b>Trixie</b>: [shrieks]
+[manticore swallows and belches]
+[crowd gasps]
+<b>Fluttershy</b>: [faints]
+[crowd confused]
+[magic zap]
+[crunch]
+<b>Trixie</b>: [woozy] Behold, the Peat and Growerful Triskie...!
+[thud]
+[beat]
+[crowd cheers]
+<b>Trixie</b>: [amplified] And now, I'm proud to introduce my 
+great and powerful assistant! [normal] And best friend. [amplified] 
+Starlight Glimmer!
+[crowd cheers]
+<b>Twilight Sparkle</b>: Trixie!
+<b>Trixie</b>: What do you want?
+<b>Twilight Sparkle</b>: I was wrong. I'm sorry. And I have to hand it to you. I could never have pulled off a trick like that.
+<b>Trixie</b>: Thank you, princess.
+[fireworks launch]
+[ice sculpture dripping]
+<b>Cranky Doodle Donkey</b>: How do you get your hair to do that all the time?
+<b>Princess Celestia</b>: [sighs]
+[silent film-type piano music over credits]

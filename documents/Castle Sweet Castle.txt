@@ -1,472 +1,364 @@
-[scrubbing noises] 
-[bear grunt] 
-[bubbling] 
-<b>Fluttershy</b>: Phew! Thanks for helping me get them so fresh and clean, Twilight. 
-<b>Twilight Sparkle</b>: No problem, happy to do it! 
-<b>Fluttershy</b>: You probably can't wait to get back to your castle and take your own bath, huh? 
-<b>Twilight Sparkle</b>: Aren't there more animals that need cleaning? 
-<b>Fluttershy</b>: I think you and I are the only ones left, and I can't wait to get the mud out of my mane. 
-[thud, splash] 
-<b>Twilight Sparkle</b>: Oh, no! Angel got dirty! I'd better stay longer to help give him a bath too! 
-[splash, scrubbing noises] 
-<b>Fluttershy</b>: Thank you ever so much for staying to give Angel a bath too, but, um... I think he's dry. 
-[floof] 
-<b>Fluttershy</b>: Goodness! It's gotten late! You really didn't have to stay all day. Not that we don't appreciate it. Isn't that right? 
-<b>Angel</b>: [grunts] 
-<b>Fluttershy</b>: I for one am exhausted. [yawns] Plus, I really need to rest up for that big pancake breakfast tomorrow. [beat] And I'm sure 
- <i>you</i> have to get the castle ready. 
-<b>Twilight Sparkle</b>: No! The castle's... fine! But maybe I'd better see if Pinkie Pie needs help with the pancakes! 
-[door slams] 
-<b>Fluttershy</b>: [knocking] Um, Angel? 
-[main cast eating noisily] 
-<b>Applejack</b>: [gulps] Mm, these are 
- <i>de</i>licious, Pinkie Pie! 
-<b>Pinkie Pie</b>: [slurps, gulps] Thanks! Twilight spent all night helping me pick the flavor! I kept thinking we'd found the right one, but she 
- <i>insisted</i> I make even more to try. And more. And more and more and more and more! It was like she never wanted to— 
-<b>Fluttershy</b>: Leave? 
-<b>Pinkie Pie</b>: Exactly! [chomp] Eventually we ran out of time so we just went with every-berry-any-chip-surprise! [to Rarity, hushed] The surprise is I lost a measuring spoon in the batter. Somepony's gonna get a very special pancake! 
-<b>Rainbow Dash</b>: Up all night, huh? Is that why she's so, uh... out of it? 
-<b>Twilight Sparkle</b>: [snoring] 
-<b>Fluttershy</b>: Um, I don't mean to sound unappreciative, but has anypony else noticed that Twilight has been a little 
- <i>too</i> helpful lately? 
-<b>Applejack</b>: Now that you mention it, she was lendin' a hoof at Sweet Apple Acres the other day and stuck around 'til near midnight. Dug up fifty tree-plantin' holes when all I needed was 
- <i>ten</i>. 
-<b>Rarity</b>: She spent an entire afternoon rearranging a single gem drawer at the boutique. An 
- <i>entire afternoon</i>! 
-<b>Rainbow Dash</b>: You think 
- <i>that's</i> weird? She raced me, like, a hundred times the other day. And lost every time! She just kept goin'! Best out of ten, best out of twenty, best out of a hundred! I mean, I know hanging out with me is awesome, but it was like she'd rather keep losing than— 
-<b>Fluttershy</b>: Leave? 
-<b>Rainbow Dash</b>: Yeah. Who does that? 
-<b>Twilight Sparkle</b>: [snoring] 
-[splat] 
-<b>Applejack</b>: Somepony who's avoidin' somethin', that's who. Soon as she wakes up, we're gonna find out what. 
-<b>Pinkie Pie</b>: [coughs] I win! 
-<b>Twilight Sparkle</b>: Huh?! I'm pancake! I mean, awake... 
-<b>Applejack</b>: Uh, Twilight? Is there somethin' you wanna tell us? 
-<b>Rarity</b>: You know how much we appreciate all you do for us, and we simply adore having you around... but... we worry you might be... ahem... avoiding something else? 
-<b>Twilight Sparkle</b>: Oh, has it been that obvious? I've been... the thing is... I know it's silly, but I... I've been avoiding... this place. 
-<b>Rarity</b>: [gasps] Why in Equestria would you want to avoid such a gorgeous castle? 
-<b>Pinkie Pie</b>: Yeah, this place has everything! Big tall ceilings that make you feel tiny! Shiny new floors that are cold to the touch! Brrr! And it even has loooong empty hallways! 
-["hallways" echoes out] 
-<b>Pinkie Pie</b>: Okay, I get it. 
-<b>Twilight Sparkle</b>: The castle is amazing. But it just... [sighs] It doesn't feel like home. 
-<b>Rarity</b>: [chuckling] Oh, is that all? Why, you simply need to decorate, darling. Make this space your own! 
-<b>Twilight Sparkle</b>: It's just so daunting! Look how big it is! I-I don't even know where to start! 
-<b>Rarity</b>: You can start by letting us do it for you. We will make this the castle of your dreams while 
- <i>you</i> go to the Ponyville spa for some much needed rest and relaxation. I'm saying this with love, but... have you looked in a mirror lately? I've never seen you look this... mmmm... 
-<b>Fluttershy</b>: Frazzled? 
-<b>Rarity</b>: Yes! That is 
- <i>absolutely</i> the word I was going to use. 
-<b>Twilight Sparkle</b>: Ooh, I guess I 
- <i>do</i> need a little help. And so does my castle. And I just know you'll do a great job, because nopony knows me better than you. 
-<b>Applejack</b>: We'll make this place feel cozier than hot cider on a rainy day. 
-<b>Rainbow Dash</b>: [gasps] There's gonna be cider?! [beat] Uh, I mean, let's decorate! 
-<b>Spike</b>: Oh, no! Did I miss the pancakes?! 
-[toy squeaks] 
-<b>Spike</b>: I sleep like a baby under that cold, cavernous ceiling. 
-<b>Rarity</b>: Spike, I'm 
- <i>so</i> glad you're here! 
-<b>Spike</b>: Really? 
-<b>Rarity</b>: Yes! You're taking Twilight to the spa! 
-<b>Spike</b>: Great! I've been meaning to get my claws done! [chews pancake] [with mouth full] Oh, you mean now. [chews] 
-<b>Applejack</b>: Come on, y'all! We've got work to do! 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   Let's all work together 
-  </dd>
-  <dd>
-   To make this castle shi-i-ine 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   Once we add some sparkle 
-  </dd>
-  <dd>
-   It'll feel, it'll feel, it'll feel... 
-  </dd>
- </dl> 
-<b>[All]</b> 
- <dl>
-  <dd>
-   It'll feel divine 
-  </dd>
- </dl> 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   Crates of apples an' bales o' hay 
-  </dd>
-  <dd>
-   Just makes ya feel at home 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   Furry friends and some popinjays 
-  </dd>
-  <dd>
-   So she won't be alone 
-  </dd>
- </dl> 
-<b>[All]</b> 
- <dl>
-  <dd>
-   And we'll make, and we'll make, and we'll make 
-  </dd>
-  <dd>
-   This castle a home 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   There's nothing like balloons and confetti 
-  </dd>
-  <dd>
-   To greet you every time you walk through the door 
-  </dd>
- </dl> 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   She'll need this and those 
-  </dd>
-  <dd>
-   Posters of all my heroes 
-  </dd>
-  <dd>
-   How could anypony awesome ever ask for more? 
-  </dd>
- </dl> 
-<b>[All]</b> 
- <dl>
-  <dd>
-   And we'll make, and we'll make, and we'll make 
-  </dd>
-  <dd>
-   A home she'll adore 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   Bright curtains of flowing silk and lace 
-  </dd>
- </dl> 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   This picture of me winning a race 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Party cannons to give her a surprise 
-  </dd>
- </dl> 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   Hoes and rakes and some more garden supplies 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   Getting hugs from this nice, big, friendly bear 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   Decorate with some gemstones bright and rare 
-  </dd>
- </dl> 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   More of this and that 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Don't forget the party hats 
-  </dd>
- </dl> 
-<b>[Rainbow Dash]</b> 
- <dl>
-  <dd>
-   How could anypony awesome ask for more than that? 
-  </dd>
- </dl> 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   Let's all work together 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   To show that we have shown 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   Princess Twilight Sparkle 
-  </dd>
- </dl> 
-<b>[All]</b> 
- <dl>
-  <dd>
-   How we make, how we make, how we make 
-  </dd>
-  <dd>
-   This castle a home 
-  </dd>
-  <dd>
-   How we make, how we make 
-  </dd>
-  <dd>
-   This castle a home 
-  </dd>
-  <dd>
-   How we make, how we make 
-  </dd>
-  <dd>
-   This castle a home! 
-  </dd>
- </dl> 
-[balloon pops] 
-[animals chittering] 
-<b>Applejack</b>: [unconvincingly] Wow, girls! We did a... great job... together... [laughs nervously] 
-<b>Rainbow Dash</b>: We sure did... something. 
-<b>Pinkie Pie</b>: [simultaneously] Together. 
-<b>Rarity</b>: [simultaneously] All together. 
-[birds twittering] 
-<b>Rainbow Dash</b>: [unconvincingly] Fluttershy, I love that you brought 
- <i>so</i> many animals. 
-<b>Fluttershy</b>: Are these 
- <i>your</i> trophies? 
-<b>Rainbow Dash</b>: I prefer to think of them as everypony's trophies but with 
- <i>my</i> name permanently etched onto them. 
-<b>Rarity</b>: [unconvincingly] [laughs] My my, Applejack, bringing the outdoors inside, it's... earthy... What a lovely touch! [sniffs, heaves] Are these quilts vintage? 
-<b>Applejack</b>: Nope, just old! Unlike your sparkly window doohickeys which are... why, they're just swell! [laughs nervously] 
-<b>Pinkie Pie</b>: No one said anything about my hidden confetti cannons! [squee] Oh, right! They're hidden! [giggles] 
-[door opens] 
-<b>Spike</b>: Hey guys, how do my claws look—
- <i>Sweet Celestia!</i> 
-<b>Rarity</b>: Oh, Spike! Are you and Twilight done already? 
-<b>Spike</b>: Don't worry, I ordered her the super-deluxe mane blow-out! She'll be a while. Man, this place looks terrible! 
-<b>Main cast sans Twilight</b>: Phew! 
-<b>Fluttershy</b>: Thank goodness somepony said something! 
-<b>Rainbow Dash</b>: It's pretty bad, right? 
-<b>Applejack</b>: This place looks like a mishmash of knickknacks. 
-<b>Rarity</b>: Hmm, I suppose it is a 
- <i>little</i> cluttered. 
-<b>Pinkie Pie</b>: What are you guys talking about? I think it looks super fun! 
-[confetti cannon explodes] 
-[scared animal noises, myriad of thumps and crashes] 
-<b>Pinkie Pie</b>: Whee! 
-<b>Fluttershy</b>: Oh! Oh, no! Please don't do that! If you all just take a deep breath and calm down— 
-[crunch] 
-<b>Rarity</b>: No! That bunting is embroidered by hoof! Don't you move one more paw! 
-[curtains ripping] 
-<b>Rarity</b>: 
- <i>Everypony, stop!</i> 
-[thud] 
-<b>Pinkie Pie</b>: Okay, now it's a mess. 
-[confetti cannon explodes] 
-<b>Rainbow Dash</b>: What're we gonna do?! 
-<b>Spike</b>: I dunno. But Twilight's blow-out won't take that long. If she was avoiding the castle before, she'll never set hoof in here now! 
-<b>Rainbow Dash</b>: Come on, guys, we've gotta do something! Twilight's counting on us! 
-<b>Rarity</b>: Spike, you've got to get back to that spa and stall her! Whatever you do, don't let her come home! 
-<b>Spike</b>: Like, forever? But we live here. 
-<b>Rarity</b>: Uh, yes, well, uh, maybe you could manage it 'til... sunset-ish? [bats eyelids] 
-<b>Spike</b>: Anything for you, Rarity... 
-<b>Applejack</b>: Okay, we all agree the castle is too cluttered, right? So why doesn't everypony take 
- <i>one</i> of their own decorations out and we'll see how it looks? 
-<b>Fluttershy</b>, 
- <b>Pinkie Pie</b> and 
- <b>Rainbow Dash</b>: [general agreement] 
-<b>Twilight Sparkle</b>: Spike, you're back! How do I look? 
-<b>Spike</b>: Great! 
-<b>Twilight Sparkle</b>: And more importantly, how does the castle look? 
-<b>Spike</b>: Great? 
-<b>Twilight Sparkle</b>: I can't wait to go home and see it! 
-<b>Spike</b>: Great! I mean, no! I mean, uh, I'm not... quite ready to go yet. Uh, why don't we have a massage? I was really hoping to get, uh... this thingy! 
-<b>Twilight Sparkle</b>: [reading] The 'Extra-strength-hot-stone-deep-tissue massage'? 
-<b>Spike</b>: [gulps] Yep! 
-<b>Twilight Sparkle</b>: I think I'll just have a traditional massage, but you go for it. 
-<b>Aloe</b>: Did somepony order massages? 
-[crash] 
-<b>Bulk Biceps</b>: 
- <i>Yeah!</i> Let's 
- <i>do</i> this, little dragon! 
-[crash] 
-<b>Aloe</b>: Oh, I hate it when he does that. Come with me, princess. 
-<b>Applejack</b>: Come on, Rarity. Everypony has taken somethin' out except you. 
-<b>Rarity</b>: Ooh, I know! I simply can't decide. 
-<b>Rainbow Dash</b>: How about this? 
-<b>Rarity</b>: No! Not that! Anything but that! 
-<b>Rainbow Dash</b>: How about these? 
-<b>Rarity</b>: Oh, but those brighten up the whole room! They're my favorite accent! 
-<b>Rainbow Dash</b>: Then let's lose the curtains! The room wouldn't need brightening if they weren't making it so dark! 
-<b>Rarity</b>: Not them! They're my favorite too! 
-<b>Rainbow Dash</b>: [growls] They can't 
- <i>all</i> be your favorite! Okay, I'm taking down the portrait. We all 
- <i>know</i> what we look like. 
-<b>Rarity</b>: [huffs] Well, the room still looks a little bit cluttered, doesn't it? Perhaps I'll take down a poster or two. Only to be helpful, of course! 
-<b>Applejack</b>: Okay, everypony calm down. I'm sure we can find a way to remove the clutter 
- <i>together</i>. 
-<b>Rarity</b>: You're absolutely right, dear. 
-<b>Applejack</b>: Hey, those are my warmin' quilts! 
-<b>Rainbow Dash</b> and 
- <b>Rarity</b>: Together! 
-[balloons popping] 
-<b>Pinkie Pie</b>: Fluttershy, tell your birds to stop pecking at my balloons! 
-<b>Fluttershy</b>: I guess they must not like being scared out of their wits by exploding confetti cannons or something. 
-<b>Pinkie Pie</b>: But we 
- <i>can't</i> get rid of the cannons! I don't remember where I hid them. 
-[confetti cannon explodes] 
-<b>Rarity</b>: Allow me to help. 
-<b>Applejack</b>: Oh, no, 
- <i>I'll</i> help you. 
-<b>Rainbow Dash</b>: Not if I help you first! 
-<b>Twilight Sparkle</b>: [sighs] Great suggestion, Spike. I feel totally relaxed. 
-<b>Spike</b>: [joints cracking] Ow. Ow. Ow. Ow. Ow... 
-<b>Twilight Sparkle</b>: You want to hop on? Maybe I can get us to the castle faster. 
-<b>Spike</b>: [cracks] Ow! I mean... how... nice is this day? I was hoping we could take the scenic way back. 
-<b>Twilight Sparkle</b>: I don't know. 
-<b>Spike</b>: Come on. Walking is good for post-massage circulation. 
-<b>Twilight Sparkle</b>: Really? I've never heard that theory. 
-<b>Twilight Sparkle</b>: [sighs] I really miss this place, Spike. We had so many wonderful memories here. 
-<b>Spike</b>: We did, didn't we...? 
-<b>Twilight Sparkle</b>: Oh, Spike, I'm so sorry. Of course losing the Golden Oak Library was hard for you too. [beat] I've got an idea. Why don't we have the girls add some things to make the castle feel more like your home as well? 
-<b>Spike</b>: Really? 
-<b>Twilight Sparkle</b>: Hop on! 
-[thud] 
-<b>Twilight Sparkle</b>: Ow! What are you doing? 
-<b>Spike</b>: I, um... I just thought of what I want! 
-<b>Twilight Sparkle</b>: Oh, okay. What is it? 
-<b>Spike</b>: It's a... well, I want a... it's... I kind of need a... a bed! 
-<b>Twilight Sparkle</b>: I thought you said you sleep like a baby in the castle. 
-<b>Spike</b>: [scoffs] Everypony knows babies are terrible sleepers. Let's go! 
-<b>Rarity</b>: There! Now nothing is cluttering the castle! 
-<b>Rainbow Dash</b>: You're right. There is literally 
- <i>nothing</i> cluttering this castle. 
-<b>Fluttershy</b>: What do we do now? 
-<b>Rarity</b>: I hate to be the bearer of more bad news, but it's almost sunset. If we don't figure this out soon, it's going to look like we didn't lift a hoof to help her! 
-<b>Rainbow Dash</b>: Why is this so hard?! We're Twilight's best friends! This should be easy for us! 
-<b>Applejack</b>: She said it herself – if anypony should be able to make her feel comfortable in her new home, it's us. If we can't do it... 
-<b>Fluttershy</b>: Then Twilight will be stuck living in a castle that makes her feel... sad! 
-["sad" echoes out] 
-<b>Pinkie Pie</b>: Wow, Fluttershy! I didn't know you could be loud enough to echo! 
-<b>Rarity</b>: [muttering to herself] Can't believe I let go of the portrait... If it had just been me... [ducks under] 
-<b>Pinkie Pie</b>: What do we do? What do we do?! If Twilight comes home now, she'll be like "What did you guys do?" And we'll have to be like "Nothing!" And then she'll be like "I was counting on you! Some friends 
- <i>you</i> are!" And we'll be like... [screams] [mocks crying] 
-<b>Applejack</b>: Calm down, Pinkie. We just need to figure out what we did wrong so we can make it right. 
-<b>Rarity</b>: Well, 
- <i>I</i> didn't do anything wrong! I did exactly what I would do if this were 
- <i>my</i> home! 
-<b>Rainbow Dash</b>: But it's not your home. It's Twilight's home! 
-<b>Rarity</b>: Where she keeps all her Rainbow Dash trophies? 
-<b>Rainbow Dash</b>: Touché. 
-<b>Fluttershy</b>: Maybe we're all a little guilty of making ourselves feel at home instead of Twilight. 
-<b>Applejack</b>: Come on, y'all. We just need to think about Twilight. What was it she'd loved about livin' in the Golden Oak Library? 
-<b>Fluttershy</b>: Oh, everything! The books, the smell of books, the joy she felt from organizing books... 
-<b>Rainbow Dash</b>: Remember that time I crashed into all those books attempting my sonic rainboom after you guys 
- <i>just</i> cleaned up? [laughs, sighs] That was good times. 
-<b>Applejack</b>: Yeah, for you, maybe. 
-<b>Rarity</b>: Oh, and Applejack, remember when we were stuck having a sleepover there? That turned out to be so much fun! 
-<b>Pinkie Pie</b>: Remember the time it got blown up to smithereens?! Wait, no, that was the worst. 
-<b>Applejack</b>: We had a lot of good memories there, though. That's what made the Golden Oak Library home. 
-<b>Rest of main cast sans Twilight</b>: Yeah... 
-<b>Applejack</b>: [gasps] That's it! 
-<b>Twilight Sparkle</b>: How's that one? Too soft? Too hard? Too lumpy? 
-<b>Spike</b>: Um... Just right! I'll take it! 
-<b>Twilight Sparkle</b>: Oh, thank goodness. I thought you'd never find one you liked! Let's find a salespony and get out of here. 
-<b>Spike</b>: Sounds good to meee—I... nn, um, uh, heh... did you hear that? [mimes squeaky springs] Too squeaky! Better keep looking! 
-<b>Twilight Sparkle</b>: [groans] 
-<b>Applejack</b>: [sighs] Maybe my plan won't work after all. 
-<b>Rarity</b>: Of course it will, darling. I can see it! You and Fluttershy stay here. Rainbow Dash and Pinkie Pie, you come with me. We're going shopping! We'll meet back at the castle. 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   It's not the things that ya gather 'round 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   It's not how much you own 
-  </dd>
- </dl> 
-<b>[Rarity]</b> 
- <dl>
-  <dd>
-   The things that hold the meaning in your life 
-  </dd>
-  <dd>
-   Are the memories you've sown 
-  </dd>
- </dl> 
-<b>[All]</b> 
- <dl>
-  <dd>
-   So we make, so we make, so we make 
-  </dd>
-  <dd>
-   This castle a home 
-  </dd>
-  <dd>
-   So we make, so we make 
-  </dd>
-  <dd>
-   This castle a home 
-  </dd>
-  <dd>
-   So we make, so we make 
-  </dd>
-  <dd>
-   This castle a home! 
-  </dd>
- </dl> 
-[door opens] 
-<b>Twilight Sparkle</b>: Hello? We're home! 
-<b>Rest of main cast</b>: Welcome home! 
-<b>Twilight Sparkle</b>: Oh, I, uh... love what you've done with the place. You did such a good job of... preserving the integrity of the original design. 
-<b>Spike</b>: Aw, come on! It looks exactly the same! Do you know how hard it was to keep her from coming back here?! I never want to see another dust ruffle as long as I live! 
-<b>Twilight Sparkle</b>: Wait. Keep me from coming back here? 
-<b>Rarity</b>: [laughs nervously] It took a teensy bit longer than we thought. 
-<b>Applejack</b>: What really makes home feel like home isn't what it looks like. It's the memories you make when you're there. 
-<b>Rarity</b>: So we've made something that celebrates the memories we've made with you since you moved to Ponyville. 
-[doors open] 
-<b>Fluttershy</b>: The ornaments on the chandelier are reminders of all the fun we've had together. 
-<b>Pinkie Pie</b>: That one shows your party at the Golden Oak Library welcoming you to Ponyville! 
-<b>Fluttershy</b>: The time we shared donuts after the Grand Galloping Gala! 
-<b>Rarity</b>: We were hoping that being able to look at your beautiful old memories would inspire you to make new ones. 
-<b>Applejack</b>: And the best part of it is, it's made from the roots of the Golden Oak Library, so you'll never forget where you came from. 
-<b>Twilight Sparkle</b>: It's 
- <i>exactly</i> what the castle needed. And I am ready to make new memories here. 
-<b>Pinkie Pie</b>: Then let's start right now with a new memory cake! Seven layer what's-that-flavor mystery surprise! These 
- <i>might</i> be chocolate chips or they might be super-spicy black beans! 
-<b>Twilight Sparkle</b>: Let's go to the dining room. It's a little sparse, but [door opens] at least there's a table and chairs. Whoa! What happened in here? Last I checked, this place was empty! 
-<b>Rarity</b>: I couldn't help myself! It was just begging for the personal touch! 
-<b>Applejack</b>: Truth be told... I couldn't either. Your kitchen might have some rustic farm decor, Twilight. 
-<b>Rainbow Dash</b>: And there may or may not be some Daring Do posters up in your library. 
-<b>Fluttershy</b>: And some stuffed animals in your bedroom. 
-[confetti cannon explodes] 
-<b>Twilight Sparkle</b>: What was that?! 
-<b>Applejack</b>: [sighs] One of Pinkie Pie's confetti cannons. 
-<b>Pinkie Pie</b>: What? It's not my fault I hid them so well! 
-<b>Main cast</b>: [laughing] 
-<b>Applejack</b>: [simultaneously] Oh, Pinkie... 
-[credits] 
+[scrubbing noises]
+[bear grunt]
+[bubbling]
+<b>Fluttershy</b>: Phew! Thanks for helping me get them so fresh and clean, Twilight.
+<b>Twilight Sparkle</b>: No problem, happy to do it!
+<b>Fluttershy</b>: You probably can't wait to get back to your castle and take your own bath, huh?
+<b>Twilight Sparkle</b>: Aren't there more animals that need cleaning?
+<b>Fluttershy</b>: I think you and I are the only ones left, and I can't wait to get the mud out of my mane.
+[thud, splash]
+<b>Twilight Sparkle</b>: Oh, no! Angel got dirty! I'd better stay longer to help give him a bath too!
+[splash, scrubbing noises]
+[theme song]
+<b>Fluttershy</b>: Thank you ever so much for staying to give Angel a bath too, but, um... I think he's dry.
+[floof]
+<b>Fluttershy</b>: Goodness! It's gotten late! You really didn't have to stay all day. Not that we don't appreciate it. Isn't that right?
+<b>Angel</b>: [grunts]
+<b>Fluttershy</b>: I for one am exhausted. [yawns] Plus, I really need to rest up for that big pancake breakfast tomorrow. [beat] And I'm sure <i>you</i> have to get the castle ready.
+<b>Twilight Sparkle</b>: No! The castle's... fine! But maybe I'd better see if Pinkie Pie needs help with the pancakes!
+[door slams]
+<b>Fluttershy</b>: [knocking] Um, Angel?
+[main cast eating noisily]
+<b>Applejack</b>: [gulps] Mm, these are <i>de</i>licious, Pinkie Pie!
+<b>Pinkie Pie</b>: [slurps, gulps] Thanks! Twilight spent all 
+night helping me pick the flavor! I kept thinking we'd found the right 
+one, but she <i>insisted</i> I make even more to try. And more. And more and more and more and more! It was like she never wanted to—
+<b>Fluttershy</b>: Leave?
+<b>Pinkie Pie</b>: Exactly! [chomp] Eventually we ran out of 
+time so we just went with every-berry-any-chip-surprise! [to Rarity, 
+hushed] The surprise is I lost a measuring spoon in the batter. 
+Somepony's gonna get a very special pancake!
+<b>Rainbow Dash</b>: Up all night, huh? Is that why she's so, uh... out of it?
+<b>Twilight Sparkle</b>: [snoring]
+<b>Fluttershy</b>: Um, I don't mean to sound unappreciative, but has anypony else noticed that Twilight has been a little <i>too</i> helpful lately?
+<b>Applejack</b>: Now that you mention it, she was lendin' a 
+hoof at Sweet Apple Acres the other day and stuck around 'til near 
+midnight. Dug up fifty tree-plantin' holes when all I needed was <i>ten</i>.
+<b>Rarity</b>: She spent an entire afternoon rearranging a single gem drawer at the boutique. An <i>entire afternoon</i>!
+<b>Rainbow Dash</b>: You think <i>that's</i> weird? She raced 
+me, like, a hundred times the other day. And lost every time! She just 
+kept goin'! Best out of ten, best out of twenty, best out of a hundred! I
+ mean, I know hanging out with me is awesome, but it was like she'd 
+rather keep losing than—
+<b>Fluttershy</b>: Leave?
+<b>Rainbow Dash</b>: Yeah. Who does that?
+<b>Twilight Sparkle</b>: [snoring]
+[splat]
+<b>Applejack</b>: Somepony who's avoidin' somethin', that's who. Soon as she wakes up, we're gonna find out what.
+<b>Pinkie Pie</b>: [coughs] I win!
+<b>Twilight Sparkle</b>: Huh?! I'm pancake! I mean, awake...
+<b>Applejack</b>: Uh, Twilight? Is there somethin' you wanna tell us?
+<b>Rarity</b>: You know how much we appreciate all you do for 
+us, and we simply adore having you around... but... we worry you might 
+be... ahem... avoiding something else?
+<b>Twilight Sparkle</b>: Oh, has it been that obvious? I've been... the thing is... I know it's silly, but I... I've been avoiding... this place.
+<b>Rarity</b>: [gasps] Why in Equestria would you want to avoid such a gorgeous castle?
+<b>Pinkie Pie</b>: Yeah, this place has everything! Big tall 
+ceilings that make you feel tiny! Shiny new floors that are cold to the 
+touch! Brrr! And it even has loooong empty hallways!
+["hallways" echoes out]
+<b>Pinkie Pie</b>: Okay, I get it.
+<b>Twilight Sparkle</b>: The castle is amazing. But it just... [sighs] It doesn't feel like home.
+<b>Rarity</b>: [chuckling] Oh, is that all? Why, you simply need to decorate, darling. Make this space your own!
+<b>Twilight Sparkle</b>: It's just so daunting! Look how big it is! I-I don't even know where to start!
+<b>Rarity</b>: You can start by letting us do it for you. We will make this the castle of your dreams while <i>you</i>
+ go to the Ponyville spa for some much needed rest and relaxation. I'm 
+saying this with love, but... have you looked in a mirror lately? I've 
+never seen you look this... mmmm...
+<b>Fluttershy</b>: Frazzled?
+<b>Rarity</b>: Yes! That is <i>absolutely</i> the word I was going to use.
+<b>Twilight Sparkle</b>: Ooh, I guess I <i>do</i> need a little help. And so does my castle. And I just know you'll do a great job, because nopony knows me better than you.
+<b>Applejack</b>: We'll make this place feel cozier than hot cider on a rainy day.
+<b>Rainbow Dash</b>: [gasps] There's gonna be cider?! [beat] Uh, I mean, let's decorate!
+<b>Spike</b>: Oh, no! Did I miss the pancakes?!
+[toy squeaks]
+<b>Spike</b>: I sleep like a baby under that cold, cavernous ceiling.
+<b>Rarity</b>: Spike, I'm <i>so</i> glad you're here!
+<b>Spike</b>: Really?
+<b>Rarity</b>: Yes! You're taking Twilight to the spa!
+<b>Spike</b>: Great! I've been meaning to get my claws done! [chews pancake] [with mouth full] Oh, you mean now. [chews]
+<b>Applejack</b>: Come on, y'all! We've got work to do!
+
+<b>[Rainbow Dash]</b>
+Let's all work together
+To make this castle shi-i-ine
+
+<b>[Rarity]</b>
+Once we add some sparkle
+It'll feel, it'll feel, it'll feel...
+
+<b>[All]</b>
+It'll feel divine
+
+<b>[Applejack]</b>
+Crates of apples an' bales o' hay
+Just makes ya feel at home
+
+<b>[Fluttershy]</b>
+Furry friends and some popinjays
+So she won't be alone
+
+<b>[All]</b>
+And we'll make, and we'll make, and we'll make
+This castle a home
+
+<b>[Pinkie Pie]</b>
+There's nothing like balloons and confetti
+To greet you every time you walk through the door
+
+<b>[Rainbow Dash]</b>
+She'll need this and those
+Posters of all my heroes
+How could anypony awesome ever ask for more?
+
+<b>[All]</b>
+And we'll make, and we'll make, and we'll make
+A home she'll adore
+
+<b>[Rarity]</b>
+Bright curtains of flowing silk and lace
+
+<b>[Rainbow Dash]</b>
+This picture of me winning a race
+
+<b>[Pinkie Pie]</b>
+Party cannons to give her a surprise
+
+<b>[Applejack]</b>
+Hoes and rakes and some more garden supplies
+
+<b>[Fluttershy]</b>
+Getting hugs from this nice, big, friendly bear
+
+<b>[Rarity]</b>
+Decorate with some gemstones bright and rare
+
+<b>[Rainbow Dash]</b>
+More of this and that
+
+<b>[Pinkie Pie]</b>
+Don't forget the party hats
+
+<b>[Rainbow Dash]</b>
+How could anypony awesome ask for more than that?
+
+<b>[Applejack]</b>
+Let's all work together
+
+<b>[Fluttershy]</b>
+To show that we have shown
+
+<b>[Rarity]</b>
+Princess Twilight Sparkle
+
+<b>[All]</b>
+How we make, how we make, how we make
+This castle a home
+How we make, how we make
+This castle a home
+How we make, how we make
+This castle a home!
+
+[balloon pops]
+[animals chittering]
+<b>Applejack</b>: [unconvincingly] Wow, girls! We did a... great job... together... [laughs nervously]
+<b>Rainbow Dash</b>: We sure did... something.
+<b>Pinkie Pie</b>: [simultaneously] Together.
+<b>Rarity</b>: [simultaneously] All together.
+[birds twittering]
+<b>Rainbow Dash</b>: [unconvincingly] Fluttershy, I love that you brought <i>so</i> many animals.
+<b>Fluttershy</b>: Are these <i>your</i> trophies?
+<b>Rainbow Dash</b>: I prefer to think of them as everypony's trophies but with <i>my</i> name permanently etched onto them.
+<b>Rarity</b>: [unconvincingly] [laughs] My my, Applejack, 
+bringing the outdoors inside, it's... earthy... What a lovely touch! 
+[sniffs, heaves] Are these quilts vintage?
+<b>Applejack</b>: Nope, just old! Unlike your sparkly window doohickeys which are... why, they're just swell! [laughs nervously]
+<b>Pinkie Pie</b>: No one said anything about my hidden confetti cannons! [squee] Oh, right! They're hidden! [giggles]
+[door opens]
+<b>Spike</b>: Hey guys, how do my claws look—<i>Sweet Celestia!</i>
+<b>Rarity</b>: Oh, Spike! Are you and Twilight done already?
+<b>Spike</b>: Don't worry, I ordered her the super-deluxe mane blow-out! She'll be a while. Man, this place looks terrible!
+<b>Main cast sans Twilight</b>: Phew!
+<b>Fluttershy</b>: Thank goodness somepony said something!
+<b>Rainbow Dash</b>: It's pretty bad, right?
+<b>Applejack</b>: This place looks like a mishmash of knickknacks.
+<b>Rarity</b>: Hmm, I suppose it is a <i>little</i> cluttered.
+<b>Pinkie Pie</b>: What are you guys talking about? I think it looks super fun!
+[confetti cannon explodes]
+[scared animal noises, myriad of thumps and crashes]
+<b>Pinkie Pie</b>: Whee!
+<b>Fluttershy</b>: Oh! Oh, no! Please don't do that! If you all just take a deep breath and calm down—
+[crunch]
+<b>Rarity</b>: No! That bunting is embroidered by hoof! Don't you move one more paw!
+[curtains ripping]
+<b>Rarity</b>: <i>Everypony, stop!</i>
+[thud]
+<b>Pinkie Pie</b>: Okay, now it's a mess.
+[confetti cannon explodes]
+<b>Rainbow Dash</b>: What're we gonna do?!
+<b>Spike</b>: I dunno. But Twilight's blow-out won't take that 
+long. If she was avoiding the castle before, she'll never set hoof in 
+here now!
+<b>Rainbow Dash</b>: Come on, guys, we've gotta do something! Twilight's counting on us!
+<b>Rarity</b>: Spike, you've got to get back to that spa and stall her! Whatever you do, don't let her come home!
+<b>Spike</b>: Like, forever? But we live here.
+<b>Rarity</b>: Uh, yes, well, uh, maybe you could manage it 'til... sunset-ish? [bats eyelids]
+<b>Spike</b>: Anything for you, Rarity...
+<b>Applejack</b>: Okay, we all agree the castle is too cluttered, right? So why doesn't everypony take <i>one</i> of their own decorations out and we'll see how it looks?
+<b>Fluttershy</b>, <b>Pinkie Pie</b> and <b>Rainbow Dash</b>: [general agreement]
+<b>Twilight Sparkle</b>: Spike, you're back! How do I look?
+<b>Spike</b>: Great!
+<b>Twilight Sparkle</b>: And more importantly, how does the castle look?
+<b>Spike</b>: Great?
+<b>Twilight Sparkle</b>: I can't wait to go home and see it!
+<b>Spike</b>: Great! I mean, no! I mean, uh, I'm not... quite 
+ready to go yet. Uh, why don't we have a massage? I was really hoping to
+ get, uh... this thingy!
+<b>Twilight Sparkle</b>: [reading] The 'Extra-strength-hot-stone-deep-tissue massage'?
+<b>Spike</b>: [gulps] Yep!
+<b>Twilight Sparkle</b>: I think I'll just have a traditional massage, but you go for it.
+<b>Aloe</b>: Did somepony order massages?
+[crash]
+<b>Bulk Biceps</b>: <i>Yeah!</i> Let's <i>do</i> this, little dragon!
+[crash]
+<b>Aloe</b>: Oh, I hate it when he does that. Come with me, princess.
+<b>Applejack</b>: Come on, Rarity. Everypony has taken somethin' out except you.
+<b>Rarity</b>: Ooh, I know! I simply can't decide.
+<b>Rainbow Dash</b>: How about this?
+<b>Rarity</b>: No! Not that! Anything but that!
+<b>Rainbow Dash</b>: How about these?
+<b>Rarity</b>: Oh, but those brighten up the whole room! They're my favorite accent!
+<b>Rainbow Dash</b>: Then let's lose the curtains! The room wouldn't need brightening if they weren't making it so dark!
+<b>Rarity</b>: Not them! They're my favorite too!
+<b>Rainbow Dash</b>: [growls] They can't <i>all</i> be your favorite! Okay, I'm taking down the portrait. We all <i>know</i> what we look like.
+<b>Rarity</b>: [huffs] Well, the room still looks a little bit 
+cluttered, doesn't it? Perhaps I'll take down a poster or two. Only to 
+be helpful, of course!
+<b>Applejack</b>: Okay, everypony calm down. I'm sure we can find a way to remove the clutter <i>together</i>.
+<b>Rarity</b>: You're absolutely right, dear.
+<b>Applejack</b>: Hey, those are my warmin' quilts!
+<b>Rainbow Dash</b> and <b>Rarity</b>: Together!
+[balloons popping]
+<b>Pinkie Pie</b>: Fluttershy, tell your birds to stop pecking at my balloons!
+<b>Fluttershy</b>: I guess they must not like being scared out of their wits by exploding confetti cannons or something.
+<b>Pinkie Pie</b>: But we <i>can't</i> get rid of the cannons! I don't remember where I hid them.
+[confetti cannon explodes]
+<b>Rarity</b>: Allow me to help.
+<b>Applejack</b>: Oh, no, <i>I'll</i> help you.
+<b>Rainbow Dash</b>: Not if I help you first!
+<b>Twilight Sparkle</b>: [sighs] Great suggestion, Spike. I feel totally relaxed.
+<b>Spike</b>: [joints cracking] Ow. Ow. Ow. Ow. Ow...
+<b>Twilight Sparkle</b>: You want to hop on? Maybe I can get us to the castle faster.
+<b>Spike</b>: [cracks] Ow! I mean... how... nice is this day? I was hoping we could take the scenic way back.
+<b>Twilight Sparkle</b>: I don't know.
+<b>Spike</b>: Come on. Walking is good for post-massage circulation.
+<b>Twilight Sparkle</b>: Really? I've never heard that theory.
+<b>Twilight Sparkle</b>: [sighs] I really miss this place, Spike. We had so many wonderful memories here.
+<b>Spike</b>: We did, didn't we...?
+<b>Twilight Sparkle</b>: Oh, Spike, I'm so sorry. Of course 
+losing the Golden Oak Library was hard for you too. [beat] I've got an 
+idea. Why don't we have the girls add some things to make the castle 
+feel more like your home as well?
+<b>Spike</b>: Really?
+<b>Twilight Sparkle</b>: Hop on!
+[thud]
+<b>Twilight Sparkle</b>: Ow! What are you doing?
+<b>Spike</b>: I, um... I just thought of what I want!
+<b>Twilight Sparkle</b>: Oh, okay. What is it?
+<b>Spike</b>: It's a... well, I want a... it's... I kind of need a... a bed!
+<b>Twilight Sparkle</b>: I thought you said you sleep like a baby in the castle.
+<b>Spike</b>: [scoffs] Everypony knows babies are terrible sleepers. Let's go!
+<b>Rarity</b>: There! Now nothing is cluttering the castle!
+<b>Rainbow Dash</b>: You're right. There is literally <i>nothing</i> cluttering this castle.
+<b>Fluttershy</b>: What do we do now?
+<b>Rarity</b>: I hate to be the bearer of more bad news, but 
+it's almost sunset. If we don't figure this out soon, it's going to look
+ like we didn't lift a hoof to help her!
+<b>Rainbow Dash</b>: Why is this so hard?! We're Twilight's best friends! This should be easy for us!
+<b>Applejack</b>: She said it herself – if anypony should be able to make her feel comfortable in her new home, it's us. If we can't do it...
+<b>Fluttershy</b>: Then Twilight will be stuck living in a castle that makes her feel... sad!
+["sad" echoes out]
+<b>Pinkie Pie</b>: Wow, Fluttershy! I didn't know you could be loud enough to echo!
+<b>Rarity</b>: [muttering to herself] Can't believe I let go of the portrait... If it had just been me... [ducks under]
+<b>Pinkie Pie</b>: What do we do? What do we do?! If Twilight 
+comes home now, she'll be like "What did you guys do?" And we'll have to
+ be like "Nothing!" And then she'll be like "I was counting on you! Some
+ friends <i>you</i> are!" And we'll be like... [screams] [mocks crying]
+<b>Applejack</b>: Calm down, Pinkie. We just need to figure out what we did wrong so we can make it right.
+<b>Rarity</b>: Well, <i>I</i> didn't do anything wrong! I did exactly what I would do if this were <i>my</i> home!
+<b>Rainbow Dash</b>: But it's not your home. It's Twilight's home!
+<b>Rarity</b>: Where she keeps all her Rainbow Dash trophies?
+<b>Rainbow Dash</b>: Touché.
+<b>Fluttershy</b>: Maybe we're all a little guilty of making ourselves feel at home instead of Twilight.
+<b>Applejack</b>: Come on, y'all. We just need to think about Twilight. What was it she'd loved about livin' in the Golden Oak Library?
+<b>Fluttershy</b>: Oh, everything! The books, the smell of books, the joy she felt from organizing books...
+<b>Rainbow Dash</b>: Remember that time I crashed into all those books attempting my sonic rainboom after you guys <i>just</i> cleaned up? [laughs, sighs] That was good times.
+<b>Applejack</b>: Yeah, for you, maybe.
+<b>Rarity</b>: Oh, and Applejack, remember when we were stuck having a sleepover there? That turned out to be so much fun!
+<b>Pinkie Pie</b>: Remember the time it got blown up to smithereens?! Wait, no, that was the worst.
+<b>Applejack</b>: We had a lot of good memories there, though. That's what made the Golden Oak Library home.
+<b>Rest of main cast sans Twilight</b>: Yeah...
+<b>Applejack</b>: [gasps] That's it!
+<b>Twilight Sparkle</b>: How's that one? Too soft? Too hard? Too lumpy?
+<b>Spike</b>: Um... Just right! I'll take it!
+<b>Twilight Sparkle</b>: Oh, thank goodness. I thought you'd never find one you liked! Let's find a salespony and get out of here.
+<b>Spike</b>: Sounds good to meee—I... nn, um, uh, heh... did you hear that? [mimes squeaky springs] Too squeaky! Better keep looking!
+<b>Twilight Sparkle</b>: [groans]
+<b>Applejack</b>: [sighs] Maybe my plan won't work after all.
+<b>Rarity</b>: Of course it will, darling. I can see it! You 
+and Fluttershy stay here. Rainbow Dash and Pinkie Pie, you come with me.
+ We're going shopping! We'll meet back at the castle.
+
+<b>[Applejack]</b>
+It's not the things that ya gather 'round
+
+<b>[Fluttershy]</b>
+It's not how much you own
+
+<b>[Rarity]</b>
+The things that hold the meaning in your life
+Are the memories you've sown
+
+<b>[All]</b>
+So we make, so we make, so we make
+This castle a home
+So we make, so we make
+This castle a home
+So we make, so we make
+This castle a home!
+
+[door opens]
+<b>Twilight Sparkle</b>: Hello? We're home!
+<b>Rest of main cast</b>: Welcome home!
+<b>Twilight Sparkle</b>: Oh, I, uh... love what you've done 
+with the place. You did such a good job of... preserving the integrity 
+of the original design.
+<b>Spike</b>: Aw, come on! It looks exactly the same! Do you 
+know how hard it was to keep her from coming back here?! I never want to
+ see another dust ruffle as long as I live!
+<b>Twilight Sparkle</b>: Wait. Keep me from coming back here?
+<b>Rarity</b>: [laughs nervously] It took a teensy bit longer than we thought.
+<b>Applejack</b>: What really makes home feel like home isn't what it looks like. It's the memories you make when you're there.
+<b>Rarity</b>: So we've made something that celebrates the memories we've made with you since you moved to Ponyville.
+[doors open]
+<b>Fluttershy</b>: The ornaments on the chandelier are reminders of all the fun we've had together.
+<b>Pinkie Pie</b>: That one shows your party at the Golden Oak Library welcoming you to Ponyville!
+<b>Fluttershy</b>: The time we shared donuts after the Grand Galloping Gala!
+<b>Rarity</b>: We were hoping that being able to look at your beautiful old memories would inspire you to make new ones.
+<b>Applejack</b>: And the best part of it is, it's made from the roots of the Golden Oak Library, so you'll never forget where you came from.
+<b>Twilight Sparkle</b>: It's <i>exactly</i> what the castle needed. And I am ready to make new memories here.
+<b>Pinkie Pie</b>: Then let's start right now with a new memory cake! Seven layer what's-that-flavor mystery surprise! These <i>might</i> be chocolate chips or they might be super-spicy black beans!
+<b>Twilight Sparkle</b>: Let's go to the dining room. It's a 
+little sparse, but [door opens] at least there's a table and chairs. 
+Whoa! What happened in here? Last I checked, this place was empty!
+<b>Rarity</b>: I couldn't help myself! It was just begging for the personal touch!
+<b>Applejack</b>: Truth be told... I couldn't either. Your kitchen might have some rustic farm decor, Twilight.
+<b>Rainbow Dash</b>: And there may or may not be some Daring Do posters up in your library.
+<b>Fluttershy</b>: And some stuffed animals in your bedroom.
+[confetti cannon explodes]
+<b>Twilight Sparkle</b>: What was that?!
+<b>Applejack</b>: [sighs] One of Pinkie Pie's confetti cannons.
+<b>Pinkie Pie</b>: What? It's not my fault I hid them so well!
+<b>Main cast</b>: [laughing]
+<b>Applejack</b>: [simultaneously] Oh, Pinkie...
+[credits]

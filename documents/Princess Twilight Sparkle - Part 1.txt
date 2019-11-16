@@ -1,253 +1,307 @@
-<b>Rainbow Dash</b>: You gotta really flap 'em hard. 
-<b>Twilight Sparkle</b>: [grunts] Whoa! 
-<b>Rainbow Dash</b>: Uh, maybe not quite that hard. 
-<b>Twilight Sparkle</b>: Whoa! Oof! 
-<b>Applejack</b>: Lookin' good up there, Princess Twilight. 
-<b>Twilight Sparkle</b>: Applejack, you know you don't have to call me that. 
-<b>Rarity</b>: Why do you protest so? You've already given up wearing your crown all the time. The least you can do is embrace your new title. 
-<b>Twilight Sparkle</b>: If other ponies want to address me that way, I suppose it's fine, but... not my friends. It just doesn't feel right. [sigh] And neither does all this flying business. The Summer Sun Celebration is only two days away, and I'm 
- <i>never</i> gonna be ready to perform my part. 
-<b>Rainbow Dash</b>: Not if you spend all your time down here, you won't! Now get up there and show everypony the big finish! 
-<b>Main 6 sans Twilight</b>: [cheering] 
-<b>Twilight Sparkle</b>: Woo-hoo! Whaaaa! Oof! Oof! [coughs] [screams] 
-<b>Pinkie Pie</b>: Wow! That 
- <i>was</i> a big finish! 
-<b>Twilight Sparkle</b>: [groans] 
-<b>Rarity</b>: You look amazing, darling. They've really captured your regality. 
-<b>Twilight Sparkle</b>: I suppose. 
-<b>Rarity</b>: Oh, don't be so modest. It's everypony's dream to someday wear a crown and have their coronation ceremony preserved in stained glass for all to see. [sighs] 
-<b>Rainbow Dash</b>: I don't know if it's 
- <i>everypony's</i> dream. 
-<b>Pinkie Pie</b>: Most of my dreams are about frosting! [slurp] Ohohohoho... 
-<b>Fluttershy</b>: We'd better get going. We don't want to miss our train. 
-<b>Applejack</b>: Fluttershy's right. Don't know about y'all, but I've still got bushels to do to get ready. The official celebration may be here in Canterlot, but hoo-wee, has the Mayor put us in charge of one heck of a party back home. Aw, don't look like that, sugarcube. You get to be right there with the other Princesses when Celestia raises the sun. 
-<b>Twilight Sparkle</b>: And I'm honored. Really, I am. It's just that the Summer Sun Celebration is what first brought us all together. It just doesn't feel right not getting to spend such a special day with my Ponyville friends. 
-<b>Rarity</b>: It doesn't feel right to us either, darling. If the Mayor wasn't so desperate for our assistance, we'd most certainly stay here in Canterlot. And of course we do understand that your royal duties must come first. 
-<b>Applejack</b>: The Summer Sun Celebration may have brought us together, but it's something much bigger that'll always keep us connected. Exhibit A: The six of us are united by the Elements of Harmony. No amount of royal duties is gonna change that. Right, everypony? 
-<b>Fluttershy</b>, 
- <b>Rainbow Dash</b> and 
- <b>Rarity</b>: [general agreement] 
-<b>Applejack</b>: 
- <i>Right, Pinkie Pie</i>? 
-<b>Pinkie Pie</b>: Creamy, creamy frosting... [chuckles] 
-<b>Fluttershy</b>: You should take that as a yes. 
-[train whistle blows] 
-<b>Pinkie Pie</b>: We're gonna write you and give you so many details, it'll be like you're in Ponyville with us! Right, girls? 
-<b>Applejack</b>, 
- <b>Fluttershy</b>, 
- <b>Rainbow Dash</b> and 
- <b>Rarity</b>: Cross my heart and hope to fly, stick a cupcake in my eye. 
-<b>Rarity</b>: And you will be with us right after the Celebration. We already have an appointment on the books to discuss the royal upgrades to your loft decor. 
-[train whistle blows] 
-<b>Train Conductor</b>: All aboard for Ponyville! 
-<b>Main 6 sans Twilight</b>: [giggling] 
-<b>Pinkie Pie</b>: Whee! 
-[train chugging] 
-<b>Twilight Sparkle</b>: [exhales] I can't help it, Spike. They've only been gone a minute, and I already feel like I'm missing something. 
-<b>Messenger Pony</b>: For the Princess. 
-<b>Spike</b>: [reading] 
- <i>Dear Twilight, you aren't missing anything. Your friend, Pinkie Pie.</i> 
-<b>Pinkie Pie</b>: [in the distance] 
- <i>That's me!</i> 
-<b>Main 6 sans Twilight</b>: [laughing] 
-<b>Twilight Sparkle</b>: But I am. I just know it. 
-<b>Spike</b>: Check, check, check, check, and... check! Huh, whaddaya know? We're way ahead of schedule! I credit your extremely competent assistant. 
-<b>Twilight Sparkle</b>: So do I. 
-<b>Spike</b>: The Celebration isn't until the day after tomorrow. We could still fit in a quick trip to Ponyville and be back in plenty of time to finish off these last few things before the main event! 
-<b>Twilight Sparkle</b>: [sighs] That would be nice, Spike, but what if something else came up while we were gone? What if we were delayed getting back and I wasn't able to finish everything on that list? What if we lost the list on the way to Ponyville and then couldn't remember which things we'd done and which things we hadn't done, and then spent so much time trying to figure out what we hadn't done and what we had done, and we ruined the entire Celebration by not doing the one really important thing that we were supposed to do?! 
-[thud] 
-<b>Spike</b>: Uh... so that's a 'no' then? 
-<b>Twilight Sparkle</b>: These are the first royal duties Princess Celestia has given me. I can't risk letting her down! 
-<b>Princess Celestia</b>: And I'm sure you won't. 
-<b>Spike</b>: Your highness! 
-<b>Princess Celestia</b>: No need for 
- <i>that</i> now, Princess Twilight. 
-<b>Twilight Sparkle</b>: Sorry. 
-<b>Princess Celestia</b>: [giggles] No need to apologize. 
-<b>Twilight Sparkle</b>: Sorry! 
-<b>Princess Celestia</b>: I must admit that it is wonderful to actually be looking forward to the Summer Sun Celebration. 
-<b>Twilight Sparkle</b>: What do you mean? 
-<b>Princess Celestia</b>: For my subjects, it has always been a celebration of my defeat of Nightmare Moon. But for me... [sighs] It was just a terrible reminder that I'd had to banish my own sister. 
-<b>Twilight Sparkle</b>: I guess I never really thought about it that way. 
-<b>Princess Celestia</b>: But now it has become a wonderful reminder of her transformation back into Princess Luna, and our happy reunion. I am so pleased that you will be playing a role in the festivities. I know it must have been difficult to see your friends return to Ponyville without you. 
-<b>Twilight Sparkle</b>: Maybe a little. 
-<b>Princess Celestia</b>: You may no longer be my student, Princess Twilight, but I hope you know that I will always be here if you need me. Just as I hope that you will always be there when I need you. 
-<b>Spike</b>: [clears throat] I think 
- <i>this</i> guy needs you? 
-<b>Messenger Pony</b>: Uh, a message for Princess Twilight. 
-[party popper going off] 
-<b>Princess Celestia</b>: A letter from Ponyville, I presume? 
-<b>Twilight Sparkle</b>: Never mind. It's not important. Spike, where were we? 
-<b>Spike</b>: About to call it a night? 
-<b>Twilight Sparkle</b>: We should probably go over the checklist one more time. 
-<b>Spike</b>: I knew you were gonna say that... 
-<b>Princess Celestia</b>: I'll leave you to it. 
-<b>Princess Celestia</b>: [gasps] [yelps] 
-<b>Twilight Sparkle</b>: Huh?! Spike? 
-<b>Spike</b>: [snores] Check-check-check-check-check-check... 
-<b>Twilight Sparkle</b>: Spike! 
-<b>Spike</b>: Ungh... What time is it? 
-<b>Twilight Sparkle</b>: It's the middle of the night! But it could be morning. That's just it! I can't tell! 
-<b>Spike</b>: Whoa. That is weird. 
-<b>Twilight Sparkle</b>: Come on, Spike, we have to find out what's going on. 
-[ponies chattering] 
-<b>"Primrose"</b>: What do you think it means?! 
-<b>Royal Ribbon</b>: Princess Twilight will know! 
-[ponies chattering] 
-<b>Twilight Sparkle</b>: I'm-I'm sure it's just... Well, there's certainly a logical ex– 
-<b>Royal guard #1</b>: Your Highness, you must come with us. 
-[doors slam] 
-<b>Royal guard #1</b>: It's Princess Luna and Princess Celestia. 
-<b>Royal guard #2</b>: They're gone! 
-<b>Twilight Sparkle</b> and 
- <b>Spike</b>: [gasp] 
-<b>Twilight Sparkle</b>: But I don't understand! Where are they? 
-<b>Royal guard #1</b>: We don't know. It seems that Princess Celestia and Princess Luna have simply... 
- <i>vanished</i>. 
-<b>Spike</b>: Vanished?! 
-[thud] 
-<b>Royal guard #1</b>: This is why we have come to you. 
-<b>Royal guard #2</b>: We await your command. 
-<b>Twilight Sparkle</b>: 
- <i>My</i> command?! 
-<b>Royal guard #2</b>: We're officers of the Royal Guard. We take our orders from royalty. With Princess Luna and Princess Celestia gone, and Princess Cadance overseeing the Crystal Empire now, that means we take our orders from you. 
-[thud] 
-<b>Royal guard #2</b>: Princess Twilight, there's no time to waste. We need to know what you want us to do. 
-<b>Twilight Sparkle</b>: I want you to continue the search for Princess Luna and Princess Celestia. We have to find them before ponies start to panic. There must be some clue that can tell us what's happened to them. If you find something, anything, let me know immediately. [exhales] 
-<b>Spike</b>: Way to take charge, Twilight. 
-[doors slam] 
-<b>Royal guard #3</b>: Your highness! News from Ponyville! The Everfree Forest appears to be... well... 
- <i>invading</i>! 
-<b>Twilight Sparkle</b>: [gasps] 
-[thud] 
-[animals chattering] 
-<b>Fluttershy</b>: Excuse me... Oh, pardon me... Are you all right? My goodness, what is it that has caused you all such distress? 
-<b>Bear</b>: [grunts] 
-<b>Fluttershy</b>: Whatever it is, I'm sure it's 
- <i>nothing</i> you need to really worry about. [screams] Oh, no, you were right. You should be worried! Very, very worried! 
-<b>Granny Smith</b>: [grunting] 
-[snap] 
-<b>Applejack</b>: Come on, y'all! Put your backs into it! [grunts] 
-[stretching noises] 
-<b>Big McIntosh</b>: Eeyup. [chomp] Nope. Eeyup. [chomp] Nope. Eeyup. [chomp] 
-[thud] 
-<b>Big McIntosh</b>: ...Nope. 
-<b>Applejack</b>: [straining] Dagnabbit, we ain't never seen this kind of trouble with weeds before. Now that I think about it, I've never seen these kinds of weeds at all! Have y'all? 
-<b>Big McIntosh</b>: Nope. 
-<b>Applejack</b>: Where the heck are these things comin' from? And what in tarnation is goin' on with the sky?! 
-<b>Rainbow Dash</b>: Oh, no, you don't! This is Ponyville territory, and we aren't due for rain until 
- <i>after</i> the Summer Sun Celebration. You Everfree clouds need to just head on back to where you belong! Whoa! [yelps] Gonna make me do this the hard way, huh? [yelping] Hey! 
-<b>Rarity</b>: [humming] Hmm. Something strange about the sky. 
-[tea trickling] 
-[splash] 
-<b>Rarity</b>: What in the name of calming chamomile is going on?! 
-<b>Opalescence</b>: [yowls] 
-<b>Rarity</b>: Opalescence, darling, I'm so sorry! I promise I am not doing this on purpose! 
-[hiss] 
-[smashing crockery] 
-<b>Rarity</b>: It wasn't me, I swear! 
-<b>Opalescence</b>: [growls] 
-<b>Rarity</b>: Ooh, Sweetie Belle! If this is some sort of prank you and your little Crusader friends are pulling, I find very little humor in it! 
-<b>Sweetie Belle</b>: Rarity, you have to help me! I think something's wrong with my horn! 
-[thud] 
-<b>Sweetie Belle</b>: [grunts] [yelps] 
-<b>Rarity</b>: [gasps] 
-<b>Sweetie Belle</b>: [screams] 
-<b>Rarity</b>: [yelps] 
-<b>Spike</b>: Where are we going?! 
-<b>Twilight Sparkle</b>: The Everfree Forest is... 'invading'. Whatever is going on, I'm sure we're going to need our friends and the Elements of Harmony to stop it! I just hope we haven't missed the train... 
-<b>Spike</b>: [gasps] [short on breath] Twilight? There is another way for us to get to Ponyville, remember? 
-<b>Twilight Sparkle</b>: There is? 
-<b>Spike</b>: Huah! You can fly! 
-<b>Twilight Sparkle</b>: Oh. Right! 
-[car engine starting and sputtering] 
-<b>Twilight Sparkle</b>: Whoa! 
-[Wilhelm scream, other ponies scream] 
-<b>Rarity</b>: Something very strange is going on, and- [gasps] I for one would appreciate an explanation! 
-<b>Rainbow Dash</b>: All I know is the sky's split in two, and these clouds moving in sure aren't from around here. 
-<b>Applejack</b>: Neither are all these crazy plants! They're comin' from the Everfree Forest! And try as we might, us Earth ponies can't do anythin' to get rid of 'em! Don't suppose you know any magic that might stop 'em from spreadin'? 
-<b>Rarity</b>: Alas, this whole raging forest situation seems to have left my horn on the fritz! 
-<b>Fluttershy</b>: We have to figure out something! I don't know how much more of this Ponyville can take! [yelps] I don't know how much more 
- <i>I</i> can take! 
-<b>Applejack</b>: The forest is expandin', y'all, and judgin' by how fast it's movin', it doesn't seem content just takin' over Ponyville... I reckon before long, it'll cover half of Equestria! 
-[plants creaking] 
-<b>Twilight Sparkle</b>: [unsure noises] 
-<b>Spike</b>: [gags] 
-[click] 
-<b>Spike</b>: I'm starting to wish... we'd taken the train! 
-<b>Twilight Sparkle</b>: Almost there! Come on, Spike, we need to get the Elements of Harmony and find the others! 
-<b>Spike</b>: 
- <i>Incoming</i>! 
-<b>Twilight Sparkle</b>: Whoa! Aah! 
-[thonk] 
-<b>Rarity</b>: Oh, thank goodness! 
-<b>Fluttershy</b>: Oh, I hope you know we wouldn't normally go through your books without permission... 
-[door opens] 
-<b>Spike</b>: Sweet ground! [kissing noises] Sweet, sweet, 
- <i>wonderful</i> ground! 
-<b>Twilight Sparkle</b>: Okay, I get it! I need to work on my flying! 
-<b>Pinkie Pie</b>: I dunno if you've noticed, but the Everfree Forest is just a teeny-tiny bit out of control. 
-<b>Rarity</b>: [groans] 
-<b>Applejack</b>: Guess it turned out you were missin' something here in Ponyville after all. 
-<b>Rarity</b>: But perhaps you already know what's causing all of this calamity. Has Princess Celestia sent you to dispel it posthaste? 
-<b>Twilight Sparkle</b>: Not exactly. You see, Princess Celestia is, well... she and Princess Luna are both... 
-<b>Spike</b>: They're missing! 
-<b>Rest of main cast</b>: [gasps] 
-<b>Twilight Sparkle</b>: I don't know who has taken them, but I've got a hunch we're going to need the Elements of Harmony to get them back. 
-<b>Rainbow Dash</b>: Oh, yeah, just like old times. 
-<b>Pinkie Pie</b>: A-boo-yah! 
-<b>Applejack</b>: I told ya we'd always be connected by the Elements. [sighs] Now we just gotta figure out who to aim these bad boys at so we can get Celestia and Luna back and keep the rest of Equestria from becoming plant food! Any ideas? 
-<b>Twilight Sparkle</b>: Hmm... 
-<b>Pinkie Pie</b>: I haven't found 
- <i>squat</i> in any of the books I've been looking through! Oopsies! Missed a spot! 
-[scribbling] 
-<b>Twilight Sparkle</b>: Half day, half night... strange weather patterns... out of control plants. I think I'm starting to get a pretty good idea of who we're up against. 
-[magical whirling noises] 
-<b>Discord</b>: [singing] Winter Wrap Up, Winter Wrap-ooh! [laughs] Now, Twilight, you know Princess Celestia said that you were to give me a heads up before you summon me with that little spell she gave you. In case you haven't noticed, I was in the middle of a particularly invigorating shower. 
-<b>Twilight Sparkle</b>: E-nough! Release Princess Celestia and Princess Luna, and stop the Everfree Forest from invading! 
-<b>Discord</b>: Why, [chuckles] whatever are you talking about? 
-<b>Applejack</b>: Don't you play dumb with us, Discord! We know you're the one behind all of this! 
-<b>Discord</b>: Don't get me wrong. I absolutely 
- <i>love</i> what you've done with the place, but I couldn't 
- <i>possibly</i> take responsibility. I'm reformed, don't you remember? 
-<b>Rainbow Dash</b>: Yeah, right! This has got your cloven hoofprints all over it! 
-<b>Discord</b>: I'll have you know that I have only 
- <i>one</i> cloven hoof. Such accusations. And here I thought we were friends. 
-<b>Pinkie Pie</b>: Drop the act, buster! We're onto you! 
-<b>Discord</b>: Ladies, ladies, I'm innocent. Would I lie to you? 
-<b>Main cast sans Fluttershy</b>: Yes! 
-<b>Fluttershy</b>: Um, maybe? 
-<b>Discord</b>: Well then, it seems we've reached an impasse. I'm telling the truth, but you think I'm lying. What do friends like us do in a situation like this, 
- <i>Princess</i> Twilight? Congrats, by the way, on the promotion. You totally deserve it. 
-<b>Rainbow Dash</b>: I say we blast him back to stone! 
-<b>Applejack</b>: Works for me! 
-<b>Rarity</b>: Hear, hear! 
-<b>Fluttershy</b>: Hey! We can't do that! What if he really is telling the truth? 
-<b>Discord</b>: Well, 
- <i>finally</i>! Somepony willing to give me the benefit of the doubt. The rest of you could learn a lot about friendship from my dear friend Shutterfly here. 
-<b>Fluttershy</b>: Um, it's Fluttershy. 
-<b>Discord</b>: Oh, right, whatever. 
-<b>Twilight Sparkle</b>: If you're not the one responsible, then help us figure out who is! 
-<b>Discord</b>: I suppose I could, but after all the hoof pointing and besmirching of my good name, I just don't know if I'm up to it. 
-[knitting needles clacking] 
-<b>Twilight Sparkle</b>: Rrrgh! 
-<b>Discord</b>: Why don't you ask your zebra friend if she knows anything? 
-<b>Twilight Sparkle</b>: Zecora! 
-<b>Zecora</b>: From my home, I have had to flee! The forest has grown too wild, even for me! 
-<b>Applejack</b>: Any idea why all this is happenin'? 
-<b>Zecora</b>: I'm afraid it is a mystery to me as well, but I may have something that, if combined with a spell... I do not dare to use it myself, the results would be tragic. It only responds to Alicorn magic. Princess Twilight, you can turn the potion from purple to white. After a sip, you may see why the sky is day and night. 
-<b>Twilight Sparkle</b>: [straining] 
-<b>Pinkie Pie</b>: Oooh! 
-<b>Twilight Sparkle</b>: [drinking] Doesn't seem to be worki- 
-<b>Twilight Sparkle</b>: Where am I? 
-<b>Princess Luna</b>: Not... another step! 
-<b>Twilight Sparkle</b>: Princess Luna! I don't understand. Where are we? Why did you and Celestia disappear? 
-<b>Princess Luna</b>: Did you really expect me to sit idly by while they all basked in your precious light? 
-<b>Twilight Sparkle</b>: Precious light? 
-<b>Princess Luna</b>: There can only be 
- <i>one</i> princess in Equestria! And that princess... will be 
- <i>me</i>! 
-[rumbling] 
-<b>Nightmare Moon</b>: [evil laughter] 
-[To be continued...] 
-[credits] 
+<b>Rainbow Dash</b>: You gotta really flap 'em hard.
+<b>Twilight Sparkle</b>: [grunts] Whoa!
+<b>Rainbow Dash</b>: Uh, maybe not quite that hard.
+<b>Twilight Sparkle</b>: Whoa! Oof!
+<b>Applejack</b>: Lookin' good up there, Princess Twilight.
+<b>Twilight Sparkle</b>: Applejack, you know you don't have to call me that.
+<b>Rarity</b>: Why do you protest so? You've already given up 
+wearing your crown all the time. The least you can do is embrace your 
+new title.
+<b>Twilight Sparkle</b>: If other ponies want to address me 
+that way, I suppose it's fine, but... not my friends. It just doesn't 
+feel right. [sigh] And neither does all this flying business. The Summer
+ Sun Celebration is only two days away, and I'm <i>never</i> gonna be ready to perform my part.
+<b>Rainbow Dash</b>: Not if you spend all your time down here, you won't! Now get up there and show everypony the big finish!
+<b>Main 6 sans Twilight</b>: [cheering]
+<b>Twilight Sparkle</b>: Woo-hoo! Whaaaa! Oof! Oof! [coughs] [screams]
+<b>Pinkie Pie</b>: Wow! That <i>was</i> a big finish!
+<b>Twilight Sparkle</b>: [groans]
+[theme song]
+<b>Rarity</b>: You look amazing, darling. They've really captured your regality.
+<b>Twilight Sparkle</b>: I suppose.
+<b>Rarity</b>: Oh, don't be so modest. It's everypony's dream 
+to someday wear a crown and have their coronation ceremony preserved in 
+stained glass for all to see. [sighs]
+<b>Rainbow Dash</b>: I don't know if it's <i>everypony's</i> dream.
+<b>Pinkie Pie</b>: Most of my dreams are about frosting! [slurp] Ohohohoho...
+<b>Fluttershy</b>: We'd better get going. We don't want to miss our train.
+<b>Applejack</b>: Fluttershy's right. Don't know about y'all, 
+but I've still got bushels to do to get ready. The official celebration 
+may be here in Canterlot, but hoo-wee, has the Mayor put us in charge of
+ one heck of a party back home. Aw, don't look like that, sugarcube. You
+ get to be right there with the other Princesses when Celestia raises 
+the sun.
+<b>Twilight Sparkle</b>: And I'm honored. Really, I am. It's 
+just that the Summer Sun Celebration is what first brought us all 
+together. It just doesn't feel right not getting to spend such a special
+ day with my Ponyville friends.
+<b>Rarity</b>: It doesn't feel right to us either, darling. If 
+the Mayor wasn't so desperate for our assistance, we'd most certainly 
+stay here in Canterlot. And of course we do understand that your royal 
+duties must come first.
+<b>Applejack</b>: The Summer Sun Celebration may have brought 
+us together, but it's something much bigger that'll always keep us 
+connected. Exhibit A: The six of us are united by the Elements of 
+Harmony. No amount of royal duties is gonna change that. Right, 
+everypony?
+<b>Fluttershy</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: [general agreement]
+<b>Applejack</b>: <i>Right, Pinkie Pie</i>?
+<b>Pinkie Pie</b>: Creamy, creamy frosting... [chuckles]
+<b>Fluttershy</b>: You should take that as a yes.
+[train whistle blows]
+<b>Pinkie Pie</b>: We're gonna write you and give you so many details, it'll be like you're in Ponyville with us! Right, girls?
+<b>Applejack</b>, <b>Fluttershy</b>, <b>Rainbow Dash</b> and <b>Rarity</b>: Cross my heart and hope to fly, stick a cupcake in my eye.
+<b>Rarity</b>: And you will be with us right after the 
+Celebration. We already have an appointment on the books to discuss the 
+royal upgrades to your loft decor.
+[train whistle blows]
+<b>Train Conductor</b>: All aboard for Ponyville!
+<b>Main 6 sans Twilight</b>: [giggling]
+<b>Pinkie Pie</b>: Whee!
+[train chugging]
+<b>Twilight Sparkle</b>: [exhales] I can't help it, Spike. They've only been gone a minute, and I already feel like I'm missing something.
+<b>Messenger Pony</b>: For the Princess.
+<b>Spike</b>: [reading] <i>Dear Twilight, you aren't missing anything. Your friend, Pinkie Pie.</i>
+<b>Pinkie Pie</b>: [in the distance] <i>That's me!</i>
+<b>Main 6 sans Twilight</b>: [laughing]
+<b>Twilight Sparkle</b>: But I am. I just know it.
+<b>Spike</b>: Check, check, check, check, and... check! Huh, 
+whaddaya know? We're way ahead of schedule! I credit your extremely 
+competent assistant.
+<b>Twilight Sparkle</b>: So do I.
+<b>Spike</b>: The Celebration isn't until the day after 
+tomorrow. We could still fit in a quick trip to Ponyville and be back in
+ plenty of time to finish off these last few things before the main 
+event!
+<b>Twilight Sparkle</b>: [sighs] That would be nice, Spike, but
+ what if something else came up while we were gone? What if we were 
+delayed getting back and I wasn't able to finish everything on that 
+list? What if we lost the list on the way to Ponyville and then couldn't
+ remember which things we'd done and which things we hadn't done, and 
+then spent so much time trying to figure out what we hadn't done and 
+what we had done, and we ruined the entire Celebration by not doing the 
+one really important thing that we were supposed to do?!
+[thud]
+<b>Spike</b>: Uh... so that's a 'no' then?
+<b>Twilight Sparkle</b>: These are the first royal duties Princess Celestia has given me. I can't risk letting her down!
+<b>Princess Celestia</b>: And I'm sure you won't.
+<b>Spike</b>: Your highness!
+<b>Princess Celestia</b>: No need for <i>that</i> now, Princess Twilight.
+<b>Twilight Sparkle</b>: Sorry.
+<b>Princess Celestia</b>: [giggles] No need to apologize.
+<b>Twilight Sparkle</b>: Sorry!
+<b>Princess Celestia</b>: I must admit that it is wonderful to actually be looking forward to the Summer Sun Celebration.
+<b>Twilight Sparkle</b>: What do you mean?
+<b>Princess Celestia</b>: For my subjects, it has always been a
+ celebration of my defeat of Nightmare Moon. But for me... [sighs] It 
+was just a terrible reminder that I'd had to banish my own sister.
+<b>Twilight Sparkle</b>: I guess I never really thought about it that way.
+<b>Princess Celestia</b>: But now it has become a wonderful 
+reminder of her transformation back into Princess Luna, and our happy 
+reunion. I am so pleased that you will be playing a role in the 
+festivities. I know it must have been difficult to see your friends 
+return to Ponyville without you.
+<b>Twilight Sparkle</b>: Maybe a little.
+<b>Princess Celestia</b>: You may no longer be my student, 
+Princess Twilight, but I hope you know that I will always be here if you
+ need me. Just as I hope that you will always be there when I need you.
+<b>Spike</b>: [clears throat] I think <i>this</i> guy needs you?
+<b>Messenger Pony</b>: Uh, a message for Princess Twilight.
+[party popper going off]
+<b>Princess Celestia</b>: A letter from Ponyville, I presume?
+<b>Twilight Sparkle</b>: Never mind. It's not important. Spike, where were we?
+<b>Spike</b>: About to call it a night?
+<b>Twilight Sparkle</b>: We should probably go over the checklist one more time.
+<b>Spike</b>: I knew you were gonna say that...
+<b>Princess Celestia</b>: I'll leave you to it.
+<b>Princess Celestia</b>: [gasps] [yelps]
+<b>Twilight Sparkle</b>: Huh?! Spike?
+<b>Spike</b>: [snores] Check-check-check-check-check-check...
+<b>Twilight Sparkle</b>: Spike!
+<b>Spike</b>: Ungh... What time is it?
+<b>Twilight Sparkle</b>: It's the middle of the night! But it could be morning. That's just it! I can't tell!
+<b>Spike</b>: Whoa. That is weird.
+<b>Twilight Sparkle</b>: Come on, Spike, we have to find out what's going on.
+[ponies chattering]
+<b>"Primrose"</b>: What do you think it means?!
+<b>Royal Ribbon</b>: Princess Twilight will know!
+[ponies chattering]
+<b>Twilight Sparkle</b>: I'm-I'm sure it's just... Well, there's certainly a logical ex–
+<b>Royal guard #1</b>: Your Highness, you must come with us.
+[doors slam]
+<b>Royal guard #1</b>: It's Princess Luna and Princess Celestia.
+<b>Royal guard #2</b>: They're gone!
+<b>Twilight Sparkle</b> and <b>Spike</b>: [gasp]
+<b>Twilight Sparkle</b>: But I don't understand! Where are they?
+<b>Royal guard #1</b>: We don't know. It seems that Princess Celestia and Princess Luna have simply... <i>vanished</i>.
+<b>Spike</b>: Vanished?!
+[thud]
+<b>Royal guard #1</b>: This is why we have come to you.
+<b>Royal guard #2</b>: We await your command.
+<b>Twilight Sparkle</b>: <i>My</i> command?!
+<b>Royal guard #2</b>: We're officers of the Royal Guard. We 
+take our orders from royalty. With Princess Luna and Princess Celestia 
+gone, and Princess Cadance overseeing the Crystal Empire now, that means
+ we take our orders from you.
+[thud]
+<b>Royal guard #2</b>: Princess Twilight, there's no time to waste. We need to know what you want us to do.
+<b>Twilight Sparkle</b>: I want you to continue the search for 
+Princess Luna and Princess Celestia. We have to find them before ponies 
+start to panic. There must be some clue that can tell us what's happened
+ to them. If you find something, anything, let me know immediately. 
+[exhales]
+<b>Spike</b>: Way to take charge, Twilight.
+[doors slam]
+<b>Royal guard #3</b>: Your highness! News from Ponyville! The Everfree Forest appears to be... well... <i>invading</i>!
+<b>Twilight Sparkle</b>: [gasps]
+[thud]
+[animals chattering]
+<b>Fluttershy</b>: Excuse me... Oh, pardon me... Are you all right? My goodness, what is it that has caused you all such distress?
+<b>Bear</b>: [grunts]
+<b>Fluttershy</b>: Whatever it is, I'm sure it's <i>nothing</i> you need to really worry about. [screams] Oh, no, you were right. You should be worried! Very, very worried!
+<b>Granny Smith</b>: [grunting]
+[snap]
+<b>Applejack</b>: Come on, y'all! Put your backs into it! [grunts]
+[stretching noises]
+<b>Big McIntosh</b>: Eeyup. [chomp] Nope. Eeyup. [chomp] Nope. Eeyup. [chomp]
+[thud]
+<b>Big McIntosh</b>: ...Nope.
+<b>Applejack</b>: [straining] Dagnabbit, we ain't never seen 
+this kind of trouble with weeds before. Now that I think about it, I've 
+never seen these kinds of weeds at all! Have y'all?
+<b>Big McIntosh</b>: Nope.
+<b>Applejack</b>: Where the heck are these things comin' from? And what in tarnation is goin' on with the sky?!
+<b>Rainbow Dash</b>: Oh, no, you don't! This is Ponyville territory, and we aren't due for rain until <i>after</i>
+ the Summer Sun Celebration. You Everfree clouds need to just head on 
+back to where you belong! Whoa! [yelps] Gonna make me do this the hard 
+way, huh? [yelping] Hey!
+<b>Rarity</b>: [humming] Hmm. Something strange about the sky.
+[tea trickling]
+[splash]
+<b>Rarity</b>: What in the name of calming chamomile is going on?!
+<b>Opalescence</b>: [yowls]
+<b>Rarity</b>: Opalescence, darling, I'm so sorry! I promise I am not doing this on purpose!
+[hiss]
+[smashing crockery]
+<b>Rarity</b>: It wasn't me, I swear!
+<b>Opalescence</b>: [growls]
+<b>Rarity</b>: Ooh, Sweetie Belle! If this is some sort of 
+prank you and your little Crusader friends are pulling, I find very 
+little humor in it!
+<b>Sweetie Belle</b>: Rarity, you have to help me! I think something's wrong with my horn!
+[thud]
+<b>Sweetie Belle</b>: [grunts] [yelps]
+<b>Rarity</b>: [gasps]
+<b>Sweetie Belle</b>: [screams]
+<b>Rarity</b>: [yelps]
+<b>Spike</b>: Where are we going?!
+<b>Twilight Sparkle</b>: The Everfree Forest is... 'invading'. 
+Whatever is going on, I'm sure we're going to need our friends and the 
+Elements of Harmony to stop it! I just hope we haven't missed the 
+train...
+<b>Spike</b>: [gasps] [short on breath] Twilight? There is another way for us to get to Ponyville, remember?
+<b>Twilight Sparkle</b>: There is?
+<b>Spike</b>: Huah! You can fly!
+<b>Twilight Sparkle</b>: Oh. Right!
+[car engine starting and sputtering]
+<b>Twilight Sparkle</b>: Whoa!
+[Wilhelm scream, other ponies scream]
+<b>Rarity</b>: Something very strange is going on, and- [gasps] I for one would appreciate an explanation!
+<b>Rainbow Dash</b>: All I know is the sky's split in two, and these clouds moving in sure aren't from around here.
+<b>Applejack</b>: Neither are all these crazy plants! They're 
+comin' from the Everfree Forest! And try as we might, us Earth ponies 
+can't do anythin' to get rid of 'em! Don't suppose you know any magic 
+that might stop 'em from spreadin'?
+<b>Rarity</b>: Alas, this whole raging forest situation seems to have left my horn on the fritz!
+<b>Fluttershy</b>: We have to figure out something! I don't know how much more of this Ponyville can take! [yelps] I don't know how much more <i>I</i> can take!
+<b>Applejack</b>: The forest is expandin', y'all, and judgin' 
+by how fast it's movin', it doesn't seem content just takin' over 
+Ponyville... I reckon before long, it'll cover half of Equestria!
+[plants creaking]
+<b>Twilight Sparkle</b>: [unsure noises]
+<b>Spike</b>: [gags]
+[click]
+<b>Spike</b>: I'm starting to wish... we'd taken the train!
+<b>Twilight Sparkle</b>: Almost there! Come on, Spike, we need to get the Elements of Harmony and find the others!
+<b>Spike</b>: <i>Incoming</i>!
+<b>Twilight Sparkle</b>: Whoa! Aah!
+[thonk]
+<b>Rarity</b>: Oh, thank goodness!
+<b>Fluttershy</b>: Oh, I hope you know we wouldn't normally go through your books without permission...
+[door opens]
+<b>Spike</b>: Sweet ground! [kissing noises] Sweet, sweet, <i>wonderful</i> ground!
+<b>Twilight Sparkle</b>: Okay, I get it! I need to work on my flying!
+<b>Pinkie Pie</b>: I dunno if you've noticed, but the Everfree Forest is just a teeny-tiny bit out of control.
+<b>Rarity</b>: [groans]
+<b>Applejack</b>: Guess it turned out you were missin' something here in Ponyville after all.
+<b>Rarity</b>: But perhaps you already know what's causing all of this calamity. Has Princess Celestia sent you to dispel it posthaste?
+<b>Twilight Sparkle</b>: Not exactly. You see, Princess Celestia is, well... she and Princess Luna are both...
+<b>Spike</b>: They're missing!
+<b>Rest of main cast</b>: [gasps]
+<b>Twilight Sparkle</b>: I don't know who has taken them, but I've got a hunch we're going to need the Elements of Harmony to get them back.
+<b>Rainbow Dash</b>: Oh, yeah, just like old times.
+<b>Pinkie Pie</b>: A-boo-yah!
+<b>Applejack</b>: I told ya we'd always be connected by the 
+Elements. [sighs] Now we just gotta figure out who to aim these bad boys
+ at so we can get Celestia and Luna back and keep the rest of Equestria 
+from becoming plant food! Any ideas?
+<b>Twilight Sparkle</b>: Hmm...
+<b>Pinkie Pie</b>: I haven't found <i>squat</i> in any of the books I've been looking through! Oopsies! Missed a spot!
+[scribbling]
+<b>Twilight Sparkle</b>: Half day, half night... strange 
+weather patterns... out of control plants. I think I'm starting to get a
+ pretty good idea of who we're up against.
+[magical whirling noises]
+<b>Discord</b>: [singing] Winter Wrap Up, Winter Wrap-ooh! 
+[laughs] Now, Twilight, you know Princess Celestia said that you were to
+ give me a heads up before you summon me with that little spell she gave
+ you. In case you haven't noticed, I was in the middle of a particularly
+ invigorating shower.
+<b>Twilight Sparkle</b>: E-nough! Release Princess Celestia and Princess Luna, and stop the Everfree Forest from invading!
+<b>Discord</b>: Why, [chuckles] whatever are you talking about?
+<b>Applejack</b>: Don't you play dumb with us, Discord! We know you're the one behind all of this!
+<b>Discord</b>: Don't get me wrong. I absolutely <i>love</i> what you've done with the place, but I couldn't <i>possibly</i> take responsibility. I'm reformed, don't you remember?
+<b>Rainbow Dash</b>: Yeah, right! This has got your cloven hoofprints all over it!
+<b>Discord</b>: I'll have you know that I have only <i>one</i> cloven hoof. Such accusations. And here I thought we were friends.
+<b>Pinkie Pie</b>: Drop the act, buster! We're onto you!
+<b>Discord</b>: Ladies, ladies, I'm innocent. Would I lie to you?
+<b>Main cast sans Fluttershy</b>: Yes!
+<b>Fluttershy</b>: Um, maybe?
+<b>Discord</b>: Well then, it seems we've reached an impasse. 
+I'm telling the truth, but you think I'm lying. What do friends like us 
+do in a situation like this, <i>Princess</i> Twilight? Congrats, by the way, on the promotion. You totally deserve it.
+<b>Rainbow Dash</b>: I say we blast him back to stone!
+<b>Applejack</b>: Works for me!
+<b>Rarity</b>: Hear, hear!
+<b>Fluttershy</b>: Hey! We can't do that! What if he really is telling the truth?
+<b>Discord</b>: Well, <i>finally</i>! Somepony willing to give 
+me the benefit of the doubt. The rest of you could learn a lot about 
+friendship from my dear friend Shutterfly here.
+<b>Fluttershy</b>: Um, it's Fluttershy.
+<b>Discord</b>: Oh, right, whatever.
+<b>Twilight Sparkle</b>: If you're not the one responsible, then help us figure out who is!
+<b>Discord</b>: I suppose I could, but after all the hoof pointing and besmirching of my good name, I just don't know if I'm up to it.
+[knitting needles clacking]
+<b>Twilight Sparkle</b>: Rrrgh!
+<b>Discord</b>: Why don't you ask your zebra friend if she knows anything?
+<b>Twilight Sparkle</b>: Zecora!
+<b>Zecora</b>: From my home, I have had to flee! The forest has grown too wild, even for me!
+<b>Applejack</b>: Any idea why all this is happenin'?
+<b>Zecora</b>: I'm afraid it is a mystery to me as well, but I 
+may have something that, if combined with a spell... I do not dare to 
+use it myself, the results would be tragic. It only responds to Alicorn 
+magic. Princess Twilight, you can turn the potion from purple to white. 
+After a sip, you may see why the sky is day and night.
+<b>Twilight Sparkle</b>: [straining]
+<b>Pinkie Pie</b>: Oooh!
+<b>Twilight Sparkle</b>: [drinking] Doesn't seem to be worki-
+<b>Twilight Sparkle</b>: Where am I?
+<b>Princess Luna</b>: Not... another step!
+<b>Twilight Sparkle</b>: Princess Luna! I don't understand. Where are we? Why did you and Celestia disappear?
+<b>Princess Luna</b>: Did you really expect me to sit idly by while they all basked in your precious light?
+<b>Twilight Sparkle</b>: Precious light?
+<b>Princess Luna</b>: There can only be <i>one</i> princess in Equestria! And that princess... will be <i>me</i>!
+[rumbling]
+<b>Nightmare Moon</b>: [evil laughter]
+[To be continued...]
+[credits]

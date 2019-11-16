@@ -1,15 +1,20 @@
 package parser;
 
-import com.google.common.collect.Maps;
-
 import java.util.HashMap;
 import java.util.Map;
 
 public enum TranscriptTag {
     TITLE_TAG("h2"),
     PARAGRAPH_TAG("dl"),
+    INNER_PARAGRAPH_TAG("dd"),
+    SPAN_TAG("span"),
     TABLE_TAG("table"),
-    LINK_TAG("a")
+    LINK_TAG("a"),
+    BOLD_TAG("b"),
+    ITALICIZE_TAG("i"),
+    SMALL_TAG("small"),
+    BIG_TAG("big"),
+    SUB_TAG("sub"),
     ;
 
     private final String tagName;

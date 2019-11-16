@@ -1,241 +1,300 @@
-<b>Rainbow Dash</b>: [panting] Come on! If we hurry, we can get there before the paper's even delivered to Rarity's house! 
-<b>Pinkie Pie</b>: Maybe she won't read the article. 
-<b>Applejack</b>: I'm pretty sure Rarity's gonna read a review of her new boutique in Manehattan. 
-<b>Rainbow Dash</b>: I still can't believe we all just blabbed everything that happened to that reporter! 
-<b>Fluttershy</b>: I just hope it doesn't end up being an article about how her friends almost ruined the opening. 
-<b>Twilight Sparkle</b>: I think you're all overreacting. Rarity's our friend. If anypony is gonna understand, it'll be her. 
-[door opens] 
-<b>Rarity</b>: [grimly] I was wondering when all of you were going to show up. 
-<b>Twilight Sparkle</b>, 
- <b>Rainbow Dash</b>, 
- <b>Pinkie Pie</b>, 
- <b>Applejack</b>, 
- <b>Fluttershy</b>: [gasp] 
-<b>Rarity</b>: [excitedly] Now we can all read the review together! 
-<b>Rainbow Dash</b>: Um, I have an idea. How 'bout we 
- <i>don't</i> read it? 
-<b>Twilight Sparkle</b>: What she means is, before you read it, we should probably tell you about— 
-<b>Rarity</b>: No, no, darling. Please, no spoilers. 
-<b>Fluttershy</b>: But— 
-<b>Rarity</b>: 
- <i>No spoilers!</i> 
-<b>Rarity</b>: Now, is everypony ready to hear what I'm sure is a stellar review that describes in stunning detail exactly how each of you contributed to the successful opening of Rarity For You? 
-[zip] 
-<b>Rarity</b>: [clears throat, reading] "Many a pony has tried their hoof at joining the ranks of the elite fashion trendsetters currently ensconced in the boutiques of Manehattan's famed Saddle Row." [giggles, continues reading] "Some might say it's the ultimate achievement in Equestrian fashion, and never before has a reporter been granted such unfettered behind-the-scenes access until now!" 
-<b>Fluttershy</b>: I wish it had been more fettered. 
-<b>Rarity</b>: Oh, uh... [mutters] Ah! [reading] "I sat down with..." [giggles, continues reading] "...Rarity and her friends after the opening to get the inside scoop, and what a scoop it was!" 
-<b>Buried Lede</b>: Okay, kid, ya successfully opened a shop in Manehattan and that's no mean feat! Most ponies might wonder what it feels like. Here's how it's gonna be: I'm gonna interview you and your friends so I can paint a picture of how it all came together. A word picture, mind you, not an actual picture. Any questions? 
-<b>Rarity</b>: Well, I was wondering— 
-<b>Buried Lede</b>: Let's get started! Ms. Rarity, you've got shops all over Equestria, but this was your first time trying to make it in the big city. What made ya think you could tackle it on your own? 
-<b>Rarity</b>: Well, I wouldn't say 
- <i>all</i> over Equestria. I just have two other boutiques: one in my hometown of Ponyville, and one in Canterlot. Uh, still, when I decided to open 
- <i>this</i> one, I was nothing but confident. 
-[bell dings] 
-<b>Twilight Sparkle</b>: Let's just say that if I 
- <i>could</i> choose, I probably wouldn't do it 
- <i>that</i> way again. Heh. 
-<b>Pinkie Pie</b>: Well, it wasn't the funnest party ever... 
-<b>Applejack</b>: It was a plum-puckered, pig-pushin' disaster! 
-<b>Rainbow Dash</b>: After a lifetime of awesome, I think everypony's allowed to mess up every now and then, right? 
-[pencil writing] 
-<b>Rainbow Dash</b>: Wait, are you writing this down? 
-<b>Fluttershy</b>: Um, it didn't go exactly how I thought it would, but it, um, started out all right. 
-<b>Rarity</b>: Welcome to Saddle Row, an entire street lined with the most fashionable boutiques in all of Equestria! 
-<b>Applejack</b>: If it's supposed to be the most 
- <i>fashionable</i> block of shops, where's Stinky Bottom's Discount Hat Emporium? 
-<b>Rarity</b>: I suppose it didn't make the cut. [gasps] Here it is! Rarity For You! 
-[door opens] 
-[shelf breaks] 
-[mouse squeaks] 
-<b>Twilight Sparkle</b>: Rarity, it's lovely. But are you sure you'll be ready to open tonight? 
-<b>Pinkie Pie</b>: [inhales] [sneezes] 
-<b>Rarity</b>: No need to fret over a mere moderate amount of preparation. My clothes arrive soon, my sales associate after that, and with a little... dusting, we'll be ready for the grand opening tonight. 
-<b>Mr. Stripes</b>: Rarity! So good to see you! Your store, it's going to be a very good place, I think! [laughs] 
-<b>Rarity</b>: Mr. Stripes owns the building. He's a very pleasant landlord. Although he 
- <i>can</i> be pushy at times. [beat] Okay, 
- <i>all</i> the time. 
-<b>Mr. Stripes</b>: You've met my daughter, the apple of my ear, the hay in my hoof? You will let her work with you. 
-<b>Rarity</b>: [chuckles nervously] It's just, I'm dreadfully busy preparing for tonight's grand opening, as you can see. 
-<b>Mr. Stripes</b>: There are only two things I love more than being pushy. One is my daughter. The other is miniature doll furniture. And I would sell my entire mini-furniture collection to make my daughter happy. You understand? 
-[poit, poit, poit] 
-<b>Rarity</b>: I'm sorry. I just don't think it's going to be possible. 
-<b>Mr. Stripes</b>: Let me say another way... Hire her or I raise rent until you no can afford! 
-<b>Rarity</b>: Oh, uh, welcome aboard. 
-<b>Plaid Stripes</b>: [loudly] First idea! Instead of clothes, we sell glow-in-the-dark teeth! Like this. [chomp, chomp] But they glow in the dark! 
-<b>Rarity</b>: Golly, what a splendid idea! [chuckles nervously] 
-<b>Rarity</b>: Glow-in-the-dark teeth! What was she thinking?! 
-<b>Rarity</b>: Aah! Fluttershy, your assistance is required in the stock room, posthaste! 
-<b>Fluttershy</b>: Aw, hello. 
-<b>Rarity</b>: But what are they doing here? 
-[raccoons chittering] 
-<b>Fluttershy</b>: Smoky made too much noise eating garbage, so Softpad's mother made them move out of the trashcan. 
-<b>Fluttershy</b>: Then Smoky Jr. found a nice home in the crawl space behind the building. But Mr. Stripes demolished it, so they were temporarily camped out in the back until they found a new place to live. 
-<b>Rarity</b>: No, no, no! I can't have a family of rubbish-scented raccoons living in my boutique! 
-[dance music playing, chandelier creaks] 
-<b>Rarity</b>: Uh, did you hear that? 
-<b>Rarity</b>: [annoyed] Heh. Turns out there's a Club Pony Party Palace upstairs. 
-<b>Pinkie Pie</b>: [excitedly] Turns out there's a Club Pony Party Palace upstairs! 
-[dance music continues] 
-<b>Rarity</b>: I'm sorry. Could you please ask her to turn it down? Could you ask her to turn it down, please? [pleading] Turn it down, please! [sobbing] Oh, please! 
-<b>Rarity</b>: Ugh! Foals today listen to their so-called "music" far too loud. I realize that makes me sound like an old mare. But this is business! 
-[sweeping] 
-[dance music playing, chandelier creaking] 
-<b>Rainbow Dash</b>: I wish we were having as much fun as 
- <i>they</i> are. 
-<b>Twilight Sparkle</b>: Well, sweeping can be fun, too. [to the beat] Sweep, sweep, sweep, sweep. Sweep, sweep, sweep, sweep, sweep... 
-<b>Rainbow Dash</b>: Only Twilight could make a dance remix about sweeping. I mean, how lame is that? 
-<b>Applejack</b>: Yeah. It wasn't even catchy. 
-<b>Rainbow Dash</b>: Nope. 
-[hoof-bump] 
-<b>Twilight Sparkle</b>: [to the beat] Sweep, sweep, sweep, sweep... 
-<b>Twilight Sparkle</b>, 
- <b>Rainbow Dash</b>, and 
- <b>Applejack</b>: [to the beat] Sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep... 
-<b>Rarity</b>: Apparently, DJ Pon-3 has a residency at the Party Palace upstairs, but security won't let me speak to her. 
-[honk!] 
-<b>Rarity</b>: Aah! What in the name of Celestia was that?! 
-<b>Plaid Stripes</b>: You know how most stores have a little jingle-bell when the door opens? Ahem. I thought we should have something with a little more pizzazz! So, I installed one of Daddy's antique horns. 
-[honk! honk! honk!] 
-<b>Rarity</b>: [sighs] We'll have to do something about that, after I think of a way to quiet down that music. And after I finish designing the window display! 
-[crash!] 
-<b>Rarity</b>: Ahh! Wait, is this my merchandise shipment from Ponyville? It's completely disorganized! A—A—... [sighs] 
-<b>Coco Pommel</b>: [sneezes] 
-<b>Rarity</b>: Gesundheit! Oh, Miss Pommel! I'm so glad to see you! Now, as the sole sales associate at Rarity For You, I hate to add to your already overflowing plate of responsibilities, but it looks as though we have just a tad more to do before tonight than I thought. 
-<b>Coco Pommel</b>: Actually, I— [sneezes] I can't work tonight. 
-<b>Rarity</b>: Oh? Why not? 
-<b>Coco Pommel</b>: [blowing nose] 
-<b>Coco Pommel</b>: [sneezes] 
-<b>Rarity</b>: Feel better, my sweet. We'll manage without you... somehow. And we'll manage glowing teeth and car horns and disorganized clothes and dance music! Am I forgetting anything? 
-[raccoons chittering] 
-<b>Rarity</b>: [sobbing] What am I going to do?! 
-<b>Twilight Sparkle</b>: Well, opening a store in Manehattan is a pretty big deal. It's natural that Rarity would be a 
- <i>little</i> stressed about how it was going. Since it wasn't going well. Still, I think she handled it all right. 
-<b>Rarity</b>: My dream is doomed! Doomed, I tell you! 
- <i>Doomed!</i> 
-<b>Twilight Sparkle</b>: I know things haven't gone perfectly so far, but we've done this kind of thing before. If we all work together— 
-<b>Rarity</b>: I appreciate the offer, but this is Manehattan. To make it in the fashion scene here, everything has to be perfect. The perfect location! The perfect clothes! The perfect opening! 
-<b>Twilight Sparkle</b>: Maybe we should just postpone. 
-<b>Rarity</b>: Postpone?! Darling, tonight is the last night of the fall season. If we don't open tonight, it won't be... 
-<b>Twilight Sparkle</b>: [sighs] Perfect. 
-<b>Rarity</b>: Yes. I know what needs to be done. I just need more of me! Oh, how I wish I could make copies of myself! 
-<b>Pinkie Pie</b>: Yeah... Making copies of yourself always 
- <i>sounds</i> like a great idea, but before you know it, you're locked in a room with fifty Pinkie Pies watching paint dry. 
-[syrup splashes] 
-<b>Twilight Sparkle</b>: We can do this. And we can stay true to your vision. 
-<b>Rarity</b>: You'd do that? Fluttershy, you'll handle those... strong-smelling raccoons for me? 
-<b>Fluttershy</b>: Of course. 
-<b>Applejack</b>: Leave Plaid Stripes to me. I'll handle her and her, uh, "good ideas". 
-<b>Pinkie Pie</b>: Ooh, ooh, ooh! And I can go upstairs to that nonstop party and have tons of fun and eat some cake and set off party cannons and— 
-<b>Rarity</b>: [clears throat] 
-<b>Pinkie Pie</b>: And then make them be quiet. 
-<b>Twilight Sparkle</b>: I'm pretty sure I know somepony who wouldn't mind organizing this merchandise shipment for you. [beat] I'm talking about myself. [beat] [pleading] Oh, please, let me organize it! 
-<b>Rarity</b>: This all sounds splendid, but I don't even have a single employee, and I'll need the best of the best. 
-<b>Rainbow Dash</b>: Leave the hiring to me. 
-<b>Rarity</b>: Oh! This is it, my dears. If you can handle these problems, I'll focus on the designs for the front window display. We'll show Manehattan what Rarity For You is all about! Oh, what would I do without you? 
-<b>Rainbow Dash</b>: What would she do without us? Huh. Lemme think. [imitating Rarity] "Darlings, I'm absolutely doomed, doomed, doomed!" [laughs, normal voice] Heh, I sound just like her! 
-[pencil scratching] 
-<b>Rainbow Dash</b>: Hey, you're not writing this down, are you? 
-<b>Rarity</b>: Now for the perfect window display. Hmm. 
-[dance music playing] 
-<b>Pinkie Pie</b>: Oh, I can't really stop a super fun party in the middle of mega-happy fun times, can I?! Oh, what would Rarity want?! 
-<b>Rarity Devil</b>: Keep that party going 'til the break of dawn! 
-<b>Pinkie Pie</b>: Really? 
-<b>Rarity Angel</b>: Indubitably! And as for the roof, get jiggy! Raise it, Pinkie! Raise it like you've never raised it before! 
-<b>Pinkie Pie</b>: Oh! If you say so! 
-<b>Rarity Devil</b>: Oh, please, Pinkie Pie. Never in a million years would I say such balderdash! 
-[poof] 
-[poof] 
-<b>Pinkie Pie</b>: Oh. 
-[screech] 
-<b>Pinkie Pie</b>: Obviously, DJ Pon-3 only plays the sickest of beats. I just wouldn't want her to miss out on the coolest new music straight from the back-alley underground, zip-zap party scene! [to DJ Pon-3] I'd play the whole thing if 
- <i>I</i> were you, no matter what other ponies think. 
-[record scratches] 
-[shopping music plays] 
-<b>Dancers</b>: Awww. 
-<b>Rainbow Dash</b>: Rarity For You is only hiring the best of the best. And to me, that means the fastest. Now, uh, before we begin, uh... [to herself] Am I doing this right? What would Rarity want? [to applicants] New plan! 
-[zip!] 
-<b>Rainbow Dash</b>: Who can be the first one to tell me what fabric this is? 
-<b>Blue Bobbin</b>: That's organza. 
-<b>Rainbow Dash</b>: Are you sure? 
-<b>Blue Bobbin</b>: It's a thin, plain weave. Sheer fabric traditionally made from silk, so... yeah. 
-<b>Rainbow Dash</b>: I don't know the first thing about clothes. Pretty much all I can do is look at something and tell you if it's clothes or not. This chair? Not clothes. 
-<b>Plaid Stripes</b>: See if you can keep up with me here. What are all clothes made of? 
-<b>Applejack</b>: Uh, fabric? 
-<b>Plaid Stripes</b>: Bingo! But not in this store. Uh-uh. Not anymore. 
-<b>Applejack</b>: Oh, no? 
-<b>Plaid Stripes</b>: Two words for you: "spoon clothes". All our clothes will be made of spoons! 
-<b>Applejack</b>: [sighs, to herself] What would Rarity want? [to Plaid Stripes] You know, I like you, Plaid Stripes. If it were up to me, we'd have a spoon clothes store right next to Stinky Bottom's Discount Hat Emporium. But it ain't up to me, so the answer is no. 
-<b>Applejack</b>: Personally, I think spoon clothes ain't such a bad idea. Useful, too. Eatin' soup, stirrin' gumbo, diggin' little holes. 
-<b>Twilight Sparkle</b>: There. Perfect. Although, what would Rarity want? Maybe she wouldn't like it done by color. Guess I have to start over! 
-<b>Fluttershy</b>: Hello, Smoky, Softpad, Smoky Jr.? I have some... interesting news. I, oh... I'd like you all to stay here forever, but... [to herself] What would Rarity want? [to the raccoons] You have to move out! [sobs] 
-[raccoons shriek] 
-<b>Rarity</b>: A window display is the first thing customers see, and if they like it, they'll walk inside and experience the glory that is my boutique. 
-<b>Rainbow Dash</b>: [stammers] I don't know which one of you to hire! Just... keep guessing fabrics! 
-<b>Plaid Stripes</b>: Daddy, Rarity's friend doesn't like my ideas! 
-<b>Mr. Stripes</b>: Spoon clothes is good idea! 
-[dance music playing] 
-<b>Pinkie Pie</b>: Oh, no! Not a shopping music mashup! 
-[raccoons growling] 
-<b>Fluttershy</b>: I'm sorry, I'm sorry, I'm sorry! 
-[knob jiggles] 
-<b>Twilight Sparkle</b>: [gasps] 
-[slow motion sounds] 
-<b>Rarity</b>: How's it— 
-[door slams] 
-<b>Rarity</b>: Ooh! 
-<b>Fluttershy</b>: When you write the story, could you maybe skip over the part where we locked Rarity in the window display? [nervous chuckle] 
-<b>Rarity</b>: Hello? The door appears to be stuck! 
-<b>Twilight Sparkle</b>: Yep. We're workin' on it! 
-<b>Rarity</b>: Hmm. Well, shouldn't let this time go to waste. 
-[ponies chattering and raccoons chittering] 
-<b>Twilight Sparkle</b>: How did this happen? 
-<b>Pinkie Pie</b>: I shut down the party. 
-<b>Applejack</b>: I told Plaid Stripes no. 
-<b>Fluttershy</b>: I asked the raccoons to leave. 
-<b>Rainbow Dash</b>: I asked a lot of fabric questions. 
-<b>Pinkie Pie</b>, 
- <b>Applejack</b>, 
- <b>Fluttershy</b> and 
- <b>Rainbow Dash</b>: Just like I thought Rarity would want! 
-<b>Twilight Sparkle</b>: Rarity asked us to help her with everything because she knows all of us so well. [to Fluttershy] She knows how much you care for animals. She'd trust you to solve the problem 
- <i>your</i> way. [to the others] Maybe we should all do the same. Doing this our way 
- <i>is</i> what Rarity wants. It's not too late. Let's all dig in and we can fix this. 
-[ponies chattering] 
-<b>Twilight Sparkle</b>: Before Rarity finds out how bad we messed up. 
-<b>Fluttershy</b>: I'm sorry I asked you to leave. The place is yours if you wanna stay. Though I would like to ask you all just one favor. 
-<b>Pinkie Pie</b>: I'm sorry I made you play that un-fun, super-boring music. But if you're up for it, I have an idea to make the party even better! 
-<b>Rainbow Dash</b>: Okay, I 
- <i>don't</i> get fabric, but I 
- <i>do</i> get speed. And I need somepony fast enough to help all the customers Rarity's gonna have. So... first one to the river and back gets the job! [beat] It's a race! Go! 
-<b>Applejack</b>: [clears throat] Mr. Stripes, I owe your daughter an apology. She's got good ideas, and I should give 'em a chance. So here's what I'm thinkin'. 
-[taxi rattling] 
-<b>Rarity</b>: Perfect! 
-[doorknob rattling] 
-[door opens] 
-[thump] 
-<b>Twilight Sparkle</b>: [awkwardly] Wow, looks like we fixed that door just in time! 
-<b>Rarity</b>: [gasps] Oh! What's all this? 
-<b>Twilight Sparkle</b>: The whole place organized by style, cross-referenced by size, and reverse-indexed by fabric. She'll be able to find anything in three seconds flat! It was some of my best work. 
-<b>Rarity</b>: Oh! I knew I could count on you! All right... I suppose this is the moment of truth... 
-[door opens, bell rings] 
-<b>Rarity</b>: Rarity For You is now open! 
-[ponies chattering] 
-<b>Rarity</b>: Oh, dear. I wasn't quite prepared for such a crowd. How will I handle them all? 
-<b>Blue Bobbin</b>: My name's Blue Bobbin. I'll be your personal shopping assistant this evening. 
-<b>Rainbow Dash</b>: Right this way, everypony, and one of our talented salesponies can help you out! 
-<b>Rainbow Dash</b>: Honestly, they were all pretty slow. But they finished the race. Plus they knew a lot more about fabric than I did. So, I hired them all! 
-[music starts] 
-<b>Pinkie Pie</b>: The way I see it, Rarity designs fashion, DJ Pon-3 designs beats. What better combination than a boutique/dance club? 
-<b>Fluttershy</b>: After a quick bath, they were more than willing to help! 
-[splat] 
-<b>"Waxton"</b>: Ah, a blue corn reduction with shallot confit! But how can I possibly enjoy it without a— 
-<b>Plaid Stripes</b>: Spoon? 
-<b>Applejack</b>: Heh. Toldja spoon clothes ain't such a bad idea. 
-<b>"Waxton"</b>: [sips] Mmm! Exquisite! This is the most whimsical and wonderfully fashionable boutique I've ever seen! 
-[ponies chattering] 
-<b>Rarity</b>: [reading] "In the end, Rarity's grand opening was a smashing success! True, it got off to a rocky start, but somehow this rag-tag group of ne'er-do-wells..." [to ponies] Oh, heavens, I think he means you. [continues reading] "...came together and created the perfect boutique. A vision of Rarity combined with the expertise of her friends! This reporter, for one, is a believer." [to ponies] Why didn't you tell me there were so many problems? 
-<b>Twilight Sparkle</b>: We all figured you had enough on your mind. 
-<b>Applejack</b>: And we didn't want you to think that the opening wasn't perfect. 
-<b>Rarity</b>: [giggles] "Ne'er-do-wells" or not, I know I can always count on all of you. And nothing could be more perfect than that. 
-<b>Plaid Stripes</b>: [sipping] 
-[credits] 
+<b>Rainbow Dash</b>: [panting] Come on! If we hurry, we can get there before the paper's even delivered to Rarity's house!
+<b>Pinkie Pie</b>: Maybe she won't read the article.
+<b>Applejack</b>: I'm pretty sure Rarity's gonna read a review of her new boutique in Manehattan.
+<b>Rainbow Dash</b>: I still can't believe we all just blabbed everything that happened to that reporter!
+<b>Fluttershy</b>: I just hope it doesn't end up being an article about how her friends almost ruined the opening.
+<b>Twilight Sparkle</b>: I think you're all overreacting. Rarity's our friend. If anypony is gonna understand, it'll be her.
+[door opens]
+<b>Rarity</b>: [grimly] I was wondering when all of you were going to show up.
+<b>Twilight Sparkle</b>, <b>Rainbow Dash</b>, <b>Pinkie Pie</b>, <b>Applejack</b>, <b>Fluttershy</b>: [gasp]
+<b>Rarity</b>: [excitedly] Now we can all read the review together!
+<b>Rainbow Dash</b>: Um, I have an idea. How 'bout we <i>don't</i> read it?
+<b>Twilight Sparkle</b>: What she means is, before you read it, we should probably tell you about—
+<b>Rarity</b>: No, no, darling. Please, no spoilers.
+<b>Fluttershy</b>: But—
+<b>Rarity</b>: <i>No spoilers!</i>
+[theme song]
+<b>Rarity</b>: Now, is everypony ready to hear what I'm sure is a
+ stellar review that describes in stunning detail exactly how each of 
+you contributed to the successful opening of Rarity For You?
+[zip]
+<b>Rarity</b>: [clears throat, reading] "Many a pony has tried 
+their hoof at joining the ranks of the elite fashion trendsetters 
+currently ensconced in the boutiques of Manehattan's famed Saddle Row." 
+[giggles, continues reading] "Some might say it's the ultimate 
+achievement in Equestrian fashion, and never before has a reporter been 
+granted such unfettered behind-the-scenes access until now!"
+<b>Fluttershy</b>: I wish it had been more fettered.
+<b>Rarity</b>: Oh, uh... [mutters] Ah! [reading] "I sat down 
+with..." [giggles, continues reading] "...Rarity and her friends after 
+the opening to get the inside scoop, and what a scoop it was!"
+<b>Buried Lede</b>: Okay, kid, ya successfully opened a shop in 
+Manehattan and that's no mean feat! Most ponies might wonder what it 
+feels like. Here's how it's gonna be: I'm gonna interview you and your 
+friends so I can paint a picture of how it all came together. A word 
+picture, mind you, not an actual picture. Any questions?
+<b>Rarity</b>: Well, I was wondering—
+<b>Buried Lede</b>: Let's get started! Ms. Rarity, you've got 
+shops all over Equestria, but this was your first time trying to make it
+ in the big city. What made ya think you could tackle it on your own?
+<b>Rarity</b>: Well, I wouldn't say <i>all</i> over Equestria. I
+ just have two other boutiques: one in my hometown of Ponyville, and one
+ in Canterlot. Uh, still, when I decided to open <i>this</i> one, I was nothing but confident.
+[bell dings]
+<b>Twilight Sparkle</b>: Let's just say that if I <i>could</i> choose, I probably wouldn't do it <i>that</i> way again. Heh.
+<b>Pinkie Pie</b>: Well, it wasn't the funnest party ever...
+<b>Applejack</b>: It was a plum-puckered, pig-pushin' disaster!
+<b>Rainbow Dash</b>: After a lifetime of awesome, I think everypony's allowed to mess up every now and then, right?
+[pencil writing]
+<b>Rainbow Dash</b>: Wait, are you writing this down?
+<b>Fluttershy</b>: Um, it didn't go exactly how I thought it would, but it, um, started out all right.
+<b>Rarity</b>: Welcome to Saddle Row, an entire street lined with the most fashionable boutiques in all of Equestria!
+<b>Applejack</b>: If it's supposed to be the most <i>fashionable</i> block of shops, where's Stinky Bottom's Discount Hat Emporium?
+<b>Rarity</b>: I suppose it didn't make the cut. [gasps] Here it is! Rarity For You!
+[door opens]
+[shelf breaks]
+[mouse squeaks]
+<b>Twilight Sparkle</b>: Rarity, it's lovely. But are you sure you'll be ready to open tonight?
+<b>Pinkie Pie</b>: [inhales] [sneezes]
+<b>Rarity</b>: No need to fret over a mere moderate amount of 
+preparation. My clothes arrive soon, my sales associate after that, and 
+with a little... dusting, we'll be ready for the grand opening tonight.
+<b>Mr. Stripes</b>: Rarity! So good to see you! Your store, it's going to be a very good place, I think! [laughs]
+<b>Rarity</b>: Mr. Stripes owns the building. He's a very pleasant landlord. Although he <i>can</i> be pushy at times. [beat] Okay, <i>all</i> the time.
+<b>Mr. Stripes</b>: You've met my daughter, the apple of my ear, the hay in my hoof? You will let her work with you.
+<b>Rarity</b>: [chuckles nervously] It's just, I'm dreadfully busy preparing for tonight's grand opening, as you can see.
+<b>Mr. Stripes</b>: There are only two things I love more than 
+being pushy. One is my daughter. The other is miniature doll furniture. 
+And I would sell my entire mini-furniture collection to make my daughter
+ happy. You understand?
+[poit, poit, poit]
+<b>Rarity</b>: I'm sorry. I just don't think it's going to be possible.
+<b>Mr. Stripes</b>: Let me say another way... Hire her or I raise rent until you no can afford!
+<b>Rarity</b>: Oh, uh, welcome aboard.
+<b>Plaid Stripes</b>: [loudly] First idea! Instead of clothes, we sell glow-in-the-dark teeth! Like this. [chomp, chomp] But they glow in the dark!
+<b>Rarity</b>: Golly, what a splendid idea! [chuckles nervously]
+<b>Rarity</b>: Glow-in-the-dark teeth! What was she thinking?!
+<b>Rarity</b>: Aah! Fluttershy, your assistance is required in the stock room, posthaste!
+<b>Fluttershy</b>: Aw, hello.
+<b>Rarity</b>: But what are they doing here?
+[raccoons chittering]
+<b>Fluttershy</b>: Smoky made too much noise eating garbage, so Softpad's mother made them move out of the trashcan.
+<b>Fluttershy</b>: Then Smoky Jr. found a nice home in the crawl
+ space behind the building. But Mr. Stripes demolished it, so they were 
+temporarily camped out in the back until they found a new place to live.
+<b>Rarity</b>: No, no, no! I can't have a family of rubbish-scented raccoons living in my boutique!
+[dance music playing, chandelier creaks]
+<b>Rarity</b>: Uh, did you hear that?
+<b>Rarity</b>: [annoyed] Heh. Turns out there's a Club Pony Party Palace upstairs.
+<b>Pinkie Pie</b>: [excitedly] Turns out there's a Club Pony Party Palace upstairs!
+[dance music continues]
+<b>Rarity</b>: I'm sorry. Could you please ask her to turn it 
+down? Could you ask her to turn it down, please? [pleading] Turn it 
+down, please! [sobbing] Oh, please!
+<b>Rarity</b>: Ugh! Foals today listen to their so-called 
+"music" far too loud. I realize that makes me sound like an old mare. 
+But this is business!
+[sweeping]
+[dance music playing, chandelier creaking]
+<b>Rainbow Dash</b>: I wish we were having as much fun as <i>they</i> are.
+<b>Twilight Sparkle</b>: Well, sweeping can be fun, too. [to the beat] Sweep, sweep, sweep, sweep. Sweep, sweep, sweep, sweep, sweep...
+<b>Rainbow Dash</b>: Only Twilight could make a dance remix about sweeping. I mean, how lame is that?
+<b>Applejack</b>: Yeah. It wasn't even catchy.
+<b>Rainbow Dash</b>: Nope.
+[hoof-bump]
+<b>Twilight Sparkle</b>: [to the beat] Sweep, sweep, sweep, sweep...
+<b>Twilight Sparkle</b>, <b>Rainbow Dash</b>, and <b>Applejack</b>: [to the beat] Sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep, sweep...
+<b>Rarity</b>: Apparently, DJ Pon-3 has a residency at the Party Palace upstairs, but security won't let me speak to her.
+[honk!]
+<b>Rarity</b>: Aah! What in the name of Celestia was that?!
+<b>Plaid Stripes</b>: You know how most stores have a little 
+jingle-bell when the door opens? Ahem. I thought we should have 
+something with a little more pizzazz! So, I installed one of Daddy's 
+antique horns.
+[honk! honk! honk!]
+<b>Rarity</b>: [sighs] We'll have to do something about that, 
+after I think of a way to quiet down that music. And after I finish 
+designing the window display!
+[crash!]
+<b>Rarity</b>: Ahh! Wait, is this my merchandise shipment from Ponyville? It's completely disorganized! A—A—... [sighs]
+<b>Coco Pommel</b>: [sneezes]
+<b>Rarity</b>: Gesundheit! Oh, Miss Pommel! I'm so glad to see 
+you! Now, as the sole sales associate at Rarity For You, I hate to add 
+to your already overflowing plate of responsibilities, but it looks as 
+though we have just a tad more to do before tonight than I thought.
+<b>Coco Pommel</b>: Actually, I— [sneezes] I can't work tonight.
+<b>Rarity</b>: Oh? Why not?
+<b>Coco Pommel</b>: [blowing nose]
+<b>Coco Pommel</b>: [sneezes]
+<b>Rarity</b>: Feel better, my sweet. We'll manage without 
+you... somehow. And we'll manage glowing teeth and car horns and 
+disorganized clothes and dance music! Am I forgetting anything?
+[raccoons chittering]
+<b>Rarity</b>: [sobbing] What am I going to do?!
+<b>Twilight Sparkle</b>: Well, opening a store in Manehattan is a pretty big deal. It's natural that Rarity would be a <i>little</i> stressed about how it was going. Since it wasn't going well. Still, I think she handled it all right.
+<b>Rarity</b>: My dream is doomed! Doomed, I tell you! <i>Doomed!</i>
+<b>Twilight Sparkle</b>: I know things haven't gone perfectly so far, but we've done this kind of thing before. If we all work together—
+<b>Rarity</b>: I appreciate the offer, but this is Manehattan. 
+To make it in the fashion scene here, everything has to be perfect. The 
+perfect location! The perfect clothes! The perfect opening!
+<b>Twilight Sparkle</b>: Maybe we should just postpone.
+<b>Rarity</b>: Postpone?! Darling, tonight is the last night of the fall season. If we don't open tonight, it won't be...
+<b>Twilight Sparkle</b>: [sighs] Perfect.
+<b>Rarity</b>: Yes. I know what needs to be done. I just need more of me! Oh, how I wish I could make copies of myself!
+<b>Pinkie Pie</b>: Yeah... Making copies of yourself always <i>sounds</i> like a great idea, but before you know it, you're locked in a room with fifty Pinkie Pies watching paint dry.
+[syrup splashes]
+<b>Twilight Sparkle</b>: We can do this. And we can stay true to your vision.
+<b>Rarity</b>: You'd do that? Fluttershy, you'll handle those... strong-smelling raccoons for me?
+<b>Fluttershy</b>: Of course.
+<b>Applejack</b>: Leave Plaid Stripes to me. I'll handle her and her, uh, "good ideas".
+<b>Pinkie Pie</b>: Ooh, ooh, ooh! And I can go upstairs to that
+ nonstop party and have tons of fun and eat some cake and set off party 
+cannons and—
+<b>Rarity</b>: [clears throat]
+<b>Pinkie Pie</b>: And then make them be quiet.
+<b>Twilight Sparkle</b>: I'm pretty sure I know somepony who 
+wouldn't mind organizing this merchandise shipment for you. [beat] I'm 
+talking about myself. [beat] [pleading] Oh, please, let me organize it!
+<b>Rarity</b>: This all sounds splendid, but I don't even have a single employee, and I'll need the best of the best.
+<b>Rainbow Dash</b>: Leave the hiring to me.
+<b>Rarity</b>: Oh! This is it, my dears. If you can handle 
+these problems, I'll focus on the designs for the front window display. 
+We'll show Manehattan what Rarity For You is all about! Oh, what would I
+ do without you?
+<b>Rainbow Dash</b>: What would she do without us? Huh. Lemme 
+think. [imitating Rarity] "Darlings, I'm absolutely doomed, doomed, 
+doomed!" [laughs, normal voice] Heh, I sound just like her!
+[pencil scratching]
+<b>Rainbow Dash</b>: Hey, you're not writing this down, are you?
+<b>Rarity</b>: Now for the perfect window display. Hmm.
+[dance music playing]
+<b>Pinkie Pie</b>: Oh, I can't really stop a super fun party in the middle of mega-happy fun times, can I?! Oh, what would Rarity want?!
+<b>Rarity Devil</b>: Keep that party going 'til the break of dawn!
+<b>Pinkie Pie</b>: Really?
+<b>Rarity Angel</b>: Indubitably! And as for the roof, get jiggy! Raise it, Pinkie! Raise it like you've never raised it before!
+<b>Pinkie Pie</b>: Oh! If you say so!
+<b>Rarity Devil</b>: Oh, please, Pinkie Pie. Never in a million years would I say such balderdash!
+[poof]
+[poof]
+<b>Pinkie Pie</b>: Oh.
+[screech]
+<b>Pinkie Pie</b>: Obviously, DJ Pon-3 only plays the sickest 
+of beats. I just wouldn't want her to miss out on the coolest new music 
+straight from the back-alley underground, zip-zap party scene! [to DJ 
+Pon-3] I'd play the whole thing if <i>I</i> were you, no matter what other ponies think.
+[record scratches]
+[shopping music plays]
+<b>Dancers</b>: Awww.
+<b>Rainbow Dash</b>: Rarity For You is only hiring the best of 
+the best. And to me, that means the fastest. Now, uh, before we begin, 
+uh... [to herself] Am I doing this right? What would Rarity want? [to 
+applicants] New plan!
+[zip!]
+<b>Rainbow Dash</b>: Who can be the first one to tell me what fabric this is?
+<b>Blue Bobbin</b>: That's organza.
+<b>Rainbow Dash</b>: Are you sure?
+<b>Blue Bobbin</b>: It's a thin, plain weave. Sheer fabric traditionally made from silk, so... yeah.
+<b>Rainbow Dash</b>: I don't know the first thing about clothes.
+ Pretty much all I can do is look at something and tell you if it's 
+clothes or not. This chair? Not clothes.
+<b>Plaid Stripes</b>: See if you can keep up with me here. What are all clothes made of?
+<b>Applejack</b>: Uh, fabric?
+<b>Plaid Stripes</b>: Bingo! But not in this store. Uh-uh. Not anymore.
+<b>Applejack</b>: Oh, no?
+<b>Plaid Stripes</b>: Two words for you: "spoon clothes". All our clothes will be made of spoons!
+<b>Applejack</b>: [sighs, to herself] What would Rarity want? 
+[to Plaid Stripes] You know, I like you, Plaid Stripes. If it were up to
+ me, we'd have a spoon clothes store right next to Stinky Bottom's 
+Discount Hat Emporium. But it ain't up to me, so the answer is no.
+<b>Applejack</b>: Personally, I think spoon clothes ain't such a bad idea. Useful, too. Eatin' soup, stirrin' gumbo, diggin' little holes.
+<b>Twilight Sparkle</b>: There. Perfect. Although, what would Rarity want? Maybe she wouldn't like it done by color. Guess I have to start over!
+<b>Fluttershy</b>: Hello, Smoky, Softpad, Smoky Jr.? I have 
+some... interesting news. I, oh... I'd like you all to stay here 
+forever, but... [to herself] What would Rarity want? [to the raccoons] 
+You have to move out! [sobs]
+[raccoons shriek]
+<b>Rarity</b>: A window display is the first thing customers 
+see, and if they like it, they'll walk inside and experience the glory 
+that is my boutique.
+<b>Rainbow Dash</b>: [stammers] I don't know which one of you to hire! Just... keep guessing fabrics!
+<b>Plaid Stripes</b>: Daddy, Rarity's friend doesn't like my ideas!
+<b>Mr. Stripes</b>: Spoon clothes is good idea!
+[dance music playing]
+<b>Pinkie Pie</b>: Oh, no! Not a shopping music mashup!
+[raccoons growling]
+<b>Fluttershy</b>: I'm sorry, I'm sorry, I'm sorry!
+[knob jiggles]
+<b>Twilight Sparkle</b>: [gasps]
+[slow motion sounds]
+<b>Rarity</b>: How's it—
+[door slams]
+<b>Rarity</b>: Ooh!
+<b>Fluttershy</b>: When you write the story, could you maybe skip over the part where we locked Rarity in the window display? [nervous chuckle]
+<b>Rarity</b>: Hello? The door appears to be stuck!
+<b>Twilight Sparkle</b>: Yep. We're workin' on it!
+<b>Rarity</b>: Hmm. Well, shouldn't let this time go to waste.
+[ponies chattering and raccoons chittering]
+<b>Twilight Sparkle</b>: How did this happen?
+<b>Pinkie Pie</b>: I shut down the party.
+<b>Applejack</b>: I told Plaid Stripes no.
+<b>Fluttershy</b>: I asked the raccoons to leave.
+<b>Rainbow Dash</b>: I asked a lot of fabric questions.
+<b>Pinkie Pie</b>, <b>Applejack</b>, <b>Fluttershy</b> and <b>Rainbow Dash</b>: Just like I thought Rarity would want!
+<b>Twilight Sparkle</b>: Rarity asked us to help her with 
+everything because she knows all of us so well. [to Fluttershy] She 
+knows how much you care for animals. She'd trust you to solve the 
+problem <i>your</i> way. [to the others] Maybe we should all do the same. Doing this our way <i>is</i> what Rarity wants. It's not too late. Let's all dig in and we can fix this.
+[ponies chattering]
+<b>Twilight Sparkle</b>: Before Rarity finds out how bad we messed up.
+<b>Fluttershy</b>: I'm sorry I asked you to leave. The place is yours if you wanna stay. Though I would like to ask you all just one favor.
+<b>Pinkie Pie</b>: I'm sorry I made you play that un-fun, 
+super-boring music. But if you're up for it, I have an idea to make the 
+party even better!
+<b>Rainbow Dash</b>: Okay, I <i>don't</i> get fabric, but I <i>do</i>
+ get speed. And I need somepony fast enough to help all the customers 
+Rarity's gonna have. So... first one to the river and back gets the job!
+ [beat] It's a race! Go!
+<b>Applejack</b>: [clears throat] Mr. Stripes, I owe your 
+daughter an apology. She's got good ideas, and I should give 'em a 
+chance. So here's what I'm thinkin'.
+[taxi rattling]
+<b>Rarity</b>: Perfect!
+[doorknob rattling]
+[door opens]
+[thump]
+<b>Twilight Sparkle</b>: [awkwardly] Wow, looks like we fixed that door just in time!
+<b>Rarity</b>: [gasps] Oh! What's all this?
+<b>Twilight Sparkle</b>: The whole place organized by style, 
+cross-referenced by size, and reverse-indexed by fabric. She'll be able 
+to find anything in three seconds flat! It was some of my best work.
+<b>Rarity</b>: Oh! I knew I could count on you! All right... I suppose this is the moment of truth...
+[door opens, bell rings]
+<b>Rarity</b>: Rarity For You is now open!
+[ponies chattering]
+<b>Rarity</b>: Oh, dear. I wasn't quite prepared for such a crowd. How will I handle them all?
+<b>Blue Bobbin</b>: My name's Blue Bobbin. I'll be your personal shopping assistant this evening.
+<b>Rainbow Dash</b>: Right this way, everypony, and one of our talented salesponies can help you out!
+<b>Rainbow Dash</b>: Honestly, they were all pretty slow. But 
+they finished the race. Plus they knew a lot more about fabric than I 
+did. So, I hired them all!
+[music starts]
+<b>Pinkie Pie</b>: The way I see it, Rarity designs fashion, DJ Pon-3 designs beats. What better combination than a boutique/dance club?
+<b>Fluttershy</b>: After a quick bath, they were more than willing to help!
+[splat]
+<b>"Waxton"</b>: Ah, a blue corn reduction with shallot confit! But how can I possibly enjoy it without a—
+<b>Plaid Stripes</b>: Spoon?
+<b>Applejack</b>: Heh. Toldja spoon clothes ain't such a bad idea.
+<b>"Waxton"</b>: [sips] Mmm! Exquisite! This is the most whimsical and wonderfully fashionable boutique I've ever seen!
+[ponies chattering]
+<b>Rarity</b>: [reading] "In the end, Rarity's grand opening was
+ a smashing success! True, it got off to a rocky start, but somehow this
+ rag-tag group of ne'er-do-wells..." [to ponies] Oh, heavens, I think he
+ means you. [continues reading] "...came together and created the 
+perfect boutique. A vision of Rarity combined with the expertise of her 
+friends! This reporter, for one, is a believer." [to ponies] Why didn't 
+you tell me there were so many problems?
+<b>Twilight Sparkle</b>: We all figured you had enough on your mind.
+<b>Applejack</b>: And we didn't want you to think that the opening wasn't perfect.
+<b>Rarity</b>: [giggles] "Ne'er-do-wells" or not, I know I can always count on all of you. And nothing could be more perfect than that.
+<b>Plaid Stripes</b>: [sipping]
+[credits]

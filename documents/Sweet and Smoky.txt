@@ -1,0 +1,347 @@
+[bird chirping]
+[knocking on door]
+[door opens]
+<b>Smolder</b>: Uh, Headmare Twilight? Sorry to bug you in the Teachers' Lounge. Is it okay if I miss class?
+<b>Twilight Sparkle</b>: Mm-hmm. You can make it up tomorrow.
+<b>Smolder</b>: Actually, I'll be gone for a week.
+<b>Twilight Sparkle</b>: A week?! In the middle of the semester?
+<b>Fluttershy</b>: Oh, is everything all right, Smolder?
+<b>Smolder</b>: Not exactly. [sighs] My brother's been having a
+ hard time since I left for school. I want to go home and check on him. 
+He's a really sweet guy, and the other dragons can be kind of rough.
+<b>Spike</b>: Did you say "sweet guy" and "dragon" in the same sentence?
+<b>Smolder</b>: Yeah. He's sort of like you, Spike.
+<b>Spike</b>: Awww...
+<b>Twilight Sparkle</b>: I'm sorry to hear about your brother, 
+Smolder. But the Dragon Lands are really far for you to go by yourself. 
+And I'm not sure about you missing so much class.
+<b>Spike</b>: Hey! What if she got a school credit for it? Kind of like a... a kindness field trip? I'll go with her.
+<b>Smolder</b>: Thanks! The Dragon Lord is way too busy for personal problems when it's baby dragon hatching season.
+<b>Fluttershy</b>: Baby... dragon... hatching season?! [gasps] 
+All those cute little snouts poking out of those adorable little 
+shells?! Teeny, tiny, twitchy tails?! Can I go too?!
+<b>Twilight Sparkle</b>: Well, you <i>are</i> the perfect pony to lead a kindness field trip.
+[beat]
+<b>Twilight Sparkle</b>: [sighs] Fine. But I'm gonna expect a full report when you get back.
+<b>Smolder</b>: How many pages?
+<b>Twilight Sparkle</b>: I was talking to Fluttershy. Hatching season sounds fascinating!
+<b>Fluttershy</b>, <b>Spike</b>, and <b>Smolder</b>: [laughing]
+[theme song]
+<b>Spike</b>: Okay, I made a list of what cheers me up when I'm 
+down, so if your brother's like me, he's gonna love it! What should we 
+do first? The Smile Song? The sharing circle? Or friendship bracelet 
+weaving?
+<b>Smolder</b>: I'm not sure those are the kind of things my brother's gonna be into.
+<b>Fluttershy</b>: Well, what <i>would</i> make your brother happy?
+<b>Smolder</b>: Just having Spike and me accept him for who he is will make a huge difference. Dragons who appreciate his more sensitive side.
+<b>Spike</b>: I got it! Show tunes!
+<b>Smolder</b>: Yeah, no, but good try.
+<b>Fluttershy</b>: [sniffs] Oh! Uh... [through plugged nose] That's an interesting smell.
+<b>Smolder</b>: [inhales, sighs] The stink of sulfur. Sharp rocks under my claws. [sighs] It's good to be home.
+<b>Spike</b>: I can't wait to meet your brother, Smolder. We're gonna be best buddies. I just know it.
+<b>Smolder</b>: He usually hangs out near here. I'll go try and find him.
+<b>Fluttershy</b>: Spike, do you mind if I take a peek at the cute little baby eggs?
+<b>Spike</b>: No problem. I'll stay here and finish this 
+comfort blanket. It'll be like a hug every time Smolder's brother wraps 
+it around himself.
+<b>Fluttershy</b>: Awww. I'm sure he'll love it, Spike.
+<b>Fluttershy</b>: [gasps] Oh... my... goodness! Good morning, 
+little one. I've come a long way to meet you. Did you know there's a 
+whole wide world out here waiting to say hello? Did you? Oh, did you, 
+boo? [baby talk]
+<b>Ember</b>: It can't answer you. It's an egg.
+<b>Fluttershy</b>: Ah, Dragon Lord Ember. How nice to see you.
+<b>Ember</b>: Nice to see you too... uh... Which one are you again? The party one? Apple Dash! Or was that the country one?
+<b>Fluttershy</b>: Fluttershy. The one who loves creatures. Are... all these yours?
+<b>Ember</b>: What?! No! None of them are. Watching over eggs is just part of the glamorous life of a Dragon Lord.
+<b>Fluttershy</b>: I think it sounds wonderful.
+<b>Ember</b>: Yeah? Then maybe you can help.
+<b>Fluttershy</b>: [gasps] I'd love to! Just tell me what to do!
+<b>Ember</b>: I don't know. It's my first time being in charge.
+ Dad wasn't big on sharing Dragon Lord details. It's kind of a "burn or 
+be burned" job.
+<b>Fluttershy</b>: Well, I'm sure you're doing great.
+<b>Ember</b>: Not really. The eggs should've hatched by now. But none of them have even cracked.
+<b>Fluttershy</b>: Oh, dear. Maybe they're lonely? Don't you 
+worry. Auntie Fluttershy's here. And the Dragon Lord and I are gonna do 
+everything we can to welcome you into this world.
+<b>Ember</b>: Really? How?
+<b>Fluttershy</b>: Um... I have no idea.
+<b>Spike</b>: Now, <i>that's</i> a thing of beauty. Whoa!
+<b>Garble</b>: Well, if it isn't our little pony friend Spike.
+<b>Spike</b>: That's Equestria's official friendship ambassador to the Dragon Lands to you! And I'm not little! I had the molt. See?
+<b>Garble</b> and <b>Dragons</b>: [laughing]
+<b>Garble</b>: Oh-ho-ho, runt's got wings. I'm soooo impressed. What's that supposed to be?
+<b>Spike</b>: Nothing! Aah! [grunts]
+<b>Garble</b>: Looks like a baby blanket to me.
+<b>Spike</b>: It's not a baby blanket. It's a... comfort blanket.
+<b>Garble</b> and <b>Dragons</b>: [laughing]
+<b>Garble</b>: Awwww. Did your pony pals make it for you with friendship and gumdrops?
+<b>Spike</b>: No. <i>I</i> made it. And by the way, knitting's a lot harder than it looks.
+<b>Garble</b>: Check out the baby blanket, guys! It's a lot harder than it looks! [laughs] Got your bwanky!
+<b>"Billy"</b>: Aw, little baby crying?
+<b>Spike</b>: [panting]
+<b>Garble</b>: Oh! Missed!
+<b>Spike</b>: [panting]
+<b>"Billy"</b>: Bet he broke a claw and everything. [laughs]
+<b>Clump</b>: [laughs]
+<b>Spike</b>: Give it back! That's for my friend!
+<b>Garble</b> and <b>Dragons</b>: [laughing]
+[flames roaring]
+<b>Spike</b>: Cut it out! You know laugh fire's dangerous! It can—!
+[burning sounds]
+<b>Spike</b>: ...do that.
+<b>Smolder</b>: Garble!
+<b>Garble</b>: Smolder? What are you doing here?
+[high-fives]
+<b>Clump</b>: How's it scalin', brah?
+<b>Spike</b>: [whispering] We'd better get out of here before your brother shows up. Garble isn't very nice to sensitive dragons.
+<b>Smolder</b>: But Garble <i>is</i> my brother.
+<b>Spike</b>: Your brother?!
+<b>Garble</b>: Got a problem with that, pony-boy?
+<b>Spike</b>: Oh, brother. [teeth chattering]
+<b>Spike</b>: [whimpering]
+<b>Smolder</b>: I've missed you, bro. We got a lot of fun to catch up on. There's no lava diving at school.
+<b>Clump</b>: Good luck gettin' Garble to do anything.
+<b>"Billy"</b>: Heh, yeah. He's gotten so weird since you left. Hiding and moping around...
+<b>Garble</b>: I have not!
+<b>Clump</b>, <b>"Billy"</b>, and <b>Fume</b>: Have so!
+<b>Smolder</b>: Easy, guys. I learned at Twilight's school ganging up on each other isn't half as cool as you think. 
+<b>Clump</b>: Awww. Pony school made you soft.
+<b>Smolder</b>: Want to try me and find out?
+<b>Clump</b>: [gulps] M-Maybe later.
+<b>Spike</b>: So, uh, let's get lava diving. What do you say?
+<b>"Billy"</b>: Better stay here, shrimp. Lava might ruin your blanky-wanky.
+<b>Garble</b>: Let the wimp tag along. Then we'll have somedragon to dunk! [laughs]
+<b>Smolder</b>: Hmph. Only gonna warn you once. Spike's my 
+friend. You mess with him, you mess with me. Besides, he came here to 
+hang out with <i>you</i>, Garble.
+[beat]
+<b>Clump</b>, <b>"Billy"</b>, and <b>Fume</b>: [laughing]
+[flames roaring]
+<b>"Billy"</b>: [mockingly] Awww. How sweet. Ha!
+<b>Clump</b>: Let's go do dragon stuff. Garble can have fun with his new <i>friend</i>.
+<b>Clump</b>, <b>"Billy"</b>, and <b>Fume</b>: [laughing]
+[flames roaring]
+<b>Garble</b>: But I'm not having fun! And he's not my friend! [growls]
+<b>Smolder</b>: Eh, just ignore them, "Gar-Gar".
+<b>Garble</b>: Smolder! Not in public!
+<b>Spike</b>: Oh, it's okay to have a nickname. Sometimes I'm called "Spikey-Wikey".
+<b>Garble</b>: Seriously? You're admitting this? [to Smolder] I am <i>not</i> hanging out with him.
+<b>Smolder</b>: Give him a chance, Garble. You guys have a lot in common.
+<b>Garble</b>: [groans] Fine. Race you to the lava pit.
+<b>Spike</b>: Wait. I thought you said your brother was sweet.
+<b>Smolder</b>: All the tough guy stuff is just an act. He's a big marshmallow.
+<b>Spike</b>: Yeah, not seein' it.
+<b>Smolder</b>: Well, maybe a burnt marshmallow. Smoky on the 
+outside, but squishy inside. He just needs friends who can appreciate 
+that part. Like you. You're not changing your mind about helping me 
+cheer him up, are you?
+<b>Spike</b>: Me? 'Course not! [nervous laugh, sighs]
+<b>Smolder</b>: Okay! Lava jumping! Just like old times, huh, Gar-Gar?
+<b>Garble</b>: Yeah. Just like old times. Except for one little <i>annoying</i> thing.
+<b>Smolder</b>: Scales away!
+[splash]
+<b>Smolder</b>: Come on in! The lava's fine!
+<b>Garble</b>: [sighs]
+<b>Spike</b>: You know, whenever I'm feeling a little down, it always helps if I do something with a friend. How about we jump together?
+[smack!]
+<b>Spike</b>: Aah!
+[splash]
+[bubbling]
+<b>Smolder</b>: Ooh... [winces] Spike? You okay?
+<b>Spike</b>: [gasps] [stuffed] Uh, I know there must be 
+something worse than lava up your nose. Ah... ah... [sneezes] I just 
+don't know what it is.
+<b>Garble</b>: Cannonball!
+[whistling through air]
+<b>Spike</b>: Aah!
+[splash!]
+<b>Garble</b>: Woo-hoo! [laughs] Oops?
+<b>Spike</b>: Ah! [coughing] [strained] Swallowing lava. Swallowing lava's definitely worse.
+<b>Garble</b>: [insincere] My bad.
+<b>Fluttershy</b>: [reading] "...And then they all lived happily
+ ever after." Time to come out, little ones. [baby talk] Maybe you'd 
+like a song? [deep breath]
+<b>Ember</b>: I think you might be encouraging them to stay in. Dragons aren't much for touchy-feely stuff.
+<b>Fluttershy</b>: Oh. I'm sorry.
+[rattling]
+<b>Fluttershy</b>: [gasps] Goodness. Why are the eggs shaking? [gasps] Are they finally hatching?
+<b>Ember</b>: I wish. They've been doing that for days. I'm sure it means something, but it's probably not good.
+<b>Spike</b>: Try this. Red velvet. Guaranteed to brighten anycreature's spirits.
+[smack!]
+[splat!]
+[squish!]
+<b>Garble</b>: Feelin' better already.
+<b>Spike</b>: I dunno about you, but a change of scenery always turns <i>my</i> frown upside-down. Aah!
+[flump!]
+<b>Spike</b>: [under breath] I will be the bigger dragon. I 
+will be the bigger dragon. I will be the bigger dragon. I will be the 
+bigger dragon.
+<b>Spike</b>: Sometimes, just hearing what someone appreciates about you can make you feel better about yourself.
+<b>Smolder</b>: I'll go first. Spike, I think it's really nice that you're trying to cheer up Gar-Gar.
+<b>Garble</b>: [groans]
+<b>Spike</b>: Thank you, Smolder. My turn. I like how you always let everycreature know how you're feeling, Gar-Gar.
+<b>Garble</b>: Only Smolder gets to call me that!
+<b>Spike</b>: [pained groan] Thank you for speaking your truth. [groans]
+<b>Clump</b>: More fresh lava comin' up!
+[crunching]
+[bubbling]
+[drain sound]
+<b>Spike</b>: Okay. New activity. Who wants to make vision boards?
+<b>"Billy"</b>: Hey, Garble, Smolder! Surf's up!
+[splashing]
+<b>Garble</b>: Let <i>me</i> show you how it's done!
+[splashing]
+<b>Smolder</b>: You coming?
+<b>Spike</b>: I'll... catch up with you.
+[splashing]
+<b>Spike</b>: [sighs]
+<b>Fluttershy</b>: [sighs] Spike! There you are!
+<b>Spike</b>: Hey, Fluttershy.
+<b>Fluttershy</b>: For a land that's all rocks, this place is surprisingly easy to get lost in.
+<b>Spike</b>: How are the baby dragons doing?
+<b>Fluttershy</b>: The eggs won't hatch. They just keep 
+shaking. I'm starting to think the dragons are too scared to come out. I
+ was hoping you could help. If you're not too busy cheering up Smolder's
+ brother.
+<b>Spike</b>: Not a chance. Smolder's brother is Garble.
+<b>Fluttershy</b>: [gasps]
+<b>Spike</b>: The only thing that cheers him up is to make me miserable.
+<b>Garble</b>: Hey, Spike! Want to play lavaball?
+[whoosh!]
+<b>Spike</b>: Huh?
+[glop!]
+[sizzle!]
+<b>Fluttershy</b>: Excuse me, but that's <i>not</i> a very nice game!
+<b>Garble</b> and <b>Dragons</b>: [grunting, laughing]
+[glop! glop! glop!]
+<b>Clump</b>: Ah! Nearly got you!
+<b>Fluttershy</b>: [echoing] <i><span style="text-transform:uppercase;">ENOUGH!</span></i>
+[splashes]
+<b>Fluttershy</b>: [clears throat] I mean, leave my friend 
+alone please. Spike came all this way to cheer up Garble, which was a 
+very kind thing to do.
+<b>"Billy"</b>: [to Garble, mockingly] Awwww, do you need cheering up?
+<b>Clump</b>: What's wrong, Garble? Did somedwagon hurt your wittle feelings?
+<b>Garble</b>: No! I-I don't know what she's talking about! Spike's the one who's gonna cry!
+<b>Smolder</b>: Hey! Are we lava surfing or what?
+<b>Garble</b>: Uh, yeah, yeah! [nervous laugh] Let's go hang with a <i>real</i> dragon, not a pony wannabe!
+<b>Garble</b> and <b>Dragons</b>: [laughing]
+<b>Spike</b>: See? It's no use. [sighs] Why don't I see what I can do about the eggs and you cheer up Garble? At least he listens to you.
+<b>Fluttershy</b>: Just you wait, Garble. You're dealing with Fluttershy now, and she's packin' a whole lifetime of kindness!
+<b>Ember</b>: Oh... Coochie-coochie-coo. [groans] Coochie-coochie-coo. Coochie-coochie-coo! Coochie-coochie. I said coochie—!
+<b>Spike</b>: Uh, what are you doing?
+<b>Ember</b>: [gasps] Spike!
+<b>Spike</b>: Hi, Ember!
+<b>Ember</b>: Shouldn't you be doing whatever it is you do at Twilight's school?
+<b>Spike</b>: I wish. It's a long story. Wow. These eggs really do look scared.
+[rattling]
+<b>Spike</b>: Wait. Aren't the hatching grounds supposed to be hot?
+<b>Ember</b>: Uh, of course. There's a lake of molten lava under them. That's why the eggs are laid here. The heat makes them hatch.
+<b>Spike</b>: Then something's wrong. I don't think the eggs are shaking because they're afraid. They're cold.
+<b>Ember</b>: You're right! But what happened to the lava?
+<b>Spike</b>: I might have an idea.
+<b>Fluttershy</b>: Garble! Smolder! Is anydragon there?
+[bongo drums]
+<b>Fluttershy</b>: Oh, my. Are those... bongo drums?
+<b>Garble</b>: Fire, dragon. Wig and waggin'. Feelin' like I be saggin'.
+<b>Fluttershy</b>: [gasps]
+<b>Smolder</b>: [snapping fingers] Oh, yeah. I dig.
+[bongo drums]
+<b>Garble</b>: Ragin' lava. Balaclava.
+<b>Smolder</b>: Huh?
+<b>Garble</b>: Aah!
+<b>Clump</b>: Fresh lava comin' up!
+[bubbling]
+[splash]
+<b>Spike</b>: See? I wondered where that lava was coming from. They must be draining it from the underground lake.
+<b>Ember</b>: [growls]
+[loud thud]
+<b>Ember</b>: Put that rock back! Immediately!
+<b>Clump</b>: Uh, yes, Dragon Lord Ember!
+<b>Ember</b>: How long have you been removing these boulders?
+<b>Clump</b>: Uhhhh... a while.
+<b>"Billy"</b>: It made our lava pool so nice and warm-like.
+<b>Ember</b>: [growls] It's supposed to be heating the eggs! Now they'll never hatch!
+<b>Dragons</b>: [panicked grunts]
+<b>Clump</b>: Sorry, Dragon Lord Ember!
+<b>"Billy"</b>: We'll put the lava back! [panicked grunts]  
+<b>Clump</b>: [panicked grunts] Here you go, lava! Come on! So difficult! And liquid-y!
+<b>Spike</b>: I don't think it works that way. The hatching 
+grounds can't be the only warm place in the Dragon Lands. There's got to
+ be somewhere else we can take the eggs.
+<b>Ember</b>: You know how fragile those things are? No way 
+we'll be able to move them all safely. [growls] You! Go and bring all 
+the dragons to the hatching grounds! We'll have to make the heat 
+ourselves!
+<b>Garble</b>: What do you think you're doing sneaking around here, pony?!
+<b>Fluttershy</b>: Sneaking? Looks to me like the only one sneaking around is <i>you</i>, Garble. Why didn't you tell me you were a poet?
+<b>Garble</b>: I'm not!
+<b>Fluttershy</b>: [gasps]
+[bongo drum taps]
+[bongo drums]
+<b>Fluttershy</b>: Words. Rhythm. Sometimes rhyme. Weird punctu... ation. Sure sounds like poetry to me.
+<b>Smolder</b>: It's okay, Gar-Gar. Fluttershy won't think you're soft for being a poet. And neither would anydragon who was your real friend.
+<b>Garble</b>: [sighs] 'Kay, fine. But I'm not a flowery, namby-pamby poet! I'm a beat poet. Dig?
+<b>Fluttershy</b>: I totally feel you.
+<b>Garble</b>: And you better not tell my friends about it!
+<b>Fluttershy</b>: But why? If I was a poet, I'd want to share my creations with everypony.
+<b>Smolder</b>: I'm the only one Garble will perform for. He hasn't written any poetry since I left. That's why he's been so sad.
+<b>Garble</b>: I need to create. But if the other dragons ever found out I like this junk, they'd make fun of me forever.
+<b>Fluttershy</b>: Is that why you pick on Spike? To make your friends think you're tough?
+<b>Smolder</b>: Wait. <i>You've</i> been picking on Spike?
+<b>Garble</b>: Uh... only when you're not looking. But if I didn't pick on Spike, they'd just pick on <i>me</i>! And he <i>is</i> kind of a weakling.
+<b>Fluttershy</b>: Hmph! I'll have you know Spike is stronger than you are any day!
+<b>Garble</b>: Yeah, right! That little cupcake-making, blanket-cuddling pony-dragon? [laughs] Give me a break!
+<b>Fluttershy</b>: [gasps] First of all, there's nothing wrong 
+with being a pony! Second, Spike isn't afraid to be who he is, no matter
+ what you or anycreature thinks! That's <i>real</i> strength! Not like <i>some</i> dragons I know.
+<b>Smolder</b>: For a pony without a horn, she's sure got a point.
+<b>Spike</b>: I've been looking all over for you guys! We need your help! Hurry!
+[zip!]
+[flames roaring]
+<b>Ember</b>: I've ordered everydragon to warm up the eggs, but they still won't hatch. I don't know what else we can try.
+<b>Spike</b>: We can't give up! There's got to be something we can do!
+<b>Clump</b>: [mockingly] How about we wrap the eggs in a bunch of baby bwankets? [laughs]
+<b>"Billy"</b>: [laughs] Yeah! The wimp can knit 'em up quick-like!
+<b>Spike</b>: Hey, watch it! That laugh fire could burn somepony!
+<b>Dragons</b>: [laughing]
+<b>Garble</b>: Burn... Good idea, Spikey-Wikey!
+[zip!]
+<b>Dragons</b>: [stop laughing]
+[bongo drums]
+<b>Garble</b>: Eggs, come. Burst into that light. Break through shells that bind.
+<b>Spike</b>: [snaps fingers]
+<b>Garble</b>: Break free, explore. Stuck! ...Between rock and... hard place.
+[beat]
+<b>Dragons</b>: [laughing]
+[flames roaring]
+<b>Garble</b>: Freedom, come! Don't be shy! Look those others in the eye!
+<b>Dragons</b>: [uproarious laughing]
+[flames roaring]
+<b>Garble</b>: Stake your claim! Don't stop! Just do! Be the one and only... you!
+<b>Dragons</b>: [uproarious laughing]
+[cracking]
+<b>Fluttershy</b>: Spike, look!
+<b>Spike</b>: What? Huh?! Their laugh fire's so hot, it's hatching the eggs!
+<b>Garble</b>: Come to light! Proud to be! Open up! Bam! Be... free!
+<b>Dragons</b>: [uproarious laughing]
+[cracking]
+<b>Smolder</b>: You did it, Gar-Gar! You performed in front of other dragons!
+<b>"Billy"</b>: [laughs] And it was super lame! What kind of weakling writes poetry?
+<b>Ember</b>: The hero of the Dragon Lands! That's who!
+<b>Smolder</b>: Yeah! Garble saved our eggs because he was 
+strong enough to be who he is, whether you liked it or not. I grew up 
+thinking it was okay to make fun of differences. But my friends have 
+taught me to celebrate them.
+<b>Dragons</b>: [grunting]
+<b>Ember</b>: And from now on, in my kingdom, that's exactly 
+what we will do. Now, if you don't mind, can you teach me how to write 
+poetry like that? It's pretty cool.
+<b>Garble</b>: Uh... yeah, sure. No problem!
+<b>"Billy"</b>: Yeah, me, too!
+<b>Clump</b>: I want to learn!
+<b>Spike</b>: Take a number, guys.
+<b>Fluttershy</b>: I'll take them all! [giggling]
+[credits]

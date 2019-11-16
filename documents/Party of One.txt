@@ -1,395 +1,334 @@
-[knocking] 
-<b>Twilight Sparkle</b>: Oh! Hi, Pinkie Pie... 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   This is your singing telegram 
-  </dd>
-  <dd>
-   I hope it finds you well 
-  </dd>
-  <dd>
-   You're invited to a party 
-  </dd>
-  <dd>
-   'Cause we think you're really swell 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Gummy's turning one year old 
-  </dd>
-  <dd>
-   So help us celebrate 
-  </dd>
-  <dd>
-   The cake will be delicious 
-  </dd>
-  <dd>
-   The festivities first-rate 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   There will be games and dancing 
-  </dd>
-  <dd>
-   Bob for apples, cut a rug [pop] 
-  </dd>
-  <dd>
-   And when the party's over 
-  </dd>
-  <dd>
-   We'll gather 'round for a group hug 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   [Slowing down] 
-  </dd>
-  <dd>
-   No need to bring a gift 
-  </dd>
-  <dd>
-   Being there will be enough 
-  </dd>
-  <dd>
-   Birthdays mean having fun with friends 
-  </dd>
-  <dd>
-   Not getting lots of stuff 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   [Breathing heavily] 
-  </dd>
-  <dd>
-   It won't be the same without you 
-  </dd>
-  <dd>
-   So we hope that you say yes 
-  </dd>
-  <dd>
-   So, please, oh please R.S.V.P. 
-  </dd>
-  <dd>
-   And come, and be our guest! 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: [rasping voice] Next time, I think I'll just pass out written invitations. 
-[music] 
-<b>Rainbow Dash</b>: Nice one! Now, let me show you how it's really done. 
-<b>Pinkie Pie</b>: Hey, girls! 
-<b>Rainbow Dash</b>: Hey, Pinkie Pie! 
-<b>Applejack</b>: Howdy! 
-<b>Pinkie Pie</b>: [squeal] Just wanted to tell you how happy I am that you could make it to Gummy's party. 
-<b>Applejack</b>: Are you kiddin'? I wouldn't have missed it for the world. 
-<b>Rainbow Dash</b>: Me neither. When Pinkie Pie throws a party, I am there! Ta-da! 
-<b>Pinkie Pie</b>: Aw! It's just a boring old apple. Don't worry, there are plenty of other surprises in there. 
-<b>Rainbow Dash</b>: [spits] What kind of surprises? 
-<b>Pinkie Pie</b>: I can't tell you that, silly. Then it wouldn't be a surprise. 
-<b>Applejack</b>: [laughs] 
-<b>Rarity</b>: This punch is simply divine. Is this the same recipe you used for your "Spring Has Sprung" party? 
-<b>Pinkie Pie</b>: Nope! Something new. 
-<b>Rarity</b>: [spits] 
-<b>Pinkie Pie</b>: It's Gummy's favorite. 
-<b>Rarity</b>: [gulp] 
-<b>Pinkie Pie</b>: Ooh, this is my jam! 
-<b>Rarity</b>: [spits] 
-<b>Pinkie Pie</b>: Having fun? 
-<b>Twilight Sparkle</b>: A blast! 
-<b>Fluttershy</b>: You always throw the best parties, Pinkie Pie. 
-<b>Pinkie Pie</b>: They're always the best parties 'cause my best friends are always there! 
-<b>Twilight Sparkle</b>: Yah! 
-<b>Fluttershy</b>: [yelp] 
-<b>Pinkie Pie</b>: C'mon, everypony! Gummy wants to dance! Go, Gummy! It's your birthday! Go, Gummy! It's your birthday! 
-<b>Applejack</b>: Hoo-wee! I am beat! I haven't danced that much since... Well, since your last party. Thanks again for the invite! 
-<b>Rainbow Dash</b>: See ya later, birthday alligator! 
-<b>Rarity</b>: Bravo for hosting yet another delightful soiree. 
-<b>Fluttershy</b>: It's been lovely. 
-<b>Pinkie Pie</b>: You sure you don't wanna stay? There's still some cake left. 
-<b>Twilight Sparkle</b>: Uh, I think I'm gonna pass. Great party though. We should do this again soon. 
-<b>Pinkie Pie</b>: [gasp] We 
- <i>should</i> do this again soon! 
-[knocking] 
-<b>Twilight Sparkle</b>: Oh! Hi, Pinki- 
-<b>Pinkie Pie</b>: It's soon! 
-<b>Twilight Sparkle</b>: Pardon me? 
-<b>Pinkie Pie</b>: You said we should have another party soon, and... it's soon! Here's your invitation! 
-<b>Twilight Sparkle</b>: "You're invited to Gummy's 'after-birthday' party. This afternoon at 3 o'clock." 
-<b>Pinkie Pie</b>: All our bestest friends are invited, and there's gonna be dancing, and games, and cake, and ice-cream, and punch! 
-<b>Twilight Sparkle</b>: 
- <i>This</i> afternoon? As in, "this afternoon" this afternoon? 
-<b>Pinkie Pie</b>: Yes, indeedy! 
-<b>Twilight Sparkle</b>: Oh, gosh. I wish I could make it, but I've gotten a bit behind in my studies. I've really gotta hit the books. 
-<b>Pinkie Pie</b>: I understand. Your studies come first. But don't worry, we'll be sure to save you some cake. 
-<b>Twilight Sparkle</b>: Please do. 
-<b>Pinkie Pie</b>: Oh! And Twilight, you shouldn't hit the books. You should really just read them. 
-<b>Twilight Sparkle</b>: I'll keep that in mind. 
-<b>Applejack</b>: Huh? Oh, hi, Pinkie Pie! What brings you 'round these parts? 
-<b>Pinkie Pie</b>: Who's ready to shake their hoof-thang?! It's an invitation to Gummy's "after-birthday" party this afternoon. There's gonna be dancing, and games, and cake, and ice-cream, and punch! 
-<b>Applejack</b>: 
- <i>This</i> afternoon? A-as in, "this afternoon" this afternoon? 
-<b>Pinkie Pie</b>: That's funny. That's just what Twilight said, and the answer is, "Yes! It's this afternoon!" 
-<b>Applejack</b>: Uh, well, I... I... uh... I don't think I can make it 'cause... uh... I have to... uh... uh, you know what? I... uh... pick apples! Yep, apples! 'Cause that's what we do! With the... apples. We, uh... pick 'em! 
-[pause] 
-<b>Applejack</b>: [gulp] 
-<b>Pinkie Pie</b>: Okey-dokey-lokey! A party is still a party, even if there are only three guests. 
-<b>Applejack</b>: [sigh] 
-<b>Spike</b>: [grunts] Anything else I can do for you, most beautiful one? 
-<b>Rarity</b>: [sniff] [whimper] Hmm... perhaps you could take a bath. How do I put this delicately? You smell like a rotten apple core that's been wrapped in moldy hay and dipped in dragon perspiration. 
-<b>Spike</b>: [sigh] 
-<b>Rarity</b>: Ooh! Love the new hat. Very modern. What's the occasion? 
-<b>Pinkie Pie</b>: Gummy's "after-birthday" party is this afternoon. I'm delivering the invitations. 
-<b>Rarity</b>: The party is 
- <i>this</i> afternoon? As in, "this afternoon" this afternoon? 
-<b>Pinkie Pie</b>: It's so strange. Everypony keeps saying that. 
-<b>Rarity</b>: Oh... do they? 
-<b>Pinkie Pie</b>: I know it's short notice, but we had such a great time at his birthday party, I thought we could have even more fun at his after-birthday party. 
-<b>Rarity</b>: And I'm sure that we would, but I'm going to have to decline. I have to... wash my hair! 
-<b>Pinkie Pie</b>: Don't be silly, your hair doesn't look dirty. 
-<b>Rarity</b>: It doesn't? 
-<b>Pinkie Pie</b>: Nope! 
-<b>Rarity</b>: See? [gag] Dirty! I have to go! 
-<b>Pinkie Pie</b>: Huh... No Twilight, no Applejack, no Rarity. Oh well, a party is still a party even with only two guests. 
-<b>Rainbow Dash</b>: This afternoon? 
-<b>Fluttershy</b>: As in...? 
-<b>Pinkie Pie</b>: Yes! As in, "this afternoon" this afternoon! 
-<b>Rainbow Dash</b>: Oh, man! We'd love to, but... we're... house-sitting this afternoon. 
-<b>Pinkie Pie</b>: [sigh] Both of you? 
-<b>Fluttershy</b>: It's... uh... a big house. 
-<b>Rainbow Dash</b>: Uh, look at the time! We'd really better get going. 
-<b>Pinkie Pie</b>: Wait! Maybe I could bring you some after-birthday cake and ice-cream. Who're you house-sitting for? 
-<b>Rainbow Dash</b>: Harry. 
-<b>Pinkie Pie</b>: Harry? 
-<b>Rainbow Dash</b>: Yeah, I don't think you know him. 
-<b>Pinkie Pie</b>: That's strange. I know just about everypony around here. 
-<b>Fluttershy</b>: He's... a bear. 
-<b>Pinkie Pie</b>: A bear? 
-<b>Rainbow Dash</b>: Yup! He's a bear all right, and he'll be pretty upset if we don't get over to his house soon. 
-<b>Pinkie Pie</b>: Wait! There's a bear around here who lives in a house? 
-<b>Fluttershy</b>: It's, uh, really more of a cave. 
-<b>Rainbow Dash</b>: But he's fixed up the place so much, it 
- <i>feels</i> like a house. 
-<b>Fluttershy</b>: And, uh, he wants us to look after his house... uh, cave... while he's, uh... 
-<b>Rainbow Dash</b>: A-at the beach! 
-<b>Pinkie Pie</b>: He's vacationing at the beach? 
-<b>Rainbow Dash</b>: Yup! He loves to... 
-<b>Fluttershy</b>: 
-Collect sea shells! 
-...Play beach volleyball! 
-...Collect volleyballs! 
-<b>Rainbow Dash</b>: 
-Play beach volleyball! 
-...Collect sea shells! 
-...Play sea shells! 
-<b>Rainbow Dash</b>: Gotta go! 
-<b>Pinkie Pie</b>: Something strange is definitely going on around here, Gummy. Sure Rainbow Dash and Fluttershy had to house-sit for that vacationing bear, but what are the chances all my other friends would have plans this afternoon too? Rarity has to wash her hair? Applejack has to pick apples? Twilight is behind on her studies and has to hit the books? The more I think about it, the more those are starting to sound like... [gasp] 
- <i>excuses</i>! 
-[door closes] 
-<b>Pinkie Pie</b>: That doesn't look like studying... or hitting! 
-[bell rings] 
-<b>Mrs. Cake</b>: Ooh! You must be here for... 
-<b>Twilight Sparkle</b>: 
- <i>Shh!</i> Is Pinkie Pie around? 
-<b>Mrs. Cake</b>: Oh, I don't think so. 
-<b>Twilight Sparkle</b>: Good. I don't wanna her to know anything about this. 
-<b>Mrs. Cake</b>: Yes, of course. I'll be right back. 
-<b>Pinkie Pie</b>: But... we're friends. What wouldn't Twilight want me to know anything about? [gasp] She's coming back. 
-<b>Mrs. Cake</b>: [muffled] There you go! 
-<b>Twilight Sparkle</b>: [muffled] Thanks, and remember, not a word to Pinkie Pie. Hey! What's with the tin can? [yelp] 
-<b>Pinkie Pie</b>: Time to get to the bottom of things! [gasp] I think our cover's been blown! We'll need a new disguise. 
-[doorbell rings] 
-<b>Rarity</b>: She didn't see you at the sweet shop, did she? 
-<b>Twilight Sparkle</b>: I don't think so. 
-<b>Rarity</b>: Oh, good. I'd hate for her to ruin everything. 
-<b>Twilight Sparkle</b>: Me too. 
-<b>Gummy</b>: [sneeze] 
-<b>Rarity</b>: Have you seen her? 
-<b>Fluttershy</b>: Not since this morning. 
-<b>Rarity</b>: Me neither. Can you believe she was planning on throwing an after-birthday party 
- <i>today</i>? 
-<b>Fluttershy</b>: I'm just glad I was able to come up with an excuse for why I couldn't be there. 
-<b>Rarity</b>: Me too! This is obviously going to be so much better. 
-<b>Fluttershy</b>: As long as we keep her from finding out about it, it will. 
-<b>Rarity</b>: [whispering] 
- <i>See you later!</i> 
-<b>Fluttershy</b>: [gasp] [scream] 
-<b>Pinkie Pie</b>: I thought everypony loved my parties. 
-<b>Rainbow Dash</b>: Hi, Pinkie Pie! Uh-oh! 
-<b>Pinkie Pie</b>: Rainbow Dash! Wait! 
-<b>Rainbow Dash</b>: Phew... 
-<b>Pinkie Pie</b>: Where're you going?! 
-<b>Rainbow Dash</b>: Ah! 
-[shriek] 
-<b>Pinkie Pie</b>: 
- <i>What's the real reason you didn't want to come to Gummy's party?!</i> 
-[bell ringing] 
-<b>Rainbow Dash</b>: [grunt] 
-<b>Pinkie Pie</b>: 
- <i>What's in the bags?!</i> 
-<b>Rainbow Dash</b>: Applejack! We have a problem! 
-<b>Applejack</b>: [gasp] 
-[pounding] 
-<b>Pinkie Pie</b>: 
- <i>I know you're IN THERE!</i> 
-<b>Applejack</b>: Oh! Howdy, pardner! 
-<b>Pinkie Pie</b>: Mind if I... take a look inside the 
- <i>barn</i>? 
-<b>Applejack</b>: No! Uh, I mean, yes, I mean... you can't come in here! 
-<b>Pinkie Pie</b>: Rainbow Dash just went in there. 
-<b>Applejack</b>: Oh, well, she was just bringin' in some... 
- <i>supplies</i>! Yup, supplies for the... 
- <i>renovation</i>! Fixin' up the whole thing, top to bottom... uh, 
- <i>lots of construction goin' on in there right now.</i> 
-<b>Rainbow Dash</b>: [whispering] You heard her! 
- <i>Construction!</i> 
-[ponies mimicking noises of various construction tools] 
-<b>Applejack</b>: Yup! Construction! That's my story, and I'm stickin' to it. [nervous laugh] [gulp] 
-[pause] 
-<b>Pinkie Pie</b>: Okey... dokey... lokey. 
-<b>Applejack</b>: [relieved sigh] 
-<b>Rest of main cast</b>: [relieved sigh] 
-<b>Pinkie Pie</b>: Secrets and lies! It's all secrets and lies with those ponies! They're up to something, Gummy! Something they don't want me to know about! Well, I'm gonna know about it! I'm gonna know about it big time! And I know just who's gonna tell me all about it. 
- <i>Tell me all about it big time!</i> 
-<b>Spike</b>: Wow! Nice spread! 
-<b>Pinkie Pie</b>: It's all yours, Spike. All you have to do is 
- <i>talk</i>. 
-<b>Spike</b>: That's it? Oh, you got it. Okay... uh, beautiful weather we're having, eh? I love a sunny spring day, don't you? The birds chirpin' and the flowers bloomin'. 
-<b>Pinkie Pie</b>: No, no, no. Talk about our 
- <i>friends</i>. 
-<b>Spike</b>: Oh, okay. Let's see, there's Twilight Sparkle. She's a unicorn. Good with magic. A real brainiac. And then you got Rarity. Total 
- <i>knockout</i>. Twilight seems to think I don't even have a chance with her, but... eh, what does she know? Let's see. There's... there's Fluttershy, a Pegasus who's afraid of heights. Heh, what's up with that? 
-<b>Pinkie Pie</b>: Grr! No! You're not understanding me! I want you to confess! 
-<b>Spike</b>: Confess? 
-<b>Pinkie Pie</b>: Confess! 
-<b>Spike</b>: I'm the one who spilled juice all over Twilight's copy of "Magical Mysteries and Practical Potions"! 
-<b>Pinkie Pie</b>: And? 
-<b>Spike</b>: And I'm the one who used up all the hot water in Ponyville yesterday when I took a seven-hour bubble bath! 
-<b>Pinkie Pie</b>: Aaand? 
-<b>Spike</b>: And sometimes... when no one's around... I do this: 
- <i>Lookin' good, Spike! Lookin' real good!</i> 
-<b>Pinkie Pie</b>: No! No! No! 
- <i>No!</i> 
-<b>Spike</b>: W-What do you wanna hear? Tell me what you want me to say, and I'll say it! 
-<b>Pinkie Pie</b>: Tell me that my friends are all lying to me and avoiding me because they don't like my parties 
- <i>and they don't want to be my friends anymore!</i> [panting] 
-<b>Spike</b>: Your friends are all lying to you and avoiding you 'cause they don't like your parties and they don't want to be your friends anymore! 
-<b>Pinkie Pie</b>: Aha! I knew it! [balloon deflating noise] Oh no, my friends don't like my parties and they don't want to be my friends anymore. 
-<b>Spike</b>: Uh... so... [loud eating noises] 
-<b>Pinkie Pie</b>: [sigh] 
-<b>Pinkie Pie</b>: Thank you all so much for coming! It means so much to Gummy. 
-<b>Pinkie Pie voicing a bucket of turnips</b>: Could I have some more punch? 
-<b>Pinkie Pie</b>: Well, of course you can have some more punch, Mr. Turnip. [twang] 
-<b>Pinkie Pie voicing a pile of rocks</b>: This is one great pahty! You really outdone yourself! 
-<b>Pinkie Pie</b>: Why, thank you, Rocky. 
-<b>Pinkie Pie voicing a clump of lint</b>: I'm having a delightful time as well. 
-<b>Pinkie Pie</b>: I'm so glad, Sir Lintsalot. [ding] 
-<b>Pinkie Pie voicing a bag of flour</b>: Might I trouble you for anozer slice of cake? 
-<b>Pinkie Pie</b>: Anything for you, Madame le Flour. 
-<b>Pinkie Pie</b> [as 
- <b>Rocky</b>]: I'm just glad none o' them 
- <i>ponies</i> showed up. 
-<b>Pinkie Pie</b>: Oh, they're not so bad. 
-[low string instrument whine] 
-<b>Rocky</b>: Not so bad? Puh-lease! They're a buncha losers! 
-<b>Pinkie Pie</b>: Oh, c'mon now. "Losers" might be a little strong, dont'cha think? 
-<b>Sir Lintsalot</b>: After the way they treated you? I say "losers" isn't strong enough. 
-<b>Pinkie Pie</b>: Well, it was pretty rude... 
-<b>Madame le Flour</b>: Pretty rude? It was downright deespicable! 
-<b>Pinkie Pie</b>: It was, wasn't it? 
-<b>Mr. Turnip</b>: If I were you, I wouldn't speak to them ever again. 
-<b>Pinkie Pie</b>: You know what? I'm 
- <i>not</i> gonna speak to them ever again. And I'm not gonna invite them to another party as long as I live! They don't deserve to be invited to my parties. [plink] Not after the way they've been acting. 
-<b>Madame le Flour</b>: [clapping] Deeespicable! 
-<b>Sir Lintsalot</b>: Such losers! 
-<b>Madame le Flour</b>: Yes, zat's right. 
-<b>Pinkie Pie</b> [as 
- <b>Mr. Turnip</b>]: Well done. 
-<b>Pinkie Pie</b> [as 
- <b>Sir Lintsalot</b>]: Yeah! 
-<b>Pinkie Pie</b> [as 
- <b>Rocky</b>]: You show 'em! 
-[knocking] 
-<b>Pinkie Pie</b>: Who could that be? 
-<b>Rainbow Dash</b>: Hey there, Pinkie Pie! Sorry I was in such a rush earlier. Had some place to be and couldn't slow down and say, "Hello." You know how it goes. 
-<b>Pinkie Pie</b>: 
- <i>I know how it goes, all right!</i> 
-<b>Rainbow Dash</b>: Yeah... so, why don't you come with me over to Sweet Apple Acres? 
-<b>Pinkie Pie</b>: No thanks. I'm spending time with my 
- <i>real</i> friends. Isn't that right, Madame le Flour? 
-<b>Pinkie Pie</b> [as 
- <b>Madame le Flour</b>]: 
- <i>Oui!</i> Zat iz correct, 
- <i>madame.</i> 
-<b>Rainbow Dash</b>: Uh... Pinkie Pie? 
-<b>Pinkie Pie</b>: Another slice of cake, Sir Lintsalot? 
-<b>Pinkie Pie</b> [as 
- <b>Sir Lintsalot</b>]: I'd love one. 
-<b>Rainbow Dash</b>: Aaallrighty. What do you say we get on out of Creepytown and head over to Applejack's... 
-<b>Pinkie Pie</b> [as 
- <b>Mr. Turnip</b>]: She's not going anywhere. 
-<b>Pinkie Pie</b>: I most certainly am not. I'm having a wonderful time right here. 
-<b>Rainbow Dash</b>: You should really just come with me. 
-<b>Pinkie Pie</b> [as 
- <b>Rocky</b>]: You heard the lady! She ain't goin' nowheres, 
- <i>chump</i>! 
-<b>Rainbow Dash</b>: Who 
- <i>you</i> calling a chump, 
- <i>chump</i>?! Ugh... That's it. Party's over. Come on, Pinkie Pie! 
-<b>Pinkie Pie</b>: No! 
-<b>Rainbow Dash</b>: Pinkie Pie, let's go! 
-<b>Pinkie Pie</b>: I said no! 
-<b>Rainbow Dash</b>: You... [grunts] have to... come with... me! 
-<b>Pinkie Pie</b>: No... I... don't! 
-[crash] 
-<b>Rainbow Dash</b>: Oh, you wanna do this the hard way?! We'll do this the 
- <i>hard way</i>! 
-<b>Rainbow Dash</b>: [grunting] [panting] We're... here... 
-<b>Twilight Sparkle</b>, 
- <b>Applejack</b>, 
- <b>Rarity</b>, and 
- <b>Fluttershy</b>: [in unison] Surprise! 
-<b>Fluttershy</b>: I really thought she'd be more excited. 
-<b>Pinkie Pie</b>: 
- <i>Excited</i>? 
- <i>Excited?!</i> Why would I be excited to attend my own farewell party?! 
-<b>Twilight Sparkle</b>: Farewell party? 
-<b>Pinkie Pie</b>: Yes! You don't like me anymore, so you decided to kick me out of the group and throw a great, big party to celebrate! A "Farewell to Pinkie Pie" party! 
-<b>Applejack</b>: Why in the world would you think we didn't like you anymore, sugarcube? 
-<b>Pinkie Pie</b>: Why? 
- <i>Why?</i> 
- <i>Why?!</i> Because you've been lying to me and avoiding me all day, that's why! 
-<b>Rainbow Dash</b>: Uh, 
- <i>yeah!</i> Because we wanted your party to be a 
- <i>surprise</i>. 
-<b>Rarity</b>: We'd been planning this party for such a long time, we had to make excuses for why we couldn't attend Gummy's party so that we could get everything ready for yours. 
-<b>Twilight Sparkle</b>: If this is a farewell party, why does the cake I picked up from Sugarcube Corner say "Happy Birthday, Pinkie Pie"? 
-<b>Pinkie Pie</b>: [squeak] Because it's my birthday! Ooh, how could I have forgotten my own birthday? 
-<b>Rest of main cast</b>: [relieved sigh] 
-<b>Pinkie Pie</b>: And you like me so much you decided to throw me a surprise party! 
-<b>Rarity</b>: That's what we've been trying to tell you, darling. 
-<b>Pinkie Pie</b>: You girls are the best friends ever! How could I have ever doubted you? 
-<b>Twilight Sparkle</b>: It's okay, Pinkie Pie. It could have happened to any of us. 
-<b>Rainbow Dash</b>: Uh-huh! It sure would. 
-<b>Fluttershy</b>: Don't worry about it. 
-<b>Rainbow Dash</b>: I'm just glad I haven't been replaced by a bucket of turnips. 
-<b>Twilight Sparkle</b>: Huh? 
-<b>Rainbow Dash</b>: You don't wanna know. 
-<b>Applejack</b>: All right, girls! Enough of this gab. 
- <i>Let's party!</i> 
-[music] 
-<b>Twilight Sparkle</b>: 
- <i>Dear Princess Celestia,</i> 
-<i>I am writing to you from the most delightful party. I'm not only having a great time with my friends, but also was given the opportunity to learn a valuable lesson about friendship. Always expect the best from your friends, and never assume the worst. Rest assured that a good friend always has your best interests at heart.</i> 
-<i>Your faithful student,</i> 
-<i>Twilight Sparkle</i> 
-<b>Pinkie Pie</b>: You girls wouldn't mind if we celebrated Gummy's after-birthday party too, would you? His party was cut short, and he's pretty upset about it. 
-<b>Fluttershy</b>: Oh, definitely. 
-<b>Rarity</b>: Aww, he was upset? 
-<b>Applejack</b>: Uh-huh, sure! 
-<b>Rainbow Dash</b>: For Gummy, yeah! 
-<b>Twilight Sparkle</b>: Yeah, why not? Let's have a party for Gummy. [giggles] 
-[music] 
-[credits] 
+[knocking]
+<b>Twilight Sparkle</b>: Oh! Hi, Pinkie Pie...
+<b>[Pinkie Pie]</b>
+This is your singing telegram
+I hope it finds you well
+You're invited to a party
+'Cause we think you're really swell
+
+Gummy's turning one year old
+So help us celebrate
+The cake will be delicious
+The festivities first-rate
+
+There will be games and dancing
+Bob for apples, cut a rug [pop]
+And when the party's over
+We'll gather 'round for a group hug
+
+[Slowing down]
+No need to bring a gift
+Being there will be enough
+Birthdays mean having fun with friends
+Not getting lots of stuff
+
+[Breathing heavily]
+It won't be the same without you
+So we hope that you say yes
+So, please, oh please R.S.V.P.
+And come, and be our guest!
+
+<b>Pinkie Pie</b>: [rasping voice] Next time, I think I'll just pass out written invitations.
+[theme song]
+[music]
+<b>Rainbow Dash</b>: Nice one! Now, let me show you how it's really done.
+<b>Pinkie Pie</b>: Hey, girls!
+<b>Rainbow Dash</b>: Hey, Pinkie Pie!
+<b>Applejack</b>: Howdy!
+<b>Pinkie Pie</b>: [squeal] Just wanted to tell you how happy I am that you could make it to Gummy's party.
+<b>Applejack</b>: Are you kiddin'? I wouldn't have missed it for the world.
+<b>Rainbow Dash</b>: Me neither. When Pinkie Pie throws a party, I am there! Ta-da!
+<b>Pinkie Pie</b>: Aw! It's just a boring old apple. Don't worry, there are plenty of other surprises in there.
+<b>Rainbow Dash</b>: [spits] What kind of surprises?
+<b>Pinkie Pie</b>: I can't tell you that, silly. Then it wouldn't be a surprise.
+<b>Applejack</b>: [laughs]
+<b>Rarity</b>: This punch is simply divine. Is this the same recipe you used for your "Spring Has Sprung" party?
+<b>Pinkie Pie</b>: Nope! Something new.
+<b>Rarity</b>: [spits]
+<b>Pinkie Pie</b>: It's Gummy's favorite.
+<b>Rarity</b>: [gulp]
+<b>Pinkie Pie</b>: Ooh, this is my jam!
+<b>Rarity</b>: [spits]
+<b>Pinkie Pie</b>: Having fun?
+<b>Twilight Sparkle</b>: A blast!
+<b>Fluttershy</b>: You always throw the best parties, Pinkie Pie.
+<b>Pinkie Pie</b>: They're always the best parties 'cause my best friends are always there!
+<b>Twilight Sparkle</b>: Yah!
+<b>Fluttershy</b>: [yelp]
+<b>Pinkie Pie</b>: C'mon, everypony! Gummy wants to dance! Go, Gummy! It's your birthday! Go, Gummy! It's your birthday!
+<b>Applejack</b>: Hoo-wee! I am beat! I haven't danced that much since... Well, since your last party. Thanks again for the invite!
+<b>Rainbow Dash</b>: See ya later, birthday alligator!
+<b>Rarity</b>: Bravo for hosting yet another delightful soiree.
+<b>Fluttershy</b>: It's been lovely.
+<b>Pinkie Pie</b>: You sure you don't wanna stay? There's still some cake left.
+<b>Twilight Sparkle</b>: Uh, I think I'm gonna pass. Great party though. We should do this again soon.
+<b>Pinkie Pie</b>: [gasp] We <i>should</i> do this again soon!
+[knocking]
+<b>Twilight Sparkle</b>: Oh! Hi, Pinki-
+<b>Pinkie Pie</b>: It's soon!
+<b>Twilight Sparkle</b>: Pardon me?
+<b>Pinkie Pie</b>: You said we should have another party soon, and... it's soon! Here's your invitation!
+<b>Twilight Sparkle</b>: "You're invited to Gummy's 'after-birthday' party. This afternoon at 3 o'clock."
+<b>Pinkie Pie</b>: All our bestest friends are invited, and there's gonna be dancing, and games, and cake, and ice-cream, and punch!
+<b>Twilight Sparkle</b>: <i>This</i> afternoon? As in, "this afternoon" this afternoon?
+<b>Pinkie Pie</b>: Yes, indeedy!
+<b>Twilight Sparkle</b>: Oh, gosh. I wish I could make it, but I've gotten a bit behind in my studies. I've really gotta hit the books.
+<b>Pinkie Pie</b>: I understand. Your studies come first. But don't worry, we'll be sure to save you some cake.
+<b>Twilight Sparkle</b>: Please do.
+<b>Pinkie Pie</b>: Oh! And Twilight, you shouldn't hit the books. You should really just read them.
+<b>Twilight Sparkle</b>: I'll keep that in mind.
+<b>Applejack</b>: Huh? Oh, hi, Pinkie Pie! What brings you 'round these parts?
+<b>Pinkie Pie</b>: Who's ready to shake their hoof-thang?! It's
+ an invitation to Gummy's "after-birthday" party this afternoon. There's
+ gonna be dancing, and games, and cake, and ice-cream, and punch!
+<b>Applejack</b>: <i>This</i> afternoon? A-as in, "this afternoon" this afternoon?
+<b>Pinkie Pie</b>: That's funny. That's just what Twilight said, and the answer is, "Yes! It's this afternoon!"
+<b>Applejack</b>: Uh, well, I... I... uh... I don't think I can
+ make it 'cause... uh... I have to... uh... uh, you know what? I... 
+uh... pick apples! Yep, apples! 'Cause that's what we do! With the... 
+apples. We, uh... pick 'em!
+[pause]
+<b>Applejack</b>: [gulp]
+<b>Pinkie Pie</b>: Okey-dokey-lokey! A party is still a party, even if there are only three guests.
+<b>Applejack</b>: [sigh]
+<b>Spike</b>: [grunts] Anything else I can do for you, most beautiful one?
+<b>Rarity</b>: [sniff] [whimper] Hmm... perhaps you could take a
+ bath. How do I put this delicately? You smell like a rotten apple core 
+that's been wrapped in moldy hay and dipped in dragon perspiration.
+<b>Spike</b>: [sigh]
+<b>Rarity</b>: Ooh! Love the new hat. Very modern. What's the occasion?
+<b>Pinkie Pie</b>: Gummy's "after-birthday" party is this afternoon. I'm delivering the invitations.
+<b>Rarity</b>: The party is <i>this</i> afternoon? As in, "this afternoon" this afternoon?
+<b>Pinkie Pie</b>: It's so strange. Everypony keeps saying that.
+<b>Rarity</b>: Oh... do they?
+<b>Pinkie Pie</b>: I know it's short notice, but we had such a 
+great time at his birthday party, I thought we could have even more fun 
+at his after-birthday party.
+<b>Rarity</b>: And I'm sure that we would, but I'm going to have to decline. I have to... wash my hair!
+<b>Pinkie Pie</b>: Don't be silly, your hair doesn't look dirty.
+<b>Rarity</b>: It doesn't?
+<b>Pinkie Pie</b>: Nope!
+<b>Rarity</b>: See? [gag] Dirty! I have to go!
+<b>Pinkie Pie</b>: Huh... No Twilight, no Applejack, no Rarity. Oh well, a party is still a party even with only two guests.
+<b>Rainbow Dash</b>: This afternoon?
+<b>Fluttershy</b>: As in...?
+<b>Pinkie Pie</b>: Yes! As in, "this afternoon" this afternoon!
+<b>Rainbow Dash</b>: Oh, man! We'd love to, but... we're... house-sitting this afternoon.
+<b>Pinkie Pie</b>: [sigh] Both of you?
+<b>Fluttershy</b>: It's... uh... a big house.
+<b>Rainbow Dash</b>: Uh, look at the time! We'd really better get going.
+<b>Pinkie Pie</b>: Wait! Maybe I could bring you some after-birthday cake and ice-cream. Who're you house-sitting for?
+<b>Rainbow Dash</b>: Harry.
+<b>Pinkie Pie</b>: Harry?
+<b>Rainbow Dash</b>: Yeah, I don't think you know him.
+<b>Pinkie Pie</b>: That's strange. I know just about everypony around here.
+<b>Fluttershy</b>: He's... a bear.
+<b>Pinkie Pie</b>: A bear?
+<b>Rainbow Dash</b>: Yup! He's a bear all right, and he'll be pretty upset if we don't get over to his house soon.
+<b>Pinkie Pie</b>: Wait! There's a bear around here who lives in a house?
+<b>Fluttershy</b>: It's, uh, really more of a cave.
+<b>Rainbow Dash</b>: But he's fixed up the place so much, it <i>feels</i> like a house.
+<b>Fluttershy</b>: And, uh, he wants us to look after his house... uh, cave... while he's, uh...
+<b>Rainbow Dash</b>: A-at the beach!
+<b>Pinkie Pie</b>: He's vacationing at the beach?
+<b>Rainbow Dash</b>: Yup! He loves to...
+<b>Fluttershy</b>:
+Collect sea shells!
+...Play beach volleyball!
+...Collect volleyballs!
+<b>Rainbow Dash</b>:
+Play beach volleyball!
+...Collect sea shells!
+...Play sea shells!
+<b>Rainbow Dash</b>: Gotta go!
+<b>Pinkie Pie</b>: Something strange is definitely going on 
+around here, Gummy. Sure Rainbow Dash and Fluttershy had to house-sit 
+for that vacationing bear, but what are the chances all my other friends
+ would have plans this afternoon too? Rarity has to wash her hair? 
+Applejack has to pick apples? Twilight is behind on her studies and has 
+to hit the books? The more I think about it, the more those are starting
+ to sound like... [gasp] <i>excuses</i>!
+[door closes]
+<b>Pinkie Pie</b>: That doesn't look like studying... or hitting!
+[bell rings]
+<b>Mrs. Cake</b>: Ooh! You must be here for...
+<b>Twilight Sparkle</b>: <i>Shh!</i> Is Pinkie Pie around?
+<b>Mrs. Cake</b>: Oh, I don't think so.
+<b>Twilight Sparkle</b>: Good. I don't wanna her to know anything about this.
+<b>Mrs. Cake</b>: Yes, of course. I'll be right back.
+<b>Pinkie Pie</b>: But... we're friends. What wouldn't Twilight want me to know anything about? [gasp] She's coming back.
+<b>Mrs. Cake</b>: [muffled] There you go!
+<b>Twilight Sparkle</b>: [muffled] Thanks, and remember, not a word to Pinkie Pie. Hey! What's with the tin can? [yelp]
+<b>Pinkie Pie</b>: Time to get to the bottom of things! [gasp] I think our cover's been blown! We'll need a new disguise.
+[doorbell rings]
+<b>Rarity</b>: She didn't see you at the sweet shop, did she?
+<b>Twilight Sparkle</b>: I don't think so.
+<b>Rarity</b>: Oh, good. I'd hate for her to ruin everything.
+<b>Twilight Sparkle</b>: Me too.
+<b>Gummy</b>: [sneeze]
+<b>Rarity</b>: Have you seen her?
+<b>Fluttershy</b>: Not since this morning.
+<b>Rarity</b>: Me neither. Can you believe she was planning on throwing an after-birthday party <i>today</i>?
+<b>Fluttershy</b>: I'm just glad I was able to come up with an excuse for why I couldn't be there.
+<b>Rarity</b>: Me too! This is obviously going to be so much better.
+<b>Fluttershy</b>: As long as we keep her from finding out about it, it will.
+<b>Rarity</b>: [whispering] <i>See you later!</i>
+<b>Fluttershy</b>: [gasp] [scream]
+<b>Pinkie Pie</b>: I thought everypony loved my parties.
+<b>Rainbow Dash</b>: Hi, Pinkie Pie! Uh-oh!
+<b>Pinkie Pie</b>: Rainbow Dash! Wait!
+<b>Rainbow Dash</b>: Phew...
+<b>Pinkie Pie</b>: Where're you going?!
+<b>Rainbow Dash</b>: Ah!
+[shriek]
+<b>Pinkie Pie</b>: <i>What's the real reason you didn't want to come to Gummy's party?!</i>
+[bell ringing]
+<b>Rainbow Dash</b>: [grunt]
+<b>Pinkie Pie</b>: <i>What's in the bags?!</i>
+<b>Rainbow Dash</b>: Applejack! We have a problem!
+<b>Applejack</b>: [gasp]
+[pounding]
+<b>Pinkie Pie</b>: <i>I know you're IN THERE!</i>
+<b>Applejack</b>: Oh! Howdy, pardner!
+<b>Pinkie Pie</b>: Mind if I... take a look inside the <i>barn</i>?
+<b>Applejack</b>: No! Uh, I mean, yes, I mean... you can't come in here!
+<b>Pinkie Pie</b>: Rainbow Dash just went in there.
+<b>Applejack</b>: Oh, well, she was just bringin' in some... <i>supplies</i>! Yup, supplies for the... <i>renovation</i>! Fixin' up the whole thing, top to bottom... uh, <i>lots of construction goin' on in there right now.</i>
+<b>Rainbow Dash</b>: [whispering] You heard her! <i>Construction!</i>
+[ponies mimicking noises of various construction tools]
+<b>Applejack</b>: Yup! Construction! That's my story, and I'm stickin' to it. [nervous laugh] [gulp]
+[pause]
+<b>Pinkie Pie</b>: Okey... dokey... lokey.
+<b>Applejack</b>: [relieved sigh]
+<b>Rest of main cast</b>: [relieved sigh]
+<b>Pinkie Pie</b>: Secrets and lies! It's all secrets and lies 
+with those ponies! They're up to something, Gummy! Something they don't 
+want me to know about! Well, I'm gonna know about it! I'm gonna know 
+about it big time! And I know just who's gonna tell me all about it. <i>Tell me all about it big time!</i>
+<b>Spike</b>: Wow! Nice spread!
+<b>Pinkie Pie</b>: It's all yours, Spike. All you have to do is <i>talk</i>.
+<b>Spike</b>: That's it? Oh, you got it. Okay... uh, beautiful 
+weather we're having, eh? I love a sunny spring day, don't you? The 
+birds chirpin' and the flowers bloomin'.
+<b>Pinkie Pie</b>: No, no, no. Talk about our <i>friends</i>.
+<b>Spike</b>: Oh, okay. Let's see, there's Twilight Sparkle. 
+She's a unicorn. Good with magic. A real brainiac. And then you got 
+Rarity. Total <i>knockout</i>. Twilight seems to think I don't even have
+ a chance with her, but... eh, what does she know? Let's see. There's...
+ there's Fluttershy, a Pegasus who's afraid of heights. Heh, what's up 
+with that?
+<b>Pinkie Pie</b>: Grr! No! You're not understanding me! I want you to confess!
+<b>Spike</b>: Confess?
+<b>Pinkie Pie</b>: Confess!
+<b>Spike</b>: I'm the one who spilled juice all over Twilight's copy of "Magical Mysteries and Practical Potions"!
+<b>Pinkie Pie</b>: And?
+<b>Spike</b>: And I'm the one who used up all the hot water in Ponyville yesterday when I took a seven-hour bubble bath!
+<b>Pinkie Pie</b>: Aaand?
+<b>Spike</b>: And sometimes... when no one's around... I do this: <i>Lookin' good, Spike! Lookin' real good!</i>
+<b>Pinkie Pie</b>: No! No! No! <i>No!</i>
+<b>Spike</b>: W-What do you wanna hear? Tell me what you want me to say, and I'll say it!
+<b>Pinkie Pie</b>: Tell me that my friends are all lying to me and avoiding me because they don't like my parties <i>and they don't want to be my friends anymore!</i> [panting]
+<b>Spike</b>: Your friends are all lying to you and avoiding 
+you 'cause they don't like your parties and they don't want to be your 
+friends anymore!
+<b>Pinkie Pie</b>: Aha! I knew it! [balloon deflating noise] Oh
+ no, my friends don't like my parties and they don't want to be my 
+friends anymore.
+<b>Spike</b>: Uh... so... [loud eating noises]
+<b>Pinkie Pie</b>: [sigh]
+<b>Pinkie Pie</b>: Thank you all so much for coming! It means so much to Gummy.
+<b>Pinkie Pie voicing a bucket of turnips</b>: Could I have some more punch?
+<b>Pinkie Pie</b>: Well, of course you can have some more punch, Mr. Turnip. [twang]
+<b>Pinkie Pie voicing a pile of rocks</b>: This is one great pahty! You really outdone yourself!
+<b>Pinkie Pie</b>: Why, thank you, Rocky.
+<b>Pinkie Pie voicing a clump of lint</b>: I'm having a delightful time as well.
+<b>Pinkie Pie</b>: I'm so glad, Sir Lintsalot. [ding]
+<b>Pinkie Pie voicing a bag of flour</b>: Might I trouble you for anozer slice of cake?
+<b>Pinkie Pie</b>: Anything for you, Madame le Flour.
+<b>Pinkie Pie</b> [as <b>Rocky</b>]: I'm just glad none o' them <i>ponies</i> showed up.
+<b>Pinkie Pie</b>: Oh, they're not so bad.
+[low string instrument whine]
+<b>Rocky</b>: Not so bad? Puh-lease! They're a buncha losers!
+<b>Pinkie Pie</b>: Oh, c'mon now. "Losers" might be a little strong, dont'cha think?
+<b>Sir Lintsalot</b>: After the way they treated you? I say "losers" isn't strong enough.
+<b>Pinkie Pie</b>: Well, it was pretty rude...
+<b>Madame le Flour</b>: Pretty rude? It was downright deespicable!
+<b>Pinkie Pie</b>: It was, wasn't it?
+<b>Mr. Turnip</b>: If I were you, I wouldn't speak to them ever again.
+<b>Pinkie Pie</b>: You know what? I'm <i>not</i> gonna speak to
+ them ever again. And I'm not gonna invite them to another party as long
+ as I live! They don't deserve to be invited to my parties. [plink] Not 
+after the way they've been acting.
+<b>Madame le Flour</b>: [clapping] Deeespicable!
+<b>Sir Lintsalot</b>: Such losers!
+<b>Madame le Flour</b>: Yes, zat's right.
+<b>Pinkie Pie</b> [as <b>Mr. Turnip</b>]: Well done.
+<b>Pinkie Pie</b> [as <b>Sir Lintsalot</b>]: Yeah!
+<b>Pinkie Pie</b> [as <b>Rocky</b>]: You show 'em!
+[knocking]
+<b>Pinkie Pie</b>: Who could that be?
+<b>Rainbow Dash</b>: Hey there, Pinkie Pie! Sorry I was in such
+ a rush earlier. Had some place to be and couldn't slow down and say, 
+"Hello." You know how it goes.
+<b>Pinkie Pie</b>: <i>I know how it goes, all right!</i>
+<b>Rainbow Dash</b>: Yeah... so, why don't you come with me over to Sweet Apple Acres?
+<b>Pinkie Pie</b>: No thanks. I'm spending time with my <i>real</i> friends. Isn't that right, Madame le Flour?
+<b>Pinkie Pie</b> [as <b>Madame le Flour</b>]: <i>Oui!</i> Zat iz correct, <i>madame.</i>
+<b>Rainbow Dash</b>: Uh... Pinkie Pie?
+<b>Pinkie Pie</b>: Another slice of cake, Sir Lintsalot?
+<b>Pinkie Pie</b> [as <b>Sir Lintsalot</b>]: I'd love one.
+<b>Rainbow Dash</b>: Aaallrighty. What do you say we get on out of Creepytown and head over to Applejack's...
+<b>Pinkie Pie</b> [as <b>Mr. Turnip</b>]: She's not going anywhere.
+<b>Pinkie Pie</b>: I most certainly am not. I'm having a wonderful time right here.
+<b>Rainbow Dash</b>: You should really just come with me.
+<b>Pinkie Pie</b> [as <b>Rocky</b>]: You heard the lady! She ain't goin' nowheres, <i>chump</i>!
+<b>Rainbow Dash</b>: Who <i>you</i> calling a chump, <i>chump</i>?! Ugh... That's it. Party's over. Come on, Pinkie Pie!
+<b>Pinkie Pie</b>: No!
+<b>Rainbow Dash</b>: Pinkie Pie, let's go!
+<b>Pinkie Pie</b>: I said no!
+<b>Rainbow Dash</b>: You... [grunts] have to... come with... me!
+<b>Pinkie Pie</b>: No... I... don't!
+[crash]
+<b>Rainbow Dash</b>: Oh, you wanna do this the hard way?! We'll do this the <i>hard way</i>!
+<b>Rainbow Dash</b>: [grunting] [panting] We're... here...
+<b>Twilight Sparkle</b>, <b>Applejack</b>, <b>Rarity</b>, and <b>Fluttershy</b>: [in unison] Surprise!
+<b>Fluttershy</b>: I really thought she'd be more excited.
+<b>Pinkie Pie</b>: <i>Excited</i>? <i>Excited?!</i> Why would I be excited to attend my own farewell party?!
+<b>Twilight Sparkle</b>: Farewell party?
+<b>Pinkie Pie</b>: Yes! You don't like me anymore, so you 
+decided to kick me out of the group and throw a great, big party to 
+celebrate! A "Farewell to Pinkie Pie" party!
+<b>Applejack</b>: Why in the world would you think we didn't like you anymore, sugarcube?
+<b>Pinkie Pie</b>: Why? <i>Why?</i> <i>Why?!</i> Because you've been lying to me and avoiding me all day, that's why!
+<b>Rainbow Dash</b>: Uh, <i>yeah!</i> Because we wanted your party to be a <i>surprise</i>.
+<b>Rarity</b>: We'd been planning this party for such a long 
+time, we had to make excuses for why we couldn't attend Gummy's party so
+ that we could get everything ready for yours.
+<b>Twilight Sparkle</b>: If this is a farewell party, why does the cake I picked up from Sugarcube Corner say "Happy Birthday, Pinkie Pie"?
+<b>Pinkie Pie</b>: [squeak] Because it's my birthday! Ooh, how could I have forgotten my own birthday?
+<b>Rest of main cast</b>: [relieved sigh]
+<b>Pinkie Pie</b>: And you like me so much you decided to throw me a surprise party!
+<b>Rarity</b>: That's what we've been trying to tell you, darling.
+<b>Pinkie Pie</b>: You girls are the best friends ever! How could I have ever doubted you?
+<b>Twilight Sparkle</b>: It's okay, Pinkie Pie. It could have happened to any of us.
+<b>Rainbow Dash</b>: Uh-huh! It sure would.
+<b>Fluttershy</b>: Don't worry about it.
+<b>Rainbow Dash</b>: I'm just glad I haven't been replaced by a bucket of turnips.
+<b>Twilight Sparkle</b>: Huh?
+<b>Rainbow Dash</b>: You don't wanna know.
+<b>Applejack</b>: All right, girls! Enough of this gab. <i>Let's party!</i>
+[music]
+<b>Twilight Sparkle</b>: <i>Dear Princess Celestia,</i>
+<i>I am writing to you from the most delightful party. I'm not only having a great time with my friends, but also was given the opportunity to learn a valuable lesson about friendship. Always expect the best from your friends, and never assume the worst. Rest assured that a good friend always has your best interests at heart.</i>
+<i>Your faithful student,</i>
+<i>Twilight Sparkle</i>
+<b>Pinkie Pie</b>: You girls wouldn't mind if we celebrated 
+Gummy's after-birthday party too, would you? His party was cut short, 
+and he's pretty upset about it.
+<b>Fluttershy</b>: Oh, definitely.
+<b>Rarity</b>: Aww, he was upset?
+<b>Applejack</b>: Uh-huh, sure!
+<b>Rainbow Dash</b>: For Gummy, yeah!
+<b>Twilight Sparkle</b>: Yeah, why not? Let's have a party for Gummy. [giggles]
+[music]
+[credits]

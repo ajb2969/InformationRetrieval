@@ -1,0 +1,332 @@
+[teleportation zap]
+<b>Starlight Glimmer</b>: Ha! Straight to the changeling hive! I told you I could do it.
+<b>Trixie</b>: Well, not exactly <i>straight</i>, Starlight. We've been popping all around Equestria, and we still have to walk.
+<b>Starlight Glimmer</b>: [scoffs] It's like twelve steps away.
+ Before Chrysalis' throne was destroyed, the closest magic would've 
+gotten us was waaaaaaay over there. On a scale of one to ten, how happy 
+do you think Thorax is gonna be about our surprise visit?
+<b>Trixie</b>: Definitely ten. I mean, who <i>wouldn't</i> be happy at the chance to marvel at the overwhelming talent that is the Great and Powerful Trrrrrixie?!
+[fireworks]
+<b>Starlight Glimmer</b>: Trixie, we're coming to offer Thorax 
+encouragement and support. His letters make it seem like the 
+responsibilities of being a changeling leader are a little overwhelming.
+<b>Trixie</b>: Yeah. I know. That's basically what I said.
+<b>Starlight Glimmer</b>: He's dealing with the wants and needs of his subjects. Redesigning the hive, a dread maulwurf wreaking havoc outside...
+<b>Trixie</b>: It does sound like a lot, but are you sure that last thing is real?
+<b>Starlight Glimmer</b>: The dread maulwurf? Sure it is. 
+Thorax said it's like half-bear, half-mole, half-raging-pile-of-claws! 
+But now that the changelings don't feed on the love of everything around
+ them, plants have started to grow back. But this maulwurf keeps eating 
+them all up.
+<b>Trixie</b>: "Maulwurf". Uh-huh. You're just trying to scare 
+me, but it won't work. Because not only am I the Great and Powerful, I 
+am also the Unscareable Trixie!
+<b>Pharynx</b>: [growls]
+<b>Trixie</b>: [screams] Please tell me Thorax also mentioned a terrifying-looking changeling who greets visitors but is actually nice!
+<b>Starlight Glimmer</b>: [meakly] Nope.
+<b>Pharynx</b>: And I'm <i>not</i> nice. [growls]
+[magic blasts]
+<b>Trixie</b>: Starlight, you got us here. I'll take us home. Teleportation spell, go! Did I save us?
+<b>Starlight Glimmer</b>: Nope.
+[dun-dun-dun]
+[theme song]
+[suspenseful music]
+<b>Trixie</b>: What are you waiting for?! Use some magic to get us outta here!
+<b>Starlight Glimmer</b>: Calm down, "Unscareable Trixie". We have to find out what's going on. Thorax might need our help.
+<b>Trixie</b>: <i>We</i> need our help! Teleportation spell, go! Teleportation spell, go! [gasps] <i>Teleportation spell—!</i>
+<b>Starlight Glimmer</b>: Ugh! Why do you keep doing that? You know it doesn't work that way.
+<b>Trixie</b>: I know, but this is my process.
+[thud]
+<b>Starlight Glimmer</b> and <b>Trixie</b>: [yelp]
+<b>Pharynx</b>: I've captured these trespassers!
+<b>Thorax</b>: Starlight! Trixie! It's okay, Pharynx. You can let them go.
+<b>Pharynx</b>: But they were lurking on our grounds! In the old days, I would've already feasted on their love.
+<b>Thorax</b>: Well, that's why they're called the "old days", because they're old. We don't do that anymore.
+[celestial music]
+<b>Pharynx</b>: Dah! I liked the old days better.
+<b>Thorax</b>: Uh, what are you two doing here?
+<b>Starlight Glimmer</b>: We wanted to surprise you. [sheepishly] Surprise.
+<b>Thorax</b>: Well, it's great to see you! I'm sorry about the welcome committee.
+<b>Pharynx</b>: [hisses]
+[changelings yelp]
+<b>Starlight Glimmer</b>: I thought Ember helped you get more assertive so you could deal with all the renegade changelings who didn't wanna change.
+<b>Thorax</b>: Oh, she did. Really helpful. I was able to convince all of them to change, except one of them... My brother.
+<b>Starlight Glimmer</b>: Your brother?
+<b>Thorax</b>: Yep. Pharynx is my elder broodmate.
+<b>Pharynx</b>: Ha! [grunting]
+<b>Starlight Glimmer</b>: Oh, yeah. You guys have the same... um... eye shape?
+<b>Pharynx</b>: What a ridiculous comparison! We are nothing alike!
+<b>Thorax</b>: [sighs]
+<b>Pharynx</b>: [grunts]
+<b>Thorax</b>: Stop doing that!
+<b>Pharynx</b>: The hive looked better with holes. [hissing]
+[plink]
+<b>Thorax</b>: Ugh. Well, how about I show you the rest of the hive where it's less loud and bangy?
+<b>Thorax</b>: There've been a lot of changes since you were 
+here last. I'm trying to start some new activities since the only thing 
+we did before was hunt and patrol. There's theatre, swing dancing, a 
+once-a-week potluck lunch. Ooh! And who can change shape <i>and</i> organize craft time? Hmm? [transformation noise] This guy!
+<b>Starlight Glimmer</b>: I am really impressed, Thorax. The hive, all the activities...
+<b>Sclerite</b>: Gah! He did it again! Pharynx dumped an entire
+ can of black paint on me! He said my fuchsia color wasn't "intimidating
+ to our enemies"! <i>What</i> enemies?!
+<b>Thorax</b>: I am so sorry. I promise I'll talk to him.
+<b>Sclerite</b>: You're the ruler of the hive, Thorax! You need to do <i>more</i> than talk!
+<b>Trixie</b>: Well, maybe not <i>every</i>thing here is amazing.
+<b>Starlight Glimmer</b>: Seriously, Thorax. What is up with your brother?
+<b>Thorax</b>: Ugh. Pharynx used to be head of patrol. But now we're peaceful and there's no need <i>to</i>
+ patrol, so he just stalks around the hive making everyone miserable. 
+The other changelings are sick of it, and if I can't get him to accept 
+love and friendship and change like the rest of us, everything I've done
+ here is at risk.
+[beat]
+<b>Trixie</b>: Uh-uh.
+<b>Starlight Glimmer</b>: [encouragingly] Hmm?
+<b>Trixie</b>: [sighs] Uh-huh.
+<b>Starlight Glimmer</b>: We know a thing or two about what it's like to be outsiders. Maybe we could talk to him for you.
+<b>Thorax</b>: Do you really think you can help?
+<b>Trixie</b>: Thorax, if there's anypony who can help your 
+brother, it's me. And with Starlight helping, it might take slightly 
+longer, but I guarantee you we can do it.
+<b>Starlight Glimmer</b>: [groan]
+<b>Frenulum</b>: Thorax, we're ready to start work on the trail of plants to lead the maulwurf away.
+<b>Thorax</b>: Oh, I have to head outside. You sure you're okay handling Pharynx?
+<b>Starlight Glimmer</b>: Absolutely.
+<b>Pharynx</b>: [angry grunting]
+<b>Trixie</b>: Yeah... we totally got this. [chuckles nervously]
+<b>Pharynx</b>: [continues grunting]
+<b>Pharynx</b>: [angry grunting]
+<b>Trixie</b>: So, how do you wanna play this? I'm thinking 
+"good pony/bad pony". You yell and blast him with magic while my natural
+ charisma will convince him that— uh, Starlight?
+<b>Starlight Glimmer</b>: Hey, Pharynx. I know when we first met, it didn't go so well.
+<b>Pharynx</b>: I put you in a bag. <i>I</i> thought it went great. [grunts]
+<b>Starlight Glimmer</b>: Right. [clears throat] So... not a big fan of the vines, huh?
+<b>Pharynx</b>: They're a safety hazard. An enemy could hide in them or use them as weapons. I don't even know why they're here.
+<b>Starlight Glimmer</b>: Because they're pretty?
+<b>Pharynx</b>: That's ridiculous.
+<b>Starlight Glimmer</b>: Oh, totally. We get you. But... [clears throat] maybe don't express how you feel by destroying them?
+<b>Pharynx</b>: I don't take advice from ponies. The only thing I take from you is breakfast. At least, I <i>used</i> to.
+<b>Trixie</b>: You know, you're a lot like us!
+<b>Pharynx</b>: Doubt it.
+<b>Trixie</b>: It's true. Do you know who Twilight Sparkle is?
+<b>Pharynx</b>: No.
+<b>Trixie</b>: Well, she's the most well-liked, studious, do-goodiest pony in Equestria.
+<b>Pharynx</b>: Ugh! She sounds awful.
+<b>Trixie</b>: Oh, you'd hate her. I used to. She made me unsure about my place in the world, which led me to act out against her.
+<b>Starlight Glimmer</b>: And <i>I</i> used to be a dictator who ran a village with an iron hoof.
+<b>Pharynx</b>: Really? Hmm. Maybe you two <i>do</i> understand me.
+<b>Starlight Glimmer</b>: Yes! We do! But now, Trixie has come 
+to terms with being second-best, and I no longer control ponies against 
+their will. And our lives are so much better for it.
+<b>Pharynx</b>: Wow. So you're <i>both</i> losers. Stay away from me, or I'll do to you what I did to the vines.
+<b>Thorax</b>: Well, "Operation: Lead Maulwurf Away" is coming along. How'd it go with Pharynx?
+<b>Starlight Glimmer</b>: Your brother is, um, challenging.
+<b>Thorax</b>: Oh, that bad, huh?
+<b>Starlight Glimmer</b>: It wasn't great.
+<b>Thorax</b>: You wanna talk it out? You can come with me to the feelings forum.
+<b>Trixie</b>: The feel-like-what-now?
+<b>Thorax</b>: Oh, it's a place for changelings to express 
+their feelings so we all gain a better understanding of each other. It's
+ really helped bring the hive closer together.
+<b>Green Changeling</b>: Sometimes I feel like I'm a blue changeling. Sometimes I feel like I'm a purple changeling. But here I am, a green one.
+<b>Tymbal</b>: You can be anything you want to be. Be blue one day and purple the next. Be both on the same day!
+<b>Green Changeling</b>: But then I feel like I'd be living a lie.
+<b>Tymbal</b>: It's very brave of you to share something so personal. Does anyone else have similar concerns?
+<b>Changeling 1</b>: I used to, but craft time has given me such a creative outlet, I feel great now!
+<b>Changeling 2</b>: Uh-huh. Everyone loves craft time.
+[changelings agreeing]
+<b>Changeling 1</b>: Well, everyone except for... you-know-who.
+<b>Changeling 2</b>: Yeah. You-know-who spends all his craft time making spears.
+<b>Changeling 1</b>: He's scary and intimidating. You-know-who makes me uncomfortable.
+<b>Green Changeling</b>: He makes us <i>all</i> uncomfortable.
+<b>Thorax</b>: Everyone, please! I understand Pharynx can be challenging at times.
+<b>Changeling 1</b>: That's an understatement. He lined a hallway with thorns!
+<b>Green Changeling</b>: He teaches little changelings to growl and hiss!
+<b>Changeling 3</b>: My soup's too hot!
+[beat]
+<b>Changeling 3</b>: What? I thought the feelings forum was for sharing our problems.
+<b>Pharynx</b>: It sounds like your lame "feelings forum" is for talking about me behind my back!
+<b>Tymbal</b>: The feelings forum is for talking about anything that's bothering you. Is there something you'd like to share, Pharynx?
+<b>Pharynx</b>: Actually, there is. The changelings used to be a
+ fearsome swarm! Now we sit around talking about our feelings so much, 
+you can't even stop a maulwurf from eating all your "pretty plants"! <i>I</i> could've sent that thing packing before, but I guess now we'll just try to lead it away and <i>hope</i> that keeps us safe!
+<b>Changeling 1</b>: I don't feel safe with him around!
+<b>Green Changeling</b>: I'd feel safer if he were gone!
+<b>Thorax</b>: I can't do that.
+<b>All changelings</b>: <i>We want him banished!</i> [arguing]
+<b>Changeling 3</b>: [slurps] Hey, my soup's cooled down! These feeling forums are great for solving problems!
+[BWONG!]
+<b>Tymbal</b>: Everyone, please. If we are interrupting each other, we are not affirming each other.
+[changelings resume arguing]
+<b>Tymbal</b>: <i>That's it! Feelings forum is over!</i>
+[changelings grumbling]
+<b>Starlight Glimmer</b>: I... [sighs] I want to say something, but it goes against everything I've been taught as Twilight's pupil.
+<b>Trixie</b>: Ooh! Then, by all means, say it.
+<b>Starlight Glimmer</b>: [sighs] I think Pharynx is a lost cause.
+<b>Trixie</b>: Mm. I'm all for second chances. Third, even. But he just seems like a bad bug.
+<b>Starlight Glimmer</b>: And Thorax has a duty to the whole hive, not just his brother.
+<b>Trixie</b>: If he keeps sticking up for Pharynx, the hive might decide they don't want Thorax as their leader.
+<b>Starlight Glimmer</b>: I think he might have to kick Pharynx out. But I don't wanna be the one to tell Thorax that.
+<b>Trixie</b>: Me, neither. But somepony probably should. I nominate you!
+<b>Starlight Glimmer</b>: Ugh!
+[transformation noise]
+<b>Starlight Glimmer</b>: Thorax, we have something to tell you.
+<b>Thorax</b>: It's about Pharynx, isn't it?
+<b>Trixie</b>: [hesitating] Mmmmmmmaybe?
+<b>Thorax</b>: Look, I know he's an aggressive warrior type, but when I was little, every young changeling wanted to be like that.
+[young changelings shouting]
+<b>Thorax</b>: [voiceover] ...Every young changeling except me. The others would pick on me for not wanting to fight.
+<b>Young Changeling</b>: Look at the little grub playing with his dollies!
+[young changelings laugh]
+<b>Young Pharynx</b>: Step away from my brother!
+[slam]
+<b>Thorax</b>: [voiceover] But Pharynx never let them hurt me.
+<b>Young Changeling</b>: We were just complimenting his dollies.
+[transformation noise]
+<b>Young Pharynx</b>: [shrieks]
+[young changelings scream]
+[transformation noise]
+<b>Young Thorax</b>: Thanks, Pharynx.
+<b>Young Pharynx</b>: Why are you hitting yourself?! Stop hitting yourself! Why are you hitting yourself?!
+<b>Young Thorax</b>: Ouch! Cut it out, Pharynx!
+<b>Young Pharynx</b>: They're right, you know. You need to have tougher skin.
+<b>Trixie</b>: Aw, that was a really sweet story. Until the end.
+<b>Thorax</b>: I know Pharynx loved me in his own way, and I 
+know there's still good in him. That's why I keep sticking up for him. 
+Anyway, what did you wanna talk to me about?
+<b>Trixie</b>: Me? Oh, noooo. But, uh, Starlight has something she—
+<b>Starlight Glimmer</b>: Actually, Thorax, um, never mind! C'mon, Trixie, we've got a... thing to do.
+<b>Trixie</b>: [whispering] What are you doing? I thought we agreed you'd tell Thorax he had to kick his brother out of the hive!
+<b>Starlight Glimmer</b>: Maybe we don't have to. Get Pharynx and meet me at the hive entrance. I'll explain everything.
+[magic zap]
+<b>Trixie</b>: And how am I supposed to know where Pharynx is?!
+<b>Passing Changeling</b>: I just saw Pharynx.
+<b>Trixie</b>: Oh! Well, that was easy.
+<b>Starlight Glimmer</b>: We'll just use one problem to solve 
+another. I switched the trail of plants around to lure the maulwurf 
+here. The changelings may not be able to stop it anymore, but Pharynx 
+certainly can. When it attacks, he'll save his brother, showing 
+everypony his good side, the others will accept him, and Pharynx will 
+finally let love and friendship into his life and transform! [pants]
+<b>Trixie</b>: Wow.
+<b>Starlight Glimmer</b>: I know, right? Great idea? Where's Pharynx?
+<b>Trixie</b>: He's gone.
+<b>Starlight Glimmer</b>: Gone like gone to the throne room?
+<b>Trixie</b>: Gone like <i>gone</i>! One of the changelings said Pharynx left the hive for good!
+[changelings cheering]
+<b>Starlight Glimmer</b>: [gasp] Then who's gonna stop the dread maulwurf I'm leading here?!
+[changelings screaming]
+<b>Starlight Glimmer</b>: [panting] Thorax, there you are! Pharynx is missing!
+[changelings cheering]
+<b>Trixie</b>: Wait for it...
+<b>Starlight Glimmer</b>: And the dread maulwurf is coming this way!
+[changelings screaming]
+<b>Trixie</b>: Told ya.
+<b>Thorax</b>: That doesn't make any sense. The trail of plants should have led the dread maulwurf away.
+<b>Starlight Glimmer</b>: [nervous laugh] I might have relaid them to lead it back toward the hive.
+<b>Thorax</b>: Why would you do that?!
+<b>Starlight Glimmer</b>: I thought if Pharynx saw you were in danger, the loving, caring side of him would come out when he protected you!
+<b>Thorax</b>: But instead, he's out there alone somewhere between us and that rampaging monster?! I have to save him!
+<b>Starlight Glimmer</b>: I'm coming with you!
+<b>Thorax</b>: Of course you are! This is all your fault!
+<b>Trixie</b>: [condescending] Oh, don't be too hard on Starlight. Her heart was in the right place.
+<b>Thorax</b>: You're coming, too!
+<b>Trixie</b>: Oh. Right. I mean, I was gonna volunteer anyway...
+<b>Thorax</b>: Who else is coming?
+[beat]
+<b>Thorax</b>: [groans] Fine.
+<b>Starlight Glimmer</b>: Oh, <i>sure</i>, you could all stay here, not help Pharynx and he won't bother you anymore. It's your choice. But remember when you didn't <i>have</i>
+ a choice! When you were forced to obey Chrysalis! You might have been 
+unstoppable, but you weren't free to choose! And now you are, because of
+ Thorax! Well, it's his brother out there, and now it's your chance to 
+prove you're just as strong embracing love as you were feeding on it! 
+Now is your chance to show what changelings can really be! Not because 
+you <i>have</i> to, but because you <i>choose</i> to!
+<b>Trixie</b>: That was an amazingly epic speech, Starlight! I just can't believe not a single changeling was moved by it.
+<b>Thorax</b>: I can't blame them. If he wasn't my brother, I don't think I'd be here. We're gonna have to face the maulwurf by ourselves.
+<b>Starlight Glimmer</b>: Maybe it'll be long gone and we'll find Pharynx out here alone!
+[roar]
+<b>Pharynx</b>: [grunts]
+<b>Starlight Glimmer</b>: Or maybe not.
+[maulwurf growling]
+[transformation noise]
+[Pharynx-bug skreeing]
+<b>Thorax</b>: Pharynx!
+<b>Pharynx</b>: What are you doing here?!
+<b>Thorax</b>: I'm here to save you!
+<b>Pharynx</b>: Get outta here! Let me handle this!
+<b>Starlight Glimmer</b>: We're not leaving you!
+[maulwurf growling and roaring]
+[magic zap]
+[maulwurf roaring]
+<b>Thorax</b>: [nervous] I may have forgotten to mention in my letters that maulwurfs have <i>really</i> thick hides!
+[maulwurf growling and snapping]
+<b>Starlight Glimmer</b>: I thought you said you could beat this thing!
+<b>Pharynx</b>: Yeah, with the rest of the swarm! Not alone!
+<b>Changeling 1</b>: Good thing you're not alone!
+<b>Trixie</b>: I told you it was an epic speech.
+[changeling battle-cry]
+[smack!]
+[thud]
+[maulwurf roars]
+<b>Thorax</b>: It's no use! We're out of practice and he's too tough!
+[maulwurf roars]
+<b>Trixie</b>: And strong! Too bad we can't get it to fight itself!
+<b>Pharynx</b>: That's it! Thorax, remember when we were young and I made you hit yourself?
+<b>Thorax</b>: Now is not the time to make fun of me, Pharynx!
+[beat]
+<b>Thorax</b>: Oh, right! Of course!
+[maulwurf roaring]
+[slap]
+<b>Pharynx</b>: Why are you hitting yourself? Why are you hitting yourself? Why are you hitting yourself?!
+<b>Thorax</b>: Yeah, maulwurf, why are you hitting yourself?
+[crunch]
+<b>Thorax</b>: Why are you hitting yourself, huh? Huh? Huh?
+[thud]
+<b>Pharynx</b>: [hisses]
+[crunch]
+<b>Trixie</b>: Ooh, that looks like it hurts.
+[maulwurf roars]
+[digging]
+<b>Starlight Glimmer</b>: We did it! It's gone!
+[changelings cheering]
+<b>Thorax</b>: What were you doing out here?
+<b>Pharynx</b>: Leaving. I'm done with all of you.
+<b>Thorax</b>: Oh. It's just, why bother fighting the maulwurf then? You coulda left it alone.
+<b>Pharynx</b>: Well, I couldn't just let it attack you!
+<b>Thorax</b>: But I thought you were done with us, and you didn't care.
+<b>Pharynx</b>: I never said that. The hive is the thing I care about most.
+<b>Thorax</b>: Well, you certainly don't act like it.
+<b>Pharynx</b>: Well, I'm sorry if I don't get excited about pretty flowers and feeling circles and—
+<b>Thorax</b>: It's a feelings <i>forum</i>.
+<b>Pharynx</b>: Whatever. It doesn't matter. Even if I do care about the hive, I obviously don't have a place there anymore.
+<b>Changeling 1</b>: Actually, you do. Because we've been wrong. Um, the hive may be a gentler, nicer place...
+<b>Changeling 2</b>: ...but that doesn't mean we won't have to defend ourselves. Clearly.
+<b>Thorax</b>: And who better to help us do that than the only changeling who never stopped protecting us?
+[changelings chattering]
+<b>Pharynx</b>: You all want me to stay?
+<b>Thorax</b>: Unless you still want to leave the hive.
+<b>Pharynx</b>: Why would I want that? I love the hive!
+[changelings cheering]
+[magic noises]
+[changelings oohing and aahing]
+<b>Trixie</b>: He did it! He transformed!
+<b>Starlight Glimmer</b>: I always knew you had it in you!
+<b>Pharynx</b>: Really? Because I thought you said I was a lost cause and you were going to tell Thorax he should kick me out.
+<b>Trixie</b>: Oh! Starlight! How could you say that?
+<b>Starlight Glimmer</b>: Ugh! What?! That's—! I mean—! But <i>you</i>—!
+<b>Thorax</b>: Lucky for us, you weren't a lost cause.
+<b>Pharynx</b>: Lucky for me, you didn't give up on me.
+[changelings chattering]
+<b>Trixie</b>: Soooo... glad everything worked out.
+<b>Thorax</b>: Yeah! Let's talk about how you not only led the maulwurf <i>to</i> the hive but also drove my brother <i>away</i> from it!
+<b>Starlight Glimmer</b>: I am <i>so</i> sorry about that, but I
+ would like to point out that my admittedly terrible plan did bring 
+everything together in the end. [nervous laugh]
+<b>Pharynx</b>: Hey. Do you guys want to hear the story about how I used to make Thorax hit himself?
+<b>Starlight Glimmer</b>: [relieved] Oh, absolutely, yes, right now!
+<b>Pharynx</b>: Well, when we were young, every changeling 
+wanted to be a warrior. Except for Thorax. He was a little weak. I had 
+to protect him... [fades out]
+[credits]

@@ -1,0 +1,298 @@
+<b>Applejack</b>: Well, that's the last of it, Filthy Rich.
+<b>Filthy Rich</b>: Just Rich, please. And on behalf of Rich's Barnyard Bargains, thanks for another season's shipment of zap apple jam.
+<b>Applejack</b>: Our pleasure. See ya next time.
+[cart pulls away]
+<b>Applejack</b>: Uh, Apple Bloom, did you pack up the cider into the same crates as the zap apple jam?
+<b>Apple Bloom</b>: Sure did! Now that I'm gettin' older, I wanna prove I can handle more responsibility on the farm.
+<b>Applejack</b>: But the crates aren't marked. You kept track of what went into which crate, right?
+<b>Apple Bloom</b>: Oh. Um... y-yep. I totally kept track of everything.
+<b>Applejack</b>: Good. Because we wouldn't want Filthy Rich to get a shipment of cider when he's supposed to get zap apple jam. You know how Granny feels about sellin' cider anywhere but on the farm. Are you sure he got the right crates?
+<b>Apple Bloom</b>: [huffs] Sure I'm sure! Now why don't you and Big Mac head on out to the house and let me finish up here?
+[glass jars rattle]
+<b>Applejack</b>: If you gave Rich the zap apple jam, then what's this here?
+<b>Apple Bloom</b>: Um... extra?
+<b>Big McIntosh</b>: Nnnope.
+[theme song]
+<b>Filthy Rich</b>: Granny knows I-I wasn't tryin' to make off with a shipment of cider, right? Because I would never do that.
+<b>Applejack</b>: Don't worry. We know exactly whose fault it was.
+[cart pulls away]
+[crate dragging]
+<b>Applejack</b>: Now why in tarnation would you lie to me, Apple Bloom?
+<b>Apple Bloom</b>: I was kinda hopin' I could fix it before anypony found out.
+<b>Applejack</b>: Tellin' lies won't fix anythin'. Trust me. I know.
+<b>Apple Bloom</b>: What could <i>you</i> possibly know about it? You've never told a lie in your whole life!
+<b>Big McIntosh</b>: [laughing]
+<b>Granny Smith</b>: [laughing]
+<b>Apple Bloom</b>: What's so funny?
+<b>Granny Smith</b>: Oh-ho, sugarcube. [laughing] Your big sister lied so much when she was a filly, the whole family ended up in the hospital.
+<b>Apple Bloom</b>: What?!
+<b>Big McIntosh</b>: [laughing] Eeyup!
+<b>Applejack</b>: [groans] You might as well tell her the whole story. Might even do her some good.
+<b>Granny Smith</b>: When Applejack and Big Mac were just a wee
+ bit older than you are now, they both kept a-squabblin' over who would 
+run the farm better.
+<b>Young Applejack</b>: All I'm sayin' is that you may have plenty of brawn, but <i>I'm</i> the one with the ideas on how to run things better around here!
+<b>Young Big McIntosh</b>: [laughs] Applejack, Applejack, 
+Applejack, ideas are all well and good, but you can't plow a field with 
+'em. I don't know how many times I've told you that.
+<b>Young Applejack</b>: Too many!
+<b>Granny Smith</b>: You two horned toads better stop jabberin'
+ and get to workin'! Yeah, they'd better. I need you to go to town. The 
+apple blight's been awful, and if we don't get more spray, cider season'll be shorter than a dwarf crabapple tree!
+<b>Young Applejack</b> and <b>Young Big McIntosh</b>: [snarl]
+<b>Young Big McIntosh</b>: It's like I was just tellin' Cousin Braeburn last week. Now <i>there's</i> a pony who knows how to put his back into a problem...
+<b>Young Applejack</b>: [growls] Oh, hey there, Filthy Rich!
+<b>Filthy Rich</b>: Just Rich, please. And I'd you to meet my 
+fiancée, Spoiled Milk. Honey, this is Applejack and Big Mac, the two 
+hardest workin' ponies at Sweet Apple Acres.
+<b>Spoiled Milk</b>: You work on a farm? How... quaint.
+<b>Filthy Rich</b>: [chuckles] Oh, now, dear, be nice. Sweet Apple Acres makes zap apple jam. It's one of Dad's best-sellers.
+<b>Spoiled Milk</b>: You mean one of <i>your</i> best-sellers. 
+[to AJ and Big Mac] My amazing husband-to-be is running the Rich family 
+business now. Did you know that? Well, now you do.
+<b>Filthy Rich</b>: [chuckles] Don't mind Spoiled Milk. She's 
+just proud of me. Uh, but she's right. I'm in charge of the store now, 
+and I'm just burstin' with ideas I wanna try!
+<b>Young Applejack</b>: Like what?
+<b>Filthy Rich</b>: Well, how 'bout this? Cider season's around the corner. Why not let <i>me</i> sell it for ya?
+<b>Young Applejack</b>: That <i>is</i> an interesting idea.
+<b>Young Big McIntosh</b>: Well, maybe it's interestin', an' maybe it ain't. But it's definitely not a <i>new</i> idea. Granny Smith told us your grandpa, Stinkin' Rich, used to ask her every year if he could sell our cider in your store, and Granny told him every year about the tradition of everypony in Ponyville linin' up out at Sweet Apple Acres.
+<b>Filthy Rich</b>: So start a <i>new</i> tradition. Some day, 
+one o' y'all will take over the farm just like I've taken over the 
+store. I'm guessin' it'll the one with the best ideas.
+<b>Young Big McIntosh</b>: Well, now, as I've said many a time before, ideas are all well an' good, but you can't plow a field—
+<b>Young Applejack</b>: Ya know what? How 'bout we give you three barrels of cider early, and if it sells well, we'll make a deal for the rest?
+<b>Filthy Rich</b>: Oh, hey, now! Perfect! [to Spoiled Milk] Come on, honey. I've gotta get everything ready.
+<b>Young Applejack</b>: Hoo-wee! I tell ya, if the future means <i>me</i> runnin' Sweet Apple Acres and <i>you</i> bein' quiet, I can't wait!
+<b>Young Big McIntosh</b>: I just can't believe you'd make a deal with Filthy Rich without even talkin' to Granny!
+<b>Young Applejack</b>: Aw, Granny will love the idea. And then she'll decide that I'm the one who should take over the farm. You'll see.
+<b>Granny Smith</b>: See what?
+<b>Young Big McIntosh</b>: Applejack here had another one of her "big ideas", and I think we all know my position on ideas. You can't—
+<b>Granny Smith</b> and <b>Young Applejack</b>: "Can't plow a field with 'em."
+<b>Young Big McIntosh</b>: Ee... right.
+<b>Granny Smith</b>: Big idea, hmmm?
+<b>Young Applejack</b>: Actually, more of an opportunity. Y'see, we ran into Filthy Rich in town. Did ya know he's runnin' the family store now?
+<b>Granny Smith</b>: And what does this here "opportunity" mean for Sweet Apple Acres?
+<b>Young Applejack</b>: Well, uh, since cider season is almost here, he—or, I-I mean, <i>I</i>—thought it'd be a good idea to give him a few barrels of cider to sell at the store before the season starts.
+<b>Granny Smith</b>: Oh, is that all? <i>Absolutely not!</i>
+<b>Young Applejack</b>: [groans]
+<b>Young Applejack</b>: [scoffs] But, Granny, why <i>can't</i> we sell a few barrels o' cider early to Filthy Rich? And how is it any different than when you gave zap apple jam to Filthy's grandpappy to sell?
+<b>Granny Smith</b>: Your cider and your jam ain't the same thing! Zap apple jam jars preserve the flavor for moons, but cider starts to spoil the second it comes out the press. That is why every cider season, all of Ponyville lines up at Sweet Apple Acres. And first come is first served! Hmph!
+<b>Young Applejack</b>: I get what you're sayin', Granny. But couldn't you make an exception just this once? I sort of promised.
+<b>Granny Smith</b>: Mm, meh-enh. Besides, cider-makin'
+ is iffy business. And we're probably not gonna have a lot this year 
+anyway, what with all the blight. I am sorry, Applejack, but you's just 
+gonna have to <i>un</i>-promise.
+<b>Young Applejack</b>: [sighs] Oh.
+<b>Young Big McIntosh</b>: I hate to say I told you so, Applejack, <i>but</i>—
+<b>Young Applejack</b>: You an' I both know you don't hate to say anythin'.
+<b>Young Big McIntosh</b>: Well, <i>I've</i> always thought 
+that the most important thing a pony can do is say exactly what's on his
+ mind to anypony who'll listen, so everypony everywhere always knows 
+everythin' they're thinkin', <i>and</i>—
+<b>Young Applejack</b>: And you don't ever have to listen to anypony else.
+<b>Young Big McIntosh</b>: What?
+<b>Young Applejack</b>: Exactly.
+<b>Filthy Rich</b>: Well, if it ain't my new business partner!
+<b>Young Applejack</b>: Uh, about the cider, Rich...
+<b>Filthy Rich</b>: Take a look at what I did last night after we made our deal!
+[zip!]
+<b>Filthy Rich</b>: Whoo! Ha! Pretty great, huh?
+<b>Young Applejack</b>: The thing is, I-I don't think I can get you any.
+<b>Filthy Rich</b>: What? Well, I did all this work on your say-so! We shook hooves and everything!
+<b>Young Big McIntosh</b>: Well, you see, at Sweet Apple Acres, we've always been about quality, and while your basic jam jar'll keep—
+<b>Young Applejack</b>: Plus it's been a tough harvest this year, what with all the blight.
+<b>Filthy Rich</b>: Gah! Sounds to me like you're tryin' to make excuses! Whenever Granddad dealt with Granny Smith, <i>she</i> kept her word! If you can't do that, then maybe our families should stop doin' business together! <i>Al</i>together!
+<b>Young Big McIntosh</b>: Now, now, the thing is, Rich, it ain't really up to us. Y'see, Granny's—
+<b>Young Applejack</b>: Uh, sick!
+<b>Filthy Rich</b>: Wait, Granny's sick? I-I had no idea.
+<b>Young Big McIntosh</b>: Ee... yeah. Nopony did.
+<b>Young Applejack</b>: Uh, what Big Mac means is, uh, we've 
+been tryin' to keep it quiet. Don't want people to make rash decisions 
+about doin' business with Sweet Apple Acres just because we're, uh, a 
+little short-hooved at the moment.
+<b>Filthy Rich</b>: Oh, my! O-Of course, of course! I am so sorry. Please let me know if there's anything I can do.
+<b>Young Applejack</b>: Much appreciated. But right now, we-we only ask for your understandin' during this difficult time.
+<b>Filthy Rich</b>: Mm-hmm.
+<b>Young Big McIntosh</b>: You were supposed to tell Rich the simple truth! But instead, you made things worse with a giant lie!
+<b>Young Applejack</b>: W-W-What was I supposed to do? You heard Rich. If I told him the truth, he was gonna stop doin' business with us altogether.
+<b>Young Big McIntosh</b>: Yeah, but that's only because I... I forgot to ask if we had any oat crumbles for this delicious-lookin' salad, Granny.
+<b>Granny Smith</b>: [grunts] Yeah, I'll go take a look. [mutters]
+<b>Young Big McIntosh</b>: [hushed] That was only because you 
+made promises you couldn't keep! But there's gotta be a better way out 
+of this mess than by makin' up some story about Granny bein' sick!
+<b>Young Applejack</b>: [hushed] Well, it worked, didn't it?
+[knock on door]
+<b>Filthy Rich</b>: Sorry to drop by unannounced. We just wanted to come by to wish Granny a speedy recovery.
+<b>Young Big McIntosh</b>: [sarcastic] Look, sis. Our good 
+friend, Mr. Rich and his fiancée... are here. Oh, and they brought 
+flowers! For Granny! On account o' she's <i>sick</i>! Like you said. Ain't that sweet?
+[door rattles]
+<b>Young Applejack</b>: Uh, excuse me one second!
+[door closes]
+<b>Granny Smith</b>: Aah!
+[crash!]
+<b>Granny Smith</b>: Golly, what in tarnation?
+<b>Young Applejack</b>: Oh, I'm sorry, Granny. I-I didn't see ya there.
+<b>Granny Smith</b>: Ya came blastin' in so fast, t'weren't possible to see nothin'!
+<b>Young Applejack</b>: Can you go out to the barn? I, uh, I think I might've left a blight sprayer in the orchard.
+<b>Granny Smith</b>: Are you outta yer apple-pickin' mind?! It's suppertime, girl!
+<b>Young Applejack</b>: I know, but, uh, if we forgot a 
+sprayer, I'd wanna get it before dark. You go start countin', a—and I'll
+ tell Big Mac we'll be right back, okay?
+[door slams]
+<b>Young Big McIntosh</b>: ...so from that moment on, I took to referrin' to myself as Big or Large or...
+<b>Filthy Rich</b>: Oh, Applejack! Your brother was just explainin' why he always wears his yoke.
+<b>Spoiled Milk</b>: Even though we asked him how your grandmare is doing!
+<b>Young Applejack</b>: Oh, well, you know how Big Mac can get 
+to... to talkin', especially when he's upset. And right now, he's just 
+as worried about Granny Smith as I am.
+<b>Filthy Rich</b>: Oh, dear. Is she doin' that bad?
+<b>Young Applejack</b>: Well, one thing's for sure, she... she shouldn't be seein' <i>any</i>pony right now. In fact, I'm gettin' more upset just thinkin' about it. Excuse me.
+[thud]
+<b>Granny Smith</b>: D'oh! What in the frilly fumidil has gotten into you?!
+<b>Young Applejack</b>: Sorry, Granny. I just decided if I helped you, it would go faster.
+<b>Granny Smith</b>: Well, you're too late. All the sprayers are here.
+<b>Young Applejack</b>: Oh, good. Uh, say, Granny, when did you first fight the apple blight again?
+<b>Granny Smith</b>: It was my second year here in Ponyville. Uh, they was before I had the rick on the one knee.
+<b>Young Big McIntosh</b>: ...and others say that's how the trees got to growin' so tall. But to me, it's just how I got my cutie mark!
+<b>Spoiled Milk</b>: But we asked when we could come back to see Granny.
+<b>Young Applejack</b>: Uh, Big Mac didn't wanna be rude, but you just can't see Granny right now, because she's... got apple blight!
+<b>Filthy Rich</b>: [gasps] I thought only <i>trees</i> got the blight!
+<b>Young Applejack</b>: Yeah, that's usually the case. [beat] 
+The doctors think it's from workin' in the orchards for so many years. 
+[beat] Y'see, we had to take Granny to Ponyville General. We just got 
+back right before you showed up.
+<b>Filthy Rich</b>: Oh, my. That is terrible!
+<b>Spoiled Milk</b>: Ew! It's not contagious, is it?
+<b>Young Applejack</b>: Um, I'm sure you'll be fine, but you should leave... [coughs] ...just in case.
+<b>Filthy Rich</b>: You're right. We're gonna have to hurry if we wanna get there before visitin' hours are over.
+<b>Young Applejack</b>: That's right. Wait. Get where?
+<b>Filthy Rich</b>: Why, the hospital, of course. I'm sure we'll see you there.
+<b>Young Big McIntosh</b>: Tellin' Filthy Rich that Granny's in the hospital just made everythin' a hundred times worse! What are we supposed to do <i>now</i>?
+<b>Young Applejack</b>: I got it!
+<b>Granny Smith</b>: Dropped my second best teeth right in the pigpen, and that was the worst case of apple blight I have ever seen!
+<b>Young Applejack</b>: I'd love to hear more, Granny, but we gotta get to the hospital right away!
+<b>Granny Smith</b>: The hospital? Why? Who's sick?
+<b>Young Big McIntosh</b>: You are, apparently.
+<b>Young Applejack</b>: What he <i>means</i> is you're <i>needed</i> at the hospital.
+<b>Granny Smith</b>: Heh. Whatever for?
+<b>Young Applejack</b>: It's the apple blight! It's startin' to
+ infect ponies now! The doctors need an expert opinion, and nopony knows
+ more about fightin' blight than Granny Smith!
+<b>Granny Smith</b>: Well, what in tarnation are we waitin' for? Let's go!
+<b>Young Big McIntosh</b>: [inhales] [chokes]
+<b>Young Applejack</b>: [gasps] You know, we're supposed to go in, uh, in the back! Uh, to avoid anypony in the waitin' room with the blight.
+[indistinct conversations]
+<b>Young Applejack</b>: Oops! I almost forgot!
+[hooves squeaking on tiles]
+<b>Young Big McIntosh</b>: Hrk!
+<b>Young Applejack</b>: This is perfect! Now you don't have to worry about catchin' the blight.
+<b>Granny Smith</b>: [slightly muffled] If you say so, dearie.
+<b>Young Applejack</b>: Now you wait right here while I, uh... check on your presentation!
+<b>Granny Smith</b>: What in the rotten rhubarb is goin' on here?
+<b>Young Applejack</b>: [nervous laugh] Fancy meetin' you two here!
+<b>Spoiled Milk</b>: Well, we told you we were coming.
+<b>Filthy Rich</b>: Well, I'm glad we found you, because I 
+can't seem to find Granny's room or any nurses who've even heard about a
+ pony with apple blight.
+<b>Young Applejack</b>: Granny's room. Sure! Just go down here,
+ take a left, then a right, go down some stairs, up a bunch more stairs,
+ uh, through the cafeteria, left three more times, and then you're 
+there! Easy as Granny's apple pie! [nervous laugh]
+<b>Filthy Rich</b>: Uh, aren't you comin' with us?
+<b>Young Applejack</b>: Uh, I'll catch up! I gotta find Big Mac!
+<b>Young Applejack</b>: Okay, Granny, just wait here one second and we can go.
+<b>Granny Smith</b>: Where are you two going?
+<b>Young Applejack</b>: Big Mac can't come! He, uh, might be contagious!
+<b>Young Big McIntosh</b> and <b>Granny Smith</b>: Contagious?!
+<b>Young Applejack</b>: All right, climb up here and I'll cover
+ you up. Then I'll bring Rich in, tell him you're Granny, but you're not
+ allowed to take the sheets off. You moan a few times, he leaves, and 
+this whole thing is over.
+<b>Young Big McIntosh</b>: This is spinnin' <i>way</i> out of control, Applejack! Now I know you thought sellin' cider in Filthy's store was a good idea, but it ain't worth <i>lyin'</i>
+ to him about Granny bein' sick and needin' to go to the hospital, or 
+fibbin' to Granny about them wantin' her come here to talk about the 
+blight, or—
+<b>Young Applejack</b>: <i>Big McIntosh, please just listen to me for once!</i>
+ This ain't about my ideas. If Rich finds out about all the lies, he'll 
+cut off ties with us and the farm'll go under! Now do you want that to 
+happen, or do you wanna help?
+<b>Young Big McIntosh</b>: Why can't you be Granny? You're her size, and this is all your fault in the first place.
+<b>Young Applejack</b>: I would, but if I let you do the talkin', you'd just ramble on and on until we all got caught!
+<b>Young Big McIntosh</b>: [groans]
+<b>Young Applejack</b>: Just lay down, keep still, and promise me you won't say anythin' for once in your life!
+<b>Young Big McIntosh</b>: [unconvinced] Eeeeyup.
+<b>Young Applejack</b>: Granny! [squeaks] [hushed] Granny!
+<b>Granny Smith</b>: It's about time! What is goin' on around here?!
+<b>Young Applejack</b>: Uh, Granny, they need you to wait here! I'll come get ya!
+[door opens]
+<b>Granny Smith</b>: [yelps]
+[door closes]
+<b>Filthy Rich</b>: [panting] There you are! We've been going in circles looking for Granny's room!
+<b>Young Applejack</b>: Well, you're in luck, 'cause it's-it's right over here, and this time I'll make sure you don't get lost.
+[gurney squeaking]
+<b>Young Applejack</b>: What in the dadgum—?!
+<b>Spoiled Milk</b>: What <i>now</i>?
+<b>Young Applejack</b>: He– I mean, <i>she</i> was right here! Oh, no. We gotta go!
+[gurney squeaking]
+<b>Spoiled Milk</b>: I-Is that Granny Smith?
+<b>Filthy Rich</b>: Where are they takin' her?
+[door opens]
+[gurney squeaking]
+<b>Young Applejack</b>: You two, don't lose that gurney! [hushed] Granny, what are you doin'? You were supposed to stay there!
+<b>Granny Smith</b>: It was a supply closet!
+<b>Young Applejack</b>: Oh. Uh... Well, okay, come with me, but be quiet! You know, save your voice for the big presentation!
+[door opens]
+<b>Young Applejack</b>: [gasps]
+<b>"Hippocratic Oath"</b>: I-I-I'm sorry, but you can't get any closer without a gown and mask.
+<b>Young Applejack</b>: But-but-but-but that's my brother on there!
+<b>"Hippocratic Oath"</b>: Don't worry. This is our best doctor. She'll have your brother back on his hooves in no time.
+<b>Young Applejack</b>: [groans]
+<b>Granny Smith</b>: Now apple blight is a serious disease!
+<b>"Doctor Spring Bud"</b>: [splutters] Did she say... apple blight?
+<b>"Open Heart"</b>: I think she said "gasket mites".
+<b>Granny Smith</b>: And once your trunk turns red like this, the only thing to do is prune the branches.
+<b>Filthy Rich</b>: [gasps] Oh, no! Granny!
+<b>"Open Heart"</b>: Did you say..."prune them branches"?
+<b>Granny Smith</b>: Well, sure! What else you gonna do once the blight gets this bad?
+[cloth moving]
+[scare chord]
+[doctors, nurses, and audience gasping]
+<b>Young Applejack</b>: <i>Everypony, just stop!</i> This is all a big misunderstandin'! [pants] Actually... it's a big <i>lie</i>.
+[cloth moving]
+[doctors, nurses, and audience gasping]
+<b>Granny Smith</b>: Big Mac?!
+<b>Filthy Rich</b>: [gasps] Granny Smith?! What is goin' on here, Applejack?!
+<b>Granny Smith</b>: That is a darn good question.
+<b>Young Applejack</b>: [sighs] I'm not sure if I was worried 
+that nopony was listenin' to my ideas or just nervous that I wouldn't be
+ the one to end up runnin' the farm, but... I promised somethin' to 
+Filthy Rich that I couldn't deliver, and I was too embarrassed to admit 
+it.
+<b>Filthy Rich</b>: So Granny was never sick?
+<b>Granny Smith</b>: And there ain't no apple blighted ponies?
+<b>Young Big McIntosh</b>: Nnnope.
+<b>Young Applejack</b>: Those were all lies. A-And I thought if you found out, you'd stop doin' business with the farm. So I just kept tellin' more.
+"<b>Hippocratic Oath</b>": So she's not a doctor?
+<b>Young Applejack</b>: Please don't make Granny and the farm suffer for what I did! This whole thing is <i>my</i> fault.
+<b>Young Big McIntosh</b>: That's... not entirely true. Maybe if <i>I</i> paid more attention to what <i>you</i>
+ had to say instead of talkin' all the time, none o' this would've 
+happened in the first place. I just need to... talk less and listen 
+more. Especially to you.
+<b>Young Applejack</b>: [sighs] Thanks, big brother. And whether it's me runnin' Sweet Apple Acres or you, I know it'll be in good hooves.
+<b>Granny Smith</b>: Well, that's nice, but I don't know what 
+in blazes you two are talkin' about! I ain't goin' anywhere anytime 
+soon! [blows raspberry] Runnin' the farm. Not after this display! Not 
+likely! [to Filthy Rich] And don't <i>you</i> go gettin' any ideas about cuttin' ties with Sweet Apple Acres, or I'm goin' right to your grandpappy. Get me?
+<b>Filthy Rich</b>: [stutters] Um, yes, ma'am.
+<b>Granny Smith</b>: Now, who here still wants to hear about the apple blight? Now, when I was a filly...
+<b>Apple Bloom</b>: I can't believe you told all those lies!
+<b>Applejack</b>: It's not a story I'm proud of, but it taught me a lifelong lesson about bein' honest. I hope <i>you</i> learned somethin', too.
+<b>Apple Bloom</b>: I sure did. I learned that nopony starts out perfect and sometimes you gotta make a few mistakes to figure out who you are.
+<b>Big McIntosh</b>: Eeyup.
+<b>Apple Bloom</b>: But I think the most important thing I learned is who <i>really</i> runs Sweet Apple Acres.
+<b>Applejack</b>, <b>Apple Bloom</b>, and <b>Big McIntosh</b>: Granny!
+<b>Granny Smith</b>: You're darn tootin'! Now everypony quit your lollygaggery and get back to work! Right after we have a glass of cider.
+<b>Apple family</b>: [laughing]
+[credits]
