@@ -1,15 +1,13 @@
 package indexer;
 
-import retrieval.Models;
-
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
 
 public class Index {
-    private static String docs_file_path = Models.documents_path;
-    private static String output_dir = "indicies/doc-index.tsv";
+    private static String docs_file_path = "documents/";
+    public static String output_dir = "indicies/doc-index.tsv";
 
     private static void document_level() {
         // Map of Filename -> string of tokens

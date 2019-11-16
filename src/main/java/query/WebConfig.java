@@ -13,8 +13,8 @@ public class WebConfig extends WebMvcConfigurerAdapter {
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
         registry.addResourceHandler(
                 "/img/**",
-                 "/css/**",
-                 "/js/**")
+                "/css/**",
+                "/js/**")
                 .addResourceLocations(
                         "classpath:/img/",
                         "classpath:/css/",

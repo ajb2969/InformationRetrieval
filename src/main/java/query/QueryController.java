@@ -45,12 +45,10 @@ public class QueryController {
 
 
     @PostMapping("/query")
-    public String querySubmit(@ModelAttribute("query") Querycontainer query,
-                              BindingResult bindingResult, Model model) {
+    public String querySubmit(@ModelAttribute("query") Querycontainer query) {
         if (query != null) {
             Models m = query.getSelectedModel().toLowerCase().equals("tfidf") ? new TfIdf() : new BM25();
             ArrayList<String> documents = m.retrieve(query.getContent());
-            System.out.println("The query was " + query.getContent());
         } else {
             return "index";
         }
