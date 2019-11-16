@@ -1,0 +1,463 @@
+<b>Applejack</b>: Ha! Found 'em! 
+<b>Granny Smith</b>: Aaa-choooo! 
+<b>Applejack</b>: Heh. Gesundhoof. 
+<b>Granny Smith</b>: Why, thank you, Applejack. I still can't believe it's been almost one hundred moons since our last family reunion. Aw, I remember it like it was yesterday. 
+<b>Applejack</b>: Well, you have been talkin' about it pretty much every day since then. 
+<b>Granny Smith</b>: Apple Bloom! How them RSVPs comin' along? Who's showin' their muzzle at the reunion? 
+<b>Apple Bloom</b>: Everypony! 
+<b>Granny Smith</b>: 
+ <i>Everypony?</i> [aside, to Applejack] Feathers on a goat. [to Apple Bloom] Are you sure? 
+<b>Apple Bloom</b>: Well, I got RSVPs from Apples from Yonder Hill, Hollow Shades, Galloping Gorge, Foal Mountain, Apples from Fillydelphia, Tall Tale Town, and all the Apples from Appleloosa! 
+<b>Granny Smith</b>: Guh? 
+<b>Apple Bloom</b>: Oh! And how could I forget? Manehattan! Babs is comin'! I get to see my favorite cousin! 
+<b>Granny Smith</b>: I think we're gonna need a bigger cider trough. 
+<b>Granny Smith</b>: Whooeee! Looks like the family's grown tenfold since the last reunion! I'm gonna be busier than a worm in a rotten tomater tryin' to get everything ready! 
+<b>Applejack</b>: I could always help out. 
+<b>Apple Bloom</b>: Me, too! 
+<b>Big McIntosh</b>: Eeyup. 
+<b>Granny Smith</b>: Oh, I sure would appreciate that. Granny's a little rustier in the giddy-up since the last time the Apples all got together. 
+<b>Applejack</b>: You may be a tad old, Granny, but you're as feisty and full of spark as ever– 
+<b>Granny Smith</b>: 
+ <i>Who you callin' old?!</i> 
+<b>Applejack</b>: Uh... I just meant... Why don't you let me take over puttin' the reunion together this time 'round? Then all you need to worry about is enjoyin' yourself. 
+<b>Granny Smith</b>: Hmmm. Alright, young'un, you got yourself a deal. You are in charge. 
+<b>Applejack</b>: I won't let you down, Granny. You just tell me what the reunion needs, and I'll take care of the rest. 
+<b>Granny Smith</b>: I'll do better than 
+ <i>tell</i> you what the reunion'll need. I'll 
+ <i>show</i> ya! 
+<b>Granny Smith</b>: We've been hostin' these things at Sweet Apple Acres every hundred moons since we first planted roots here in Ponyville. 
+<b>Apple Bloom</b>: Hey, who's that? 
+<b>Granny Smith</b>: That'd be your Great-Great-Auntie Applesauce when she was just about your age. Now, she used to go by another name, but everypony started calling her Applesauce after half her teeth fell out when she was makin' apple jam. Yeah. Never did find them teeth in all those jars. 
+<b>Apple Bloom</b>: Hey! That's you, Granny! 
+<b>Granny Smith</b>: Sure is. Apple family's been workin' on that same old quilt since our first reunion. 
+<b>Young Granny Smith</b>: I can do it! Ngh! Oh, fingle-fangle! 
+[ponies laughing] 
+<b>Apple Bloom</b>: [giggling] 
+<b>Granny Smith</b>: Well, nopony told me you actually had to knot the end of the thread! 
+<b>Apple Bloom</b>: [giggling] 
+<b>Applejack</b>: Okay, so I'll need to get new quiltin' materials, fabric, needles, thread... You've really been workin' on the same quilt since the first reunion? 
+<b>Granny Smith</b>: Surely have. I don't think we're ever gonna finish that doggone thing! 
+<b>Apple Bloom</b>: Hey, what's goin' on here? 
+<b>Granny Smith</b>: Well, you know us Apples enjoy a good fritter... 
+[splat] 
+<b>Half Baked Apple</b>: [licking lips] [munches]&nbsp;Ooo, hot hot hot! 
+[firetruck's bell ringing] 
+[apple cider splashes] 
+[plate clinking] 
+<b>Apple Split</b>: Hey, where did all them apple fritters go? 
+<b>Baby Applejack</b>: [munches] 
+<b>Apple Split</b>: And... 
+<b>Baby Applejack</b>: [baby noises] 
+<b>Apple Split</b>: Who are you, little one? 
+<b>Baby Applejack</b>: I'm Applejack! More apple fwitter? 
+<b>Granny Smith</b>: That's how we figured out your sister had the appetite of a full-grown stallion. 
+<b>Applejack</b>: Better get twice as much honey and flour, then... fifty more buckets of apples... more oil... wood for the fire... 
+<b>Granny Smith</b>: Now, stick an apple in my mouth and roast my rump! This one sure brings back memories. Y'know how Babs is your favorite cousin? Well, Apple Rose is mine. The two of us entered the seven-legged race every reunion! 
+<b>Young Apple Rose</b>: We're gonna win this one, cousin! 
+<b>Young Granny Smith</b>: You bet your hot-diggety-derriere we are! C'mon, cousin, speed'er on up! 
+<b>Young Apple Rose</b>: [yelps] [laughs] 
+<b>Young Apple Rose</b> and 
+ <b>Young Granny Smith</b>: [laughing] 
+<b>Granny Smith</b>: Never won a single one of them races. 
+<b>Applejack</b>: Races. We'll need cloth ties, finish line... Not much to a seven-legged race. Hmm... 
+<b>Granny Smith</b>: And, of course, we can't forget to take the big family photo! We always snapped a photo in front of the barn at the end of every reunion, let's us see how our family's grown! 
+<b>Applejack</b>: Photo in front of the barn. Got it. 
+<b>Apple Bloom</b>: You sure have some great memories of these reunions, don'tcha? 
+<b>Granny Smith</b>: Indeedy, and I'm lookin' forward to makin' more at this one. Oh, I'm sure everypony is, and I do mean everypony! We got the whole family together this time 'round! Who knows if they'll all be able to make the next one? 
+<b>Applejack</b>: That's true! Busy as everypony's lives are gettin' these days, chances are pretty slim we'll be this lucky next time 'round. Don't worry, Granny, I'm gonna make sure this is the most memorable reunion we've ever had! I'd better get started... I've got some plannin' to do! 
+<b>Granny Smith</b>: Oh, hootenanny! Would you look what your second cousin is wearin' on her head? 
+<b>Apple Bloom</b> and 
+ <b>Granny Smith</b>: [giggling] 
+[clock pendulum ticking] 
+<b>Apple Bloom</b>: [groans] 
+<b>Applejack</b>: Apple Bloom! What are you doin' up? 
+<b>Apple Bloom</b>: I was gonna ask you the same thing. 
+<b>Applejack</b>: I can't sleep. My gears are turnin' in my head about this reunion! 
+<b>Apple Bloom</b>: [yawning] Yeah... I can't wait to see my cousin Babs. We're gonna do so many fun things together... 
+<b>Applejack</b>: Fun? That's just the beginnin' of it! Granny Smith handed me the reins of this reunion, and I'm gonna make the most of it. Apple Bloom, I've got so many things planned you won't even have a minute's rest! 
+<b>Apple Bloom</b>: [snoring] 
+<b>Applejack</b>: Trust me, little sis. This reunion I'm puttin' together is gonna be worth the wait. 
+<b>Apple Bloom</b>: [snoring] 
+[rooster crows] 
+<b>Apple Bloom</b>: [snoring] Whoa! 
+<b>Applejack</b>: Rise and shine! We don't have much time! 
+[thump] 
+[dragging sounds] 
+[bucking trees, apples falling] 
+[bees buzzing] 
+<b>Pinkie Pie</b>: [belches] Don't forget the glitter! 
+<b>Applejack</b>: [coughs] 
+[rain falling] 
+[lightning cracking] 
+<b>Rainbow Dash</b>: [whistling] 
+<b>Spike</b>: [clicking noises] [breathes fire] 
+<b>Applejack</b>: H-ah. Think that'll do it! 
+<b>Granny Smith</b>: And just in time, too. 
+[rumbling] 
+<b>Applejack</b>: They're here! 
+[ponies shouting] 
+<b>Granny Smith</b>: Apple Rose! Ohhh! Ooh, this is more excitin' than when it rained frogs! 
+[microphone feedback] 
+<b>Applejack</b>: [through megaphone] Howdy, y'all, and welcome to the Apple family reunion! 
+[ponies cheering] 
+<b>Applejack</b>: [through megaphone] My name's Applejack, and I just want to let y'all know that I got a real big day planned for ya! We're gonna start off with an obstacle course for the young'uns, and some fritter makin' and quiltin' for the not-so-young'uns. And there's lots more to come after that! Hope y'all enjoy it! 
+[ponies cheering] 
+<b>Apple Bloom</b>: Where is she? 
+<b>Babs Seed</b>: [blows] 
+<b>Apple Bloom</b>: Babs! 
+<b>Babs Seed</b>: Cuz! 
+<b>Apple Bloom</b>: I know it hasn't been that long since we've seen each other, but– 
+<b>Apple Bloom</b> and 
+ <b>Babs Seed</b>: –It felt like forever! 
+<b>Babs Seed</b>: I can't wait to tell you about my new school! 
+<b>Apple Bloom</b>: I can't wait to hear all about it! 
+<b>Babs Seed</b>: Jeepers, where do I start? Okay. So first day– 
+<b>Applejack</b>: Babs! Huh, so glad you could come! 
+<b>Babs Seed</b>: What am I, gonna miss out on spendin' time with my favorite cousin? Forget about it! [blows] 
+<b>Applejack</b>: Why don't you two head over to the obstacle course? 
+<b>Apple Bloom</b>: We kinda wanna catch up a little bit first... 
+<b>Applejack</b>: Don't you worry. There'll be plenty of time for family bondin' while you're racin' against your other cousins. 
+<b>Applejack</b>: Alrighty, ponies! Ready to have some fun? 
+<b>Babs Seed</b>: Whoa, is that the finish line? It's like a mile away or somethin'! 
+<b>Applejack</b>: Actually, that's just the marker where you go on to the next leg of the race. 
+<b>Apple Bloom</b>: There's more? 
+<b>Applejack</b>: Much more. Trust me, I have put together somethin' you are never gonna forget. After the seven-legged race, you're gonna wanna hurry up and head over here, where you'll be bobbin' for apples! 
+[splash] 
+<b>Applejack</b>: Then you'll run around these trees fifty times until you're real good and dizzy. Then you'll jump these big wooden hurdles. And then there's the final leg, where you'll balance plates on your head while sayin' "Pappy pony picked a pluck of prickly pluffnuggets" over and over and over again. Last pony standin' wins! 
+[pause] 
+<b>Apple Bloom</b>: Seriously? 
+<b>Applejack</b>: Seriously! C'mon, y'all! Let's start makin' some memories! On your mark... get set... go! 
+<b>Applejack</b>: Whooeee! Lookin' good, everypony! Ooh, better go check on the quilt. 
+<b>Granny Smith</b>: How long you had those new choppers, Auntie Applesauce? 
+<b>Auntie Applesauce</b>: A lady never reveals the age of her teeth. 
+<b>Apple Rose</b>: Ugh. 
+<b>Auntie Applesauce</b>: Don't you roll your eyes at me, Miss Apple Rose! I imagine you two think I have forgotten what you did to my parasol six reunions ago? 
+<b>Granny Smith</b>: [giggles] We were just usin' it to help break open that piñata! 
+<b>Apple Rose</b> and 
+ <b>Granny Smith</b>: [laughing] 
+<b>Auntie Applesauce</b>: Applejack, delightful to see you. Are you gonna join us in some quiltin'? 
+<b>Applejack</b>: Sorry, Auntie Applesauce, I am busy-busy-busy. Y'all should get started, though! 
+<b>Granny Smith</b>: We couldn't find our rocking chairs. 
+<b>Applejack</b>: I got rid of 'em to make room for these. This is the year y'all are finally gonna finish that quilt! 
+<b>Apple Rose</b>: Finish it? 
+[engine starting] 
+[very loud sewing machine rattling] 
+[Auntie Applesauce's teeth chattering] 
+<b>Applejack</b>: [over noise] 
+ <i>Won't that be excitin'?</i> 
+<b>Apple Rose</b>: [over noise] 
+ <i>What's that</i>? 
+<b>Applejack</b>: [over noise] 
+ <i>I said, won't that be</i>– 
+[rattling stops] 
+<b>Applejack</b>: 
+ <b>–</b>excitin'? 
+<b>Auntie Applesauce</b>: I suppose, although I have been told that too much excitement can wreak havoc on this youthful complexion of mine. 
+<b>Apple Rose</b>: Oh. 
+<b>Granny Smith</b>: [giggling] 
+[rattling restarts] 
+<b>Applejack</b>: [over noise] That's the spirit! 
+<b>Granny Smith</b>: [over noise] What did she say? 
+<b>Apple Rose</b>: [over noise] What? 
+<b>Granny Smith</b>: [over noise] Good gracious! 
+<b>Apple Rose</b>: [over noise] Golden Delicious? I think he's racing with his cousin! 
+[dizzy music] 
+<b>Babs Seed</b>: [dizzy] How are Scootaloo and Sweetie Belle? 
+<b>Apple Bloom</b>: [dizzy] Great! Ugh... 
+<b>Babs Seed</b>: [dizzy] You alright? 
+<b>Apple Bloom</b>: [dizzy] So... dizzy... [Wilhelm scream] 
+[crash] 
+<b>Apple Bloom</b>: Ugh... 
+<b>Babs Seed</b>: [sigh] 
+[splat] 
+<b>Big McIntosh</b>: [sniffs] [licks lips] [gulps] [whistles innocently] 
+<b>Apple Dumpling</b>: You've got eight now, dont'cha? 
+<b>Apple Leaves</b>: Oh, sure do. Tell you what, my Apple Tart may just be a baby, but he is a hoot! 
+<b>Applejack</b>: Havin' fun? 
+<b>Apple Leaves</b>: Sure are! 
+<b>Applejack</b>: Better pick up the pace on those fritters though, huh? Roll, fold, crimp, slide to the left. Roll, fold, crimp, slide to the left. Roll, fold, crimp, slide to the left. Now you try! That's it! Gotta keep this assembly line movin', gals! We want every Apple here to get a chance to taste the best darn fritters in Equestria! 
+<b>Apple Bloom</b> and 
+ <b>Babs Seed</b>: Pappy pony picked a pluck of prickly pluffnuggets. 
+<b>Apple Bloom</b>: Any other blank flanks at your new school? 
+<b>Babs Seed</b>: Yeah. Two. 
+<b>Apple Bloom</b> and 
+ <b>Babs Seed</b>: Pappy pony picked a pluck of prickly pluffnuggets. 
+<b>Apple Bloom</b>: Do they wanna be Crusaders? 
+<b>Babs Seed</b>: Totally! 
+<b>Apple Bloom</b>: Great! 
+<b>Apple Bloom</b> and 
+ <b>Babs Seed</b>: Pappy pony picked a pluck of prickly pluffnuggets. Pappy pony picked a pluck of prickly pluffnuggets. Pappy pony picked a pluck of prickly pluffnuggets. 
+<b>Babs Seed</b>: Ah can' thfeel my tongue. 
+<b>Apple Bloom</b>: Neh nehber. 
+<b>Applejack</b>: [through megaphone] Alright, Apples, break! 
+[sewing machine rattling stops] 
+<b>Apple Bloom</b>: [sighs] Finally... 
+<b>Applejack</b>: Ooh, can't forget to capture all these memories for Granny's album! Huh. Nothin' all that memorable there. Or there. Or there. C'mon, Applejack, think. You gotta kick this thing up a notch! Hm... 
+<b>Apple Bloom</b>: I get that my big sis wants this to be like a super-awesome reunion, but that was ridiculous! 
+<b>Babs Seed</b>: I thought we'd never get a minute to just hang out! 
+<b>Applejack</b>: And your minute's up! Your fellow Apples are waitin' for you to join them. 
+<b>Apple Bloom</b>: Applejack, I haven't had any time with Babs! We were so busy with that obstacle course, we didn't even get to talk! 
+<b>Applejack</b>: There'll be plenty of time to bond with Babs when we do the hayride. 
+<b>Babs Seed</b>: Hayride? 
+<b>Applejack</b>: Alright, everypony! Step right up, take a seat, and leave the drivin' to these stallions! Now, I know y'all've been workin' real hard makin' some awesome memories. And in all of our past reunions, we always had a nice and relaxin' hayride around the farm. Which is why I decided to change things up a bit, and try somethin' just a wee bit more excitin'. So let's get this show on the road! Giddy-up! 
+<b>Stallions</b>: [whinnying] 
+<b>Ponies</b>: Whoa! 
+[crunch] 
+[Auntie Applesauce's teeth chattering] 
+[chomp] 
+<b>Auntie Applesauce</b>: [teethless] I just had those professionally polished. 
+<b>Granny Smith</b>: Where in the world does that girl have us headed? The west orchard? 
+<b>Big McIntosh</b>: Eeyup. 
+<b>Granny Smith</b>: What?! I was jokin'! Why, we haven't tended those fields since all the trees went and got filled up with... [gulps] 
+[thunk] 
+[fruit bats squeaking] 
+[ponies oohing and ahhing] 
+<b>Babs Seed</b>: Wowza! Never seen real fruit bats before! 
+[ding] 
+[fruit bat licking lips] 
+[aeroplane engine noises] 
+<b>Applejack</b>: Uh-oh. 
+<b>Auntie Applesauce</b>: [yelps] 
+[ponies yelping] 
+<b>Apple Bloom</b>: 
+ <i>Everypony! Jump out!!</i> 
+[crash] 
+[dust settling] 
+<b>Applejack</b>: [crying] Ruined. Everythin' is ruined. 
+[crunch] 
+<b>Applejack</b>: Oh, Granny. I'm so, so sorry. 
+<b>Granny Smith</b>: Oh, it's alright, child. 
+<b>Applejack</b>: But it's not alright. Just look at this! The barn and all my plans for the perfect family reunion are completely destroyed! 
+<b>Apple Bloom</b>: Maybe that's a good thing. 
+<b>Applejack</b>: How can that possibly be a good thing? 
+<b>Granny Smith</b>: Applejack, you had us so caught up in all the doin', we haven't had a second to enjoy the company of the folks we've been doin' it with! 
+<b>Applejack</b>: Really? 
+[ponies agreeing] 
+<b>Applejack</b>: [sighs] Oh, Granny Smith, here you let me be in charge of creatin' great memories, and the only thing anypony's gonna remember about this reunion... is that it was the worst one we ever had. 
+<b>Granny Smith</b>: Oh, hey now... everypony's still here, ain't they? Still plenty of time to make good memories! You've just got to give everypony a chance to actually make 'em. 
+<b>Applejack</b>: The family photo! Guess we can't take it in front of the barn this year... unless... Everypony! I have one more activity! 
+<b>Granny Smith</b>: Applejack... 
+<b>Applejack</b>: Trust me, Granny Smith. This'll be one we'll remember for all the 
+ <i>right</i> reasons. 
+<b>[Applejack]</b> 
+ <dl>
+  <dd>
+   Yee-hoo! 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   Raise this barn, raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+  <dd>
+   Together, we can raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   Up, up, up, go the beams 
+  </dd>
+  <dd>
+   Hammer those joints, work in teams 
+  </dd>
+  <dd>
+   Turn 'em round quick by the right elbow 
+  </dd>
+  <dd>
+   Grab a new partner, here we go 
+  </dd>
+ </dl> 
+<b>Apple family</b>: Yeah! 
+<b>Applejack</b>: Come on, Apple family! Let's get to it! Wee-hoo! 
+<b>[Applejack]</b> 
+ <dl>
+  <dd>
+   Raise this barn, raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+  <dd>
+   Together, we can raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   Finish the frame, recycling wood 
+  </dd>
+  <dd>
+   Workin' hard, you're doin' good 
+  </dd>
+  <dd>
+   Turn 'em round quick by the right elbow 
+  </dd>
+  <dd>
+   Grab a new partner, here we go 
+  </dd>
+ </dl> 
+<b>Apple family</b>: Yeah! 
+<b>Applejack</b>: Whoo-whee! 
+<b>[Applejack]</b> 
+ <dl>
+  <dd>
+   Raise this barn, oh, raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+  <dd>
+   Together, we can raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   Slats of wood come off the ground 
+  </dd>
+  <dd>
+   Hold 'em up and nail 'em down 
+  </dd>
+  <dd>
+   Turn 'em round quick by the left elbow 
+  </dd>
+  <dd>
+   Grab a new partner, here we go 
+  </dd>
+ </dl> 
+<b>Apple family</b>: Yeah! 
+<b>Applejack</b>: Come on, Apples! Get 'er done! 
+<b>[Apple Bloom]</b> 
+ <dl>
+  <dd>
+   Look at us, we're family 
+  </dd>
+ </dl> 
+<b>[Applejack]</b> 
+ <dl>
+  <dd>
+   Workin' together thankfully 
+  </dd>
+ </dl> 
+<b>[Apple Bloom]</b> 
+ <dl>
+  <dd>
+   We Apples, we are proud to say 
+  </dd>
+ </dl> 
+<b>[Applejack and Apple Bloom]</b> 
+ <dl>
+  <dd>
+   Stick together the pony way 
+  </dd>
+ </dl> 
+<b>[Applejack]</b> 
+ <dl>
+  <dd>
+   Bow to your partner, circle right 
+  </dd>
+  <dd>
+   Get down if you're scared of heights 
+  </dd>
+  <dd>
+   Forward back and twirl around 
+  </dd>
+  <dd>
+   That barn's gonna be the best in town 
+  </dd>
+ </dl> 
+<b>Apple family</b>: Yeah! 
+<b>Applejack</b>: Yee-haw! Attagirl! 
+<b>Apple Bloom</b>: Alright, let's get to it! 
+<b>[Apple family]</b> 
+ <dl>
+  <dd>
+   Raise this barn, raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+  <dd>
+   Together, we can raise this barn 
+  </dd>
+  <dd>
+   One, two, three, four 
+  </dd>
+ </dl> 
+<b>[Applejack]</b> 
+ <dl>
+  <dd>
+   Take your brushes, young and old 
+  </dd>
+  <dd>
+   Together, paint it, bright and bold 
+  </dd>
+  <dd>
+   Turn 'em round quick by the left elbow 
+  </dd>
+  <dd>
+   Grab a new partner, here we go 
+  </dd>
+ </dl> 
+<b>[Apple family]</b> 
+ <dl>
+  <dd>
+   We raised this barn, we raised this barn 
+  </dd>
+  <dd>
+   Yes, we did 
+  </dd>
+  <dd>
+   Together we sure raised this barn 
+  </dd>
+  <dd>
+   Yes, we did 
+  </dd>
+ </dl> 
+<dl>
+  <dd>
+   Being together counts the most 
+  </dd>
+  <dd>
+   We all came here from coast to coast 
+  </dd>
+  <dd>
+   All we need to strive to be 
+  </dd>
+  <dd>
+   Is part of the Apple family 
+  </dd>
+ </dl> 
+<b>Apple Bloom</b>: Yeah! 
+<b>Granny Smith</b>: Oh! 
+<b>Apple Rose</b>, 
+ <b>Auntie Applesauce</b> and 
+ <b>Granny Smith</b>: [laughing] 
+<b>Apple Bloom</b>: I can't wait for the next reunion! 
+<b>Babs Seed</b>: Me neither! 
+<b>Apple Bloom</b>: I mean, obviously we have to get together before then! 
+<b>Babs Seed</b>: [chuckles] Obviously. 
+<b>Granny Smith</b>: Oh, you did it, Applejack! You put on a reunion that everypony will remember! 
+<b>Applejack</b>: Just had a couple minor hiccups along the way. 
+<b>Granny Smith</b>: Yeah, just a couple. 
+<b>Granny Smith</b>: Ohohoh, that's a good one. 
+<b>Apple Bloom</b> and 
+ <b>Granny Smith</b>: [laughing] 
+<b>Apple Bloom</b>: Oh! 
+<b>Applejack</b>: 
+ <i>Dear Princess Celestia,</i> 
+<i>Today I learned a great lesson about family, which, if you think about it, is really the first group of friends you ever make. Turns out that when you're with folks you care about, you don't have to do much to make that time memorable. Even the simplest of activities can take on a whole lotta meanin'! And you'll find that you'll remember the "who" long after you've forgotten the "what".</i> 
+<i>Your humble subject,</i> 
+<i>Applejack</i> 
+[music] 
+[credits] 
