@@ -53,7 +53,11 @@ out/
 .idea/*.xml
 .idea
 target/
+<<<<<<< HEAD
+data/
 =======
+=======
+>>>>>>> 54fded49b052b8b4e8c8e7864f125a7805744e85
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
@@ -95,3 +99,8 @@ fabric.properties
 .idea/**/markdown-navigator/
 
 # End of https://www.gitignore.io/api/intellij
+<<<<<<< HEAD
+.idea/
+.DS_Store
+=======
+>>>>>>> 54fded49b052b8b4e8c8e7864f125a7805744e85
