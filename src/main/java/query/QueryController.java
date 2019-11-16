@@ -25,7 +25,8 @@ public class QueryController {
     public String querySubmit(@ModelAttribute("query") Querycontainer query,
                               BindingResult bindingResult, Model model) {
         if (query != null) {
-            // TODO add drop down to switch between different retrieval algorithms based upon classes implementing Models
+            // TODO add drop down to switch between different retrieval
+            //  algorithms based upon classes implementing Models
             Models m = new TfIdf();
             ArrayList<Integer> documents = m.retrieve(query.getContent());
             System.out.println("The query was " + query.getContent());
