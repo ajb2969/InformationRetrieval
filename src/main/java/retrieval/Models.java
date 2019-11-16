@@ -5,7 +5,6 @@ import indexer.Index;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 
 abstract public class Models {
     private static final String indicies_path = Index.output_dir;
@@ -38,12 +37,13 @@ abstract public class Models {
         String line;
 
         while((line = br.readLine()) != null) {
-            String [] parsed_line = line.split("\t");
+            String[] parsed_line = line.split("\t");
             String term = parsed_line[0];
             int quantity = Integer.parseInt(parsed_line[1]);
-            ArrayList<String> documents = new ArrayList<>();
+            ArrayList<FileOccurrence> documents = new ArrayList<>();
             for(int i = 2; i < parsed_line.length; i++) {
-                documents.add(parsed_line[i]);
+                String[] fileAndOccurrence = parsed_line[i].split(":");
+                documents.add(new FileOccurrence(fileAndOccurrence[0], Integer.valueOf(fileAndOccurrence[1])));
             }
             terms.put(term, new Entry(quantity, documents));
         }
@@ -53,11 +53,11 @@ abstract public class Models {
 
     class Entry {
         private int size;
-        private ArrayList<String> documents;
+        private ArrayList<FileOccurrence> fileOccurrences;
 
-        Entry(int size, ArrayList<String> documents) {
+        Entry(int size, ArrayList<FileOccurrence> fileOccurrences) {
             this.size = size;
-            this.documents = documents;
+            this.fileOccurrences = fileOccurrences;
         }
 
 
@@ -69,12 +69,12 @@ abstract public class Models {
             this.size = size;
         }
 
-        public ArrayList<String> getDocuments() {
-            return documents;
+        public ArrayList<FileOccurrence> getFileOccurrences() {
+            return fileOccurrences;
         }
 
-        public void setDocuments(ArrayList<String> documents) {
-            this.documents = documents;
+        public void setFileOccurrences(ArrayList<FileOccurrence> fileOccurrences) {
+            this.fileOccurrences = fileOccurrences;
         }
     }
 }
