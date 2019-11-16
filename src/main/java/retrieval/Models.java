@@ -5,6 +5,7 @@ import indexer.Index;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.List;
 
 abstract public class Models {
     private static final String indicies_path = Index.output_dir;
@@ -23,6 +24,10 @@ abstract public class Models {
     }
 
     public abstract ArrayList<String> retrieve(String query);
+
+    public String[] extractTerms(String query) {
+        return query.split("\\s+");
+    }
 
     public HashMap<String, Entry> parse_doc_indicies() throws IOException {
         //TODO update for parsing document-level TSV, will need to be
