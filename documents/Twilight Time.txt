@@ -25,40 +25,26 @@
 [poof] 
 <b>Twilight Sparkle</b>: [coughing] 
 <b>Seedling</b>: [coughing] 
-<b>Scootaloo</b> and 
- <b>Sweetie Belle</b>: [giggling] 
-<b>Apple Bloom</b>: Layin' it on a little thick there, aren't we, pal? 
-[ball bouncing] 
+<b>Scootaloo</b> and  <b>Sweetie Belle</b>: [giggling] 
+<b>Apple Bloom</b>: Layin' it on a little thick there, aren't we, pal? [ball bouncing] 
 <b>Diamond Tiara</b>: Yoo-hoo! Gather 'round! It's time! 
 <b>Foals</b>: [various intrigued noises] 
 <b>Diamond Tiara</b>: As you all know, I had promised to put on an amazing, first-time-ever acrobatic display for you all today! 
 <b>Foals</b>: [cheering] 
-<b>Diamond Tiara</b>: I know, it's so exciting. But I'm 
- <i>tired</i>. 
+<b>Diamond Tiara</b>: I know, it's so exciting. But I'm  <i>tired</i>. 
 <b>Foals</b>: Awww... 
 <b>Diamond Tiara</b>: But I did not wish to disappoint you all, so I brought my butler Randolph to do them for me. 
 <b>Foals</b>: [cheering] 
 <b>Silver Spoon</b>: That was amazing, Diamond Tiara. 
 <b>Diamond Tiara</b>: I know. I don't know how I do it. 
 <b>Apple Bloom</b>: I can't believe she gets so much attention without even really doing anything! 
-<b>Scootaloo</b>: She's using somepony 
- <i>else</i> to build herself up, and without even putting any effort to learn her own skills like we do! 
-<b>Sweetie Belle</b>: Hey, come to think of it, if we get really good at the stuff Twilight's teaching us, 
- <i>we</i> could be the big shots around here for a change! Hmm... 
-<b>Scootaloo</b>: 
- <i>Check this out!</i> 
-<b>Apple Bloom</b>: 
- <i>And check this out!</i> 
-<b>Foals</b>: 
- <i>[awed comments]</i> 
-<b>Sweetie Belle</b>: 
- <i>Now check</i> this 
- <i>out!</i> 
-<b>Diamond Tiara</b>: 
- <i>[yelping] Hey, put me down!</i> 
-<b>Foals</b>: 
- <i>[laughing]</i> 
-<b>Sweetie Belle</b>: [giggling] 
+<b>Scootaloo</b>: She's using somepony  <i>else</i> to build herself up, and without even putting any effort to learn her own skills like we do! 
+<b>Sweetie Belle</b>: Hey, come to think of it, if we get really good at the stuff Twilight's teaching us,  <i>we</i> could be the big shots around here for a change! Hmm... <b>Scootaloo</b>:  <i>Check this out!</i> 
+<b>Apple Bloom</b>:  <i>And check this out!</i> 
+<b>Foals</b>:  <i>[awed comments]</i> 
+<b>Sweetie Belle</b>:  <i>Now check</i> this  <i>out!</i> 
+<b>Diamond Tiara</b>:  <i>[yelping] Hey, put me down!</i> 
+<b>Foals</b>:  <i>[laughing]</i> <b>Sweetie Belle</b>: [giggling] 
 <b>Diamond Tiara</b>: Hey, can you hear me? 
 <b>Sweetie Belle</b>: Huh? Huh? What? What? 
 <b>Diamond Tiara</b>: I was asking if your sister Rarity will be taking you to Manehattan anytime soon. 
@@ -67,24 +53,18 @@
 <b>Apple Bloom</b>: Wow, that's... pretty nice of you guys. 
 <b>Sweetie Belle</b>: Actually, my sister hasn't offered to take me to Manehattan anytime soon. 
 <b>Diamond Tiara</b>: Yeah, we figured. 
-<b>Diamond Tiara</b> and 
- <b>Silver Spoon</b>: Bump, bump, sugar lump rump! [laughing] 
+<b>Diamond Tiara</b> and  <b>Silver Spoon</b>: Bump, bump, sugar lump rump! [laughing] 
 <b>Sweetie Belle</b>: Oh, yeah?! Well, I don't have to go all the way to Manehattan to hang out with the famous and super-cool ponies! Me and my friends hang out with Princess Twilight all the time! 
-<b>Diamond Tiara</b>: D-did you say 
- <i>Princess Twilight</i>?! You hang out with her all the time? For real? 
+<b>Diamond Tiara</b>: D-did you say  <i>Princess Twilight</i>?! You hang out with her all the time? For real? 
 <b>Apple Bloom</b>: More like just once a week. 
-<b>Scootaloo</b>: She helps us learn cool new stuff to do! That we 
- <i>actually</i> do ourselves! 
+<b>Scootaloo</b>: She helps us learn cool new stuff to do! That we  <i>actually</i> do ourselves! 
 <b>Diamond Tiara</b>: You must bring me along next time you go! 
-<b>Silver Spoon</b>: Bring 
- <i>us</i> along! 
+<b>Silver Spoon</b>: Bring  <i>us</i> along! 
 <b>Diamond Tiara</b>: I mean, we used to see her around town all the time, and I thought, "whatever"... 
 <b>Silver Spoon</b>: Me too. I thought that. 
-<b>Diamond Tiara</b>: But now she's a 
- <i>princess</i>, which makes her totally awesome! 
+<b>Diamond Tiara</b>: But now she's a  <i>princess</i>, which makes her totally awesome! 
 <b>Silver Spoon</b>: Plus, she has wings. 
-<b>Diamond Tiara</b>: And she's an 
- <i>Alicorn</i>. So can I– 
+<b>Diamond Tiara</b>: And she's an  <i>Alicorn</i>. So can I– 
 <b>Silver Spoon</b>: We! 
 <b>Diamond Tiara</b>: –go? 
 <b>Apple Bloom</b>: I don't think we should– 
@@ -92,29 +72,24 @@
 <b>Apple Bloom</b>: Are you kiddin'? I don't want them laughing at us while I'm mixin' potions and accidentally sendin' plants into chokin' fits! 
 <b>Sweetie Belle</b>: But don't you get it? They'll have to learn something too! 
 <b>Scootaloo</b>: And they won't be able to laugh at us when they're so busy trying to learn stuff of their own. 
-<b>Apple Bloom</b>: I must admit it's kinda fun to see them workin' hard to get on our good side for a change. 
-<b>Diamond Tiara</b>: Oh, my gosh! A princess lives in there! And I'm about to go inside and see her! I can't even tell you how excited I am! 
+<b>Apple Bloom</b>: I must admit it's kinda fun to see them workin' hard to get on our good side for a change. <b>Diamond Tiara</b>: Oh, my gosh! A princess lives in there! And I'm about to go inside and see her! I can't even tell you how excited I am! 
 <b>Silver Spoon</b>: I can't either! 
 [knocking] 
 <b>Sweetie Belle</b>: Now remember, Twilight takes this time out with us so we can learn stuff. 
 <b>Twilight Sparkle</b>: Hey there, guys! Come on in! 
-<b>Diamond Tiara</b> and 
- <b>Silver Spoon</b>: [squealing] Princess Twilight! 
+<b>Diamond Tiara</b> and  <b>Silver Spoon</b>: [squealing] Princess Twilight! 
 <b>Diamond Tiara</b>: Oh, it's really her! 
 <b>Silver Spoon</b>: Oh, my gosh, I don't believe it! 
 <b>Twilight Sparkle</b>: Oh, and, uh, you brought guests. Great! 
 <b>Diamond Tiara</b>: Princess Twilight, it is such a thrill and honor to be here! You have no idea. Oh my gosh, who dyes your tail? 
-<b>Silver Spoon</b>: I 
- <i>so</i> have to get that done. 
+<b>Silver Spoon</b>: I  <i>so</i> have to get that done. 
 <b>Twilight Sparkle</b>: Actually, it's not dyed. I've always– 
 <b>Diamond Tiara</b>: [gasp] Are those books in there? What a bold design choice! 
-<b>Silver Spoon</b>: You should 
- <i>so</i> do that, Di! 
+<b>Silver Spoon</b>: You should  <i>so</i> do that, Di! 
 <b>Diamond Tiara</b>: I know, right? 
 <b>Twilight Sparkle</b>: Listen, I'm all for helping as many ponies as I can, but maybe we should keep these weekly visits just between us, hm? Okay, which one of you wants to practice first? 
 <b>Sweetie Belle</b>: Shouldn't they go first? 
-<b>Twilight Sparkle</b>: No, silly! I set up Twilight Time especially for you. Apple Bloom, go ahead. Let's see how your plant potions are coming. 
-<b>Apple Bloom</b>: I can't believe I let you talk us into bringin' guests yesterday. 
+<b>Twilight Sparkle</b>: No, silly! I set up Twilight Time especially for you. Apple Bloom, go ahead. Let's see how your plant potions are coming. <b>Apple Bloom</b>: I can't believe I let you talk us into bringin' guests yesterday. 
 <b>Scootaloo</b>: I didn't hear them laugh at us once, Apple Bloom. 
 <b>Apple Bloom</b>: 'Cause they laughed on the inside. 
 <b>Sweetie Belle</b>: Don't worry. We won't make that same mistake again. 
@@ -125,13 +100,11 @@
 <b>Diamond Tiara</b>: And they all want in! 
 <b>Foals</b>: Twilight Time! Twilight Time! Twilight Time! Twilight Time! [continuing under] 
 <b>Diamond Tiara</b>: Thanks to me, you three are now the hottest thing around. You're welcome. 
-<b>Sweetie Belle</b>: Uh-oh... 
-<b>Foals</b>: Twilight Time! Twilight Time! Twilight Time! [continuing under] 
+<b>Sweetie Belle</b>: Uh-oh... <b>Foals</b>: Twilight Time! Twilight Time! Twilight Time! [continuing under] 
 <b>Sweetie Belle</b>: Wow! All these ponies really wanna meet Twilight that badly? 
 <b>Pipsqueak</b>: We love you, Cutie Mark Crusaders! 
 <b>Foals</b>: [cheering] 
-<b>Diamond Tiara</b>: Now, now, everypony! Demanding time with the princess as an unruly mob simply won't do. Might I suggest you get organized through 
- <i>us</i>, the Cutie Mark Crusaders' nearest and dearest friends? 
+<b>Diamond Tiara</b>: Now, now, everypony! Demanding time with the princess as an unruly mob simply won't do. Might I suggest you get organized through  <i>us</i>, the Cutie Mark Crusaders' nearest and dearest friends? 
 <b>Silver Spoon</b>: Everypony get in line! No pushing, no pushing! 
 <b>Foals</b>: [cheering, under] 
 <b>Apple Bloom</b>: What a mess. 
@@ -139,8 +112,7 @@
 <b>Scootaloo</b>: Huh? 
 <b>Sweetie Belle</b>: They all think we're the greatest, because we're their ticket to get time with Ponyville's newest and biggest celebrity, Princess Twilight! 
 <b>Apple Bloom</b>: We just said like two seconds ago that invitin' two ponies to Twilight Time was a big mistake! And now we're supposed to bring the whole class? 
-<b>Sweetie Belle</b>: Relax. I got this. 
-<b>Apple Bloom</b>: I don't like this, Sweetie Belle... 
+<b>Sweetie Belle</b>: Relax. I got this. <b>Apple Bloom</b>: I don't like this, Sweetie Belle... 
 <b>Sweetie Belle</b>: You said not to invite them to Twilight Time and I didn't. So what's the problem? 
 <b>Scootaloo</b>: This feels like a trick. 
 <b>Sweetie Belle</b>: What's tricky about inviting Twilight out for a meal thanking her for all the nice things she's done for us? Seems like the least we can do for the princess! 
@@ -150,8 +122,7 @@
 <b>Scootaloo</b>: She's coming! 
 <b>Sweetie Belle</b>: Okay! But stay out of sight! 
 <b>Diamond Tiara</b>: As you wish, Sweetie Belle. 
-<b>Sweetie Belle</b>: Yes, as I wish. 
-<b>Twilight Sparkle</b>: [messy eating noises] Mmm! Mmmm, mm! [with mouth full] I didn't realize how hungry I was! I'm so glad you asked me to join you here today... [swallows] I'm so honored! Mm! 
+<b>Sweetie Belle</b>: Yes, as I wish. <b>Twilight Sparkle</b>: [messy eating noises] Mmm! Mmmm, mm! [with mouth full] I didn't realize how hungry I was! I'm so glad you asked me to join you here today... [swallows] I'm so honored! Mm! 
 <b>Sweetie Belle</b>: You are? 
 <b>Twilight Sparkle</b>: When you first asked me to help you develop new skills, I thought, 'Working with young students so devoted to the joy of learning purely for its own sake? What could be better?' You all remind me of myself when I was your age! 
 <b>Sweetie Belle</b>: Yes, well... we feel the same way. 
@@ -176,18 +147,15 @@
 <b>Sweetie Belle</b>: This is bad. 
 <b>Scootaloo</b>: Twilight's gonna be so ticked at us. 
 <b>Apple Bloom</b>: I told ya this was a terrible idea. 
-<b>Twilight Sparkle</b>: You seriously all want 
- <i>my</i> autograph? Okay, I'll sign just a couple more for you, but then I really must get back to my little friends. Oh, there you are! 
+<b>Twilight Sparkle</b>: You seriously all want  <i>my</i> autograph? Okay, I'll sign just a couple more for you, but then I really must get back to my little friends. Oh, there you are! 
 <b>Pipsqueak</b>: Wow, to think I've been to the Hay Burger so many times, never knowing it's a regular hangout for a princess! 
 <b>Twilight Sparkle</b>: This isn't my regular hangout. I'm only here to be with them. 
-<b>Pipsqueak</b>: You mean, Princess Twilight decides where it's cool to go based on where 
- <i>they</i> go? 
+<b>Pipsqueak</b>: You mean, Princess Twilight decides where it's cool to go based on where  <i>they</i> go? 
 <b>Cutie Mark Crusaders</b>: Huh? 
 <b>Twilight Sparkle</b>: Thanks, guys, this was fun! See ya around! 
 <b>Foals</b>: [excited chattering] 
 <b>Pipsqueak</b>: I'm opening a new lemonade stand! Won't you come to the grand opening? I'll give you free lemonade for a week! 
-<b>Sweetie Belle</b>: Relax. I know exactly how to handle this. 
-[scissors cutting] 
+<b>Sweetie Belle</b>: Relax. I know exactly how to handle this. [scissors cutting] 
 <b>Foals</b>: [cheering] 
 [glasses clinking] 
 <b>Pipsqueak</b>: More lemonade? 
@@ -196,33 +164,26 @@
 <b>Scootaloo</b>: Whoa, so bright I can see myself! 
 <b>Apple Bloom</b>: And so can I! Nice job bedazzlin' my bow! What do I owe you? 
 <b>Classmate Pony 3</b>: Your gratitude is thanks enough. 
-<b>Diamond Tiara</b>: You three 
- <i>must</i> come to my pool party. It'll be 
- <i>much</i> cooler than this. 
+<b>Diamond Tiara</b>: You three  <i>must</i> come to my pool party. It'll be  <i>much</i> cooler than this. 
 <b>Sweetie Belle</b>: Look who's inviting who to her fancy house! 
 <b>Apple Bloom</b>: I believe we have arrived, Cutie Mark Crusaders. 
-<b>Cutie Mark Crusaders</b>: Yeah! 
-[splash] 
+<b>Cutie Mark Crusaders</b>: Yeah! [splash] 
 <b>Apple Bloom</b>: [laughs] 
 <b>Sweetie Belle</b>: Wow, this is nice, but there's no one else here. Why is this party cooler, exactly? 
 <b>Diamond Tiara</b>: Because of all the ponies we're keeping out. 
 <b>Sweetie Belle</b>: This has been great, but we have to go. It's Twilight Time. 
 <b>Diamond Tiara</b>: So, we're coming too, right? 
 <b>Sweetie Belle</b>: Um... a-actually, no. We didn't have a chance to ask Twilight, so– 
-<b>Diamond Tiara</b>: Really? After all the favors we did for you? After all the favors 
- <i>they</i> did for you? 
+<b>Diamond Tiara</b>: Really? After all the favors we did for you? After all the favors  <i>they</i> did for you? 
 <b>Foals</b>: Twilight Time! Twilight Time! Twilight Time! Twilight Time! Twilight Time! Twilight Time! Twilight Time! [continuing under] 
-<b>Sweetie Belle</b>: Okay, I know exactly how to handle this. 
- <i>Run!</i> 
-<b>Foals</b>: Twilight Time! Twilight Time! Twilight Time! Twilight Time! [continuing under] 
+<b>Sweetie Belle</b>: Okay, I know exactly how to handle this.  <i>Run!</i> <b>Foals</b>: Twilight Time! Twilight Time! Twilight Time! Twilight Time! [continuing under] 
 <b>Cutie Mark Crusaders</b>: [straining] 
 <b>Sweetie Belle</b>: Go, go, go! 
 <b>Scootaloo</b>: We gotta beat them to Twilight's so we can explain! 
 <b>Sweetie Belle</b>: This way! I know a shortcut! 
 <b>Foals</b>: Twilight Time! [continuing under] 
 <b>Apple Bloom</b>: Then we run, like the wind! 
-<b>Foals</b>: Twilight Time! Twilight Time! 
-<b>Sweetie Belle</b>: [gasps] [out of breath] We... made... it... Quick! Knock on– 
+<b>Foals</b>: Twilight Time! Twilight Time! <b>Sweetie Belle</b>: [gasps] [out of breath] We... made... it... Quick! Knock on– 
 [tires screeching] 
 [knocking] 
 [door opens] 
@@ -234,15 +195,13 @@
 <b>Twilight Sparkle</b>: Of course not! Come on in, everypony! Spike made nachos! 
 <b>Foals</b>: [excited chattering] 
 <b>Twilight Sparkle</b>: Turns out we'll need some more than that. 
-<b>Spike</b>: [sighs] 
-<b>Foals</b>: [excited chattering] 
+<b>Spike</b>: [sighs] <b>Foals</b>: [excited chattering] 
 <b>Twilight Sparkle</b>: Before we start, we should maybe get a bit more organized? Ponies interested in magic in this corner. Ponies who want to learn potions over here. Bookworm ponies over there. 
 <b>Apple Bloom</b>: Incredible. Looks like everything's workin' out just fine. 
 <b>Scootaloo</b>: And I was so afraid Twilight would be disappointed in us. 
 <b>Sweetie Belle</b>: Told you I knew exactly how to handle all this! 
 <b>Twilight Sparkle</b>: Thanks to all of you for taking time out to come learn new things. 
-<b>Diamond Tiara</b>: Thank 
- <i>you</i>, princess! 
+<b>Diamond Tiara</b>: Thank  <i>you</i>, princess! 
 <b>Silver Spoon</b>: We love you, princess! 
 <b>Foals</b>: [You're awesome, etc.] 
 <b>Twilight Sparkle</b>: Okay, okay, let's settle down. If you want to thank anypony, thank the Cutie Mark Crusaders for so generously sharing this time. 
@@ -264,8 +223,7 @@
 <b>Sweetie Belle</b>: No, wait! Hey, everypony, you're in luck! You came to learn, but instead you're getting dinner and a show! Get ready, 'cause we, the Cutie Mark Crusaders, are about to lay on you the amazing skills we learned in Twilight Time! 
 <b>Foals</b>: [intrigued chatter] 
 <b>Sweetie Belle</b>: Unfortunately, since we don't have Scootaloo's unicycle parts, she'll take apart and put back together one of the scooters from outside. 
-<b>Pipsqueak</b>: Hey! That's 
- <i>my</i> scooter! 
+<b>Pipsqueak</b>: Hey! That's  <i>my</i> scooter! 
 <b>Scootaloo</b>: You got us into this mess, kid. Might wanna roll with us. 
 <b>Pipsqueak</b>: Huh? 
 <b>Sweetie Belle</b>: Apple Bloom doesn't have her apple seed with her, so she'll just grab an apple from the kitchen. And I will begin by using my magic to lift this broom! 
@@ -288,15 +246,10 @@
 <b>Apple Bloom</b>: Thanks... 
 <b>Sweetie Belle</b>: Thanks... 
 <b>Twilight Sparkle</b>: Sweetie Belle? Remember a moment ago when you asked me to give you a chance? 
-<b>Spike</b>: [straining] Aw, 
- <i>come on</i>! 
-<b>Sweetie Belle</b>: 
- <i>I guess Twilight must not be so super-upset anymore, 'cause she's letting us do a diary entry like our sisters do. Boy, did we get our priorities messed up. We started acting special because we were friends with someone special. We almost forgot the real reason she's special – because she's our friend. But she forgave us, and, like magic, things are good as new! That's the kind of magic I really want to get good at, now that I'm getting so good at the other kind.</i> 
+<b>Spike</b>: [straining] Aw,  <i>come on</i>! <b>Sweetie Belle</b>:  <i>I guess Twilight must not be so super-upset anymore, 'cause she's letting us do a diary entry like our sisters do. Boy, did we get our priorities messed up. We started acting special because we were friends with someone special. We almost forgot the real reason she's special – because she's our friend. But she forgave us, and, like magic, things are good as new! That's the kind of magic I really want to get good at, now that I'm getting so good at the other kind.</i> 
 <b>Twilight Sparkle</b>: Wow, all three of you have made so much progress! I'm really proud of you. See you next time! 
-<b>Sweetie Belle</b>: 
- <i>We're just glad Twilight Time is back to normal. Well... almost back to normal.</i> I just hope no one sees us. 
+<b>Sweetie Belle</b>:  <i>We're just glad Twilight Time is back to normal. Well... almost back to normal.</i> I just hope no one sees us. 
 <b>Apple Bloom</b>: 'Cause we're tryin' to keep Twilight Time a secret now? 
 <b>Scootaloo</b>: Or because we look ridiculous? 
 <b>Sweetie Belle</b>: A little of both, actually. 
-<b>Twilight Sparkle</b>: [laughs] 
-[credits] 
+<b>Twilight Sparkle</b>: [laughs] [credits] 

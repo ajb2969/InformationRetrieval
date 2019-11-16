@@ -7,37 +7,30 @@
 <b>Apple Bloom</b>: And our train tickets are all set. 
 <b>Sweetie Belle</b>: And I've got our whole itinerary planned! 
 <b>Apple Bloom</b>: Are you sure you're not Twilight's sister? 
-<b>Apple Bloom</b> and 
- <b>Scootaloo</b>: [laugh] 
+<b>Apple Bloom</b> and  <b>Scootaloo</b>: [laugh] 
 <b>Scootaloo</b>: Weeks of planning has all come down to this. All we have to do now is wait for our chaperone to get here. 
-<b>Apple Bloom</b> and 
- <b>Sweetie Belle</b>: Mm-hmm! 
+<b>Apple Bloom</b> and  <b>Sweetie Belle</b>: Mm-hmm! 
 [pause] 
 <b>Apple Bloom</b>: So when's Rainbow Dash comin'? 
 <b>Scootaloo</b>: I thought you were gonna ask Applejack. 
 <b>Apple Bloom</b>: [to Sweetie Belle] I don't suppose you asked Rarity? 
 <b>Sweetie Belle</b>: You mean we spent all this time planning a trip, and none of us asked anypony to take us?! 
 <b>Scootaloo</b>: In our defense, every other part of the trip was planned really well. 
-[clatter] 
-<b>Sweetie Belle</b>: We really did think of everything except finding somepony to take us, and the fair is only today! 
+[clatter] <b>Sweetie Belle</b>: We really did think of everything except finding somepony to take us, and the fair is only today! 
 <b>Rarity</b>: I'm sorry, darlings, but I can't possibly go to Appleloosa. I promised to deliver a new design to Fancy Pants for his Monocle and Top Hat Appreciation Society soiree. 
 <b>Sweetie Belle</b>: Can't you finish it tomorrow? 
 [smack!] 
 <b>Rarity</b>: Well, I could. But you'll learn as you get older how important it is to keep your promises, especially when running a business. 
 <b>Sweetie Belle</b>: Maybe we should just go by ourselves? 
-<b>Rarity</b>: What?! Oh, my dear, no! Appleloosa is far too long a train ride for young foals without accompaniment. You could end up in the wrong place entirely. Why don't you see if Rainbow Dash is free? 
-<b>Rainbow Dash</b>: Sorry, but I just heard from Spitfire that a whole bunch of storm clouds got loose from the cloud factory, and she needs every Wonderbolt to help bust 'em. 
+<b>Rarity</b>: What?! Oh, my dear, no! Appleloosa is far too long a train ride for young foals without accompaniment. You could end up in the wrong place entirely. Why don't you see if Rainbow Dash is free? <b>Rainbow Dash</b>: Sorry, but I just heard from Spitfire that a whole bunch of storm clouds got loose from the cloud factory, and she needs every Wonderbolt to help bust 'em. 
 <b>Scootaloo</b>: Aw, come on, Rainbow Dash! They won't miss one pony! And we really want to go to the fair! Apparently we're too young to go alone. 
-<b>Rainbow Dash</b>: Well, duh. Young ponies like you could get lost and never find your way back. But I still can't go. Being a Wonderbolt isn't just about showing off. It's also a responsibility. You'll understand when you get older. I'm sure you'll find somepony else to take you. 
-<b>Applejack</b>: I wish I could, sugarcube. But Big Mac's not feelin' well today. 
+<b>Rainbow Dash</b>: Well, duh. Young ponies like you could get lost and never find your way back. But I still can't go. Being a Wonderbolt isn't just about showing off. It's also a responsibility. You'll understand when you get older. I'm sure you'll find somepony else to take you. <b>Applejack</b>: I wish I could, sugarcube. But Big Mac's not feelin' well today. 
 <b>Apple Bloom</b>: Awww. But Big Mac's old enough to take care of himself, and we'd all have so much fun together. 
 <b>Applejack</b>: Sometimes takin' care of somepony is more important than havin' fun. Speakin' of which, don't you even think about tryin' to go without a grown pony there to take care of you. You could end up in hot water or worse. 
-<b>Apple Bloom</b>: We know. 
-<b>Scootaloo</b>: The fair could be over before we find somepony to take us. 
+<b>Apple Bloom</b>: We know. <b>Scootaloo</b>: The fair could be over before we find somepony to take us. 
 <b>Apple Bloom</b>: But then we thought of you, since the fair will be full of all sorts of animals and creatures. 
 <b>Fluttershy</b>: I'm sorry, but Twilight has an important magical research project, and she's asked for my help. 
-<b>Sweetie Belle</b>: I guess that means Twilight's busy, too? 
-<b>Twilight Sparkle</b>: I'm afraid I am. Star Swirl sent me this enchanted flower, and it isn't doing well. If I figure out its magical properties, maybe we can save it. 
+<b>Sweetie Belle</b>: I guess that means Twilight's busy, too? <b>Twilight Sparkle</b>: I'm afraid I am. Star Swirl sent me this enchanted flower, and it isn't doing well. If I figure out its magical properties, maybe we can save it. 
 <b>Scootaloo</b>: So that's a "no" on going with us to the fair? 
 <b>Apple Bloom</b>: We've already asked Applejack, Rainbow Dash, and Rarity, and none of them can come. 
 <b>Sweetie Belle</b>: And everypony made it clear we're too young to go on our own. 
@@ -45,12 +38,10 @@
 <b>Fluttershy</b>: Or get lost in a strange town and end up in a dangerous situation with nopony to help you. 
 <b>Cutie Mark Crusaders</b>: We know! 
 <b>Twilight Sparkle</b>: I know it's hard, but sometimes you just can't do what you want. 
-<b>Scootaloo</b>: I'm pretty sure if 
- <i>you</i> wanted to go to the fair, you could. 
+<b>Scootaloo</b>: I'm pretty sure if  <i>you</i> wanted to go to the fair, you could. 
 <b>Twilight Sparkle</b>: Sure, grown-ups can do a lot of things that foals can't. But there's plenty we can't do either. Like right now, I can't find a single reference to this flower! 
 <b>Fluttershy</b>: None of the birds or insects I've talked to have heard of it either. 
-<b>Twilight Sparkle</b>: I wonder if there's anything in Shadetail Evergreen's 
- <i>Tome of Flora and Fauna</i>? 
+<b>Twilight Sparkle</b>: I wonder if there's anything in Shadetail Evergreen's  <i>Tome of Flora and Fauna</i>? 
 <b>Fluttershy</b>: That book's pretty out of date, but it might be worth a try. 
 <b>Twilight Sparkle</b>: I think there's a copy in the library filed under "Discontinued But Still Potentially Useful Ancient Texts". Unless I put it under "Hokum With a Slight Chance of Practical Applications". 
 <b>Apple Bloom</b>: I guess this flower is the most interestin' thing we're gonna see today. 
@@ -76,149 +67,19 @@
 [shatter!] 
 <b>Cutie Mark Crusaders</b>: [gasp] 
 <b>Scootaloo</b>: Do you know what this means? 
-<b>Cutie Mark Crusaders</b>: We can go to the fair! [laugh] 
-<b>Scootaloo</b>: [laughing] 
+<b>Cutie Mark Crusaders</b>: We can go to the fair! [laugh] <b>Scootaloo</b>: [laughing] 
 <b>Apple Bloom</b>: I hope you brought the tickets. We've gotta hurry if we're going to make the train. 
 <b>Sweetie Belle</b>: I think we'll be fine. Check out how fast we're going! Grown-up legs are strong! 
 <b>Scootaloo</b>: You're not kidding! 
 [rattling] 
 <b>Scootaloo</b>: I don't know how much of this my scooter can take! 
 [ponies gasp] 
-<b>Apple Bloom</b>: And nopony yelled at us to slow down even once! Being a grown-up is great! 
-[pocketwatch ticking] 
+<b>Apple Bloom</b>: And nopony yelled at us to slow down even once! Being a grown-up is great! [pocketwatch ticking] 
 <b>Cutie Mark Crusaders</b>: [panting] 
 [train whistle blows] 
 <b>Cutie Mark Crusaders</b>: [sigh] 
 <b>Sweetie Belle</b>: We made it! 
-<b>Apple Bloom</b>: Of course we did! We're grown-up ponies now! We can do anything! And all those worries Twilight and the others had don't apply anymore. Because we're big! And bein' big is all it takes! 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   Woke up this morning feeling tired and small 
-  </dd>
-  <dd>
-   But look at us now - we must be ninety feet tall 
-  </dd>
-  <dd>
-   Don't have to worry 'bout making mistakes 
-  </dd>
-  <dd>
-   Because being big is all it takes 
-  </dd>
- </dl> 
-<b>[Scootaloo]</b> 
- <dl>
-  <dd>
-   A tiny twist of fate brought on this big change 
-  </dd>
-  <dd>
-   Give me room, gotta zoom, I've got plans to arrange 
-  </dd>
-  <dd>
-   Can do what I want, be it run, trot, or traipse 
-  </dd>
-  <dd>
-   'Cause being big is all it takes 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   Being big isn't just a size 
-  </dd>
-  <dd>
-   At bedtime we don't even have to close our eyes 
-  </dd>
-  <dd>
-   We're in control now, for goodness' sake 
-  </dd>
-  <dd>
-   'Cause being big is all it takes 
-  </dd>
- </dl> 
-<b>[Sweetie Belle]</b> 
- <dl>
-  <dd>
-   Leaving behind the little pony you've known 
-  </dd>
-  <dd>
-   Stepping out, growing up, making moves of my own 
-  </dd>
-  <dd>
-   You can't tell me no, there's no place I can't go 
-  </dd>
-  <dd>
-   Mountains, cities, jungles, or lakes 
-  </dd>
-  <dd>
-   'Cause being big is all it takes 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   Being big isn't just a size 
-  </dd>
-  <dd>
-   We'll tell you our opinion 'cause we're oh, so wise 
-  </dd>
-  <dd>
-   We're in control now, for goodness' sake 
-  </dd>
-  <dd>
-   'Cause being big is all it takes 
-  </dd>
- </dl> 
-<b>[Scootaloo]</b> 
- <dl>
-  <dd>
-   I can eat all the snacks 'cause that's for me to decide 
-  </dd>
- </dl> 
-<b>[Apple Bloom]</b> 
- <dl>
-  <dd>
-   We know how it all works, even what we ain't tried 
-  </dd>
- </dl> 
-<b>[Sweetie Belle]</b> 
- <dl>
-  <dd>
-   Facts don't matter now 'cause it's not what we know 
-  </dd>
-  <dd>
-   We can win any argument with... 
-  </dd>
- </dl> 
-<b>[Cutie Mark Crusaders]</b> 
- <dl>
-  <dd>
-   "Because I say so!" 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Can't stop us now, don't try to stand in our way 
-  </dd>
-  <dd>
-   We're awake, gonna take all we can from today 
-  </dd>
-  <dd>
-   Once we had to listen, now you'll hear what we say 
-  </dd>
-  <dd>
-   Everything is always okay 
-  </dd>
-  <dd>
-   'Cause being big is all it taaaaaakes 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   All it takes! 
-  </dd>
- </dl> 
-[train chugging] 
+<b>Apple Bloom</b>: Of course we did! We're grown-up ponies now! We can do anything! And all those worries Twilight and the others had don't apply anymore. Because we're big! And bein' big is all it takes! <b>[Cutie Mark Crusaders]</b>  <dl>  <dd>   Woke up this morning feeling tired and small   </dd>  <dd>   But look at us now - we must be ninety feet tall   </dd>  <dd>   Don't have to worry 'bout making mistakes   </dd>  <dd>   Because being big is all it takes   </dd> </dl> <b>[Scootaloo]</b>  <dl>  <dd>   A tiny twist of fate brought on this big change   </dd>  <dd>   Give me room, gotta zoom, I've got plans to arrange   </dd>  <dd>   Can do what I want, be it run, trot, or traipse   </dd>  <dd>   'Cause being big is all it takes   </dd> </dl> <b>[Cutie Mark Crusaders]</b>  <dl>  <dd>   Being big isn't just a size   </dd>  <dd>   At bedtime we don't even have to close our eyes   </dd>  <dd>   We're in control now, for goodness' sake   </dd>  <dd>   'Cause being big is all it takes   </dd> </dl> <b>[Sweetie Belle]</b>  <dl>  <dd>   Leaving behind the little pony you've known   </dd>  <dd>   Stepping out, growing up, making moves of my own   </dd>  <dd>   You can't tell me no, there's no place I can't go   </dd>  <dd>   Mountains, cities, jungles, or lakes   </dd>  <dd>   'Cause being big is all it takes   </dd> </dl> <b>[Cutie Mark Crusaders]</b>  <dl>  <dd>   Being big isn't just a size   </dd>  <dd>   We'll tell you our opinion 'cause we're oh, so wise   </dd>  <dd>   We're in control now, for goodness' sake   </dd>  <dd>   'Cause being big is all it takes   </dd> </dl> <b>[Scootaloo]</b>  <dl>  <dd>   I can eat all the snacks 'cause that's for me to decide   </dd> </dl> <b>[Apple Bloom]</b>  <dl>  <dd>   We know how it all works, even what we ain't tried   </dd> </dl> <b>[Sweetie Belle]</b>  <dl>  <dd>   Facts don't matter now 'cause it's not what we know   </dd>  <dd>   We can win any argument with...   </dd> </dl> <b>[Cutie Mark Crusaders]</b>  <dl>  <dd>   "Because I say so!"   </dd> </dl> <dl>  <dd>   Can't stop us now, don't try to stand in our way   </dd>  <dd>   We're awake, gonna take all we can from today   </dd>  <dd>   Once we had to listen, now you'll hear what we say   </dd>  <dd>   Everything is always okay   </dd>  <dd>   'Cause being big is all it taaaaaakes   </dd> </dl> <dl>  <dd>   All it takes!   </dd> </dl> [train chugging] 
 [brakes hiss] 
 [train chugging] 
 <b>Scootaloo</b>: I think I ate too many snacks. 
@@ -237,15 +98,10 @@
 <b>Apple Bloom</b>: Come on. We didn't come all this way for nothin'. Besides, I've been through a swamp as a young pony. As a grown-up, it'll be a snap. 
 <b>Scootaloo</b>: Grown-ups always know the way! 
 <b>Sweetie Belle</b>: Because being big is all it takes! 
-<b>"Loose Tracks"</b>: [laughs maniacally, hacks, inhales] Sorry. I've got kind of a throat thing. 
-[montage music] 
-[splash] 
+<b>"Loose Tracks"</b>: [laughs maniacally, hacks, inhales] Sorry. I've got kind of a throat thing. [montage music] [splash] 
 [bufogren croaks] 
 <b>Scootaloo</b>: Aah! 
-[splash] 
-[vines stretch, recoil] 
-[bubbling] 
-[splashing] 
+[splash] [vines stretch, recoil] [bubbling] [splashing] 
 <b>Scootaloo</b>: Sweetie Belle, are you sure this is the right way? 
 [wind whistling] 
 [branches creaking] 
@@ -264,8 +120,7 @@
 <b>Spur</b>: Well, where were you when I was feeding and caring for him?! 
 [bushes rustle] 
 <b>Biscuit</b>: [screams] Wild swamp ponies! 
-<b>"Spring Green"</b> and 
- <b>"Savage Honeydew"</b>: Hmph! 
+<b>"Spring Green"</b> and  <b>"Savage Honeydew"</b>: Hmph! 
 <b>Sweetie Belle</b>: We're not wild swamp ponies. We're just grown-ups. 
 <b>Scootaloo</b>: And we are definitely not lost. 
 <b>Spur</b>: Okay. But that swamp is pretty confusing if you're not from around here. I'm Spur, and this is Biscuit. 
@@ -275,8 +130,7 @@
 <b>Spur</b>: No, it isn't! 
 <b>Sweetie Belle</b>: Uh, which is it? 
 <b>Spur</b>: Biscuit thinks he can just take Bloofy here to the fair. 
-<b>Biscuit</b>: Why not? It's just up the road. And Bloofy's 
- <i>my</i> pet, too. 
+<b>Biscuit</b>: Why not? It's just up the road. And Bloofy's  <i>my</i> pet, too. 
 <b>Spur</b>: Since when?! Bloofy's never even seen a crowd! Which you'd know if you ever took care of him! 
 <b>Biscuit</b>: Did you ever think meeting all those ponies might be good for him? 
 <b>Bloofy</b>: [chittering] 
@@ -290,8 +144,7 @@
 <b>Biscuit</b>: That is some quality grown-up advice! 
 <b>Bloofy</b>: [chittering] 
 <b>Spur</b>: But Bloofy's never been around anything that exciting. What if something goes wrong? 
-<b>Apple Bloom</b>: We're headed to the fair, too. Since we're such great advice givers, feel free to ask us for more. 
-[ponies chattering] 
+<b>Apple Bloom</b>: We're headed to the fair, too. Since we're such great advice givers, feel free to ask us for more. [ponies chattering] 
 [horseshoe clangs] 
 [splash!] 
 [ponies laughing] 
@@ -300,18 +153,14 @@
 <b>Passerby Pony</b>: Well, my goodness, what an interesting critter! You should enter him in the animal showcase. You'd be sure to win "Most Interesting Creature"! 
 <b>Biscuit</b>: Animals showcase? That's exactly what we should do! 
 <b>Spur</b>: That seems like a bad idea. What do you grown-ups think? 
-<b>Cutie Mark Crusaders</b>: [laugh] 
-[thunk!] 
+<b>Cutie Mark Crusaders</b>: [laugh] [thunk!] 
 [bell rings] 
 [ponies cheer] 
-<b>Cutie Mark Crusaders</b>: [laugh] 
-<b>Sweetie Belle</b>: Whoo-hoo! Whoo-whoo! 
-[splat] 
+<b>Cutie Mark Crusaders</b>: [laugh] <b>Sweetie Belle</b>: Whoo-hoo! Whoo-whoo! [splat] 
 <b>Spur</b>: What happened to being able to ask your advice?! You ran off the second we got here! 
 <b>Scootaloo</b>: [gulps] 
 <b>Apple Bloom</b>: Where's Biscuit and Bloofy? 
-<b>Spur</b>: That's why I came to find you. 
-[fanfare] 
+<b>Spur</b>: That's why I came to find you. [fanfare] 
 [ponies chattering] 
 <b>Spur</b>: It's one thing to bring Bloofy to the fair, but it's another to stick him in a showcase! 
 <b>Biscuit</b>: What's the big deal? 
@@ -330,20 +179,16 @@
 [ponies cheering] 
 <b>Bloofy</b>: [squealing] 
 [whooshing] 
-<b>Scootaloo</b>: Me and my big grown-up mouth. 
-[ponies screaming] 
+<b>Scootaloo</b>: Me and my big grown-up mouth. [ponies screaming] 
 [whooshing] 
 <b>Apple Bloom</b>: Do you think this qualifies as gettin' into a dangerous situation with no grown pony to help us? 
 [cow moos] 
-<b>Sweetie Belle</b>: I think 
- <i>we're</i> the grown ponies that need to be helping today! 
+<b>Sweetie Belle</b>: I think  <i>we're</i> the grown ponies that need to be helping today! 
 <b>Scootaloo</b>: Bloofy! Treats, treats, treats! Who wants a treat? 
 [whooshing continues] 
 [teleportation zap] 
 <b>Biscuit</b>: What do we do now?! 
-<b>Cutie Mark Crusaders</b>: 
- <i>Run!</i> 
-[train whistle blows] 
+<b>Cutie Mark Crusaders</b>:  <i>Run!</i> [train whistle blows] 
 <b>Fluttershy</b>: I hope you're right about the girls coming here. 
 <b>Twilight Sparkle</b>: Well, once we read Shadetail Evergreen's warning that the flower grants wishes, it wasn't a stretch to think they wished themselves to the fair. It's all they were talking about. 
 <b>Fluttershy</b>: Or maybe, since we told them they were too young to come, they wished to become grown-ups, then came here and caused some kind of trouble that led to a town-wide panic! 
@@ -354,8 +199,7 @@
 <b>Sweetie Belle</b>: And we thought we could take the train here, since we were old enough, but we ended up in the wrong place, just like you said we would! 
 <b>Apple Bloom</b>: And got lost! 
 <b>Scootaloo</b>: Just like you said we would! 
-<b>Apple Bloom</b>: Then we met these foals who led us to the fair, and we tried to give them some grown-up-style advice, but it turned their pet into a tornado that might destroy the whole town! 
-[whooshing] 
+<b>Apple Bloom</b>: Then we met these foals who led us to the fair, and we tried to give them some grown-up-style advice, but it turned their pet into a tornado that might destroy the whole town! [whooshing] 
 <b>Fluttershy</b>: Goodness! A Whirling Mungtooth! They are very rare and just the cutest little things when they're not excited. 
 [crash!] 
 <b>Fluttershy</b>: This one's excited. 
@@ -365,8 +209,7 @@
 <b>Twilight Sparkle</b>: You all go look for Spur. Fluttershy and I will do our best to keep everypony here safe. 
 [teleportation zap] 
 [ewe bleats] 
-<b>Spur</b>: 
- <i>That's</i> Bloofy?! 
+<b>Spur</b>:  <i>That's</i> Bloofy?! 
 [teleportation zap] 
 <b>Biscuit</b>: I'm so sorry, Spur. You knew what was best for him all along. 
 <b>Apple Bloom</b>: And even though we seem like grown-ups, you were way more responsible than us. 
@@ -378,8 +221,7 @@
 [whooshing stops] 
 <b>Bloofy</b>: [squeals, chitters] 
 <b>Spur</b>: How did you know what to do? 
-<b>Fluttershy</b>: After years of experience with animals, I've picked up a few things. 
-<b>Spur</b>: Well, one thing's for sure. Bloofy definitely earned the "Most Interesting Creature" prize. 
+<b>Fluttershy</b>: After years of experience with animals, I've picked up a few things. <b>Spur</b>: Well, one thing's for sure. Bloofy definitely earned the "Most Interesting Creature" prize. 
 <b>Biscuit</b>: I'm sorry I didn't listen to you. 
 <b>Apple Bloom</b>: We all are. 
 <b>Spur</b>: I guess grown-ups aren't always perfect. 
@@ -396,5 +238,4 @@
 <b>Sweetie Belle</b>: I know we didn't make the best impression, but we sure would like to visit you and Bloofy some day. 
 <b>Spur</b>: I guess that'd be okay, on one condition. You get a real grown-up to bring you. 
 <b>Cutie Mark Crusaders</b>: Deal! 
-<b>All</b>: [laughing] 
-[credits] 
+<b>All</b>: [laughing] [credits] 

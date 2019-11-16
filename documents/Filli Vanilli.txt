@@ -1,125 +1,42 @@
 [birds tweeting] 
 <b>Fluttershy</b>: Oh, good morning, little friends. Your singing is oh-so pretty. 
 [birds tweeting] 
-<b>Fluttershy</b>: Yes, it is a very beautiful day today. Certainly something worth singing about. 
-<dl>
-  <dd>
-   There's music in the treetops 
-  </dd>
-  <dd>
-   And there's music in the vale 
-  </dd>
-  <dd>
-   And all around the music fills the sky 
-  </dd>
-  <dd>
-   There's music by the river 
-  </dd>
-  <dd>
-   And there's music in the grass 
-  </dd>
-  <dd>
-   And the music makes your heart soar in reply 
-  </dd>
-  <dd>
-   [vocalizing] 
-  </dd>
- </dl> 
+<b>Fluttershy</b>: Yes, it is a very beautiful day today. Certainly something worth singing about. <dl>  <dd>   There's music in the treetops   </dd>  <dd>   And there's music in the vale   </dd>  <dd>   And all around the music fills the sky   </dd>  <dd>   There's music by the river   </dd>  <dd>   And there's music in the grass   </dd>  <dd>   And the music makes your heart soar in reply   </dd>  <dd>   [vocalizing]   </dd> </dl> 
 <b>Animals</b>: [cheering] 
 <b>Fluttershy</b>: Oh, thank you so much. [giggles] You're too kind. 
 <b>Pinkie Pie</b>: Wow! 
 <b>Fluttershy</b>: Oh... You... um... you didn't hear me... um... 
 <b>Pinkie Pie</b>: Singing in the most beautiful voice ever?!? 
 <b>Rainbow Dash</b>: Uh, yeah, we did! 
-<b>Fluttershy</b>: [gasp, whimper] 
-<b>Twilight Sparkle</b>: Wow, I've never heard you sing a solo like 
- <i>that</i> before! 
+<b>Fluttershy</b>: [gasp, whimper] <b>Twilight Sparkle</b>: Wow, I've never heard you sing a solo like  <i>that</i> before! 
 <b>Applejack</b>: It was like a little slice of heaven. 
 <b>Pinkie Pie</b>: With ice cream on top! 
 <b>Rarity</b>: Fluttershy, I cannot believe your spectacular voice isn't part of the Pony Tones quartet! 
 <b>Fluttershy</b>: Um, well, I— 
 <b>Rarity</b>: Especially since you're having us perform for your Ponyville Pet Center fundraiser tomorrow night! 
 <b>Fluttershy</b>: Well, you see, I— 
-<b>Rarity</b>: This simply 
- <i>must</i> be rectified. You 
- <i>must</i> share that stunning voice at the event! 
-<b>Pinkie Pie</b>: Yeah! It'll be so amazing! You'll be there on stage, basking in the hooflights! The center of attention! A shining star! Everypony staring at you, judging you, jealously noting how they could be 
- <i>way</i> better than you! Why wasn't it them? 
- <i>Why wasn't it them?</i> And then, when you choke, they'll turn on you, becoming a seething, angry mob, and you'll be horribly humiliated, 
- <i>never able to show your face in Ponyville again!</i> 
+<b>Rarity</b>: This simply  <i>must</i> be rectified. You  <i>must</i> share that stunning voice at the event! 
+<b>Pinkie Pie</b>: Yeah! It'll be so amazing! You'll be there on stage, basking in the hooflights! The center of attention! A shining star! Everypony staring at you, judging you, jealously noting how they could be  <i>way</i> better than you! Why wasn't it them?  <i>Why wasn't it them?</i> And then, when you choke, they'll turn on you, becoming a seething, angry mob, and you'll be horribly humiliated,  <i>never able to show your face in Ponyville again!</i> 
 <b>Rarity</b>: Pinkie Pie! 
 [thwack] 
 <b>Rarity</b>: Don't be ridiculous! 
 <b>Pinkie Pie</b>: Aw, but I'm so good at it! 
-<b>Rarity</b>: [sighs] Come, Fluttershy, you will join the group, making the Pony Tones quartet the Pony Tones 
- <i>quintet</i>! 
+<b>Rarity</b>: [sighs] Come, Fluttershy, you will join the group, making the Pony Tones quartet the Pony Tones  <i>quintet</i>! 
 <b>Fluttershy</b>: No. 
 <b>Rarity</b>: Pardon me? 
-<b>Fluttershy</b>: I love the Pony Tones, I'm one of their biggest fans, but I do 
- <i>not</i> want to perform with them. 
+<b>Fluttershy</b>: I love the Pony Tones, I'm one of their biggest fans, but I do  <i>not</i> want to perform with them. 
 <b>Twilight Sparkle</b>: Why not, Fluttershy? 
 <b>Fluttershy</b>: Well, you see... I... I have... um... I... I have... 
 <b>Rainbow Dash</b>: Spit it out! 
 <b>Fluttershy</b>: I have... stage fright. 
 <b>Pinkie Pie</b>: [gasps] Is it contagious?! 
 <b>Twilight Sparkle</b>: Stage fright isn't a disease, Pinkie. It just means that Fluttershy is scared to perform in front of everypony. 
-<b>Fluttershy</b>: I'm very thankful the Pony Tones are singing at the Pet Center fundraiser, and I'm 
- <i>really</i> looking forward to the performance, but I'll be watching safely from the audience. 
+<b>Fluttershy</b>: I'm very thankful the Pony Tones are singing at the Pet Center fundraiser, and I'm  <i>really</i> looking forward to the performance, but I'll be watching safely from the audience. 
 <b>Rarity</b>: [sighs] Well... I think it's a terrible waste of an exquisite talent, but I understand that you're not comfortable. 
-<b>Fluttershy</b>: Thank you. Oh! Angel's right. We'd better get going. There's a lot of work to do before tomorrow's event. 
-<b>Rarity</b>: [clears throat] Alright, Pony Tones, let's run through that again! [blows pitch pipe] 
-<b>[Big McIntosh]</b> 
- <dl>
-  <dd>
-   Bum, bum, bum-ba-da, ba-da 
-  </dd>
-  <dd>
-   Bum, bum, bum-ba-da ah 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Bum, bum, bum-ba-da, ba-da (Oh, ah-ah-ah-ah) 
-  </dd>
-  <dd>
-   Bum, bum, bum-ba-da ah (Oh, ah-ah-ah-ah) 
-  </dd>
- </dl> 
-<b>[Big McIntosh]</b> 
- <dl>
-  <dd>
-   Everypony's sayin' you should learn to express your voice 
-  </dd>
-  <dd>
-   But if talk doesn't seem like it's the answer 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Luckily you have a choice 
-  </dd>
-  <dd>
-   When you find you've got the music (
-   <b>Rarity</b>: Fiiiiiiiiiiiiiiind the music) 
-  </dd>
-  <dd>
-   Got the music in you (
-   <b>Rarity</b>: Oh, you) 
-  </dd>
-  <dd>
-   Find you've got the music (
-   <b>Rarity</b>: Fiiiiiiiiiiiiiiiiind the music) 
-  </dd>
-  <dd>
-   Got the music in you 
-  </dd>
- </dl> 
+<b>Fluttershy</b>: Thank you. Oh! Angel's right. We'd better get going. There's a lot of work to do before tomorrow's event. <b>Rarity</b>: [clears throat] Alright, Pony Tones, let's run through that again! [blows pitch pipe] <b>[Big McIntosh]</b>  <dl>  <dd>   Bum, bum, bum-ba-da, ba-da   </dd>  <dd>   Bum, bum, bum-ba-da ah   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Bum, bum, bum-ba-da, ba-da (Oh, ah-ah-ah-ah)   </dd>  <dd>   Bum, bum, bum-ba-da ah (Oh, ah-ah-ah-ah)   </dd> </dl> <b>[Big McIntosh]</b>  <dl>  <dd>   Everypony's sayin' you should learn to express your voice   </dd>  <dd>   But if talk doesn't seem like it's the answer   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Luckily you have a choice   </dd>  <dd>   When you find you've got the music (   <b>Rarity</b>: Fiiiiiiiiiiiiiiind the music)   </dd>  <dd>   Got the music in you (   <b>Rarity</b>: Oh, you)   </dd>  <dd>   Find you've got the music (   <b>Rarity</b>: Fiiiiiiiiiiiiiiiiind the music)   </dd>  <dd>   Got the music in you   </dd> </dl> 
 <b>Fluttershy</b>: [sighs] 
 <b>Spike</b>: Woo-hoo, yeah! Rarity, you were awesome! 
-<b>Rarity</b>: Uh, thank you, Spike, but this 
- <i>is</i> an ensemble. 
+<b>Rarity</b>: Uh, thank you, Spike, but this  <i>is</i> an ensemble. 
 <b>Spike</b>: Eh, the rest of you were pretty good too. 
 <b>Fluttershy</b>: Oh, I thought you were all amazing, Pony Tones! 
 <b>Torch Song</b>: Thanks, Fluttershy! 
@@ -128,8 +45,7 @@
 <b>Torch Song</b>: Sounds great! 
 <b>Fluttershy</b>: Oh, Rarity, the Pony Tones are really gonna make the Ponyville Pet Center fundraiser so special. Thank you so much for helping me help the animals. 
 <b>Rarity</b>: Oh, yes. It is wonderful when a plan comes together without any sort of drama, isn't it? 
-<b>Fluttershy</b>: Mm-hmm. [giggles] 
-[owl hoots] 
+<b>Fluttershy</b>: Mm-hmm. [giggles] [owl hoots] 
 [rooster crows] 
 [animals making various noises] 
 <b>Torch Song</b>: Morning, Fluttershy! 
@@ -143,27 +59,21 @@
 <b>Rarity</b>: Big Mac! Did you lose your voice? 
 <b>Big McIntosh</b>: [gulps] [croaking] Eeyup. 
 <b>The Ponytones</b>: [gasps] 
-<b>Fluttershy</b>: [gasps] 
-<b>Rarity</b>: Whatever did you do to cause this? 
-<b>Big McIntosh</b>: [croaking] Well... 
-<b>Applejack</b>: [through microphone] Howdy, everypony, and welcome to the twelfth annual Ponyville turkey call! 
+<b>Fluttershy</b>: [gasps] <b>Rarity</b>: Whatever did you do to cause this? 
+<b>Big McIntosh</b>: [croaking] Well... <b>Applejack</b>: [through microphone] Howdy, everypony, and welcome to the twelfth annual Ponyville turkey call! 
 [ponies cheering] 
 [turkey gobbles] 
 <b>Applejack</b>: Who will take the title this year? Will it be somepony new? Or will the turkey call champion of six years defend his title to make it lucky number seven? 
 <b>Granny Smith</b>: We'll find out if you stop your gabbin' and get on with the gobblin'! 
 <b>Applejack</b>: Alright, everypony! Let's talk turkey! Big Mac, you're up! 
-<b>Big McIntosh</b>: [inhales] 
-<b>Rarity</b>: A...a...a turkey call? You lost your voice doing a... a 
- <i>turkey call</i>?! 
-<b>Pinkie Pie</b>: Lost his voice 
- <i>and</i> the title! [gobbles] 
+<b>Big McIntosh</b>: [inhales] <b>Rarity</b>: A...a...a turkey call? You lost your voice doing a... a  <i>turkey call</i>?! 
+<b>Pinkie Pie</b>: Lost his voice  <i>and</i> the title! [gobbles] 
 <b>Rarity</b>: Now we can't perform tonight! 
 <b>Fluttershy</b>: Wait, what? No! You have to perform! Otherwise, the fundraiser will be a disaster! 
 <b>Rarity</b>: Well, we cannot perform tonight with only three voices. 
 <b>Fluttershy</b>: Why not? 
 <b>Rarity</b>: It would take rearranging all the music, and we just don't have time. I'm sorry, Fluttershy, but I have no remedy for this situation. 
-<b>Fluttershy</b>: [gasps] Of course! A remedy! Follow me! 
-<b>Zecora</b>: Hmmm. 
+<b>Fluttershy</b>: [gasps] Of course! A remedy! Follow me! <b>Zecora</b>: Hmmm. 
 <b>Big McIntosh</b>: [croaking] Ahhhh. 
 <b>Zecora</b>: Hmmm. 
 <b>Big McIntosh</b>: [croaking] Ahhh— 
@@ -181,21 +91,16 @@
 <b>Fluttershy</b>: [gasps] Flutterguy! 
 <b>Zecora</b>: With these leaves I can mix a brew, creating the same effect on you. 
 <b>Rarity</b>: Zecora, that's fantastic! 
-<b>Fluttershy</b>: Yes! I'll do it! I'd do 
- <i>anything</i> for the animals! 
+<b>Fluttershy</b>: Yes! I'll do it! I'd do  <i>anything</i> for the animals! 
 <b>Rarity</b>: Why, you'd even appear on stage! 
 <b>Fluttershy</b>: Oh. Except that. I just can't bring myself to sing on stage in front of everypony. 
-<b>Rarity</b>: What if you sang 
- <i>not</i> in front of everypony? 
+<b>Rarity</b>: What if you sang  <i>not</i> in front of everypony? 
 <b>Fluttershy</b>: Huh? 
-<b>Rarity</b>: What if Big Mac was 
- <i>on</i>stage, moving his lips while you're 
- <i>behind</i> the curtains singing his part? It would be just like singing in your house! Nopony would know it was you! 
+<b>Rarity</b>: What if Big Mac was  <i>on</i>stage, moving his lips while you're  <i>behind</i> the curtains singing his part? It would be just like singing in your house! Nopony would know it was you! 
 <b>Fluttershy</b>: Even still, I just don't think I could sing in front of... 
 <b>Rarity</b>: You must! For the animals! 
 <b>Angel</b>: [squeaking] 
-<b>Fluttershy</b>: Oh... Okay then... [gulps] Mix it up! 
-<b>Rarity</b>: [hushed] Now, do it just like we practiced! 
+<b>Fluttershy</b>: Oh... Okay then... [gulps] Mix it up! <b>Rarity</b>: [hushed] Now, do it just like we practiced! 
 <b>Fluttershy</b>: [inhales] 
 <b>Crowd</b>: [excited chatter] 
 <b>Rarity</b>: Good evening, citizens of Ponyville! I want to thank you all for coming out tonight and generously supporting the Ponyville Pet Center! Thanks to your kindness, pets are finding loving homes, and we're sure to meet our fundraising goal! 
@@ -205,124 +110,10 @@
 <b>Crowd</b>: [cheering] 
 <b>Rarity</b>: [blows pitch pipe] 
 <b>Fluttershy</b>: [inhales] 
-<b>Big McIntosh</b>: [croaking] [inhales] 
-<b>[Fluttershy (male voice)]</b> 
- <dl>
-  <dd>
-   Bum, bum, bum-ba-da, ba-da 
-  </dd>
-  <dd>
-   Bum, bum, bum-ba-da ah 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Bum, bum, bum-ba-da, ba-da (Oh, ah-ah-ah-ah) 
-  </dd>
-  <dd>
-   Bum, bum, bum-ba-da ah (Oh, ah-ah-ah-ah) 
-  </dd>
-  <dd>
-   Bum, bum, bum-ba-da, ba-da (Oh, ah-ah-ah-ah) 
-  </dd>
-  <dd>
-   Bum, bum, bum-ba-da ah (Oh, ah-ah-ah-ah) 
-  </dd>
- </dl> 
-<b>[Fluttershy (male voice)]</b> 
- <dl>
-  <dd>
-   Trot outside and you see the sunshine 
-  </dd>
-  <dd>
-   Something's in the air today 
-  </dd>
-  <dd>
-   Sky is clear and you're feelin' so fine 
-  </dd>
-  <dd>
-   Everything's gonna be a-okay 
-  </dd>
- </dl> 
-<b>[Toe-Tapper and Torch Song]</b> 
- <dl>
-  <dd>
-   If you listen carefully 
-  </dd>
-  <dd>
-   On every corner there's a rhythm playing 
-  </dd>
- </dl> 
-<b>[Toe-Tapper and Rarity]</b> 
- <dl>
-  <dd>
-   Then it happens suddenly 
-  </dd>
-  <dd>
-   The music takes you over and you'll 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Find you've got the music (
-   <b>Rarity</b>: Fiiiiiiiiiiiiiiind the music) 
-  </dd>
-  <dd>
-   Got the music in you (
-   <b>Rarity</b>: Oh, you) 
-  </dd>
-  <dd>
-   Find you've got the music (
-   <b>Rarity</b>: Fiiiiiiiiiiiiiiiiind the music) 
-  </dd>
-  <dd>
-   Got the music in you 
-  </dd>
- </dl> 
-<b>[Fluttershy (male voice)]</b> 
- <dl>
-  <dd>
-   Oh, o-o-oh 
-  </dd>
-  <dd>
-   Everypony's sayin' you should learn to express your voice 
-  </dd>
-  <dd>
-   But if talk doesn't seem like it's the answer 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Luckily you have a choice 
-  </dd>
-  <dd>
-   When you find you've got the music (
-   <b>Rarity</b>: Fiiiiiiiiiiiiiiind the music) 
-  </dd>
-  <dd>
-   Got the music in you (
-   <b>Rarity</b>: Oh, you) 
-  </dd>
-  <dd>
-   Find you've got the music (
-   <b>Rarity</b>: Fiiiiiiiiiiiiiiiiind the music) 
-  </dd>
-  <dd>
-   Got the music in you 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Got the music, got the music in you! 
-  </dd>
- </dl> 
+<b>Big McIntosh</b>: [croaking] [inhales] <b>[Fluttershy (male voice)]</b>  <dl>  <dd>   Bum, bum, bum-ba-da, ba-da   </dd>  <dd>   Bum, bum, bum-ba-da ah   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Bum, bum, bum-ba-da, ba-da (Oh, ah-ah-ah-ah)   </dd>  <dd>   Bum, bum, bum-ba-da ah (Oh, ah-ah-ah-ah)   </dd>  <dd>   Bum, bum, bum-ba-da, ba-da (Oh, ah-ah-ah-ah)   </dd>  <dd>   Bum, bum, bum-ba-da ah (Oh, ah-ah-ah-ah)   </dd> </dl> <b>[Fluttershy (male voice)]</b>  <dl>  <dd>   Trot outside and you see the sunshine   </dd>  <dd>   Something's in the air today   </dd>  <dd>   Sky is clear and you're feelin' so fine   </dd>  <dd>   Everything's gonna be a-okay   </dd> </dl> <b>[Toe-Tapper and Torch Song]</b>  <dl>  <dd>   If you listen carefully   </dd>  <dd>   On every corner there's a rhythm playing   </dd> </dl> <b>[Toe-Tapper and Rarity]</b>  <dl>  <dd>   Then it happens suddenly   </dd>  <dd>   The music takes you over and you'll   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Find you've got the music (   <b>Rarity</b>: Fiiiiiiiiiiiiiiind the music)   </dd>  <dd>   Got the music in you (   <b>Rarity</b>: Oh, you)   </dd>  <dd>   Find you've got the music (   <b>Rarity</b>: Fiiiiiiiiiiiiiiiiind the music)   </dd>  <dd>   Got the music in you   </dd> </dl> <b>[Fluttershy (male voice)]</b>  <dl>  <dd>   Oh, o-o-oh   </dd>  <dd>   Everypony's sayin' you should learn to express your voice   </dd>  <dd>   But if talk doesn't seem like it's the answer   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Luckily you have a choice   </dd>  <dd>   When you find you've got the music (   <b>Rarity</b>: Fiiiiiiiiiiiiiiind the music)   </dd>  <dd>   Got the music in you (   <b>Rarity</b>: Oh, you)   </dd>  <dd>   Find you've got the music (   <b>Rarity</b>: Fiiiiiiiiiiiiiiiiind the music)   </dd>  <dd>   Got the music in you   </dd> </dl> <dl>  <dd>   Got the music, got the music in you!   </dd> </dl> 
 <b>Crowd</b>: [cheering] Pony Tones! Pony Tones! 
 <b>Twilight Sparkle</b>: Pony Tones! That was truly amazing! 
-<b>Applejack</b>: And 
- <i>you</i> sounded better than ever, big brother! 
+<b>Applejack</b>: And  <i>you</i> sounded better than ever, big brother! 
 <b>Big McIntosh</b>: [chuckles] 
 <b>Pinkie Pie</b>: Fluttershy, you were on the wrong side of the curtain! You totally missed the show! 
 <b>Rarity</b>: Uh, just like a true professional, Fluttershy was backstage making sure everything ran smoothly! [hushed, to Fluttershy] And it was perfect. 
@@ -332,138 +123,24 @@
 <b>Nightjar</b>: And we were wondering if you would consider performing at my daughter Zipporwhill's cute-ceañera. 
 <b>Zipporwhill</b>: Will you? Will you? 
 <b>Rarity</b>: We'd love to! When is it? Next week? Next month? 
-<b>Nightjar</b> and 
- <b>Zipporwhill</b>: Tomorrow! 
+<b>Nightjar</b> and  <b>Zipporwhill</b>: Tomorrow! 
 <b>Rarity</b>: Oh, gracious, I'm terribly sorry, but that's much too last minute. 
 <b>Zipporwhill</b>: Oh, no... 
 <b>Nightjar</b>: Well... I understand. 
 <b>Fluttershy</b>: [deep male voice] Oh, Rarity, we can't disappoint that sweet little filly. 
-<b>Rarity</b>: [hushed] Are you sure you're up for it? 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   When you find you've got the music 
-  </dd>
-  <dd>
-   Got the music in you 
-  </dd>
-  <dd>
-   Find you've got the music 
-  </dd>
-  <dd>
-   Got the music in you 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Got the music, got the music in you! 
-  </dd>
- </dl> 
-<b>Foals</b>: [cheering] 
+<b>Rarity</b>: [hushed] Are you sure you're up for it? <b>[The Pony Tones]</b>  <dl>  <dd>   When you find you've got the music   </dd>  <dd>   Got the music in you   </dd>  <dd>   Find you've got the music   </dd>  <dd>   Got the music in you   </dd> </dl> <dl>  <dd>   Got the music, got the music in you!   </dd> </dl> <b>Foals</b>: [cheering] 
 <b>Zipporwhill</b>: Whoo, yeah, alright! We got the Pony Tones, we got the Pony Tones! 
 <b>Mayor Mare</b>: Amazing, Pony Tones! And it would be even more amazing if you could perform at my ribbon-cutting ceremony tomorrow! 
 <b>Rarity</b>: Oh, Mayor, we would love to, but... [clears throat] Would you excuse us for a second, Mayor? 
 <b>Mayor Mare</b>: Certainly. 
 <b>Rarity</b>: [hushed] Don't worry, Fluttershy, you don't have to perform again. 
 <b>Fluttershy</b>: [deep male voice] But we wouldn't want to disappoint the Mayor. 
-<b>Rarity</b>: Well, then... Mayor? The Pony Tones will happily perform at your ceremony! 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   [harmonizing] 
-  </dd>
- </dl> 
-<b>[Fluttershy (male voice)]</b> 
- <dl>
-  <dd>
-   Trot outside and see the sunshine 
-  </dd>
-  <dd>
-   Something's in the air today 
-  </dd>
-  <dd>
-   Sky is clear and you're feelin' so fine 
-  </dd>
-  <dd>
-   Everything's gonna be a-okay 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   [harmonizing] 
-  </dd>
- </dl> 
-<b>Fluttershy</b>: [deep male voice] We wouldn't want to disappoint the spa patrons. 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   If you listen carefully 
-  </dd>
-  <dd>
-   On every corner there's a rhythm playing 
-  </dd>
-  <dd>
-   Then it happens suddenly 
-  </dd>
-  <dd>
-   The music takes you over and you'll 
-  </dd>
- </dl> 
-<b>Fluttershy</b>: [deep male voice] We wouldn't want to disappoint the schoolponies. 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Find you've got the music 
-  </dd>
-  <dd>
-   Find it in your heart, you can 
-  </dd>
-  <dd>
-   Find it, oh yeah 
-  </dd>
-  <dd>
-   Got the music in you now 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Got the music, got the music in you! 
-  </dd>
- </dl> 
-<b>Foals</b>: [cheering] 
-<b>Rarity</b>: Fluttershy, we must talk to you. Big Mac's voice is all better! 
+<b>Rarity</b>: Well, then... Mayor? The Pony Tones will happily perform at your ceremony! <b>[The Pony Tones]</b>  <dl>  <dd>   [harmonizing]   </dd> </dl> <b>[Fluttershy (male voice)]</b>  <dl>  <dd>   Trot outside and see the sunshine   </dd>  <dd>   Something's in the air today   </dd>  <dd>   Sky is clear and you're feelin' so fine   </dd>  <dd>   Everything's gonna be a-okay   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   [harmonizing]   </dd> </dl> <b>Fluttershy</b>: [deep male voice] We wouldn't want to disappoint the spa patrons. <b>[The Pony Tones]</b>  <dl>  <dd>   If you listen carefully   </dd>  <dd>   On every corner there's a rhythm playing   </dd>  <dd>   Then it happens suddenly   </dd>  <dd>   The music takes you over and you'll   </dd> </dl> <b>Fluttershy</b>: [deep male voice] We wouldn't want to disappoint the schoolponies. <b>[The Pony Tones]</b>  <dl>  <dd>   Find you've got the music   </dd>  <dd>   Find it in your heart, you can   </dd>  <dd>   Find it, oh yeah   </dd>  <dd>   Got the music in you now   </dd> </dl> <dl>  <dd>   Got the music, got the music in you!   </dd> </dl> <b>Foals</b>: [cheering] <b>Rarity</b>: Fluttershy, we must talk to you. Big Mac's voice is all better! 
 <b>Big McIntosh</b>: Eeyup. 
 <b>Rarity</b>: Now you can bathe in the poison joke antidote and sound like your lovely self again. 
-<b>Fluttershy</b>: [deep male voice] It's just... I didn't know that last performance was my 
- <i>last</i> performance. 
+<b>Fluttershy</b>: [deep male voice] It's just... I didn't know that last performance was my  <i>last</i> performance. 
 <b>Rarity</b>: Fluttershy, stop! Ohhh... [to Big McIntosh] Would it be okay if Fluttershy sang for you one last time? 
-<b>Big McIntosh</b>: Hmm. Eeyup. 
-<b>[Fluttershy (male voice)]</b> 
- <dl>
-  <dd>
-   Hey, find it, oh why, you can find it 
-  </dd>
-  <dd>
-   In your heart, yeah, find the music, yeah 
-  </dd>
-  <dd>
-   It's in you right now! Oh, yeah! 
-  </dd>
-  <dd>
-   You can find the music! 
-  </dd>
- </dl> 
-[crash, music fades] 
-<b>[Fluttershy (male voice)]</b> 
- <dl>
-  <dd>
-   Yeah, yeah, I love the music, ye— 
-  </dd>
- </dl> 
-<b>Rest of main cast</b>: 
- <i>Fluttershy?!</i> 
-<b>Crowd</b>: [cheering] 
+<b>Big McIntosh</b>: Hmm. Eeyup. <b>[Fluttershy (male voice)]</b>  <dl>  <dd>   Hey, find it, oh why, you can find it   </dd>  <dd>   In your heart, yeah, find the music, yeah   </dd>  <dd>   It's in you right now! Oh, yeah!   </dd>  <dd>   You can find the music!   </dd> </dl> [crash, music fades] <b>[Fluttershy (male voice)]</b>  <dl>  <dd>   Yeah, yeah, I love the music, ye—   </dd> </dl> <b>Rest of main cast</b>:  <i>Fluttershy?!</i> <b>Crowd</b>: [cheering] 
 [cheering fades into eerie laughing] 
 <b>Fluttershy</b>: [deep male voice] [starts crying] 
 <b>Applejack</b>: Big Mac, you got some 'splainin' to do! [beat] Turkey call? 
@@ -484,22 +161,16 @@
 <b>Big McIntosh</b>: Eeyup. 
 <b>Applejack</b>: And that shy filly was livin' her dream in the shadows because she couldn't bring herself to come into the spotlight? 
 <b>Big McIntosh</b>: Eeyup. 
-<b>Applejack</b>: Well, for corn's sake! Let's go! 
-<b>Twilight Sparkle</b>: Fluttershy? You in here? 
+<b>Applejack</b>: Well, for corn's sake! Let's go! <b>Twilight Sparkle</b>: Fluttershy? You in here? 
 <b>Fluttershy</b>: [normal voice] Yes... I'm here. 
-<b>Pinkie Pie</b>: That was totally unbelievable! I mean, the curtain came up and there you were, singing in front of everypony! And you know, I don't think anypony was jealous, 'cause there certainly wasn't an 
- <i>angry mob</i>! But it must have been 
- <i>horrible</i> standing there on stage, all eyes 
- <i>glued</i> directly on you! It's like you were living your own personal worst nightmare! 
+<b>Pinkie Pie</b>: That was totally unbelievable! I mean, the curtain came up and there you were, singing in front of everypony! And you know, I don't think anypony was jealous, 'cause there certainly wasn't an  <i>angry mob</i>! But it must have been  <i>horrible</i> standing there on stage, all eyes  <i>glued</i> directly on you! It's like you were living your own personal worst nightmare! 
 <b>Fluttershy</b>: [crying] It was. 
 <b>Pinkie Pie</b>: What? Too much? 
 <b>Fluttershy</b>: [crying] 
 <b>Twilight Sparkle</b>: What Pinkie meant to say is that you were really great! 
 <b>Pinkie Pie</b>: Wait! Didn't I say that? 
 <b>Rarity</b>: Hardly! 
-<b>Pinkie Pie</b>: Whoops. 
- <i>You were great!</i> 
-<b>Fluttershy</b>: [out of breath crying] 
+<b>Pinkie Pie</b>: Whoops.  <i>You were great!</i> <b>Fluttershy</b>: [out of breath crying] 
 <b>Rainbow Dash</b>: You totally blew my mind! 
 <b>Applejack</b>: Incredible! 
 <b>Pinkie Pie</b>: Though, no offense... you kind of sounded like a dude. 
@@ -510,103 +181,18 @@
 <b>Pinkie Pie</b>: Are you kidding me?! 
 <b>Rarity</b>: Can we please stop running? 
 <b>Fluttershy</b>: [panting] 
-<b>Rarity</b>: I just don't understand 
- <i>why</i>, Fluttershy. After all, 
- <i>you're</i> the one that wanted the Pony Tones to sing for every silly thing that was requested of us. 
+<b>Rarity</b>: I just don't understand  <i>why</i>, Fluttershy. After all,  <i>you're</i> the one that wanted the Pony Tones to sing for every silly thing that was requested of us. 
 <b>Fluttershy</b>: You mean, you knew I really wanted to perform? 
 <b>Rarity</b>: Of course I knew! 
 <b>Fluttershy</b>: Oh... 
 <b>Rarity</b>: And, for all her babbling, Pinkie Pie was right about one thing. 
-<b>Pinkie Pie</b>: Only 
- <i>one</i>?! 
+<b>Pinkie Pie</b>: Only  <i>one</i>?! 
 <b>Rarity</b>: When that curtain fell, and everypony saw you singing, you lived your worst nightmare! Was it really that bad? 
 <b>Fluttershy</b>: Yes! 
 <b>Twilight Sparkle</b>: Well, what was so bad about it? 
 <b>Rainbow Dash</b>: The thunderous applause? 
 <b>Applejack</b>: The praise for your fantastic singin'? 
-<b>Pinkie Pie</b>: The 
- <i>screaming fans</i>?! 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   There's music in the treetops 
-  </dd>
-  <dd>
-   And there's music in the vale 
-  </dd>
-  <dd>
-   And all around the music fills the sky 
-  </dd>
-  <dd>
-   There's music by the river 
-  </dd>
-  <dd>
-   And there's music in the grass 
-  </dd>
-  <dd>
-   And the music makes your heart soar in reply 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   When you find you've got the music 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   You've got to look inside and find 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Find you've got the music 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   The music deep inside you 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Find you've got the music 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   'Cause when you look inside, you'll see it 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   Find you've got the music 
-  </dd>
- </dl> 
-<b>[Fluttershy]</b> 
- <dl>
-  <dd>
-   You're gonna find it, gonna find 
-  </dd>
- </dl> 
-<b>[The Pony Tones]</b> 
- <dl>
-  <dd>
-   You've got the music 
-  </dd>
-  <dd>
-   Got the music, got the music 
-  </dd>
-  <dd>
-   Got the music in you! 
-  </dd>
- </dl> 
+<b>Pinkie Pie</b>: The  <i>screaming fans</i>?! <b>[Fluttershy]</b>  <dl>  <dd>   There's music in the treetops   </dd>  <dd>   And there's music in the vale   </dd>  <dd>   And all around the music fills the sky   </dd>  <dd>   There's music by the river   </dd>  <dd>   And there's music in the grass   </dd>  <dd>   And the music makes your heart soar in reply   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   When you find you've got the music   </dd> </dl> <b>[Fluttershy]</b>  <dl>  <dd>   You've got to look inside and find   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Find you've got the music   </dd> </dl> <b>[Fluttershy]</b>  <dl>  <dd>   The music deep inside you   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Find you've got the music   </dd> </dl> <b>[Fluttershy]</b>  <dl>  <dd>   'Cause when you look inside, you'll see it   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   Find you've got the music   </dd> </dl> <b>[Fluttershy]</b>  <dl>  <dd>   You're gonna find it, gonna find   </dd> </dl> <b>[The Pony Tones]</b>  <dl>  <dd>   You've got the music   </dd>  <dd>   Got the music, got the music   </dd>  <dd>   Got the music in you!   </dd> </dl> 
 <b>Rest of main cast</b>: [cheering] 
 <b>Rainbow Dash</b>: You did it, Fluttershy! 
 <b>Applejack</b>: See? That wasn't so bad. 
@@ -615,14 +201,7 @@
 <b>Fluttershy</b>: Surprisingly... okay! 
 <b>Rarity</b>: Fantastic, because the Pony Tones have been booked for the Apple Family Zap Apple Jam Extraordinaire! 
 <b>Fluttershy</b>: Oh, no... I couldn't do that! 
-<b>Applejack</b>: How come? 
-<b>Rainbow Dash</b>: 
-Seriously? 
-<b>Pinkie Pie</b>: 
-For real? 
-<b>Twilight Sparkle</b>: 
-Come on, Fluttershy... 
-<b>Fluttershy</b>: I'll get there someday. But for now... baby steps, everypony. Baby steps. 
-<b>Fluttershy</b>: 
- <i>Sometimes, being afraid can stop you from doing something that you love, but hiding behind these fears means you're only hiding from your true self. It's much better to face those fears so you can shine and be the best pony you can possibly be.</i> 
-[credits] 
+<b>Applejack</b>: How come? <b>Rainbow Dash</b>: 
+Seriously? <b>Pinkie Pie</b>: 
+For real? <b>Twilight Sparkle</b>: 
+Come on, Fluttershy... <b>Fluttershy</b>: I'll get there someday. But for now... baby steps, everypony. Baby steps. <b>Fluttershy</b>:  <i>Sometimes, being afraid can stop you from doing something that you love, but hiding behind these fears means you're only hiding from your true self. It's much better to face those fears so you can shine and be the best pony you can possibly be.</i> [credits] 

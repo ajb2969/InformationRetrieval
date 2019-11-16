@@ -1,17 +1,8 @@
-[Previously on My Little Pony] 
-<b>Spike</b>: Starlight Glimmer? 
-<b>Twilight Sparkle</b>: I was sure I saw her, Spike! 
-<b>Starlight Glimmer</b>: Welcome home, Twilight! 
-<b>Spike</b>: We traveled back in time to when Rainbow Dash performed her first sonic rainboom? 
-<b>Starlight Glimmer</b>: Without the rainboom, you and your friends will 
- <i>never</i> form your special cutie mark bond! 
-<b>Twilight Sparkle</b>: But whatever Starlight did in the past changed things here! 
-<b>Twilight Sparkle</b>: I don't want to live in that awful future we saw! 
+[Previously on My Little Pony] <b>Spike</b>: Starlight Glimmer? 
+<b>Twilight Sparkle</b>: I was sure I saw her, Spike! <b>Starlight Glimmer</b>: Welcome home, Twilight! <b>Spike</b>: We traveled back in time to when Rainbow Dash performed her first sonic rainboom? <b>Starlight Glimmer</b>: Without the rainboom, you and your friends will  <i>never</i> form your special cutie mark bond! <b>Twilight Sparkle</b>: But whatever Starlight did in the past changed things here! <b>Twilight Sparkle</b>: I don't want to live in that awful future we saw! 
 <b>Spike</b>: I don't think you'll have to. 
-<b>Fluttershy</b>: All servants of Queen Chrysalis found in these woods must be... 
- <i>destroyed</i>! 
-<b>Twilight Sparkle</b>: [gulps] 
-<b>Twilight Sparkle</b>: Wait! We're not changelings! I'm a pony! And he's a dragon! 
+<b>Fluttershy</b>: All servants of Queen Chrysalis found in these woods must be...  <i>destroyed</i>! 
+<b>Twilight Sparkle</b>: [gulps] <b>Twilight Sparkle</b>: Wait! We're not changelings! I'm a pony! And he's a dragon! 
 <b>Pinkie Pie</b>: A likely story! Do something dragonish! 
 <b>Spike</b>: [belches] 
 <b>Pinkie Pie</b>: [wheezes] That works! 
@@ -21,32 +12,25 @@
 <b>Zecora</b>: Beneath this salve, no changeling hides, for it reveals the truth inside. 
 [ponies gasping] 
 <b>Pinkie Pie</b>: What does it mean? 
-<b>Zecora</b>: The meaning is far worse, I see, for it is 
- <i>we</i> who should not be. 
+<b>Zecora</b>: The meaning is far worse, I see, for it is  <i>we</i> who should not be. 
 <b>Twilight Sparkle</b>: I think I can explain. 
-<b>Zecora</b>: I'm sure you can, but let's not talk here. Chrysalis and her army will soon draw near! 
-<b>Zecora</b>: The changelings took over not long ago. Though I'll wager in your world that isn't so. 
+<b>Zecora</b>: I'm sure you can, but let's not talk here. Chrysalis and her army will soon draw near! <b>Zecora</b>: The changelings took over not long ago. Though I'll wager in your world that isn't so. 
 <b>Twilight Sparkle</b>: Chrysalis and her army tried to take over Canterlot, but my friends and I stopped her. 
 <b>Zecora</b>: Those friends as you know them are not here, alas. But tell me how all this came to pass. 
 <b>Twilight Sparkle</b>: Starlight Glimmer, a pony who traveled back in time to stop my friends and me from ever coming together! 
 <b>Zecora</b>: And it is these friends you have in life that keep Equestria free from strife? 
-<b>Twilight Sparkle</b>: I guess so. But this is the second time I've come back and 
- <i>this</i> world is even worse than the last one! If Starlight keeps doing the same thing in the past, how could the present be so different? 
-<b>Zecora</b>: Ah. Time is a river, where even the tiniest changes seen can lead to a cascade of effects downstream. 
-<b>Zecora</b>: This part of the forest is dark and damp, but it's done well to hide our camp. 
+<b>Twilight Sparkle</b>: I guess so. But this is the second time I've come back and  <i>this</i> world is even worse than the last one! If Starlight keeps doing the same thing in the past, how could the present be so different? 
+<b>Zecora</b>: Ah. Time is a river, where even the tiniest changes seen can lead to a cascade of effects downstream. <b>Zecora</b>: This part of the forest is dark and damp, but it's done well to hide our camp. 
 [thunk] 
 <b>Spike</b>: This is cozy. 
 <b>Rarity</b>: [shrieks] Please! You have to help us! 
 <b>Rainbow Dash</b>: The changelings attacked Ponyville! We barely escaped with our lives! 
 <b>Zecora</b>: The only changeling attack I see is the one that come here looking for me! 
-<b>Applejack</b>: It's taken quite a while to find you, 
- <i>Zecora</i>. [laughs] 
-<b>Queen Chrysalis</b>: [laughs] What a lovely village you've chosen to stage your little 
- <i>resistance</i>. It looks absolutely delicious! [slurping] Oh, come now, Zecora. You're vastly outnumbered. 
+<b>Applejack</b>: It's taken quite a while to find you,  <i>Zecora</i>. [laughs] 
+<b>Queen Chrysalis</b>: [laughs] What a lovely village you've chosen to stage your little  <i>resistance</i>. It looks absolutely delicious! [slurping] Oh, come now, Zecora. You're vastly outnumbered. 
 [changeling wings humming] 
 <b>Queen Chrysalis</b>: I know you don't want your charges hurt. Come quietly to the dungeons of Canterlot and I promise to leave the others alone. 
-<b>Fluttershy</b>: Why would she ever trust 
- <i>you</i>?! 
+<b>Fluttershy</b>: Why would she ever trust  <i>you</i>?! 
 <b>Twilight Sparkle</b>: Even if there's a chance Chrysalis will honor her word, shouldn't you try? 
 <b>Zecora</b>: [hushed] Race to the map while we hold off their attack. Stop Starlight and put the whole world back on track! 
 <b>Queen Chrysalis</b>: Time to make a decision, Zecora! 
@@ -54,33 +38,25 @@
 [sounds of battle, changeling wings] 
 <b>Twilight Sparkle</b>: [panting] 
 [changeling roars] 
-[magic zaps] 
-[magic zaps] 
-<b>Starlight Glimmer</b>: Not bad, but it's gonna take a lot more than 
- <i>that</i>! 
+[magic zaps] [magic zaps] 
+<b>Starlight Glimmer</b>: Not bad, but it's gonna take a lot more than  <i>that</i>! 
 <b>Twilight Sparkle</b>: Lucky for you, there's more where that came from! 
 [many magic zaps] 
-<b>Starlight Glimmer</b>: You've 
- <i>really</i> gotta work on your aim. 
+<b>Starlight Glimmer</b>: You've  <i>really</i> gotta work on your aim. 
 [many magic zaps] 
-<b>Twilight Sparkle</b> and 
- <b>Starlight Glimmer</b>: [panting] 
+<b>Twilight Sparkle</b> and  <b>Starlight Glimmer</b>: [panting] 
 [magic zaps] 
 <b>Young Rainbow Dash</b>: Whoa! [chewing] 
 [magic zaps] 
 <b>Twilight Sparkle</b>: What are you doing? You have to finish your race! 
-<b>Young Rainbow Dash</b>: No way! This is 
- <i>way</i> more exciting! 
+<b>Young Rainbow Dash</b>: No way! This is  <i>way</i> more exciting! 
 <b>Starlight Glimmer</b>: See? You can't stop me no matter what you do. 
 [magic zaps] 
-<b>Young Rainbow Dash</b>: Aw, man. 
-[magic zaps] 
+<b>Young Rainbow Dash</b>: Aw, man. [magic zaps] 
 [thuds] 
-<b>Twilight Sparkle</b> and 
- <b>Spike</b>: [groans] 
+<b>Twilight Sparkle</b> and  <b>Spike</b>: [groans] 
 <b>Spike</b>: That's strange. 
-<b>Twilight Sparkle</b>: Well, you obviously don't mean us falling, because 
- <i>that's</i> becoming pretty routine. 
+<b>Twilight Sparkle</b>: Well, you obviously don't mean us falling, because  <i>that's</i> becoming pretty routine. 
 <b>Spike</b>: No, it's just the other times we've come back, it's been day! But look! 
 <b>Twilight Sparkle</b>: Why would the map bring us back to a different time of day than when we left? 
 [branches cracking] 
@@ -90,39 +66,31 @@
 [timberwolves howling] 
 <b>Twilight Sparkle</b>: [gasps] The Castle of the Two Sisters! 
 [timberwolves howling] 
-<b>Spike</b>: Well, don't just stand here! 
-[door opens and closes] 
+<b>Spike</b>: Well, don't just stand here! [door opens and closes] 
 <b>Spike</b>: This place looks a lot cleaner than I remember. 
 <b>Twilight Sparkle</b>: Rarity? 
 <b>Rarity</b>: The castle isn't open for viewings today. The tapestries all need changing. Again. 
 <b>Spike</b>: Rarity, it's me! 
-<b>Rarity</b>: I don't socialize with 
- <i>dragons</i>. I don't know anypony who would. 
+<b>Rarity</b>: I don't socialize with  <i>dragons</i>. I don't know anypony who would. 
 <b>Spike</b>: [whimpers] 
 <b>Twilight Sparkle</b>: Rarity, you have to listen to me! The future of Equestria's at stake! 
 <b>Rarity</b>: I don't know how you know my name, but I am far too busy to entertain some tourist's ridiculous fantasies. 
 <b>Twilight Sparkle</b>: I have to get back to the map so I can stop Starlight from changing the past, because every present I come to is worse than the last! 
-<b>Nightmare Moon</b>: Time travel, you say? Now 
- <i>that's</i> something I would like to see. 
-<b>Nightmare Moon</b>: [laughing] Tell me how you came by this magic to travel through time. 
+<b>Nightmare Moon</b>: Time travel, you say? Now  <i>that's</i> something I would like to see. <b>Nightmare Moon</b>: [laughing] Tell me how you came by this magic to travel through time. 
 <b>Rainbow Dash</b>: The princess asked you a question! And unless you wanna end up in the dungeon, you'll tell her what she wants to know! 
 <b>Nightmare Moon</b>: Nopony in my kingdom but me should possess a magic powerful enough to change time. 
-<b>Spike</b>: 
- <i>Your</i> kingdom? 
+<b>Spike</b>:  <i>Your</i> kingdom? 
 <b>Nightmare Moon</b>: Who else? 
 <b>Spike</b>: Um... Celestia, of course! 
 <b>Nightmare Moon</b>: [laughing] My sister has been imprisoned in the moon for years! But it is no less a fate than she'd sentence me to! Now, reveal to me the source of this time magic! 
 <b>Twilight Sparkle</b>: ...Alright. 
 <b>Spike</b>: Twilight, no! 
 <b>Twilight Sparkle</b>: We have no choice, Spike. [to Nightmare Moon] I can take you to it, but you'll have to get past the timberwolves. 
-<b>Nightmare Moon</b>: 
- <i>I</i> am the ruler of all of Equestria. Do you think I can't deal with timberwolves? 
+<b>Nightmare Moon</b>:  <i>I</i> am the ruler of all of Equestria. Do you think I can't deal with timberwolves? 
 <b>Twilight Sparkle</b>: No. I know you can. 
-<b>Nightmare Moon</b>: And if you were thinking of 
- <i>trying</i> to escape... 
+<b>Nightmare Moon</b>: And if you were thinking of  <i>trying</i> to escape... 
 [chains clinking] 
-<b>Nightmare Moon</b>: ...it would be very unfortunate for your friend. 
-[magic zaps] 
+<b>Nightmare Moon</b>: ...it would be very unfortunate for your friend. [magic zaps] 
 [timberwolf whimpering] 
 [crunch] 
 <b>Nightmare Moon</b>: How does it work? 
@@ -133,43 +101,33 @@
 <b>Twilight Sparkle</b>: In my world, my friends and I found the Elements and used them to defeat you! And I will do everything in my power to bring that world back! 
 <b>Nightmare Moon</b>: No! 
 [magic zaps] 
-<b>Nightmare Moon</b>: Noooooo! 
-[magic zaps] 
+<b>Nightmare Moon</b>: Noooooo! [magic zaps] 
 <b>Twilight Sparkle</b>: Now more than ever I know how important it is to stop you! 
 [crunch] 
 <b>Starlight Glimmer</b>: Well, good luck! 
 <b>Young Rainbow Dash</b>: Whoooaaaa! 
-[magic zaps] 
-[crunching] 
-[magic zaps] 
-[magic zaps] 
-<b>Starlight Glimmer</b>: [clapping] 
-[squeaks] 
+[magic zaps] [crunching] 
+[magic zaps] [magic zaps] 
+<b>Starlight Glimmer</b>: [clapping] [squeaks] 
 [splatting] 
-[magic zap] 
-[magic zap] 
+[magic zap] [magic zap] 
 [sound of machinery] 
-[magic zap] 
-[magic zap] 
+[magic zap] [magic zap] 
 <b>Starlight Glimmer</b>: Up for another race-ending fight, Twilight? 
 <b>Twilight Sparkle</b>: No. You were right. I can't stop you. 
 [magic zap] 
 <b>Twilight Sparkle</b>: But you can't stop me from trying, and we could be stuck doing this for all eternity! 
-<b>Starlight Glimmer</b>: If that's what it takes to keep you and your 
- <i>friends</i> from getting your cutie mark connection, then I'm game! 
+<b>Starlight Glimmer</b>: If that's what it takes to keep you and your  <i>friends</i> from getting your cutie mark connection, then I'm game! 
 [magic zap] 
 <b>Twilight Sparkle</b>: What you're doing goes way beyond cutie marks! Everything we do here in the past – even the smallest change – can snowball into an avalanche of trouble for the future! 
 [magic zap] 
 <b>Starlight Glimmer</b>: Oh, next I suppose you'll tell me that "the fate of all of Equestria hangs in the balance"! 
-<b>Twilight Sparkle</b>: It 
- <i>does</i>! 
-<b>Starlight Glimmer</b>: Spare me your overblown ego! No group of friends, not even Princess Twilight's, is 
- <i>that</i> important! 
+<b>Twilight Sparkle</b>: It  <i>does</i>! 
+<b>Starlight Glimmer</b>: Spare me your overblown ego! No group of friends, not even Princess Twilight's, is  <i>that</i> important! 
 [magic zap] 
 <b>Young Rainbow Dash</b>: Aaaaaaah! 
 [magic zaps] 
-<b>Twilight Sparkle</b>: I don't know how important other ponies' friendships are to the future, but I can show you what the world is like without mine! 
-[wind blowing] 
+<b>Twilight Sparkle</b>: I don't know how important other ponies' friendships are to the future, but I can show you what the world is like without mine! [wind blowing] 
 <b>Starlight Glimmer</b>: Where are we?! 
 <b>Twilight Sparkle</b>: The future. Or rather, the present. 
 <b>Starlight Glimmer</b>: But there's nothing here! 
@@ -177,15 +135,11 @@
 <b>Starlight Glimmer</b>: I don't believe you! 
 <b>Spike</b>: Come on, Starlight, look around! 
 <b>Twilight Sparkle</b>: Like I said, everything in the past affects the future, even the tiniest act. And what you're doing leads here. I know I can't stop you, but I thought showing you this might change your mind. 
-<b>Starlight Glimmer</b>: Change my mind? You don't know anything about me! I was perfectly happy before 
- <i>you</i> and your 
- <i>friends</i> ruined what I built! 
+<b>Starlight Glimmer</b>: Change my mind? You don't know anything about me! I was perfectly happy before  <i>you</i> and your  <i>friends</i> ruined what I built! 
 <b>Twilight Sparkle</b>: I don't know what happened that led you to make your village without cutie marks, and I'm sorry my friends and I had to take it away. 
-<b>Starlight Glimmer</b>: You want to know what happened to me?! 
- <i>I'll show you!</i> 
+<b>Starlight Glimmer</b>: You want to know what happened to me?!  <i>I'll show you!</i> 
 [magic zaps] 
-[clocks ticking] 
-<b>Twilight Sparkle</b>: Where are we? 
+[clocks ticking] <b>Twilight Sparkle</b>: Where are we? 
 <b>Starlight Glimmer</b>: That map of yours is connected to every part of Equestria, and this part is my home. 
 [young Starlight Glimmer clapping] 
 <b>Starlight Glimmer</b>: Sunburst and I did everything together. In fact, I don't remember us ever being apart. Until today. 
@@ -198,30 +152,23 @@
 <b>Starlight Glimmer</b>: Because of his cutie mark! He got his, and I didn't! He moved on, and I didn't! I stayed here and never made another friend because I was too afraid another cutie mark would take them away, too! 
 <b>Twilight Sparkle</b>: That's ridiculous. A cutie mark can't take your friends away. 
 <b>Starlight Glimmer</b>: Not everypony's lucky enough to get her cutie mark at the same time as her friends! 
-[magic zaps] 
-[magic zaps] 
+[magic zaps] [magic zaps] 
 <b>Starlight Glimmer</b>: You don't know what it's like to lose a friend because of a cutie mark. But once I stop the rainboom, you will! 
 [magic zaps] 
 <b>Starlight Glimmer</b>: And when I destroy this scroll, there'll be no way for you to change it! 
-[paper ripping] 
-<b>Twilight Sparkle</b>: Starlight, you're right! I don't know what you went through! But I 
- <i>do</i> know you can't do this! I've seen where this leads, and so have you! 
-<b>Starlight Glimmer</b>: I only saw what you showed me! Who knows what'll 
- <i>really</i> happen? 
+[paper ripping] <b>Twilight Sparkle</b>: Starlight, you're right! I don't know what you went through! But I  <i>do</i> know you can't do this! I've seen where this leads, and so have you! 
+<b>Starlight Glimmer</b>: I only saw what you showed me! Who knows what'll  <i>really</i> happen? 
 <b>Twilight Sparkle</b>: I've seen it a dozen times! Things don't turn out well in Equestria without my friends! 
-<b>Starlight Glimmer</b>: Ugh! What's 
- <i>so special</i> about your friends?! How can a group of ponies that are so different be so important?! 
+<b>Starlight Glimmer</b>: Ugh! What's  <i>so special</i> about your friends?! How can a group of ponies that are so different be so important?! 
 <b>Twilight Sparkle</b>: The differences between me and my friends are the very things that make our friendship strong! 
 <b>Starlight Glimmer</b>: I thought Sunburst and I were the same. But we turned out different, and it tore our friendship apart! 
-<b>Twilight Sparkle</b>: So try again! Make new friends! And if something that you can't control happens that changes things, work through it together! That's what friendship is! And it's not just 
- <i>my</i> friendships that are important to Equestria! Everypony's are! When yours ended, it led us here. But just imagine all the others that are out there waiting for you if you just give them a chance! 
+<b>Twilight Sparkle</b>: So try again! Make new friends! And if something that you can't control happens that changes things, work through it together! That's what friendship is! And it's not just  <i>my</i> friendships that are important to Equestria! Everypony's are! When yours ended, it led us here. But just imagine all the others that are out there waiting for you if you just give them a chance! 
 <b>Starlight Glimmer</b>: How do I know they won't all end the same way? 
 <b>Twilight Sparkle</b>: I guess it's up to you to make sure they don't. 
 [whoosh] 
 [paper rustling] 
 [boom] 
-[magic zaps] 
-[magic zaps] 
+[magic zaps] [magic zaps] 
 [thumps] 
 [magic zaps] 
 <b>Spike</b>: [kissing] One Castle of Friendship – check! 
@@ -231,123 +178,20 @@
 <b>Pinkie Pie</b>: [squeals] Can you do it again? 
 <b>Spike</b>: One group of amazing friends – check! 
 <b>Twilight Sparkle</b>: Yeah, Spike. It looks like we're home! 
-<b>Applejack</b>: Uh... what's 
- <i>she</i> doin' here? 
-<b>Twilight Sparkle</b>: Actually, it's kind of a long story. 
-[muffled voices] 
-<b>Rainbow Dash</b>: I mean, I knew my rainboom was 
- <i>awesome</i>, but I never thought all of Equestria depended on it! 
+<b>Applejack</b>: Uh... what's  <i>she</i> doin' here? 
+<b>Twilight Sparkle</b>: Actually, it's kind of a long story. [muffled voices] 
+<b>Rainbow Dash</b>: I mean, I knew my rainboom was  <i>awesome</i>, but I never thought all of Equestria depended on it! 
 <b>Pinkie Pie</b>: Or on us! 
 <b>Twilight Sparkle</b>: I think it's more than that. Friendship connects all of Equestria, and undoing one group of friends made its magic less powerful. 
 <b>Applejack</b>: I can't believe y'all were able to travel through time like that. 
 <b>Pinkie Pie</b>: That Starlight must be pretty magical! 
 <b>Twilight Sparkle</b>: She obviously has more talent for magic than almost anypony I've seen. My magic couldn't stop her. I had to convince her to stop on her own. Once I realized that, everything fell into place. 
 <b>Applejack</b>: But if she's as powerful as all that, we can't just send her on her way, can we? 
-<b>Twilight Sparkle</b>: Actually, I kind of have something else in mind. 
-[door opens] 
+<b>Twilight Sparkle</b>: Actually, I kind of have something else in mind. [door opens] 
 <b>Starlight Glimmer</b>: [gulps, exhales] I know there's no excuse for what I did, but I want you all to know that I'm ready for whatever punishment you think is fair. 
 <b>Twilight Sparkle</b>: I've been thinking a lot about how badly Equestria fared without just one group of friends. Because even when one friendship dies, the results can be disastrous. 
 <b>Starlight Glimmer</b>: I know first-hoof how true that can be. 
 <b>Twilight Sparkle</b>: And that's why I've asked you here. If you're willing to learn, I'm willing to teach you what I know. You'll have the power to make Equestria an even better place. 
 <b>Starlight Glimmer</b>: [hushed] How do I start? 
-<b>Twilight Sparkle</b>: Starting is easy! All you have to do is make a friend! And you've got seven of them right here. 
-<b>[Starlight Glimmer]</b> 
- <dl>
-  <dd>
-   I never thought that I would find a place 
-  </dd>
-  <dd>
-   To step right in and start again 
-  </dd>
-  <dd>
-   I never thought that I could just begin 
-  </dd>
-  <dd>
-   Right where I left off and make a friend 
-  </dd>
- </dl> 
-<b>[Twilight Sparkle]</b> 
- <dl>
-  <dd>
-   Don't ever think that it might be too late 
-  </dd>
-  <dd>
-   You don't have to wait, there's no mistakes with the friends you make 
-  </dd>
-  <dd>
-   A friendship's only made of what you bring 
-  </dd>
-  <dd>
-   And if you do it right, you can do anything 
-  </dd>
- </dl> 
-<b>[Starlight Glimmer and Mane Six]</b> 
- <dl>
-  <dd>
-   Just use your eyes 
-  </dd>
-  <dd>
-   This time, no lies 
-  </dd>
-  <dd>
-   Just don't disguise 
-  </dd>
-  <dd>
-   Who you are inside 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Because your friends are always there for you 
-  </dd>
-  <dd>
-   You don't have to be the same for friendship to be true 
-  </dd>
-  <dd>
-   Because your friends are always there for you 
-  </dd>
-  <dd>
-   Around the world, it's still the same 
-  </dd>
-  <dd>
-   Together you have more to gain 
-  </dd>
-  <dd>
-   There's nothing that a friend won't do 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Everywhere you go 
-  </dd>
-  <dd>
-   Friendship there will grow 
-  </dd>
-  <dd>
-   When you find it, it's the key 
-  </dd>
-  <dd>
-   Friends can change the world, you see 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Everywhere you go 
-  </dd>
-  <dd>
-   Friendship there will grow 
-  </dd>
-  <dd>
-   When you find it, it's the key 
-  </dd>
-  <dd>
-   Friends can change the world (ah-ah) 
-  </dd>
-  <dd>
-   Friends can change the world (ah-ah) 
-  </dd>
-  <dd>
-   Friends can change the world, you see 
-  </dd>
- </dl> 
+<b>Twilight Sparkle</b>: Starting is easy! All you have to do is make a friend! And you've got seven of them right here. <b>[Starlight Glimmer]</b>  <dl>  <dd>   I never thought that I would find a place   </dd>  <dd>   To step right in and start again   </dd>  <dd>   I never thought that I could just begin   </dd>  <dd>   Right where I left off and make a friend   </dd> </dl> <b>[Twilight Sparkle]</b>  <dl>  <dd>   Don't ever think that it might be too late   </dd>  <dd>   You don't have to wait, there's no mistakes with the friends you make   </dd>  <dd>   A friendship's only made of what you bring   </dd>  <dd>   And if you do it right, you can do anything   </dd> </dl> <b>[Starlight Glimmer and Mane Six]</b>  <dl>  <dd>   Just use your eyes   </dd>  <dd>   This time, no lies   </dd>  <dd>   Just don't disguise   </dd>  <dd>   Who you are inside   </dd> </dl> <dl>  <dd>   Because your friends are always there for you   </dd>  <dd>   You don't have to be the same for friendship to be true   </dd>  <dd>   Because your friends are always there for you   </dd>  <dd>   Around the world, it's still the same   </dd>  <dd>   Together you have more to gain   </dd>  <dd>   There's nothing that a friend won't do   </dd> </dl> <dl>  <dd>   Everywhere you go   </dd>  <dd>   Friendship there will grow   </dd>  <dd>   When you find it, it's the key   </dd>  <dd>   Friends can change the world, you see   </dd> </dl> <dl>  <dd>   Everywhere you go   </dd>  <dd>   Friendship there will grow   </dd>  <dd>   When you find it, it's the key   </dd>  <dd>   Friends can change the world (ah-ah)   </dd>  <dd>   Friends can change the world (ah-ah)   </dd>  <dd>   Friends can change the world, you see   </dd> </dl> 
 [credits] 

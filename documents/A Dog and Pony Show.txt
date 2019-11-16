@@ -3,16 +3,11 @@
 <b>Rarity</b>: Coming! Welcome to Carousel Boutique, where every garment is chic, unique, and magnifique. [gasp] Sapphire Shores! The pony of pop! 
 <b>Sapphire Shores</b>: Good afternoon, Miss Rarity! 
 <b>Rarity</b>: You yah... Y-y-you know my name? 
-<b>Sapphire Shores</b>: Well, of course I do, darling. I make it a point to know all of the up-and-coming designers and 
- <i>Clothes Horse</i> magazine simply raved about 
- <i>you</i>. 
+<b>Sapphire Shores</b>: Well, of course I do, darling. I make it a point to know all of the up-and-coming designers and  <i>Clothes Horse</i> magazine simply raved about  <i>you</i>. 
 <b>Rarity</b>: Oh my stars. If I'm dreaming, do not wake me up. How may I help you, Miss Shores? 
 <b>Sapphire Shores</b>: Oh please, call me Sapphire. 
 <b>Rarity</b>: [giggle] How may I help you, Sapphire? 
-<b>Sapphire Shores</b>: Well, as I'm sure you know, I'll be touring all of Equestria with my latest concert, 
- <i>Sapphire Shores' Ziegfilly Follies</i>, so I need to look 
- <i>seeensational</i>! 
- <i>Ow</i>! 
+<b>Sapphire Shores</b>: Well, as I'm sure you know, I'll be touring all of Equestria with my latest concert,  <i>Sapphire Shores' Ziegfilly Follies</i>, so I need to look  <i>seeensational</i>!  <i>Ow</i>! 
 <b>Rarity</b>: I have just what you need. Sapphire Shores, prepare yourself for the pièce de résistance de la haute couture. I used every last diamond I found on this one garment. 
 <b>Sapphire Shores</b>: [gasp] And it is spectacular! I'll take it. 
 <b>Rarity</b>: Really? 
@@ -20,8 +15,7 @@
 <b>Rarity</b>: Beg pardon? 
 <b>Sapphire Shores</b>: Costume changes. 
 <b>Rarity</b>: [faints] 
-<b>Sapphire Shores</b>: [chuckle] Yes, I do have that effect on ponies. 
-<b>Spike</b>: Oh my gosh! Sapphire Shores! The pony of pop! She is awesome! I mean, she's gorgeous and talented and — heh... and not even half the pony you are. I mean, you're ten times more gorgeous and talented and— 
+<b>Sapphire Shores</b>: [chuckle] Yes, I do have that effect on ponies. <b>Spike</b>: Oh my gosh! Sapphire Shores! The pony of pop! She is awesome! I mean, she's gorgeous and talented and — heh... and not even half the pony you are. I mean, you're ten times more gorgeous and talented and— 
 <b>Rarity</b>: Spike, a lady is never jealous. 
 <b>Spike</b>: Eh, of course not. But were you totally flipping out or what?! 
 <b>Rarity</b>: Ladies do not "flip out", Spike. However, I was quite in awe. Oh, I need to find more jewels than ever before to decorate her costumes. Oh, aha! 
@@ -31,17 +25,12 @@
 <b>Rarity</b>: Spike! I promised I'd give you gems to snack on, but we need to collect more first or I'll never be able to make these outfits for Sapphire. 
 <b>Spike</b>: Hm... I will miss you, my sweets. 
 <b>Rarity</b>: Come along, Spike. We have many jewels to find. 
-<b>Spike</b>: At your service, milady. 
-<b>Rarity</b>: Spike! 
-[jackhammer sounds] 
-<b>Spike</b>: [licks lips] 
+<b>Spike</b>: At your service, milady. <b>Rarity</b>: Spike! [jackhammer sounds] <b>Spike</b>: [licks lips] 
 <b>Rarity</b>: You've been very patient today, Spike. And for that you get the finest reward. This is from me to you. 
 <b>Rarity</b>: Is something wrong, Spike? 
-<b>Spike</b>: No. It's 
- <i>perfect</i>. 
+<b>Spike</b>: No. It's  <i>perfect</i>. 
 <b>Rarity</b>: Ooo, bring the cart, Spike. There are more over here. 
-<b>Spike</b>: For me. From Rarity. 
-<b>Rover</b>: Yesss, gemsss. Gemsss! 
+<b>Spike</b>: For me. From Rarity. <b>Rover</b>: Yesss, gemsss. Gemsss! 
 <b>Fido</b>: Where? 
 <b>Rover</b>: Preciousss gemsss! He is the gem hunter. With him we can have all those gems... and more! Let's get the dragon. 
 <b>Rarity</b>: Spike! Where are you? 
@@ -69,28 +58,20 @@
 <b>Spot</b>: Yaaaaah! 
 <b>Rarity</b>: Spike! Come on! Hurry! 
 <b>Rover</b>: Gotcha! 
-<b>Rarity</b>: Waah! 
- <i>Spike</i>! 
+<b>Rarity</b>: Waah!  <i>Spike</i>! 
 <b>Spike</b>: Got him, Rarity! I got him! 
 <b>Fido</b>: Haha! Nope! 
 <b>Spot</b>: Sorry, scaly one. 
 <b>Spike</b>: Wait! Rarity? 
 <b>Rarity</b>: Unhand me this instant, you ruffians. Stop! Put me down, you thugs! You brutes! 
 <b>Spike</b>: [gasp] Rarity! 
-<b>Rarity</b>: Spike! Ah, dirt! 
- <i>Aaaaah, Spiiiike</i>! 
+<b>Rarity</b>: Spike! Ah, dirt!  <i>Aaaaah, Spiiiike</i>! 
 <b>Spike</b>: Which, what, where? 
-<b>Rarity</b>: 
- <i>Save me</i>...! 
-<b>Spike</b>: 
- <i>Nooooooooooo</i>! 
-<b>Twilight Sparkle</b>: Spike, can you breathe now? 
+<b>Rarity</b>:  <i>Save me</i>...! 
+<b>Spike</b>:  <i>Nooooooooooo</i>! <b>Twilight Sparkle</b>: Spike, can you breathe now? 
 <b>Spike</b>: Yes... [pant] I think so. 
 <b>Twilight Sparkle</b>: Good. Now tell us what you know. 
-<b>Rainbow Dash</b>: Yeah. 'Cause all you said earlier was... 
-<b>Spike</b>: [pant] Aaaah! Rarity... woods... jewels... dogs... hole... taken... 
- <i>Save her</i>! 
-<b>Applejack</b>: Not a whole lot to go on there, sport. 
+<b>Rainbow Dash</b>: Yeah. 'Cause all you said earlier was... <b>Spike</b>: [pant] Aaaah! Rarity... woods... jewels... dogs... hole... taken...  <i>Save her</i>! <b>Applejack</b>: Not a whole lot to go on there, sport. 
 <b>Spike</b>: Sorry. Rarity and I were in the woods looking for jewels when these creepy guys showed up. 
 <b>Twilight Sparkle</b>: Creepy guys? 
 <b>Spike</b>: They called themselves the Diamond Dogs. They grabbed Rarity and disappeared down a hole in the ground. 
@@ -108,12 +89,8 @@
 <b>Fluttershy</b>: Oh! Oh my. Oh, oh! 
 <b>Applejack</b>: We can't muscle through it! 
 <b>Rainbow Dash</b>: We'll see about that. [gasp] 
-<b>Applejack</b>: Whew. Heavens to Betsy. Now I'm used to pickin' myself up and dustin' myself off, but Rarity won't even 
- <i>touch</i> mud 'less it's imported. 
-<b>Twilight Sparkle</b>: Oh, Rarity... 
-<b>Rarity</b>: Oh, woe is me! Whatever shall I do? Ah! Dirt, dirt! Get away, dirt! Oh! Make it stop, make it stop! Ah! Filthy, disgusting dirt. It stings, it burns. Help! Oh, somepony save me, 
- <i>save me</i>! 
-<b>Applejack</b>: We gotta save her. 
+<b>Applejack</b>: Whew. Heavens to Betsy. Now I'm used to pickin' myself up and dustin' myself off, but Rarity won't even  <i>touch</i> mud 'less it's imported. 
+<b>Twilight Sparkle</b>: Oh, Rarity... <b>Rarity</b>: Oh, woe is me! Whatever shall I do? Ah! Dirt, dirt! Get away, dirt! Oh! Make it stop, make it stop! Ah! Filthy, disgusting dirt. It stings, it burns. Help! Oh, somepony save me,  <i>save me</i>! <b>Applejack</b>: We gotta save her. 
 <b>Fluttershy</b>: But they blocked up all the holes. 
 <b>Applejack</b>: Don't mean we can't dig 'em out. Come on! 
 <b>Pinkie Pie</b>: Ow! 
@@ -125,31 +102,26 @@
 <b>Rainbow Dash</b>: Come on! 
 <b>All</b>: [grunting and panting] 
 <b>Fluttershy</b>: All those scary monsters popping up everywhere. Oh, poor Rarity must be terrified. 
-<b>Twilight Sparkle</b>: [worryingly] Ooh. 
-<b>Spot</b>: Give me the baubles! 
+<b>Twilight Sparkle</b>: [worryingly] Ooh. <b>Spot</b>: Give me the baubles! 
 <b>Rarity</b>: Ah! 
 <b>Fido</b>: Give me the beads! 
 <b>Rarity</b>: Aah! 
 <b>Rover</b>: Where are the trinkets?! 
 <b>Rarity</b>: Aaaah! 
 <b>Diamond Dogs</b>: Where is the treasure?! 
-<b>Rarity</b>: [faints] 
-<b>Twilight Sparkle</b>: Poor Rarity. What are we gonna do? 
+<b>Rarity</b>: [faints] <b>Twilight Sparkle</b>: Poor Rarity. What are we gonna do? 
 <b>Spike</b>: I got it! I'll save you, my sweet. 
-<b>All</b>: Huh? 
-<b>Twilight Sparkle</b>: Spike, it is very noble of you... 
+<b>All</b>: Huh? <b>Twilight Sparkle</b>: Spike, it is very noble of you... 
 <b>Spike</b>: Shhh! 
 <b>Twilight Sparkle</b>: [quieter] ...to sacrifice the gem Rarity gave you. 
-<b>Spike</b>: Oh, Lady Rarity. My damsel in distress. 
-<b>Sir Spike</b>: I shall save you. Show yourselves, you dogs! You curs! Ah. There you are, you mangy mutts. 
+<b>Spike</b>: Oh, Lady Rarity. My damsel in distress. <b>Sir Spike</b>: I shall save you. Show yourselves, you dogs! You curs! Ah. There you are, you mangy mutts. 
 <b>Rover</b>: Who are you calling mutts? Unleash the hounds! [blows dog whistle] 
 <b>Mook dogs</b>: [barking] [yelping] 
 <b>Sir Spike</b>: Now, where is Lady Rarity? 
 <b>Lady Rarity</b>: [gasp] Spike! I knew you would save me! 
 <b>Sir Spike</b>: Nothing could stop me, milady. 
 <b>Lady Rarity</b>: Ohohohoh, Spike. You are my... hero. [smooch] 
-<b>Sir Spike</b>: Mmmmmm... 
-<b>Applejack</b>: Hoho there, lover boy. 
+<b>Sir Spike</b>: Mmmmmm... <b>Applejack</b>: Hoho there, lover boy. 
 <b>Spike</b>: Whoa! Whoa whoa whoawhoawhoa... I got a bite! I got a bite! 
 <b>Applejack</b>: Hold on there, little fella. 
 <b>Twilight Sparkle</b>: Applejack! 
@@ -167,17 +139,14 @@
 [ponies grunting] 
 <b>Spike</b>: Ha ha, it worked! We're in! Now we can finally save Rarity! 
 <b>Twilight Sparkle</b>: Um... Which way do we go? 
-<b>Spike</b>: 
- <i>Nooooooooooo</i>! 
-<b>Twilight Sparkle</b>: All these tunnels... How are we ever gonna find Rarity? 
+<b>Spike</b>:  <i>Nooooooooooo</i>! <b>Twilight Sparkle</b>: All these tunnels... How are we ever gonna find Rarity? 
 <b>Applejack</b>: Guess we're just gonna have to start going down them one by one. 
 <b>Rainbow Dash</b>: That could take forever! There's gotta be way to narrow it down. 
 <b>Spike</b>: I know! I bet they've taken Rarity down the tunnel with the most gems. 
 <b>Twilight Sparkle</b>: But Spike, Rarity is the only one who knows how to find gems. 
 <b>Spike</b>: No, Twilight. You can! You can copy Rarity's gem-finding spell. 
 <b>Twilight Sparkle</b>: Oh my gosh! You're right! Rarity showed me how she did it a while back. If I can just remember... 
-<b>Spike</b>: That's it. You did it, Twilight! Come on! We're coming, Rarity. We'll save you. Just hold on. 
-<b>Rarity</b>: Oh please, Diamond Dogs. Please let me go. 
+<b>Spike</b>: That's it. You did it, Twilight! Come on! We're coming, Rarity. We'll save you. Just hold on. <b>Rarity</b>: Oh please, Diamond Dogs. Please let me go. 
 <b>Spot</b>: No! 
 <b>Fido</b>: You're our precious little pony. 
 <b>Rover</b>: Forever! Muhahahaha! 
@@ -188,13 +157,11 @@
 <b>Rarity</b>: Oh! Is that all? 
 <b>Rarity</b>: There. A lovely pocket of jewels are right there. Now, if you'd be so kind as to show me the exit? 
 <b>Rover</b>: Good! [laugh] Now, dig them up, pony. 
-<b>Rarity</b>: What? But you said you wanted me to 
- <i>find</i> the gems. 
+<b>Rarity</b>: What? But you said you wanted me to  <i>find</i> the gems. 
 <b>Spot</b>: Yes! Find and then dig. 
 <b>Rarity</b>: Dig? 
 <b>Fido</b>: Yes. Dig. 
-<b>Rarity</b>: 
- <i>Ohh...</i> [grunting] 
+<b>Rarity</b>:  <i>Ohh...</i> [grunting] 
 <b>Fido</b>: What are you doing? We said dig! 
 <b>Rarity</b>: Forgive me, but prior to you so rudely dragging me into your dirt pit, I had a pony-pedi and I am not about to chip a hoof because you dislike my style of digging. [grunting] 
 <b>Rover</b>: Oh, for goodness— Fine! Just stop. Stop! Dig, dogs! Dig! And fast. 
@@ -204,57 +171,35 @@
 <b>Spot</b>: Prrrecious pony-pedi will be preserved. 
 <b>Rarity</b>: Well, somebody certainly needs proper nail care. When was the last time you two had a manicure? You're scratching up my coat with those jagged things! 
 <b>Rover</b>: Please be quiet! 
-<b>Rarity</b>: Good heavens, what 
- <i>is</i> that smell? 
-<b>Rover</b>: 
- <i>Smeeeeeell</i>? 
+<b>Rarity</b>: Good heavens, what  <i>is</i> that smell? 
+<b>Rover</b>:  <i>Smeeeeeell</i>? 
 <b>Rarity</b>: Ah, mystery solved. It's your breath. 
 <b>Rover</b>: Enough! Search, pony! 
 <b>Rarity</b>: Well, since you insist... But I must say the working conditions in here are simply dreadful. Musty and damp, it's going to wreak havoc on my mane. And this air is stifling, suffocating. And when I try to take a deep breath, the stench of all you dogs makes me nauseated. 
 [crash] 
 <b>Rarity</b>: You look and smell like you haven't bathed in weeks. Have you never heard of soap? You could all do with a good round of soap and water. Oh water, oh water, I'm terribly thirsty. Could I please have some water? 
-<b>Spot</b>: Good gracious, I can't take this anymore. 
- <i>Be quiet, pony</i>! 
-<b>Rarity</b>: And that's another thing. I would appreciate if you stopped calling me "pony". I am a 
- <i>lady</i> and I wish to be addressed as such. So you may call me "Miss" or "Rarity" or "Miss Rarity". 
+<b>Spot</b>: Good gracious, I can't take this anymore.  <i>Be quiet, pony</i>! 
+<b>Rarity</b>: And that's another thing. I would appreciate if you stopped calling me "pony". I am a  <i>lady</i> and I wish to be addressed as such. So you may call me "Miss" or "Rarity" or "Miss Rarity". 
 <b>Rover</b>: Enough! Your whining! It-it-it hurts! 
-<b>Rarity</b>: Whining? I am 
- <i>not</i> whining. I am complaining. Do you want to hear whining? 
- <i>Thiiis iiis whiiining</i>! Oooh, this harness is too 
- <i>tiiight</i>! It's going to 
- <i>chafe</i>. Can't you 
- <i>loosen</i> it? Oooh, it hurts and it's 
- <i>sooo ruuusty</i>! Why didn't you clean it first? It's gonna leave a 
- <i>staaain</i>! And the wagon's getting 
- <i>heeeavy</i>, why do I 
- <i>have to pull it</i>?! 
+<b>Rarity</b>: Whining? I am  <i>not</i> whining. I am complaining. Do you want to hear whining?  <i>Thiiis iiis whiiining</i>! Oooh, this harness is too  <i>tiiight</i>! It's going to  <i>chafe</i>. Can't you  <i>loosen</i> it? Oooh, it hurts and it's  <i>sooo ruuusty</i>! Why didn't you clean it first? It's gonna leave a  <i>staaain</i>! And the wagon's getting  <i>heeeavy</i>, why do I  <i>have to pull it</i>?! 
 <b>Spot</b>: Aaah! Make it stop! 
 <b>Rover</b>: Stop whining! 
-<b>Rarity</b>: 
- <i>But I thought you wanted whiiining</i>! 
+<b>Rarity</b>:  <i>But I thought you wanted whiiining</i>! 
 <b>Rover</b>: Geh! We'll do anything, pony! 
 <b>Rover</b>: Oh, uh, uh, we'll do anything, "Miss Rarity". [nervous laughter] 
-<b>Rarity</b>: [dreamily] Anything? 
-<b>Rarity</b>: [sigh] This water is hardly sparkling. But I suppose it will have to do. 
-<b>Rover</b>: [panting] Wait! Why are 
- <i>we</i> doing this? 
+<b>Rarity</b>: [dreamily] Anything? <b>Rarity</b>: [sigh] This water is hardly sparkling. But I suppose it will have to do. 
+<b>Rover</b>: [panting] Wait! Why are  <i>we</i> doing this? 
 <b>Spot</b>: To stop the awful noises from the pony's mouth, remember? [whines] 
-<b>Rover</b>: Yes, yes, I know. This is ridiculous! Letting a pony order 
- <i>us</i> around. What are we? Mice or dogs? 
-<b>Fido</b> and 
- <b>Spot</b>: Mi... dogs? 
+<b>Rover</b>: Yes, yes, I know. This is ridiculous! Letting a pony order  <i>us</i> around. What are we? Mice or dogs? 
+<b>Fido</b> and  <b>Spot</b>: Mi... dogs? 
 <b>Rover</b>: Dogs do not pull. Ponies pull. Let her make the awful noises. 
-<b>Rarity</b>: What are you doing? Hey, you spilled my drink. Oh! [whining] 
- <i>Not sooo tiiight</i>! 
+<b>Rarity</b>: What are you doing? Hey, you spilled my drink. Oh! [whining]  <i>Not sooo tiiight</i>! 
 <b>Rover</b>: Ha! Make the noises all you want. But move while you make them. Hyah, mule! 
-<b>Rarity</b>: Did you just call me a... 
- <i>mule</i>? 
+<b>Rarity</b>: Did you just call me a...  <i>mule</i>? 
 <b>Rover</b>: Ehh... 
 <b>Rarity</b>: Mules are ugly. Are you saying that I too am ugly? [cries] 
-<b>Spot</b>: What are 
- <i>these</i> noises? 
-<b>Rarity</b>: 
- <i>He called me ugly</i>! 
+<b>Spot</b>: What are  <i>these</i> noises? 
+<b>Rarity</b>:  <i>He called me ugly</i>! 
 <b>Rover</b>: No! Mule! I said mule! 
 <b>Rarity</b>: An old ugly mule! And it's true! Just look at me. I used to be beautiful, but, but nooow... 
 <b>Fido</b>: No, no! You're still beautiful, po... uh, Miss Rarity. 
@@ -262,8 +207,7 @@
 <b>Spot</b>: No, you're still pretty and... and... 
 <b>Rover</b>: Oh, uh, uh, nice. Yeah. 
 <b>Rarity</b>: I don't believe you! You never liked me! [wails] 
-<b>Rover</b>: Oh, I've had just about enough of this! 
-<b>Twilight Sparkle</b>: We're getting close. I can feel it. 
+<b>Rover</b>: Oh, I've had just about enough of this! <b>Twilight Sparkle</b>: We're getting close. I can feel it. 
 <b>Rarity</b>: [distant crying] 
 <b>Spike</b>: It's coming from down here. Come on! 
 <b>Rainbow Dash</b>: She must be in there. Let's go! 
@@ -273,14 +217,12 @@
 <b>Applejack</b>: Yeehaw! Get along, little doggies! 
 [crashing and clattering] 
 <b>Spike</b>: I'm coming for you, milady. Hi-ho, Twilight! Away! 
-<b>Twilight Sparkle</b>: And just 
- <i>what</i> do you think you're doing? 
+<b>Twilight Sparkle</b>: And just  <i>what</i> do you think you're doing? 
 <b>Spike</b>: Please, Twilight. Just give me this. 
 <b>Twilight Sparkle</b>: Eh... fine. [neighs] 
 [crash] 
 <b>Spike</b>: Lady Rarity, I'm here to save you! 
-[Dogs' screams: Save 
- <i>us</i>! Please, save us! Make it stop! Please!] 
+[Dogs' screams: Save  <i>us</i>! Please, save us! Make it stop! Please!] 
 <b>Twilight Sparkle</b>: Excuse me? 
 <b>Spot</b>: So picky. 
 <b>Fido</b>: And critical. 
@@ -293,16 +235,13 @@
 <b>Rarity</b>: With those. 
 <b>Spike</b>: You're letting her leave with all these... jewels? 
 <b>Rover</b>: Yes. Take them. And her with them. 
-<b>Spot</b>: Please! 
-<b>Pinkie Pie</b>: I can't believe you found all these gems! 
+<b>Spot</b>: Please! <b>Pinkie Pie</b>: I can't believe you found all these gems! 
 <b>Rainbow Dash</b>: Heh. I can't believe you tricked all those dogs. 
 <b>Rarity</b>: Just because I'm a lady doesn't mean I cannot handle myself in a sticky situation. I had them wrapped around my hoof the entire time. 
 <b>Twilight Sparkle</b>: I can't wait to write to Princess Celestia to tell her what you taught me today. 
 <b>Rarity</b>: Me? What did I teach you? 
-<b>Twilight Sparkle</b>: 
- <i>Just because somepony is ladylike doesn't make her weak. In fact, by using her wits, a seemingly defenseless pony can be the one who outsmarts and outshines them all.</i> 
+<b>Twilight Sparkle</b>:  <i>Just because somepony is ladylike doesn't make her weak. In fact, by using her wits, a seemingly defenseless pony can be the one who outsmarts and outshines them all.</i> 
 <b>Spike</b>: Hm... "Outshines" is right. Now you have enough gems to cover Sapphire Shores' costumes. 
 <b>Rarity</b>: Not if you eat them all, Spike. 
-[laughter] 
-[music] 
+[laughter] [music] 
 [credits] 

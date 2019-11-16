@@ -4,8 +4,7 @@
 [ponies agreeing] 
 <b>Snips</b>: I object! 
 [ponies gasp] 
-<b>Snips</b>: I think the word 'awesome' is played out! Rainbow Dash deserves better! I motion that we declare her the most 
- <i>stupendous</i> pony! 
+<b>Snips</b>: I think the word 'awesome' is played out! Rainbow Dash deserves better! I motion that we declare her the most  <i>stupendous</i> pony! 
 <b>Scootaloo</b>: 'Stupendous'? Is that the best you've got? I motion that we declare her... wonderiffic! 
 <b>Snips</b>: Astonishing! 
 <b>Scootaloo</b>: Breathtaking! 
@@ -15,8 +14,7 @@
 [ponies agreeing] 
 <b>Scootaloo</b>: All in favor of declaring Rainbow Dash the most 'super-ultra-extra-uh-whatever you said' pony in all of Ponyville, say 'aye'! 
 <b>Fan club</b>: Aye! [cheering] 
-<b>Rainbow Dash</b>: [giggles] 
-<b>Rainbow Dash</b>: [sigh] What a beautiful day. There's nothing like a dip in the clouds to make a Pegasus feel super relaxed. 
+<b>Rainbow Dash</b>: [giggles] <b>Rainbow Dash</b>: [sigh] What a beautiful day. There's nothing like a dip in the clouds to make a Pegasus feel super relaxed. 
 <b>Aura</b>: Help! Help! Help! Help! 
 <b>Rainbow Dash</b>: Looks like my sky swim will have to wait! I'm Rainbow Dash, and I'm here to rescue you! 
 [ponies cheering] 
@@ -24,9 +22,7 @@
 <b>Aura</b>: To me it was! You're my hero, Rainbow Dash! 
 [ponies cheering] 
 <b>Scootaloo</b>: That Rainbow Dash sure is something. 
-<b>Snips</b> and 
- <b>Snails</b>: Something special. 
-<b>"Millie"</b>: [screams] 
+<b>Snips</b> and  <b>Snails</b>: Something special. <b>"Millie"</b>: [screams] 
 <b>Cream Puff</b>: [crying] 
 [ponies cheering] 
 <b>Rainbow Dash</b>: [gasps] Oh no! There's something wrong with the baby! 
@@ -38,8 +34,7 @@
 <b>Twilight Sparkle</b>: I can think of a few new words. 
 <b>Applejack</b>: And I bet 'modest' is not one of them. 
 [ponies cheering] 
-<b>Twilight Sparkle</b>: No, but she is kinda awesome. 
-[elderly ponies chattering] 
+<b>Twilight Sparkle</b>: No, but she is kinda awesome. [elderly ponies chattering] 
 [splintering wood] 
 <b>Rainbow Dash</b>: Never fear, your friendly neighborhood Rainbow Dash is here! 
 [elderly ponies screaming] 
@@ -50,28 +45,21 @@
 <b>Rainbow Dash</b>: I can't hear you! 
 <b>Crowd</b>: Rainbow Dash! Rainbow Dash! Rainbow Dash! Rainbow Dash! Rainbow Dash! Rainbow Dash! Rainbow Dash! 
 <b>Twilight Sparkle</b>: Call me silly, but I think this whole hero thing might be going to Rainbow Dash's head. 
-<b>Pinkie Pie</b>: You may be right...silly. 
-<b>Rainbow Dash</b>: And then I zoomed into the well. I knew it would be dark and dangerous, but I didn't let that stop me. Danger's my middle name. Rainbow 'Danger' Dash. Thinking back on it, I acted pretty awesomely heroic that day. 
+<b>Pinkie Pie</b>: You may be right...silly. <b>Rainbow Dash</b>: And then I zoomed into the well. I knew it would be dark and dangerous, but I didn't let that stop me. Danger's my middle name. Rainbow 'Danger' Dash. Thinking back on it, I acted pretty awesomely heroic that day. 
 <b>Spike</b>: That day. 
-<b>Applejack</b>: Awesomely heroic that day and awesomely 
- <i>arrogant</i> ever since. 
-<b>Pinkie Pie</b> and 
- <b>Twilight Sparkle</b>: Mm-hm. 
-<b>Rainbow Dash</b>: Hey, Applejack. How'd you like to be 
- <i>immortalized</i> as my friend? 
+<b>Applejack</b>: Awesomely heroic that day and awesomely  <i>arrogant</i> ever since. 
+<b>Pinkie Pie</b> and  <b>Twilight Sparkle</b>: Mm-hm. 
+<b>Rainbow Dash</b>: Hey, Applejack. How'd you like to be  <i>immortalized</i> as my friend? 
 <b>Applejack</b>: Immorta-what? 
 [camera clicking] 
 <b>Twilight Sparkle</b>: Are you taking notes? 
 <b>Spike</b>: Yup! I've been hoof-picked by Rainbow Dash herself, to write her autobiography! 
-<b>Twilight Sparkle</b>: Umm, autobiographies are supposed to be written 
- <i>by</i> the pony they are about. 
-<b>Rainbow Dash</b>: Maybe for your normal, run-of-the-mill ponies. But I'm 
- <i>far</i> too busy saving lives to stop and write. That's why I hired Spike as my ghost writer. 
+<b>Twilight Sparkle</b>: Umm, autobiographies are supposed to be written  <i>by</i> the pony they are about. 
+<b>Rainbow Dash</b>: Maybe for your normal, run-of-the-mill ponies. But I'm  <i>far</i> too busy saving lives to stop and write. That's why I hired Spike as my ghost writer. 
 <b>Pinkie Pie</b>: [yelps] Spike's a ghost! 
 <b>Rainbow Dash</b>: ...Anyway. Spike here writes down everything I say. Don't you, Spike? 
 <b>Spike</b>: Don't... you... Spike. Got it! 
-<b>Rainbow Dash</b>: This way, I can stay focused on performing those acts of bravery that nopony else has the guts to perform. Yep, it takes guts. But it also takes brains. And sometimes a big lunch and a nap. Being a hero is surely not for everypony, but I'm up to the challenge. 
-<b>Rainbow Dash</b>: [grunts] There you go. 
+<b>Rainbow Dash</b>: This way, I can stay focused on performing those acts of bravery that nopony else has the guts to perform. Yep, it takes guts. But it also takes brains. And sometimes a big lunch and a nap. Being a hero is surely not for everypony, but I'm up to the challenge. <b>Rainbow Dash</b>: [grunts] There you go. 
 <b>"Lemon Daze"</b>: Someday, I wanna be just like you! 
 <b>Rainbow Dash</b>: Aim high, kid, but don't aim for the impossible. 
 <b>Cherry Berry</b>: [screams] 
@@ -85,19 +73,13 @@
 <b>Daisy</b>: I've never seen such bravery in all my life! 
 <b>Mayor Mare</b>: That's right! Ponyville has a new hero. A mysterious mare that has done well by our fair city today. I dub this new masked hero 'The Mysterious Mare Do Well'! 
 [ponies cheering] 
-<b>Rainbow Dash</b>: Mare Do Well, huh? Well that 
- <i>mare</i> would 
- <i>do well</i> to stay outta my way! Ponyville's only got room for one hero, and that hero is me! 
-[ponies screaming] 
+<b>Rainbow Dash</b>: Mare Do Well, huh? Well that  <i>mare</i> would  <i>do well</i> to stay outta my way! Ponyville's only got room for one hero, and that hero is me! [ponies screaming] 
 <b>Rainbow Dash</b>: [clears throat] Never fear, your friendly neighborhood Rainbow– 
 <b>Globe Trotter</b>: Excuse me, uh, do you think you could skip your catchphrase and just hurry up and save us?! 
 <b>Rainbow Dash</b>: Ugh, fine! Picky, picky. Whoaaaa! Aah! 
 [ponies cheering] 
 <b>"Wisp"</b>: Oh, thank you, Mare Do We– e... 
-<b>Rainbow Dash</b>: I can't believe it. Mare Do Well is stronger than 
- <i>me?</i> Well, a hero is more than just muscle, and she's gonna learn that the 
- <i>hard</i> way. 
-[jackhammer and drills] 
+<b>Rainbow Dash</b>: I can't believe it. Mare Do Well is stronger than  <i>me?</i> Well, a hero is more than just muscle, and she's gonna learn that the  <i>hard</i> way. [jackhammer and drills] 
 <b>Crafty Crate</b>: Huh? 
 <b>Rainbow Dash</b>: Huh? Never fear, your friendly neighbor– Whoa! 
 [building creaking] 
@@ -109,33 +91,23 @@
 <b>Rainbow Dash</b>: Here ya go, safe and sound. 
 [crash] 
 <b>"Jim Beam"</b>: [faints] 
-<b>Rainbow Dash</b>: Well, Mare Do Well, or should I call you Mare Do 
- <i>Slow</i>? You're gonna have to pick up the pace if you wanna compete with me, 'cause I move like lightning. 
+<b>Rainbow Dash</b>: Well, Mare Do Well, or should I call you Mare Do  <i>Slow</i>? You're gonna have to pick up the pace if you wanna compete with me, 'cause I move like lightning. 
 <b>"Rivet"</b>: Actually, she saved all of us! We owe her our lives! 
 [ponies cheering] 
-<b>Rainbow Dash</b>: [growls] Okay. She's strong, fast, and somehow knows what's gonna happen ahead of time. I've gotta step up my game. 
-[water rushing] 
+<b>Rainbow Dash</b>: [growls] Okay. She's strong, fast, and somehow knows what's gonna happen ahead of time. I've gotta step up my game. [water rushing] 
 <b>Rainbow Dash</b>: [gasps] If the dam breaks, the whole town will be flooded! Looks like Ponyville needs a hero! Easy peasy. 
 [stone cracking] 
-<b>Rainbow Dash</b>: My game is officially back on. If only somepony were here to pat me on the back. Eh, guess I'll have do it myself– [yelps] [screams] Help! [spits] Help! You?! I suppose you want me to thank– You 
- <i>gotta</i> be kidding me... 
+<b>Rainbow Dash</b>: My game is officially back on. If only somepony were here to pat me on the back. Eh, guess I'll have do it myself– [yelps] [screams] Help! [spits] Help! You?! I suppose you want me to thank– You  <i>gotta</i> be kidding me... 
 [ponies cheering] 
-<b>Rainbow Dash</b>: Lemme get this straight. She's strong, she's agile, 
- <i>and</i> she's magic? Ughhh! How do I compete with 
- <i>that</i>? Wait a minute. I do have a leg up on her. And that leg is... wings! Hah! Take that, Mare Do Well! 
+<b>Rainbow Dash</b>: Lemme get this straight. She's strong, she's agile,  <i>and</i> she's magic? Ughhh! How do I compete with  <i>that</i>? Wait a minute. I do have a leg up on her. And that leg is... wings! Hah! Take that, Mare Do Well! 
 [ponies cheering] 
-<b>Rainbow Dash</b>: Oh, for the love of Pete. 
-<b>Applejack</b>: Gotta hand it to the girl, that Mare Do Well sure can pull off some pretty heroic feats. 
+<b>Rainbow Dash</b>: Oh, for the love of Pete. <b>Applejack</b>: Gotta hand it to the girl, that Mare Do Well sure can pull off some pretty heroic feats. 
 <b>Twilight Sparkle</b>: I must say, I was impressed by that spell she used to fix the dam. Seems like something like that would take quite a bit of study. 
 <b>Rainbow Dash</b>: [growls] 
 <b>Fluttershy</b>: She really cares about everypony's safety. 
-<b>Rarity</b>: Have you 
- <i>seen</i> her costume? It is to die for! If you ask me she's a hero of fashion. 
-<b>Applejack</b>: 
- <i>And</i> she's modest 
- <i>and</i> humble. She lets her actions speak for themselves. Gotta admire that. 
-<b>Rainbow Dash</b>: I 
- <i>don't</i> have to admire that! I don't think she's all that great! 
+<b>Rarity</b>: Have you  <i>seen</i> her costume? It is to die for! If you ask me she's a hero of fashion. 
+<b>Applejack</b>:  <i>And</i> she's modest  <i>and</i> humble. She lets her actions speak for themselves. Gotta admire that. 
+<b>Rainbow Dash</b>: I  <i>don't</i> have to admire that! I don't think she's all that great! 
 <b>Spike</b>: She's... great. 
 <b>Rainbow Dash</b>: I didn't say that. 
 <b>Twilight Sparkle</b>: Sounds like somepony's jealous. 
@@ -143,21 +115,16 @@
 <b>Spike</b>: Rainbow Dash is jealous. 
 <b>Rainbow Dash</b>: Don't write that, Spike! 
 [others laughing] 
-<b>Spike</b>: Correction: Rainbow Dash is 
- <i>very</i> jealous. 
-<b>Rainbow Dash</b>: Fine! Laugh all you want, but I'll be the one laughing when I prove to you all that I'm just as good– no, that I'm a 
- <i>better</i> hero than Mare Do Well! 
-<b>Rainbow Dash</b>: Huh, no sign of trouble here. Darn it. 
-<b>Rainbow Dash</b>: Buses and baby carriages are 
- <i>always</i> careening down this hill. Where is an out-of-control vehicle when you need one?! 
+<b>Spike</b>: Correction: Rainbow Dash is  <i>very</i> jealous. 
+<b>Rainbow Dash</b>: Fine! Laugh all you want, but I'll be the one laughing when I prove to you all that I'm just as good– no, that I'm a  <i>better</i> hero than Mare Do Well! <b>Rainbow Dash</b>: Huh, no sign of trouble here. Darn it. 
+<b>Rainbow Dash</b>: Buses and baby carriages are  <i>always</i> careening down this hill. Where is an out-of-control vehicle when you need one?! 
 <b>Rainbow Dash</b>: Rrgh, there are absolutely no freak natural disasters going on anywhere! How am I supposed to prove myself when everything's so normal and safe? [gasps] Hold it right there, Granny Smith! You don't have to pretend with me. I can see that you're in way over your head here. 
 <b>Granny Smith</b>: Eh, what's that? 
 <b>Rainbow Dash</b>: You're putting on a brave face, I get it. But you don't have to anymore. I'll help you cross the street! 
 <b>Granny Smith</b>: [grunting] Actually, I can cross the street just fine! 
 <b>Rainbow Dash</b>: Don't worry! You're in extremely... capable... hooves! 
 <b>Granny Smith</b>: [panicked grunts] Back off! 
-<b>Rainbow Dash</b>: [pants] Here we are! Safe and sound. A good and heroic citizen deserves a little recognition, 
- <i>don't you think</i>? 
+<b>Rainbow Dash</b>: [pants] Here we are! Safe and sound. A good and heroic citizen deserves a little recognition,  <i>don't you think</i>? 
 <b>Granny Smith</b>: I didn't wanna cross the street in the first place! [complaining and squeaking] 
 <b>Amethyst Star</b>: [grunting] 
 <b>Rainbow Dash</b>: [gasps] Somepony's in trouble! 
@@ -178,23 +145,16 @@
 <b>Rainbow Dash</b>: From weeds! Weeds that were attempting to eat this lawn! 
 <b>Liza Doolots</b>: Lame... 
 <b>Pony</b>: Whatever. 
-<b>Rainbow Dash</b>: Aww, who am I kidding? 
-[thundercloud rumbles throughout] 
-<b>Rainbow Dash</b>: All anypony talks about is Mare Do Well this and Mare Do Well that! What about 
- <i>me</i>? How could everypony forget about me so easily? I mean... have I changed? Same sleek body. Same flowing mane. Same spectacular hooves. Nope, I'm still awesome. 
- <i>They're</i> wrong. But... then... why am I all alone? I hate being all alone. 
+<b>Rainbow Dash</b>: Aww, who am I kidding? [thundercloud rumbles throughout] 
+<b>Rainbow Dash</b>: All anypony talks about is Mare Do Well this and Mare Do Well that! What about  <i>me</i>? How could everypony forget about me so easily? I mean... have I changed? Same sleek body. Same flowing mane. Same spectacular hooves. Nope, I'm still awesome.  <i>They're</i> wrong. But... then... why am I all alone? I hate being all alone. 
 <b>Scootaloo</b>: Hey, Rainbow Dash! 
 <b>Rainbow Dash</b>: I knew it! No need to apologize, squirt. Anypony could make that mistake. 
 <b>Scootaloo</b>: Mistake? What mistake? 
 <b>Rainbow Dash</b>: Wait a minute. Why are you here? 
 <b>Scootaloo</b>: To invite you to join us! We're heading off to the thank you parade for Ponyville's greatest hero, Mare Do Well. 
-<b>Rainbow Dash</b>: No! No way! Can't you see I-I wanna be alone? I 
- <i>love</i> being alone. 
+<b>Rainbow Dash</b>: No! No way! Can't you see I-I wanna be alone? I  <i>love</i> being alone. 
 <b>Scootaloo</b>: Oh, okay. See you later then. 
-<b>Rainbow Dash</b>: Yeah, 
- <i>right,</i> like I'm gonna thank 
- <i>her.</i> [mockingly] Thank you, Mare Do Well, whoever you are, for ruining e– [normal] Hey, squirt! Wait up! 
-<b>Mayor Mare</b>: Welcome to Ponyville's first, but surely not last, thank you parade, in honor of our city's greatest hero, the mysterious Mare Do Well! 
+<b>Rainbow Dash</b>: Yeah,  <i>right,</i> like I'm gonna thank  <i>her.</i> [mockingly] Thank you, Mare Do Well, whoever you are, for ruining e– [normal] Hey, squirt! Wait up! <b>Mayor Mare</b>: Welcome to Ponyville's first, but surely not last, thank you parade, in honor of our city's greatest hero, the mysterious Mare Do Well! 
 [ponies cheering] 
 <b>Rainbow Dash</b>: The mysterious Mare Do Well, huh? 
 [ponies gasp] 
@@ -202,28 +162,19 @@
 <b>Mare Do Well</b>: [whistles] 
 <b>Rainbow Dash</b>: What the hay? 
 <b>Mare Do Well</b>: [whistles] 
-<b>Rainbow Dash</b>: Grrr... I got you now! Alright, Miss Mysterious! Mystery... solved! [yelps] P-p-p-p- 
- <i>Pinkie</i>?! Whudda- hud-d-duh- hud-d-duh- 
- <i>huh</i>?! Twilight?! Applejack?! There were 
- <i>three</i> of you?! 
+<b>Rainbow Dash</b>: Grrr... I got you now! Alright, Miss Mysterious! Mystery... solved! [yelps] P-p-p-p-  <i>Pinkie</i>?! Whudda- hud-d-duh- hud-d-duh-  <i>huh</i>?! Twilight?! Applejack?! There were  <i>three</i> of you?! 
 <b>Twilight Sparkle</b>: Yup, we all played Mare Do Well at different times. 
-<b>Applejack</b>: 
- <i>I</i> stopped the carriage bus with these babies, Bucky McGillicuddy and Kicks McGee. 
+<b>Applejack</b>:  <i>I</i> stopped the carriage bus with these babies, Bucky McGillicuddy and Kicks McGee. 
 <b>Pinkie Pie</b>: I saved the construction workers with my Pinkie Sense. [twitches] 
 [flowerpot shatters] 
 <b>Cherry Berry</b>: Sorry! 
 <b>Pinkie Pie</b>: It's alright. 
-<b>Twilight Sparkle</b>: And 
- <i>I</i> used my magic to fix the dam. 
+<b>Twilight Sparkle</b>: And  <i>I</i> used my magic to fix the dam. 
 <b>Fluttershy</b>: Ooh, ooh! And I did the flyby afterwards. 
-<b>Rarity</b>: 
- <i>I</i> made the costumes. Fabulous if I do say so myself! 
-<b>Rainbow Dash</b>: I don't understand. 
- <i>Why?</i> Don't you want me to be a hero? 
-<b>Twilight Sparkle</b>: Of 
- <i>course</i> we want you to be a hero. 
-<b>Applejack</b>: But a 
- <i>real</i> hero doesn't brag. 
+<b>Rarity</b>:  <i>I</i> made the costumes. Fabulous if I do say so myself! 
+<b>Rainbow Dash</b>: I don't understand.  <i>Why?</i> Don't you want me to be a hero? 
+<b>Twilight Sparkle</b>: Of  <i>course</i> we want you to be a hero. 
+<b>Applejack</b>: But a  <i>real</i> hero doesn't brag. 
 <b>Rainbow Dash</b>: Uh, I guess I did start to brag a little. 
 <b>Other main cast</b>: A little?! 
 <b>Rainbow Dash</b>: Okay, a lot. 
@@ -231,23 +182,15 @@
 <b>Applejack</b>: ...Rubbin' them in everypony's face is not. 
 <b>Pinkie Pie</b>: Yeah, the only thing that should be rubbed in anypony's face is chocolate cake. [slurp] 
 <b>Applejack</b>: I think we're getting off topic here. 
-<b>Twilight Sparkle</b>: What we're trying to say is, 
- <i>it's great to be really good at something, but it's important to act with grace and humility.</i> 
-<b>Rainbow Dash</b>: Ohhhh. That makes 
- <i>loads</i> more sense. Yeah. You're right. 
- <i>And I guess I should've also acted with grace and humility when others outshine me.</i> Like Mare Do Well. 
+<b>Twilight Sparkle</b>: What we're trying to say is,  <i>it's great to be really good at something, but it's important to act with grace and humility.</i> 
+<b>Rainbow Dash</b>: Ohhhh. That makes  <i>loads</i> more sense. Yeah. You're right.  <i>And I guess I should've also acted with grace and humility when others outshine me.</i> Like Mare Do Well. 
 <b>Twilight Sparkle</b>: Sounds like you've got a letter to write to Princess Celestia. 
 <b>Spike</b>: Already got it covered. As your ghost writer, I've already penned a letter to the Princess. 
 <b>Rainbow Dash</b>: That's nice of you, Spike, but I really wanna write this letter myself. 
-<b>Spike</b>: Aww, 
- <i>come on</i>, I wrote the whole thing already! 
+<b>Spike</b>: Aww,  <i>come on</i>, I wrote the whole thing already! 
 <b>Rainbow Dash</b>: Okay, let's hear it. 
-<b>Spike</b>: [clears throat] 
- <i>Dear Princess Cel</i>- 
-<b>Rainbow Dash</b>: Look out! It's a 
- <i>real</i> ghost! 
-<b>Pinkie Pie</b> and 
- <b>Spike</b>: [yelping and screaming] 
-<b>Others</b>: [laughing] 
-[music] 
+<b>Spike</b>: [clears throat]  <i>Dear Princess Cel</i>- 
+<b>Rainbow Dash</b>: Look out! It's a  <i>real</i> ghost! 
+<b>Pinkie Pie</b> and  <b>Spike</b>: [yelping and screaming] 
+<b>Others</b>: [laughing] [music] 
 [credits] 

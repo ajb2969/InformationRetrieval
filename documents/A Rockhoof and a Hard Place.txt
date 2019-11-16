@@ -11,16 +11,14 @@
 <b>Professor Fossil</b>: Maybe in the past. [blows] Now it belongs in a museum. Safe. Preserved. Untouched. 
 <b>Rockhoof</b>: Agh! Next you'll be sayin' I shouldn't have used the old sweat lodge. 
 <b>Professor Fossil</b>: [gasps] 
-[crash!] 
-<b>Professor Fossil</b>: So, you see why Rockhoof isn't an ideal fit for my team. Perhaps you could use his, uh... unusual talents? 
+[crash!] <b>Professor Fossil</b>: So, you see why Rockhoof isn't an ideal fit for my team. Perhaps you could use his, uh... unusual talents? 
 <b>Twilight Sparkle</b>: Of course, Professor Fossil! We'd be honored to have a Pillar of Equestria on our staff! 
 <b>Professor Fossil</b>: Oh, thank Celestia. 
 [door closes] 
 <b>Rockhoof</b>: [slurps, crunch] Ugh! [spits, groans] That apple's made of wood! What a horrible trick to play! 
 [whack!] 
 <b>Rarity</b>: Hmm. Has anypony seen my decorative centerpieces? They were right here. 
-<b>Professor Fossil</b>: Good luck! 
-[students chattering] 
+<b>Professor Fossil</b>: Good luck! [students chattering] 
 <b>Twilight Sparkle</b>: So, join me in welcoming Professor Rockhoof to our faculty! 
 [students cheering] 
 <b>Rockhoof</b>: Thank you! Thank you, all! I know I'm new to your world, but there's one thing I learned when I saved my village from a rushing river of hot lava. There's nothing you can't do with hard work. And a shovel! 
@@ -30,10 +28,8 @@
 [crash!] 
 <b>Smolder</b>: Except maybe stand on stage. 
 <b>Spike</b>: [grunting] 
-<b>Twilight Sparkle</b>: So, um... everycreature dismissed. We'll... see you in class! 
-[students chattering] 
-<b>Smolder</b>: You think that new pony is gonna be the weirdest teacher at school or just 
- <i>one</i> of the weirdest? 
+<b>Twilight Sparkle</b>: So, um... everycreature dismissed. We'll... see you in class! [students chattering] 
+<b>Smolder</b>: You think that new pony is gonna be the weirdest teacher at school or just  <i>one</i> of the weirdest? 
 <b>Yona</b>: Yona like new teacher. He big like yak! 
 <b>Gallus</b>: And he smashes things like a yak, smells like a yak... 
 <b>Yona</b>: Yes! He perfect! 
@@ -53,17 +49,13 @@
 <b>Rockhoof</b>: Aye. And I defeated her, too. 
 <b>Smolder</b>: Now this I'm interested in! 
 <b>Yona</b>: How Professor Rockhoof win? 
-<b>Rockhoof</b>: Well... that's quite a tale. 
-<b>Twilight Sparkle</b>: From what Professor Fossil said, it sounds like Rockhoof just hasn't settled into modern times yet. Our school is the perfect place for that. Plus, we get a new teacher. 
+<b>Rockhoof</b>: Well... that's quite a tale. <b>Twilight Sparkle</b>: From what Professor Fossil said, it sounds like Rockhoof just hasn't settled into modern times yet. Our school is the perfect place for that. Plus, we get a new teacher. 
 <b>Applejack</b>: [chuckles] This may be the fastest friendship problem you ever solved. 
-[crash!] 
-<b>Rockhoof</b>: Dodge! Thrust! Shovel leap! Shovel throw! 
+[crash!] <b>Rockhoof</b>: Dodge! Thrust! Shovel leap! Shovel throw! 
 [crunch!] 
 [thud!] 
 <b>Rockhoof</b>: Shovel whack! Now you lot be the ursa major. Lots o' growlin', mind? 
-<b>Gallus</b>, 
- <b>Yona</b>, and 
- <b>Silverstream</b>: [growling] 
+<b>Gallus</b>,  <b>Yona</b>, and  <b>Silverstream</b>: [growling] 
 <b>Rockhoof</b>: [laughing] 
 [thunk!] 
 [students cheering] 
@@ -78,20 +70,16 @@
 <b>Twilight Sparkle</b>: Uh, Professor Rockhoof? 
 <b>Rockhoof</b>: Nope! Guess again! [clears throat] Uh, oops. 
 <b>Twilight Sparkle</b>: Sorry to interrupt. Class, why don't we go ahead and take lunch early today? Rockhoof, can we take a walk outside? 
-[students chattering] 
-<b>Twilight Sparkle</b>: Our school is about finding your own special way to teach. 
+[students chattering] <b>Twilight Sparkle</b>: Our school is about finding your own special way to teach. 
 <b>Applejack</b>: And we can already tell you're a... smash with the class. [chuckles] 
-<b>Twilight Sparkle</b>: But maybe you could do a little less smashing in the class
- <i>room</i>? 
+<b>Twilight Sparkle</b>: But maybe you could do a little less smashing in the class <i>room</i>? 
 <b>Rockhoof</b>: Sorry about that. I did get a bit carried away. The students were so interested in my tale. [grunting] 
 <b>Twilight Sparkle</b>: I know it's a big change. But I think you're gonna fit in just— 
 [flames roaring] 
 [boom!] 
-<b>Rockhoof</b>: 
- <i>Fire!</i> 
+<b>Rockhoof</b>:  <i>Fire!</i> 
 <b>Twilight Sparkle</b>: Rockhoof, wait! 
-<b>Rockhoof</b>: No time! The building's ablaze! We have to get everypony out! 
-<b>Yona</b>: Professor Rockhoof best teacher ever! [sighs] Day cannot get better. 
+<b>Rockhoof</b>: No time! The building's ablaze! We have to get everypony out! <b>Yona</b>: Professor Rockhoof best teacher ever! [sighs] Day cannot get better. 
 [crash!] 
 <b>Rockhoof</b>: Let's get you outside, wee ones! 
 <b>Yona</b>: Day just got better! 
@@ -115,67 +103,51 @@
 <b>Applejack</b>: We know you're used to bein' a hero, Rockhoof. Only what we need here is a teacher. 
 <b>Rarity</b>: One who doesn't ruin an entire class's friendship quilts. Do you know how hard it is to stitch a pineapple pattern?! 
 <b>Rockhoof</b>: [sighs] My deepest apologies. I'm not used to living with dragons or much else in this modern time. Professor Fossil made it clear I'm not welcome back in my old village. Seems I don't belong here either. 
-<b>Pinkie Pie</b>: Wheeeee! 
-<b>Twilight Sparkle</b>: So apparently, finding Rockhoof a new job is a lot harder than we thought. Has anypony had any luck? 
+<b>Pinkie Pie</b>: Wheeeee! <b>Twilight Sparkle</b>: So apparently, finding Rockhoof a new job is a lot harder than we thought. Has anypony had any luck? 
 <b>Rest of Mane Six</b>: [negative muttering] 
 <b>Applejack</b>: I-I thought you were gonna try him out at the post office. 
-<b>Twilight Sparkle</b>: We did. 
-<b>Rockhoof</b>: [yelling] 
- <i>Do you know where I can find Cranky Doodle Donkey?! I need to deliver his medicine! He has a rash in a very embarrassing place!</i> 
-<b>Spike</b>: [shudders] I did not need to hear that. 
-<b>Rarity</b>: Yup. Rockhoof's time as a spa masseuse didn't work out either. 
-<b>Rockhoof</b>: Now just let me know if this is too much pressure! 
+<b>Twilight Sparkle</b>: We did. <b>Rockhoof</b>: [yelling]  <i>Do you know where I can find Cranky Doodle Donkey?! I need to deliver his medicine! He has a rash in a very embarrassing place!</i> <b>Spike</b>: [shudders] I did not need to hear that. 
+<b>Rarity</b>: Yup. Rockhoof's time as a spa masseuse didn't work out either. <b>Rockhoof</b>: Now just let me know if this is too much pressure! 
 [crunch!] 
-<b>Bulk Biceps</b>: [high-pitched shriek] 
-<b>Rainbow Dash</b>: W-Well, at least Rockhoof's really strong. Maybe we could find him a job carrying heavy stuff? 
-<b>Pinkie Pie</b>: I tried that already. Zecora needed somepony to help her get supplies, but... 
-[knock, knock] 
+<b>Bulk Biceps</b>: [high-pitched shriek] <b>Rainbow Dash</b>: W-Well, at least Rockhoof's really strong. Maybe we could find him a job carrying heavy stuff? 
+<b>Pinkie Pie</b>: I tried that already. Zecora needed somepony to help her get supplies, but... [knock, knock] 
 [door opens] 
 <b>Rockhoof</b>: I know you said you only needed a few leaves, but I figured why not bring you the whole thing? 
-[bees buzzing] 
-<b>Rarity</b>: Oh, how horrid. 
+[bees buzzing] <b>Rarity</b>: Oh, how horrid. 
 <b>Fluttershy</b>: None of the other Pillars seem to be having trouble fitting into the modern world. 
 <b>Applejack</b>: Then maybe they can show Rockhoof how they did it. Get him used to livin' in this time. 
-<b>Twilight Sparkle</b>: Great idea! Rockhoof's old friends would be happy to help. And I bet he'd love to visit them. 
-<b>Rockhoof</b>: [sighs] Even Canterlot looks different from the old days. 
+<b>Twilight Sparkle</b>: Great idea! Rockhoof's old friends would be happy to help. And I bet he'd love to visit them. <b>Rockhoof</b>: [sighs] Even Canterlot looks different from the old days. 
 <b>Applejack</b>: Aww. I'm sure once you see your old pal Flash Magnus, you'll feel right at home. 
 <b>Flash Magnus</b>: Trot, two, three, four! Trot, two, three, four! Keep it lively, rookies! Visitors on site! Company, halt! Rockhoof, you old ditch-digger you! 
 <b>Rockhoof</b>: Flash Magnus, as I live and breathe! Is this your squadron? 
 <b>Flash Magnus</b>: After we got out of limbo, I went looking for work for a pony with experience in the Royal Legion. Once a soldier, always a soldier. 
 <b>Twilight Sparkle</b>: Princess Celestia was happy to find a new drill sergeant for her guard! 
 <b>Rockhoof</b>: Uh... that's great. She really put you in a job that big so soon? 
-<b>Flash Magnus</b>: Ho-ho, this is nothing. You should see what Mistmane is up to. 
-[shimmering sounds] 
+<b>Flash Magnus</b>: Ho-ho, this is nothing. You should see what Mistmane is up to. [shimmering sounds] 
 <b>Rockhoof</b>: They made you the royal landscape artist for the Crystal Empire? 
 <b>Applejack</b>: Wow... 
 <b>Twilight Sparkle</b>: Your work is beautiful. 
 <b>Mistmane</b>: Oh, thank you. I've never worked with crystal before, but in my heart, I know I'm where I belong. 
 <b>Rockhoof</b>: You always could find the beauty in things. But there's not much demand for shovel ponies like me nowadays. 
-<b>Mistmane</b>: Don't give up hope. See Somnambula. She'll help you find your purpose. 
-<b>Twilight Sparkle</b>: [whispering] Somnambula's a motivational speaker. Bet they didn't even have those back in your time. 
+<b>Mistmane</b>: Don't give up hope. See Somnambula. She'll help you find your purpose. <b>Twilight Sparkle</b>: [whispering] Somnambula's a motivational speaker. Bet they didn't even have those back in your time. 
 <b>Rockhoof</b>: [whispering] Because we didn't need them. Ponies knew what to do with their lives. 
 <b>Somnambula</b>: Focus on my voice and feel yourself unlock your potential. [inhaling and exhaling] Imagine everything that troubles you as one big cloud. Now let it float away. You are relaxed. Free to do anything you wish. 
 <b>Rockhoof</b>: [snoring loudly] 
-<b>Applejack</b>: Guess he wished he could take a nap? 
-<b>Rockhoof</b>: Mage Meadowbrook, your home looks just the same as the old days. Wish I could say the same for mine. 
+<b>Applejack</b>: Guess he wished he could take a nap? <b>Rockhoof</b>: Mage Meadowbrook, your home looks just the same as the old days. Wish I could say the same for mine. 
 <b>Mage Meadowbrook</b>: Well, I've had to expand my clinic a bit. Many creatures need healin' in this modern world. Aww. Looks like you could use some, too. What's got you heartsick, Rockhoof? 
 [thud!] 
 [bottles clattering] 
 <b>Rockhoof</b>: Thing is, I can't do my old job like Flash. Or adapt like Mistmane. Or succeed at something new like Somnambula. Or go home, like you. 
 <b>Mage Meadowbrook</b>: Give it time. Even Star Swirl's still learnin' about friendship. 
 <b>Applejack</b>: Yeah! And I bet Stygian took plenty o' time to fit in. 
-<b>Twilight Sparkle</b>: Hey, look what I found! 
- <i>Me and My Shadow</i>, the third hit novel by former villain Stygian! I'm impressed! He's really thriving! 
+<b>Twilight Sparkle</b>: Hey, look what I found!  <i>Me and My Shadow</i>, the third hit novel by former villain Stygian! I'm impressed! He's really thriving! 
 <b>Rockhoof</b>: [sighs] 
 <b>Twilight Sparkle</b>: Rockhoof? Where are you going? 
-<b>Rockhoof</b>: I'm not sure. Maybe I just don't belong in this modern world. 
-<b>Applejack</b>: Now this here's a right mash of apples. 'Stead of solvin' Rockhoof's problem, we made him feel even worse. 
-<b>Rainbow Dash</b>: I'll tell you the real problem here. We haven't given Rockhoof the chance to be who he 
- <i>really</i> is. 
+<b>Rockhoof</b>: I'm not sure. Maybe I just don't belong in this modern world. <b>Applejack</b>: Now this here's a right mash of apples. 'Stead of solvin' Rockhoof's problem, we made him feel even worse. 
+<b>Rainbow Dash</b>: I'll tell you the real problem here. We haven't given Rockhoof the chance to be who he  <i>really</i> is. 
 <b>Pinkie Pie</b>: A pony with a metal shovel and a heart of gold? 
 <b>Rainbow Dash</b>: Ugh. A hero! What we need to do is find him a job that's as epic as he is! 
-<b>Twilight Sparkle</b>: Hmm. I might know just the thing. 
-<b>Rockhoof</b>: I'm honored to serve in the Hippogriff Navy, General Seaspray! I promise I'll prove my worth. 
+<b>Twilight Sparkle</b>: Hmm. I might know just the thing. <b>Rockhoof</b>: I'm honored to serve in the Hippogriff Navy, General Seaspray! I promise I'll prove my worth. 
 <b>Seaspray</b>: Think nothing of it. I know how hard it is to adapt to a new home. After our many years below the waves, land customs seemed strange. 
 <b>Rockhoof</b>: Like you didn't fit in, no matter how hard you tried? 
 <b>Seaspray</b>: As though the world had moved on without us. Never fear, Rockhoof. We shall be as brothers in this bright future above the waves. 
@@ -191,36 +163,29 @@
 [crash!] 
 <b>Rockhoof</b>: But... I don't understand! The stars have always steered me true! 
 <b>Twilight Sparkle</b>: Oh, no. Stars can move slowly over time. They must look different now than over a thousand years ago. 
-<b>Seaspray</b>: It was an honor serving with you, Rockhoof. But it seems our paths lie in different directions. 
-<b>Twilight Sparkle</b>: Hey, mistakes happen. We'll think of something else for you to do. 
+<b>Seaspray</b>: It was an honor serving with you, Rockhoof. But it seems our paths lie in different directions. <b>Twilight Sparkle</b>: Hey, mistakes happen. We'll think of something else for you to do. 
 <b>Rockhoof</b>: Oh, there's no need, lass. I already know what I want to do next. 
 <b>Applejack</b>: Really? What? 
 <b>Rockhoof</b>: I heard there's a statue spell that sends creatures into stone sleep. I want you to cast it. On me. 
-<b>Twilight Sparkle</b>: [gasps] 
-<b>Spike</b>: [muttering sleepily] 
+<b>Twilight Sparkle</b>: [gasps] <b>Spike</b>: [muttering sleepily] 
 <b>Twilight Sparkle</b>: No! 
 <b>Rockhoof</b>: Yes! 
 <b>Twilight Sparkle</b>: No! 
 <b>Rockhoof</b>: Aye! 
-<b>Spike</b>: [groans] 
-<b>Twilight Sparkle</b>: 
- <i>No!</i> 
-<b>Rockhoof</b>: 
- <i>Aye!</i> 
+<b>Spike</b>: [groans] <b>Twilight Sparkle</b>:  <i>No!</i> 
+<b>Rockhoof</b>:  <i>Aye!</i> 
 [door opens] 
 <b>Spike</b>: Hey, guys. Need me to help you decide something? 
 <b>Twilight Sparkle</b>: Rockhoof wants me to cast a spell to turn him into a statue! The answer is no! 
 <b>Rockhoof</b>: Well, it should be "aye", because I wouldn't even be here to be turned into a statue if Twilight hadn't cast a spell in the first place! [stomps] 
 <b>Spike</b>: Whoa. I thought you were arguing over ice cream flavors. 
 <b>Twilight Sparkle</b>: The answer is still no! Why would you want to be turned into stone? 
-<b>Rockhoof</b>: Because I'm a relic of a bygone age. I belong in a museum. Safe. Preserved. Untouched. I don't belong in this time. It's up to 
- <i>you</i> to make that right. 
+<b>Rockhoof</b>: Because I'm a relic of a bygone age. I belong in a museum. Safe. Preserved. Untouched. I don't belong in this time. It's up to  <i>you</i> to make that right. 
 <b>Twilight Sparkle</b>: But there has to be a better way! 
 <b>Rockhoof</b>: Twilight, please understand. I want to be remembered as the hero I was, not the disappointment I've become. 
 <b>Twilight Sparkle</b>: But you're not! Rockhoof, wait! Spike, can you teach my class today? 
 <b>Spike</b>: Uh, you're not really going to turn him to stone, are you? 
-<b>Twilight Sparkle</b>: Only because it's temporary. As soon as I think of a new solution, we'll wake Rockhoof up. I know he has more to offer the world as a pony than a statue. 
-<b>Sandbar</b>: Did you hear Rockhoof caught all the bees in the Everfree Forest and gave 'em to Zecora as a gift? 
+<b>Twilight Sparkle</b>: Only because it's temporary. As soon as I think of a new solution, we'll wake Rockhoof up. I know he has more to offer the world as a pony than a statue. <b>Sandbar</b>: Did you hear Rockhoof caught all the bees in the Everfree Forest and gave 'em to Zecora as a gift? 
 <b>Silverstream</b>: Wow! Terramar said Rockhoof called down the stars and sunk the whole Hippogriff Navy! 
 <b>Smolder</b>: He's definitely weird, but in a fun way. You never know what's gonna happen next with him. 
 <b>Yona</b>: Professor Rockhoof best pony! 
@@ -231,16 +196,14 @@
 <b>Ocellus</b>: Like Discord?! But why?! Rockhoof isn't a bad guy! 
 <b>Spike</b>: ["I don't know" sound] Your instructions are to write an essay on heroism and what it means to you. 
 <b>Yona</b>: No! 
-<b>Spike</b>: Oh, don't worry. It doesn't have to be a long essay. 
-<b>Rockhoof</b>: Maybe like this? Or on three legs? Hmm. What will give the wee birds fewer places to, uh... decorate? 
+<b>Spike</b>: Oh, don't worry. It doesn't have to be a long essay. <b>Rockhoof</b>: Maybe like this? Or on three legs? Hmm. What will give the wee birds fewer places to, uh... decorate? 
 <b>Yona</b>: Professor Rockhoof! Dragon said you want to turn into stone! Yona not believe it! 
 <b>Rockhoof</b>: Aye, I'm afraid it's true, lass. 
 <b>Yona</b>: But... pony need finish ursa major story for class! 
 <b>Rockhoof</b>: Oh, it's sweet of you to try to get me to stay, Yona. But I'm afraid old stories like mine aren't worth anything in this day and age. 
 <b>Yona</b>: Fine! If pony no want tell Yona story, then Yona tell pony story! From class report! [reading] "When Yona come to pony school, Yona not fit in. Pony ways strange. But Yona find friends! Yona meet Professor Rockhoof! Pony brave and strong as yak! Not afraid! Hero! When Yona grow up, Yona want to be just like Professor Rockhoof!" 
 <b>Rockhoof</b>: Well, uh, since you went to the trouble of writing something that nice, I suppose the least I could do is tell you the rest of the story. 
-<b>Yona</b>: Yona tell whole school Rockhoof is best! Now all want to hear story! 
-[doors open] 
+<b>Yona</b>: Yona tell whole school Rockhoof is best! Now all want to hear story! [doors open] 
 <b>Twilight Sparkle</b>: Okay, I have the spell. But will you please reconsider? Rockhoof? 
 <b>Rockhoof</b>: The ursa major tried to grab me by the gullet! But I ducked her claws! 
 [students in awe] 
@@ -261,10 +224,8 @@
 <b>Twilight Sparkle</b>: Eh. 
 <b>Rockhoof</b>: I, uh... That's very kind of you. But I still think these old bones are more suited to a museum display. 
 <b>Twilight Sparkle</b>: You are a living record of our history. Your stories can inspire and teach generations to come. If you're a statue, that's all lost. 
-<b>Rockhoof</b>: But will I ever 
- <i>really</i> belong in your world? 
+<b>Rockhoof</b>: But will I ever  <i>really</i> belong in your world? 
 <b>Yona</b>: Rockhoof Yona's friend. So Rockhoof belongs! 
 <b>Rockhoof</b>: You know... That reminds me of another story. Once, there was a small yak that knew more than a great hero. 
 <b>Smolder</b>: Hey, don't forget the dragons in this one! 
-<b>Rockhoof</b>: Aye, there were dragons. And ponies. And plenty of Hippogriffs. Plus a changeling and a griffon... 
-[credits] 
+<b>Rockhoof</b>: Aye, there were dragons. And ponies. And plenty of Hippogriffs. Plus a changeling and a griffon... [credits] 

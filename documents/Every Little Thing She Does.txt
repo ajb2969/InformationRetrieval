@@ -3,35 +3,25 @@
 <b>Twilight Sparkle</b>: [yawns] I've prepared a full day of spells. You've been doing great, but now it's time for a real challenge! 
 <b>Starlight Glimmer</b>: Oh-ho-ho! It is on! Where do we begin? 
 <b>Twilight Sparkle</b>: Teleportation! Multiple locations! Try to keep up! 
-[teleportation zaps] 
-<b>Twilight Sparkle</b>: Transfiguration! 
+[teleportation zaps] <b>Twilight Sparkle</b>: Transfiguration! 
 [zap] 
 [chick chirping] 
 [zaps] 
-<b>Starlight Glimmer</b>: [blows] 
-<b>Twilight Sparkle</b>: Shields! 
+<b>Starlight Glimmer</b>: [blows] <b>Twilight Sparkle</b>: Shields! 
 [zaps] 
 [explosion] 
 <b>Starlight Glimmer</b>: Whoo! I am on fire! What's next? 
 <b>Twilight Sparkle</b>: Maybe there is such a thing as too much studying. 
-[crash] 
-<b>Starlight Glimmer</b>: As you know, speed spells like 
- <i>Accelero</i> are 
- <i>not</i> easy. But if done correctly, they can allow you to be 
- <i>much</i> more efficient with your day. 
+[crash] <b>Starlight Glimmer</b>: As you know, speed spells like  <i>Accelero</i> are  <i>not</i> easy. But if done correctly, they can allow you to be  <i>much</i> more efficient with your day. 
 [whooshing] 
 <b>Spike</b>: Way to go, Starlight! 
-<b>Starlight Glimmer</b>: [laughing] I'm not finished. I've discovered a very old spell, 
- <i>Similo Duplexis</i>, when combined with 
- <i>Accelero</i> in just the right way... [doubled up] ...you can literally be in two places at once! [normal] [sighs] 
- <i>Now</i> I'm finished. 
+<b>Starlight Glimmer</b>: [laughing] I'm not finished. I've discovered a very old spell,  <i>Similo Duplexis</i>, when combined with  <i>Accelero</i> in just the right way... [doubled up] ...you can literally be in two places at once! [normal] [sighs]  <i>Now</i> I'm finished. 
 <b>Twilight Sparkle</b>: I have to admit, your skills with magic really are nothing short of amazing. I'm very impressed. 
 <b>Starlight Glimmer</b>: [laughing] I've always been something of a natural. 
 <b>Twilight Sparkle</b>: However, it doesn't look like you've tackled any friendship lessons since you met Trixie. 
 <b>Starlight Glimmer</b>: Are you sure? I could've sworn there were a couple in there somewhere... 
 <b>Twilight Sparkle</b>: I'm sure. 
-<b>Starlight Glimmer</b>: I see... Well, I'm really quite busy this week. So many commitments. I'll 
- <i>try</i> and find some time in my— 
+<b>Starlight Glimmer</b>: I see... Well, I'm really quite busy this week. So many commitments. I'll  <i>try</i> and find some time in my— 
 [magic zap] 
 <b>Twilight Sparkle</b>: No time like the present! Spike and I are headed to Canterlot. Princess Celestia wanted me to give her students a quick overview on the history of enchanted objects in Equestria. We'll be back after the presentation, which should be... 
 <b>Spike</b>: Twenty moons from now? 
@@ -40,8 +30,7 @@
 <b>Twilight Sparkle</b>: You can tackle a friendship lesson today, and we can review your progress when I get back later this evening. 
 <b>Starlight Glimmer</b>: [nervously] Of course! No problem! Friendship lesson... On it... 
 <b>Twilight Sparkle</b>: Great! Can't wait. Now, Spike, help me color-code these cards according to time, place, and object. 
-<b>Spike</b>: [sighs] 
-[knocking] 
+<b>Spike</b>: [sighs] [knocking] 
 [clicking] 
 [door opens] 
 <b>Starlight Glimmer</b>: Huh? Huh! [humming and muttering to self] Oh, yeah. Mm-hmm. 
@@ -54,16 +43,12 @@
 <b>Spike</b>: "Help an animal with Fluttershy," "chillax with Rainbow Dash?" What is chillaxing? 
 <b>Starlight Glimmer</b>: No idea. 
 <b>Spike</b>: You know, uh, if you're nervous about your friendship lessons, it's totally okay to say so. 
-<b>Starlight Glimmer</b>: Nervous, me? [fake laughter] Oh, Spike, you really are hilarious, ha-ha. You think 
- <i>I'm</i> nervous that I'm gonna fail something as 
- <i>simple</i> as baking a cake? 
+<b>Starlight Glimmer</b>: Nervous, me? [fake laughter] Oh, Spike, you really are hilarious, ha-ha. You think  <i>I'm</i> nervous that I'm gonna fail something as  <i>simple</i> as baking a cake? 
 <b>Spike</b>: Well, if you were, it'd be— 
-<b>Starlight Glimmer</b>: Silly! Twilight just said how impressed she was that I combined a speed spell and a duplication spell. 
- <i>That</i> was a challenge. These? Pfft, hah! I could combine all five of these at the same time without breaking a sweat. 
+<b>Starlight Glimmer</b>: Silly! Twilight just said how impressed she was that I combined a speed spell and a duplication spell.  <i>That</i> was a challenge. These? Pfft, hah! I could combine all five of these at the same time without breaking a sweat. 
 <b>Spike</b>: I think maybe you're missing— 
 <b>Starlight Glimmer</b>: An opportunity to really impress Twilight? [gasps] Great idea, Spike! I'm gonna get right on that! Good talk. 
-<b>Spike</b>: And I thought Twilight was the master of the freak-out. 
-<b>Starlight Glimmer</b>: So, with your help, I figure these should be done in no time. 
+<b>Spike</b>: And I thought Twilight was the master of the freak-out. <b>Starlight Glimmer</b>: So, with your help, I figure these should be done in no time. 
 <b>Applejack</b>: Are you sure this is what Twilight would want? Seems like you might want to take your time with each of these. 
 <b>Starlight Glimmer</b>: But by working as a team, we can get them done faster. And isn't teamwork a key factor in friendship? 
 <b>Applejack</b>: I... guess. 
@@ -83,12 +68,7 @@
 <b>Rainbow Dash</b>: Heh. Shows what you know about chillaxing. Let me do some location scouting. 
 [whoosh] 
 <b>Starlight Glimmer</b>: Okay... It seemed more efficient to start with the scrapbooking, so we can just get it out of the— 
-<b>Pinkie Pie</b>: Ooh, ooh, ooh-ooh-ooh! Can we start with me? We're gonna need time for the cake to bake! After all... 
- <dl>
-  <dd>
-   It's a piece of cake to bake a pretty cake— 
-  </dd>
- </dl> 
+<b>Pinkie Pie</b>: Ooh, ooh, ooh-ooh-ooh! Can we start with me? We're gonna need time for the cake to bake! After all...  <dl>  <dd>   It's a piece of cake to bake a pretty cake—   </dd> </dl> 
 <b>Starlight Glimmer</b>: Uh, we're on a schedule, no time for a song. We can start with baking, then— 
 <b>Rarity</b>: But we can't design dresses after you've been baking with Pinkie. [hushed] She can be a bit messy. 
 [squidge] 
@@ -99,54 +79,31 @@
 <b>Applejack</b>: We've got at least eighty moons worth of memories to go through. 
 <b>Starlight Glimmer</b>: Eighty moons?! 
 <b>Rainbow Dash</b>: Ugh. There is nowhere to chillax in this castle! We're gonna have to set up somewhere else. 
-<b>Rainbow Dash</b>, 
- <b>Applejack</b>, 
- <b>Fluttershy</b>, 
- <b>Rarity</b>, and 
- <b>Pinkie Pie</b>: [overlapped argument] 
+<b>Rainbow Dash</b>,  <b>Applejack</b>,  <b>Fluttershy</b>,  <b>Rarity</b>, and  <b>Pinkie Pie</b>: [overlapped argument] 
 <b>Starlight Glimmer</b>: Could you all excuse me for... one... second? 
 [whoosh] 
-<b>Rainbow Dash</b>: Wow. That pony really needs to chillax. 
-[door opens] 
-<b>Starlight Glimmer</b>: [hyperventilating] Okay, Starlight. You've got this. A handful of friendship lessons is nothing compared to the spells you've mastered. [nervous laugh] Maybe if I cast a little spell to help things along... Something simple and safe. 
- <i>Fiducia Compelus</i>... That's not bad. They would barely notice it, but... is it enough? Oh... Maybe 
- <i>Cogeria</i> so they're more... open to suggestion. Oh, or maybe 
- <i>Cogeria</i> combined with 
- <i>Fiducia Compelus</i>! Yes, that could work nicely! Oh, with a hint of 
- <i>Persuadere</i> to be sure it sticks. 
+<b>Rainbow Dash</b>: Wow. That pony really needs to chillax. [door opens] 
+<b>Starlight Glimmer</b>: [hyperventilating] Okay, Starlight. You've got this. A handful of friendship lessons is nothing compared to the spells you've mastered. [nervous laugh] Maybe if I cast a little spell to help things along... Something simple and safe.  <i>Fiducia Compelus</i>... That's not bad. They would barely notice it, but... is it enough? Oh... Maybe  <i>Cogeria</i> so they're more... open to suggestion. Oh, or maybe  <i>Cogeria</i> combined with  <i>Fiducia Compelus</i>! Yes, that could work nicely! Oh, with a hint of  <i>Persuadere</i> to be sure it sticks. 
 [magic zap] 
 <b>Starlight Glimmer</b>: Everypony'll probably thank me for getting it all done so quickly. And Twilight will be thrilled I've completed so many lessons. Everypony wins! 
 [magic zap] 
-<b>Starlight Glimmer</b>: Congratulations, Starlight. You're a genius. [gasps] Maybe the congratulations were a little premature... 
-<b>Starlight Glimmer</b>: 
- <i>Cogeria</i>... 
- <i>Persuadere</i>... 
- <i>Fiducia</i>... Hmm. Ah! Of course! 
- <i>Fiducia Compelus</i> needs a trigger. [amplified] 
- <i>Ponies! Hear my voice and listen!</i> 
+<b>Starlight Glimmer</b>: Congratulations, Starlight. You're a genius. [gasps] Maybe the congratulations were a little premature... <b>Starlight Glimmer</b>:  <i>Cogeria</i>...  <i>Persuadere</i>...  <i>Fiducia</i>... Hmm. Ah! Of course!  <i>Fiducia Compelus</i> needs a trigger. [amplified]  <i>Ponies! Hear my voice and listen!</i> 
 [magic zap] 
 <b>Starlight Glimmer</b>: Pinkie, kitchen. Rarity, Applejack, library. Fluttershy, stay here. Rainbow Dash, find somewhere inside the castle and set up a place where we can chillax. 
-<b>Rainbow Dash</b>, 
- <b>Applejack</b>, 
- <b>Rarity</b>, and 
- <b>Pinkie Pie</b>: [overlapped agreement] 
-[door opens] 
+<b>Rainbow Dash</b>,  <b>Applejack</b>,  <b>Rarity</b>, and  <b>Pinkie Pie</b>: [overlapped agreement] [door opens] 
 <b>Starlight Glimmer</b>: Let's get to work, Pinkie! 
 <b>Pinkie Pie</b>: [mechanically] Okie-dokie! What would you like to do first? 
-<b>Starlight Glimmer</b>: Uh, what are we 
- <i>supposed</i> to do first? 
+<b>Starlight Glimmer</b>: Uh, what are we  <i>supposed</i> to do first? 
 <b>Pinkie Pie</b>: [mechanically] Whatever you want to do first, Starlight Glimmer. 
 <b>Starlight Glimmer</b>: [reading] In a medium-size mixing bowl, beat together eggs, sugar, and two teaspoons of vanilla... [beat] mix in flour... [beat] [quickly] add baking soda, salt and cinnamon! Hmm. I think you can take it from here. 
 <b>Pinkie Pie</b>: [mechanically] Take what from where? 
 <b>Starlight Glimmer</b>: The baking. Just keep following the instructions in the book until I get back. 
 <b>Pinkie Pie</b>: [mechanically] Abso-tively! Instruction following starting... now! 
 <b>Starlight Glimmer</b>: Baking a cake – check! Now on to sewing! 
-[door closes] 
-<b>Starlight Glimmer</b>: What did you have in mind, Rarity? 
+[door closes] <b>Starlight Glimmer</b>: What did you have in mind, Rarity? 
 <b>Rarity</b>: [mechanically] Whatever you want me to have in my mind, Starlight Glimmer. 
 <b>Starlight Glimmer</b>: Can you make a dress exactly like that one? 
-<b>Rarity</b>: [mechanically] 
- <i>Just</i> like this one? 
+<b>Rarity</b>: [mechanically]  <i>Just</i> like this one? 
 <b>Starlight Glimmer</b>: Just like it. 
 <b>Rarity</b>: [mechanically] Absolutely. It will look perfectly divine. 
 <b>Starlight Glimmer</b>: That's a whole lot of photos. How do you usually organize them? 
@@ -156,8 +113,7 @@
 <b>Starlight Glimmer</b>: Ugh. I don't need every little detail. Heh. Just sum up the story in one sentence. 
 <b>Applejack</b>: [mechanically] Huh. Turns out Granny Smith didn't know how to make a pig do the backstroke. 
 <b>Starlight Glimmer</b>: Uh-huh... Why don't you keep putting these photos in chronological order, and when I come back, you can give me more... highlights? 
-<b>Applejack</b>: [mechanically] Sure thing, Starlight Glimmer. 
-<b>Starlight Glimmer</b>: Fluttershy, where are all the animals? 
+<b>Applejack</b>: [mechanically] Sure thing, Starlight Glimmer. <b>Starlight Glimmer</b>: Fluttershy, where are all the animals? 
 <b>Fluttershy</b>: [mechanically] They ran away. 
 <b>Starlight Glimmer</b>: And why didn't you stop them? 
 <b>Fluttershy</b>: [mechanically] Because you didn't ask me to. 
@@ -166,21 +122,16 @@
 <b>Starlight Glimmer</b>: Did you find a place to chillax, Rainbow Dash? 
 <b>Rainbow Dash</b>: [mechanically] Sure thing, Starlight Glimmer! 
 <b>Starlight Glimmer</b>: Great. Let me know when it's ready. 
-<b>Rainbow Dash</b>: [mechanically] Yes, Starlight Glimmer. 
-<b>Applejack</b>: [mechanically] Granny Smith knew she was gonna need a bigger boat, so Goldie Delicious says, "If you can't say anythin' nice about anypony, come sit by me!" Big Mac knew if he just covered himself in mud, the creature wouldn't be able to see him! 
+<b>Rainbow Dash</b>: [mechanically] Yes, Starlight Glimmer. <b>Applejack</b>: [mechanically] Granny Smith knew she was gonna need a bigger boat, so Goldie Delicious says, "If you can't say anythin' nice about anypony, come sit by me!" Big Mac knew if he just covered himself in mud, the creature wouldn't be able to see him! 
 <b>Rarity</b>: [mechanically] Starlight Glimmer. I have finished the dress. Isn't it gorgeous? 
 <b>Starlight Glimmer</b>: What is that? 
 <b>Rarity</b>: [mechanically] You wanted me to make a dress exactly like the one in the book. 
-<b>Starlight Glimmer</b>: [sighs] Go make a 
- <i>real</i> dress out of fabric, exactly like the one in the book. 
+<b>Starlight Glimmer</b>: [sighs] Go make a  <i>real</i> dress out of fabric, exactly like the one in the book. 
 <b>Rarity</b>: [mechanically] Ah. I see. Yes, of course, Starlight Glimmer. 
 [beat] 
-<b>Starlight Glimmer</b>: Rarity! Make it 
- <i>bigger</i> than the one in the book. 
+<b>Starlight Glimmer</b>: Rarity! Make it  <i>bigger</i> than the one in the book. 
 <b>Rarity</b>: [mechanically] Of course, darling. Bigger it is. 
-[mouse squeaks] 
-<b>Applejack</b>: [mechanically] She was just a pony standin' in front of another pony askin' him to love her. 
-[door opens] 
+[mouse squeaks] <b>Applejack</b>: [mechanically] She was just a pony standin' in front of another pony askin' him to love her. [door opens] 
 [crash] 
 <b>Starlight Glimmer</b>: Pinkie, what are you doing?! 
 <b>Pinkie Pie</b>: [mechanically] Following all of the instructions in the cookbook in order, Starlight Glimmer! 
@@ -189,8 +140,7 @@
 <b>Starlight Glimmer</b>: Think the baking lesson is done. 
 <b>Harry</b>: [growling] 
 <b>Starlight Glimmer</b>: Oh, what now? 
-[oven crackling] 
-<b>Applejack</b>: [mechanically] They can take our farm, but they can't take our freedom! 
+[oven crackling] <b>Applejack</b>: [mechanically] They can take our farm, but they can't take our freedom! 
 <b>Starlight Glimmer</b>: What's going on?! 
 <b>Harry</b>: [growls] 
 <b>Fluttershy</b>: [mechanically] I gathered all of the animals like you asked, Starlight Glimmer. 
@@ -205,33 +155,24 @@
 <b>Pinkie Pie</b>: [mechanically] The cakes are burning. You left the ovens on. 
 <b>Starlight Glimmer</b>: We need water! 
 <b>Rainbow Dash</b>: [mechanically] Yes, Starlight Glimmer. 
-<b>Starlight Glimmer</b>: 
- <i>Storm</i> clouds?! 
+<b>Starlight Glimmer</b>:  <i>Storm</i> clouds?! 
 [thunder rolling] 
 <b>Harry</b>: [confused noise] 
 [splashing] 
 <b>Applejack</b>: [mechanically] Big Mac told me, "With a whole lot of power comes a heck of a lot of responsibility." 
 <b>Starlight Glimmer</b>: [groans] This can't get any worse! 
-<b>Twilight Sparkle</b>: What is going on?! 
-[spider squeaks] 
+<b>Twilight Sparkle</b>: What is going on?! [spider squeaks] 
 [brushing] 
 <b>Spike</b>: I had no idea we had spiders in the castle! I'm never sleeping again! 
-<b>Starlight Glimmer</b>: Maybe if I had reversed the 
- <i>Fiducia Compelus</i> and 
- <i>Cogeria</i>... Or maybe I added too much 
- <i>Persuadere</i>... What? 
+<b>Starlight Glimmer</b>: Maybe if I had reversed the  <i>Fiducia Compelus</i> and  <i>Cogeria</i>... Or maybe I added too much  <i>Persuadere</i>... What? 
 <b>Spike</b>: You're really missing the point here. 
-<b>Twilight Sparkle</b>: [sighs] I finally untangled that mess of a spell and got everypony home. It was really powerful stuff. They're gonna feel 
- <i>that</i> in the morning. Now please try to explain to me how in the name of Celestia things got 
- <i>this</i> out of control. 
-<b>Starlight Glimmer</b>: Well, it was the 
- <i>first</i> time I cast that particular spell, and I didn't fully think it through. I-I bet if I had reversed— 
+<b>Twilight Sparkle</b>: [sighs] I finally untangled that mess of a spell and got everypony home. It was really powerful stuff. They're gonna feel  <i>that</i> in the morning. Now please try to explain to me how in the name of Celestia things got  <i>this</i> out of control. 
+<b>Starlight Glimmer</b>: Well, it was the  <i>first</i> time I cast that particular spell, and I didn't fully think it through. I-I bet if I had reversed— 
 <b>Twilight Sparkle</b>: I think you might be missing the point here. 
 <b>Spike</b>: Told ya. 
 <b>Twilight Sparkle</b>: What made you think that casting a spell on your friends to do your bidding was even remotely a good idea? 
 <b>Starlight Glimmer</b>: Well, when you put it that way, it sounds really bad. 
-<b>Twilight Sparkle</b>: That's because it 
- <i>is</i> really bad! 
+<b>Twilight Sparkle</b>: That's because it  <i>is</i> really bad! 
 <b>Starlight Glimmer</b>: [stammering] 
 <b>Twilight Sparkle</b>: Starlight, I'm not mad at you, but I am disappointed. You've been doing so well. I just don't understand how a friendship lesson turned into all of this. 
 <b>Starlight Glimmer</b>: Ugh, fine! I've been avoiding the friendship lessons on purpose. 
@@ -245,53 +186,38 @@
 <b>Starlight Glimmer</b>: Oh. You know, I think I might have missed the point here. 
 <b>Spike</b>: Told ya. 
 <b>Starlight Glimmer</b>: So now what? 
-<b>Twilight Sparkle</b>: Now it's time for a pretty advanced friendship lesson. It's called apologizing. 
-<b>Applejack</b>: [groaning] I don't know what kind of whammy Starlight put on us, but I feel like I got shoved through the Super Speedy Cider Squeezy 6000. 
+<b>Twilight Sparkle</b>: Now it's time for a pretty advanced friendship lesson. It's called apologizing. <b>Applejack</b>: [groaning] I don't know what kind of whammy Starlight put on us, but I feel like I got shoved through the Super Speedy Cider Squeezy 6000. 
 <b>Rainbow Dash</b>: Ugh, tell me about it. 
 <b>Rarity</b>: [hushed] If everypony could speak in a whisper for the next few days, that would be delightful. My head is thumping...! 
 <b>Fluttershy</b>: [tired] I was up all night calming the animals down. 
 <b>Rarity</b>: [hushed] Fluttershy, please! Not so loud... 
-<b>Pinkie Pie</b>: Starlight's spell made me burn perfectly good cake! 
- <i>I never burn cake!</i> 
+<b>Pinkie Pie</b>: Starlight's spell made me burn perfectly good cake!  <i>I never burn cake!</i> 
 <b>Starlight Glimmer</b>: Yeah, about that... Things got a little out of hand last night. 
 <b>Applejack</b>: Well, ain't that the understatement of the day. 
 <b>Pinkie Pie</b>: Hmph! Tell it to the cake, sister! 
-<b>Rarity</b>: [hushed] Can we all 
- <i>please</i> argue at a lower volume? 
-<b>Starlight Glimmer</b>: I 
- <i>really</i> messed up. I cast the spell because I was nervous about working with you on the friendship lessons. 
-<b>Rainbow Dash</b>: Well, here's a friendship lesson for ya — 
- <i>don't cast spells on your friends!</i> 
+<b>Rarity</b>: [hushed] Can we all  <i>please</i> argue at a lower volume? 
+<b>Starlight Glimmer</b>: I  <i>really</i> messed up. I cast the spell because I was nervous about working with you on the friendship lessons. 
+<b>Rainbow Dash</b>: Well, here's a friendship lesson for ya —  <i>don't cast spells on your friends!</i> 
 <b>Starlight Glimmer</b>: Believe me, I know. What I did was wrong, a-and I can't take it back. You're right to be upset, and I hope one day I can make it up to you. But all I can say is... I'm sorry. Now, if you'll excuse me, I've gotta go clean the castle covered in wet cake batter and spiders. 
-<b>Rainbow Dash</b>: That 
- <i>was</i> a pretty good apology. 
+<b>Rainbow Dash</b>: That  <i>was</i> a pretty good apology. 
 <b>Fluttershy</b>: Seems like she feels pretty bad. 
 <b>Applejack</b>: Hey, Starlight! Most of the Apple family photos are still layin' around in the wreckage. I think I'll come along and hunt 'em down. 
 <b>Fluttershy</b>: Oh, and I feel awful for disturbing all of those cute little spiders and bats. I should check on them. 
 <b>Rarity</b>: Ah, yes, and I left some lovely fabric out. I should come and move it to that nice quiet library. 
 <b>Rainbow Dash</b>: Uh, I'll come and get those storm clouds out of the bathroom. 
-<b>Pinkie Pie</b>: 
- <i>Fine!</i> 
- <i>Somepony</i> has to bake a cake to honor all the poor cakes that sacrificed their batter in last night's tragedy! 
-[montage music] 
-<b>Twilight Sparkle</b>: It seems your apology went well. 
+<b>Pinkie Pie</b>:  <i>Fine!</i>  <i>Somepony</i> has to bake a cake to honor all the poor cakes that sacrificed their batter in last night's tragedy! [montage music] <b>Twilight Sparkle</b>: It seems your apology went well. 
 <b>Starlight Glimmer</b>: [sighs] I'm just lucky to have such understanding friends, but it's probably going to be a while before I try to tackle those friendship lessons again. 
 <b>Twilight Sparkle</b>: What do you mean? You've been doing them all day. 
 <b>Starlight Glimmer</b>: What are you talking about? I've been cleaning up the mess I made by totally failing at friendship. 
 <b>Twilight Sparkle</b>: Really? But didn't I see you sewing with Rarity? 
 <b>Starlight Glimmer</b>: Yes, but— 
-<b>Twilight Sparkle</b>: And you and Applejack did a great job collecting those photos and putting them in the book. Helping animals with Fluttershy, baking with Pinkie Pie – those sound like your assignments to me. In fact, I think there's just one that you're missing. 
-<b>Starlight Glimmer</b>: Sun – check. Chairs – check. And thanks to a simple 
- <i>Catadupa Levitata</i> spell, we've got water. Is that everything we need to chillax? 
+<b>Twilight Sparkle</b>: And you and Applejack did a great job collecting those photos and putting them in the book. Helping animals with Fluttershy, baking with Pinkie Pie – those sound like your assignments to me. In fact, I think there's just one that you're missing. <b>Starlight Glimmer</b>: Sun – check. Chairs – check. And thanks to a simple  <i>Catadupa Levitata</i> spell, we've got water. Is that everything we need to chillax? 
 <b>Rainbow Dash</b>: Nope. 
 <b>Starlight Glimmer</b>: No? What did I miss? 
-<b>Rainbow Dash</b>: 
- <i>Quiet.</i> 
+<b>Rainbow Dash</b>:  <i>Quiet.</i> 
 <b>Starlight Glimmer</b>: Ah! Right. 
 <b>Twilight Sparkle</b>: Great job, Starlight. Looks like you've completed another friendship lesson. [sighs] 
-<b>Rainbow Dash</b>: Hey! She completes the lesson when 
- <i>I</i> say she completes it. So less learning and more chillaxing! 
+<b>Rainbow Dash</b>: Hey! She completes the lesson when  <i>I</i> say she completes it. So less learning and more chillaxing! 
 [beat] 
 <b>Starlight Glimmer</b>: So... How long do we sit quietly? 
-<b>Main cast</b>: [laughing] 
-[credits] 
+<b>Main cast</b>: [laughing] [credits] 

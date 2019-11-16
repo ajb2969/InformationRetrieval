@@ -3,8 +3,7 @@
 <b>Pinkie Pie</b>: And then she looped around and around like whoo whoo whoo whoo whoo whoo whoo! 
 <b>Twilight Sparkle</b>: Uh-huh. Phew. 
 <b>Pinkie Pie</b>: Rainbow Dash! 
-<b>Rainbow Dash</b>: [grunt] 
- <i>Pinkie Pie</i>? Not again. 
+<b>Rainbow Dash</b>: [grunt]  <i>Pinkie Pie</i>? Not again. 
 <b>Pinkie Pie</b>: Rainbow Dash. 
 <b>Rainbow Dash</b>: Not now, Pinkie Pie. 
 <b>Pinkie Pie</b>: But, but Rainbow Dash– 
@@ -12,28 +11,18 @@
 <b>Pinkie Pie</b>: But– 
 <b>Rainbow Dash</b>: I said not now--[grunt] 
 <b>Pinkie Pie</b>: I was gonna tell you to look out for that mountain. 
-<b>Rainbow Dash</b>: [grumble] 
-<b>Pinkie Pie</b>: [humming] Hi, I'm looking for Rainbow Dash. Have you seen her? Hi there, have you seen Rainbow Dash? Okay, thanks anyway. Twilight, have you seen Rainbow Dash anywhere? 
+<b>Rainbow Dash</b>: [grumble] <b>Pinkie Pie</b>: [humming] Hi, I'm looking for Rainbow Dash. Have you seen her? Hi there, have you seen Rainbow Dash? Okay, thanks anyway. Twilight, have you seen Rainbow Dash anywhere? 
 <b>Twilight Sparkle</b>: Isn't she right up there? 
-<b>Pinkie Pie</b>: Rainbow 
- <i>Dash</i>. 
-<b>Rainbow Dash</b>: [grunt] 
-<b>Rainbow Dash</b>: Phew. That was close. 
+<b>Pinkie Pie</b>: Rainbow  <i>Dash</i>. 
+<b>Rainbow Dash</b>: [grunt] <b>Rainbow Dash</b>: Phew. That was close. 
 <b>Pinkie Pie</b>: Hi! 
-<b>Rainbow Dash</b>: Aah! 
-<b>Rainbow Dash</b>: [pants] 
+<b>Rainbow Dash</b>: Aah! <b>Rainbow Dash</b>: [pants] 
 <b>Pinkie Pie</b>: Hi again. 
-<b>Rainbow Dash</b>: Aah! 
-<b>Pinkie Pie</b>: Pfeh. I need a favor, Rainbow Dash. 
+<b>Rainbow Dash</b>: Aah! <b>Pinkie Pie</b>: Pfeh. I need a favor, Rainbow Dash. 
 <b>Rainbow Dash</b>: Waaa--oh, forget it. 
-<b>Pinkie Pie</b>: I 
- <i>totally</i> promise it'll be 
- <i>totally</i> fun. 
-<b>Rainbow Dash</b>: [sighs] Okay. 
-<b>Pinkie Pie</b>: Over to the right. No no, a little to the left. Oh wait, back to the right. Now a little leftish while staying rightly. 
- <i>Stop</i>. Hmm. Maybe a few inches to the south. Now a couple centimeters north. Okay. One more smidgimeter to the-- 
-<b>Rainbow Dash</b>: 
- <i>Pinkie Pie</i>! 
+<b>Pinkie Pie</b>: I  <i>totally</i> promise it'll be  <i>totally</i> fun. 
+<b>Rainbow Dash</b>: [sighs] Okay. <b>Pinkie Pie</b>: Over to the right. No no, a little to the left. Oh wait, back to the right. Now a little leftish while staying rightly.  <i>Stop</i>. Hmm. Maybe a few inches to the south. Now a couple centimeters north. Okay. One more smidgimeter to the-- 
+<b>Rainbow Dash</b>:  <i>Pinkie Pie</i>! 
 <b>Pinkie Pie</b>: Uh, I mean, perfect. Now wait for my signal. 
 <b>Spike</b>: [humming] 
 [thunder] 
@@ -44,17 +33,13 @@
 <b>Pinkie Pie</b>: Oh no, you're not hurt are you? 
 <b>Spike</b>: Ne--[hiccup]--eh, don't be [hiccup] silly, dragons are [hiccup] fire-proof. 
 <b>Pinkie Pie</b>: Oh, okay, good. 
-<b>Pinkie Pie</b> and 
- <b>Rainbow Dash</b>: [laughs] 
+<b>Pinkie Pie</b> and  <b>Rainbow Dash</b>: [laughs] 
 <b>Spike</b>: I wish the same thing [hiccup] were true with scrolls. 
 <b>Princess Celestia</b>: [gasp] 
-<b>Pinkie Pie</b> and 
- <b>Rainbow Dash</b>: [laugh] 
+<b>Pinkie Pie</b> and  <b>Rainbow Dash</b>: [laugh] 
 <b>Spike</b>: [hiccups] 
-<b>Pinkie Pie</b>: Have you ever 
- <i>seen</i> anything more hilarious? [laughs] 
-<b>Rainbow Dash</b>: I can think of 
- <i>one</i> thing. 
+<b>Pinkie Pie</b>: Have you ever  <i>seen</i> anything more hilarious? [laughs] 
+<b>Rainbow Dash</b>: I can think of  <i>one</i> thing. 
 <b>Pinkie Pie</b>: Aah! [hiccup] [giggles] [hiccup] [chuckles] [hiccup] [laughs] [hiccup] 
 <b>Rainbow Dash</b>: I didn't take you for a prankster, Pinkie Pie. 
 <b>Pinkie Pie</b>: Are you [hiccup] kidding? [hiccup] I love to pull pranks. It's all [hiccup] in good fun, and Pinkie Pie lo--[hiccup]--oves to have [hiccup] fun! [hiccup] 
@@ -63,87 +48,51 @@
 <b>Rainbow Dash</b>: You wanna hang out? 
 <b>Pinkie Pie</b>: [hiccup] That'd be [hiccup] I'd really [hiccup] When do [hiccup] I mean [hiccup] When would you [hiccup] 
 <b>Rainbow Dash</b>: A simple nod would do. 
-<b>Pinkie Pie</b>: Mmm-hmm. 
-<b>Rainbow Dash</b>: Is she even home? 
+<b>Pinkie Pie</b>: Mmm-hmm. <b>Rainbow Dash</b>: Is she even home? 
 <b>Pinkie Pie</b>: I don't know. This is gonna be gold. 
 <b>Rainbow Dash</b>: There she is. 
 <b>Rarity</b>: Ooo. [sneezes] 
-<b>Pinkie Pie</b> and 
- <b>Rainbow Dash</b>: [laughs] 
-<b>Pinkie Pie</b>: 
- <i>Aaa-choo</i>! 
-<b>Twilight Sparkle</b>: Hmm? 
-<b>Pinkie Pie</b> and 
- <b>Rainbow Dash</b>: [laughs] 
-<b>Applejack</b>: [gasp] Land sakes! 
-<b>Pinkie Pie</b> and 
- <b>Rainbow Dash</b>: [chuckles] 
+<b>Pinkie Pie</b> and  <b>Rainbow Dash</b>: [laughs] 
+<b>Pinkie Pie</b>:  <i>Aaa-choo</i>! <b>Twilight Sparkle</b>: Hmm? 
+<b>Pinkie Pie</b> and  <b>Rainbow Dash</b>: [laughs] <b>Applejack</b>: [gasp] Land sakes! 
+<b>Pinkie Pie</b> and  <b>Rainbow Dash</b>: [chuckles] 
 [water splash] 
-<b>Applejack</b>: [chuckles] 
-[squeaky toy] 
+<b>Applejack</b>: [chuckles] [squeaky toy] 
 <b>Pinkie Pie</b>: Is someone over there? Who're we gonna squirt? Who're we gonna squirt? 
 <b>Rainbow Dash</b>: [chuckles] Fluttershy. 
-<b>Pinkie Pie</b>: 
- <i>WHAT</i>? [spits] Nononononono, we 
- <i>can't</i> prank Fluttershy, I mean, she's 
- <i>so</i> sensitive. It'll hurt her feelings, even our most harmless prank. 
+<b>Pinkie Pie</b>:  <i>WHAT</i>? [spits] Nononononono, we  <i>can't</i> prank Fluttershy, I mean, she's  <i>so</i> sensitive. It'll hurt her feelings, even our most harmless prank. 
 <b>Rainbow Dash</b>: Yeah, you're right. [raspberry] Huh. We need another victim who's made of tougher stuff. So, who's it gonna be? 
-<b>Pinkie Pie</b>: Oh, [chuckles] I've got 
- <i>someone</i> in mind. [chuckles] The toughest around. 
+<b>Pinkie Pie</b>: Oh, [chuckles] I've got  <i>someone</i> in mind. [chuckles] The toughest around. 
 <b>Rainbow Dash</b>: Oh, awesome. Who? Who? Do I know them? 
 <b>Pinkie Pie</b>: [giggles] Oh, yes. [giggles] You're very close. 
 <b>Rainbow Dash</b>: [chuckles] Good one, Pinkie Pie. 
-<b>Pinkie Pie</b> and 
- <b>Rainbow Dash</b>: [laughs] 
-<b>Rainbow Dash</b>: Ridiculous. 
-<b>Pinkie Pie</b>: [blows party hooter] Rise and shine Rainbow Dash! It's a brand new day and we got a lot of pranking to-- Ooh. 
+<b>Pinkie Pie</b> and  <b>Rainbow Dash</b>: [laughs] 
+<b>Rainbow Dash</b>: Ridiculous. <b>Pinkie Pie</b>: [blows party hooter] Rise and shine Rainbow Dash! It's a brand new day and we got a lot of pranking to-- Ooh. 
 <b>Rainbow Dash</b>: Mornin', Pinks. Gilda, this is my gal pal, Pinkie Pie. 
 <b>Gilda</b>: Hey. What's up? 
 <b>Rainbow Dash</b>: Pinkie, this is my griffon friend, Gilda. 
 <b>Pinkie Pie</b>: What's a griffon? 
 <b>Rainbow Dash</b>: She's half-eagle, half-lion. 
-<b>Gilda</b>: And 
- <i>all</i> awesome. Raa. Heh-haa. Yeah, that's right. 
+<b>Gilda</b>: And  <i>all</i> awesome. Raa. Heh-haa. Yeah, that's right. 
 <b>Rainbow Dash</b>: Gilda's my best friend from my days at Junior Speedster flight camp. Hey, remember the chant? 
 <b>Gilda</b>: Sha, they made us recite it every morning, I'll never get that lame thing out of my head. 
 <b>Rainbow Dash</b>: Sooo... 
 <b>Gilda</b>: Ugh. Only for you, Dash. 
-<b>[Rainbow Dash and Gilda]</b> 
- <dl>
-  <dd>
-   Junior Speedsters are our lives, 
-  </dd>
-  <dd>
-   Sky-bound soars and daring dives 
-  </dd>
-  <dd>
-   Junior Speedsters, it's our quest, 
-  </dd>
-  <dd>
-   To someday be the very best! 
-  </dd>
- </dl> 
+<b>[Rainbow Dash and Gilda]</b>  <dl>  <dd>   Junior Speedsters are our lives,   </dd>  <dd>   Sky-bound soars and daring dives   </dd>  <dd>   Junior Speedsters, it's our quest,   </dd>  <dd>   To someday be the very best!   </dd> </dl> 
 <b>Pinkie Pie</b>: [laughs] Oh that was awesome, and it gave me a great idea for a prank. Gilda, you game? 
 <b>Gilda</b>: Huh. Well, I groove on a good prank as much as the next griffon. But Dash, you promised me we'd get a flying session in this morning. 
 <b>Rainbow Dash</b>: Yeah, uh, well, Pinkie Pie, you don't mind, do you? Gilda just got here. We'll catch up with you later. 
-<b>Pinkie Pie</b>: Oh. Um, well sure, no problem. Have fun you guys, I'll, uh, just catch up with you-- [sigh] later. [blows party hooter very sadly] 
-<b>Gilda</b> and 
- <b>Rainbow Dash</b>: [laughing] 
+<b>Pinkie Pie</b>: Oh. Um, well sure, no problem. Have fun you guys, I'll, uh, just catch up with you-- [sigh] later. [blows party hooter very sadly] <b>Gilda</b> and  <b>Rainbow Dash</b>: [laughing] 
 <b>Gilda</b>: Whoa, that was sweet. Just like old times. 
-<b>Rainbow Dash</b>: Yeah, only 
- <i>faster</i>. So now what? 
+<b>Rainbow Dash</b>: Yeah, only  <i>faster</i>. So now what? 
 <b>Pinkie Pie</b>: Hey there. 
-<b>Gilda</b> and 
- <b>Rainbow Dash</b>: Huh? 
+<b>Gilda</b> and  <b>Rainbow Dash</b>: Huh? 
 <b>Pinkie Pie</b>: It's later. And I caught up. 
 <b>Rainbow Dash</b>: Pinkie Pie, you are so random. 
 <b>Gilda</b>: Hey Dash, think you got enough gas left to beat me to that cloud? 
-<b>Rainbow Dash</b>: A race? You are 
- <i>so</i> on. 
-<b>Gilda</b>: One, two, three, 
- <i>go</i>. 
-<b>Pinkie Pie</b>: 
- <i>Hey!</i> 
+<b>Rainbow Dash</b>: A race? You are  <i>so</i> on. 
+<b>Gilda</b>: One, two, three,  <i>go</i>. 
+<b>Pinkie Pie</b>:  <i>Hey!</i> 
 <b>Rainbow Dash</b>: I win. 
 <b>Gilda</b>: As if. I won, dude. 
 <b>Rainbow Dash</b>: No way. 
@@ -155,75 +104,46 @@
 <b>Rainbow Dash</b>: There is no way you beat me. 
 <b>Gilda</b>: Whatever. 
 <b>Pinkie Pie</b>: Wow guys, that was really close, but I think Rainbow Dash beat you by a teeny weeny itty bitty hair, or a teeny weeny itty bitty feather. 
-<b>Rainbow Dash</b>: Hah, see? Good thing Pinkie Pie's here to keep you honest, 
- <i>G</i>. 
-<b>Gilda</b>: Okay... Dash, last one to that cloud up there is a gnarly dragon egg. 
- <i>Go</i>! [To Pinkie Pie] I think the high altitude is making you dizzy. 
-<b>Pinkie Pie</b>: Wait, 
- <i>guys!</i> Oh wow, you guys almost got away from me that time. 
-<b>Gilda</b>: So, Dash, got any new moves in your tricktionary, or are you 100% 
- <i>old</i> school? 
-<b>Rainbow Dash</b>: New moves? Heh, sit back 
- <i>G</i>, this is gonna take a while. 
+<b>Rainbow Dash</b>: Hah, see? Good thing Pinkie Pie's here to keep you honest,  <i>G</i>. 
+<b>Gilda</b>: Okay... Dash, last one to that cloud up there is a gnarly dragon egg.  <i>Go</i>! [To Pinkie Pie] I think the high altitude is making you dizzy. 
+<b>Pinkie Pie</b>: Wait,  <i>guys!</i> Oh wow, you guys almost got away from me that time. 
+<b>Gilda</b>: So, Dash, got any new moves in your tricktionary, or are you 100%  <i>old</i> school? 
+<b>Rainbow Dash</b>: New moves? Heh, sit back  <i>G</i>, this is gonna take a while. 
 <b>Gilda</b>: Hey Pinkie, c'mere. 
 <b>Pinkie Pie</b>: Yeah? 
-<b>Gilda</b>: Don't you know how to take 
- <i>get lost</i> for an answer? Dash doesn't need to hang with a dweeb like you now that 
- <i>I'm</i> around. You're dorkin' up the skies, Stinkie Pie, so make like a bee and 
- <i>BUZZ OFF</i>. 
+<b>Gilda</b>: Don't you know how to take  <i>get lost</i> for an answer? Dash doesn't need to hang with a dweeb like you now that  <i>I'm</i> around. You're dorkin' up the skies, Stinkie Pie, so make like a bee and  <i>BUZZ OFF</i>. 
 <b>Pinkie Pie</b>: [gasp] Whaaa-aaa– 
-<b>Rainbow Dash</b>: Try matching 
- <i>that</i>. Hey, where's Pinkie Pie and her crazy contraption? 
-<b>Gilda</b>: Eh, she left. Something about being 
- <i>as busy as a bee</i>. 
-<b>Pinkie Pie</b>: 
- <i>Hmph!</i> 
-<b>Twilight Sparkle</b>: So Pinkie Pie, are you sure that this friend of Rainbow Dash is really so mean? 
-<b>Pinkie Pie</b>: Um, 
- <i>yeah</i>. She keeps stealing Rainbow Dash away, she pops my balloons, and she told me to buzz off. I've never met a griffon this mean. Well, actually, I've never met a griffon at all, but I bet if I had, she wouldn't have been as mean and grumpy as Gilda. 
+<b>Rainbow Dash</b>: Try matching  <i>that</i>. Hey, where's Pinkie Pie and her crazy contraption? 
+<b>Gilda</b>: Eh, she left. Something about being  <i>as busy as a bee</i>. 
+<b>Pinkie Pie</b>:  <i>Hmph!</i> <b>Twilight Sparkle</b>: So Pinkie Pie, are you sure that this friend of Rainbow Dash is really so mean? 
+<b>Pinkie Pie</b>: Um,  <i>yeah</i>. She keeps stealing Rainbow Dash away, she pops my balloons, and she told me to buzz off. I've never met a griffon this mean. Well, actually, I've never met a griffon at all, but I bet if I had, she wouldn't have been as mean and grumpy as Gilda. 
 <b>Twilight Sparkle</b>: You know what I think, Pinkie Pie. 
 <b>Pinkie Pie</b>: Hmm? 
 <b>Twilight Sparkle</b>: Well, I think... you're jealous. 
-<b>Pinkie Pie</b>: 
- <i>Jealous</i>? 
-<b>Spike</b>: Green with envy. Well, in your case, 
- <i>pink with envy</i>. 
-<b>Twilight Sparkle</b>: Well, yes. Jealous. Listen Pinkie, I don't want to upset you, but just because Rainbow Dash has another friend doesn't make Gilda a grump. I mean, perhaps it's you, Pinkie, who needs to improve 
- <i>her</i> attitude. 
-<b>Pinkie Pie</b>: Improve 
- <i>my</i> attitude? But I... D... B.. It's Gilda that... D... Are you seri... [scream of frustration] 
-<b>Twilight Sparkle</b>: [sigh] 
-<b>Pinkie Pie</b>: Maybe Twilight is right. Maybe Gilda isn't a big meanie grumpy mean-meanie-pants. Maybe I'm just a big jealous judgmental jealous-jealousy-pants. [sigh] 
-<b>Pinkie Pie</b>: [sips] 
+<b>Pinkie Pie</b>:  <i>Jealous</i>? 
+<b>Spike</b>: Green with envy. Well, in your case,  <i>pink with envy</i>. 
+<b>Twilight Sparkle</b>: Well, yes. Jealous. Listen Pinkie, I don't want to upset you, but just because Rainbow Dash has another friend doesn't make Gilda a grump. I mean, perhaps it's you, Pinkie, who needs to improve  <i>her</i> attitude. 
+<b>Pinkie Pie</b>: Improve  <i>my</i> attitude? But I... D... B.. It's Gilda that... D... Are you seri... [scream of frustration] 
+<b>Twilight Sparkle</b>: [sigh] <b>Pinkie Pie</b>: Maybe Twilight is right. Maybe Gilda isn't a big meanie grumpy mean-meanie-pants. Maybe I'm just a big jealous judgmental jealous-jealousy-pants. [sigh] <b>Pinkie Pie</b>: [sips] 
 <b>Rainbow Dash</b>: [laughing] That was sweet. Ugh, I gotta take care of a few weather jobs around here. Shouldn't take long. Just, uh, hang out in town and I'll come find ya. 
 <b>Gilda</b>: That's cool, I guess. I'm gonna go chow down. 
 <b>Rainbow Dash</b>: Later. 
-<b>Granny Smith</b>: [sniffs] Aaah! A rattler, a 
- <i>rattler</i>! Run for the hills! Everybody forsake yourselves! 
+<b>Granny Smith</b>: [sniffs] Aaah! A rattler, a  <i>rattler</i>! Run for the hills! Everybody forsake yourselves! 
 <b>Gilda</b>: This stuff ain't fresh, dude. 
-<b>Pinkie Pie</b>: Aw, poor Granny Smith, she didn't know it was a joke. How mean. No, no, I can't misjudge her. It 
- <i>was</i> kind of a funny prank, I guess. 
+<b>Pinkie Pie</b>: Aw, poor Granny Smith, she didn't know it was a joke. How mean. No, no, I can't misjudge her. It  <i>was</i> kind of a funny prank, I guess. 
 <b>Gilda</b>: [chews] 
-<b>Pinkie Pie</b>: [gasp] I 
- <i>did</i> misjudge her. She's not only a meanie mean-pants, she's also a thief. Nonononono, she might give it back. It's just a joke. 
+<b>Pinkie Pie</b>: [gasp] I  <i>did</i> misjudge her. She's not only a meanie mean-pants, she's also a thief. Nonononono, she might give it back. It's just a joke. 
 <b>Fluttershy</b>: All right little ones, this way, this way. Mama duck, you're free and clear. 
-<b>Gilda</b>: 
- <i>Hey.</i> 
+<b>Gilda</b>:  <i>Hey.</i> 
 <b>Fluttershy</b>: Please excuse me. 
 <b>Gilda</b>: I'm walkin' here. 
 <b>Fluttershy</b>: Oh, um, I'm sorry. I-I-I was just trying to... 
-<b>Gilda</b>: [mocking] 
- <i>I'm sorry, I'm sorry.</i> Why don't you just watch where you're going, doofus? 
+<b>Gilda</b>: [mocking]  <i>I'm sorry, I'm sorry.</i> Why don't you just watch where you're going, doofus? 
 <b>Fluttershy</b>: B-b-b-but I... I... 
 <b>Gilda</b>: [breathes in, roars] 
 <b>Fluttershy</b>: [bleat] [sobs] 
 <b>Gilda</b>: Ugh, please, all these lame ponies are driving me buggy. I gotta bail. 
-<b>Pinkie Pie</b>: She's a grump, 
- <i>and</i> a thief, 
- <i>and</i> a bully. The meanest kind of mean meanie-pants there is. I can take it, but no one treats Fluttershy like that. 
- <i>No</i>. 
- <i>One</i>. This calls for extreme measures, Pinkie Pie style. 
-<b>Pinkie Pie</b>: Welcome, welcome. Welcome! 
+<b>Pinkie Pie</b>: She's a grump,  <i>and</i> a thief,  <i>and</i> a bully. The meanest kind of mean meanie-pants there is. I can take it, but no one treats Fluttershy like that.  <i>No</i>.  <i>One</i>. This calls for extreme measures, Pinkie Pie style. <b>Pinkie Pie</b>: Welcome, welcome. Welcome! 
 <b>Applejack</b>: Who's this Gilda I've heard nothing about? 
 <b>Rarity</b>: I hear she's an old friend of Rainbow Dash. A griffon, so rare. 
 <b>Twilight Sparkle</b>: You've met Gilda, right? What's she like? 
@@ -236,101 +156,71 @@
 <b>Gilda</b>: [grunt] 
 <b>Pinkie Pie</b>: [laughs] 
 [laughter] 
-<b>Rainbow Dash</b>: Oh Pinkie Pie, the old hoof-shake buzzer. You are a 
- <i>scream</i>. 
+<b>Rainbow Dash</b>: Oh Pinkie Pie, the old hoof-shake buzzer. You are a  <i>scream</i>. 
 <b>Gilda</b>: Yeah [chuckles nervously] uh, good one, Pinkie Pie. 
-<b>Rainbow Dash</b>: Come on 
- <i>G</i>, I'll introduce you to some of my other friends. 
-<b>Gilda</b>: Right behind you Dash. 
- <i>I know what you're up to.</i> 
+<b>Rainbow Dash</b>: Come on  <i>G</i>, I'll introduce you to some of my other friends. 
+<b>Gilda</b>: Right behind you Dash.  <i>I know what you're up to.</i> 
 <b>Pinkie Pie</b>: Great. 
-<b>Gilda</b>: Rrrh. I know what you're 
- <i>planning</i>. 
+<b>Gilda</b>: Rrrh. I know what you're  <i>planning</i>. 
 <b>Pinkie Pie</b>: [giggles] Well, I hope so. This wasn't supposed to be a surprise party. 
 <b>Gilda</b>: I mean, I've got my eye on you. 
-<b>Pinkie Pie</b>: And 
- <i>I</i> got my 
- <i>eye</i> on 
- <i>you</i>. Everyone, I'd like you all to meet Gilda, a long-time, dear friend of Rainbow Dash. Let's honor her and welcome her to Ponyville. 
+<b>Pinkie Pie</b>: And  <i>I</i> got my  <i>eye</i> on  <i>you</i>. Everyone, I'd like you all to meet Gilda, a long-time, dear friend of Rainbow Dash. Let's honor her and welcome her to Ponyville. 
 [ponies cheer] 
 <b>Pinkie Pie</b>: Please help yourself. 
-<b>Gilda</b>: Vanilla lemon drops. Don't mind if I do. 
- <i>HOT</i>! 
-<b>Rainbow Dash</b>: 
- <i>G</i>, the punch. 
+<b>Gilda</b>: Vanilla lemon drops. Don't mind if I do.  <i>HOT</i>! 
+<b>Rainbow Dash</b>:  <i>G</i>, the punch. 
 <b>Gilda</b>: [gasp] [gulp] Huh? 
 [laughter] 
 <b>Pinkie Pie</b>: Well, whaddya know, pepper in the vanilla lemon drops, and the punch served in a dribble glass. 
 <b>Rainbow Dash</b>: Ha. Priceless. Priceless. [laughs] 
-<b>Gilda</b>: [gulp] [gasp] Yeah, 
- <i>hilarious</i>. 
-<b>Rainbow Dash</b>: Hey 
- <i>G</i>, look, presents. 
+<b>Gilda</b>: [gulp] [gasp] Yeah,  <i>hilarious</i>. 
+<b>Rainbow Dash</b>: Hey  <i>G</i>, look, presents. 
 [laughter] 
 <b>Applejack</b>: Spittin' snakes. Hah, somepony pulled that prank on me last month. 
-<b>Gilda</b>: Ha ha. I bet I know who 
- <i>that</i> was. 
-<b>Pinkie Pie</b>: You 
- <i>do</i>? 
-[ponies chatter, birds singing] 
+<b>Gilda</b>: Ha ha. I bet I know who  <i>that</i> was. 
+<b>Pinkie Pie</b>: You  <i>do</i>? [ponies chatter, birds singing] 
 <b>Pinkie Pie</b>: Cake time everypony. 
 <b>Spike</b>: Hey, can I blow out the candles? 
-<b>Twilight Sparkle</b>: Why don't we let Gilda blow out the candles, Spike? She 
- <i>is</i> the guest of honor after all. 
+<b>Twilight Sparkle</b>: Why don't we let Gilda blow out the candles, Spike? She  <i>is</i> the guest of honor after all. 
 <b>Spike</b>: Ugh. 
 <b>Gilda</b>: Exactly. [gasp] [blow] [gasp] [blow] 
 [laughter] 
 <b>Gilda</b>: [continued gasping and blowing] 
 <b>Spike</b>: [laughs] Re-lighting birthday candles, I love that prank. What a classic. 
 <b>Pinkie Pie</b>: Now, I wonder who could've done that. 
-<b>Gilda</b>: Yeah, 
- <i>I wonder.</i> 
+<b>Gilda</b>: Yeah,  <i>I wonder.</i> 
 <b>Spike</b>: Mmm, who cares. This cake is amazing. 
-<b>Twilight Sparkle</b>: 
- <i>Spike</i>. 
+<b>Twilight Sparkle</b>:  <i>Spike</i>. 
 <b>Spike</b>: What? It's great, try some. 
-<b>Rainbow Dash</b>: Hey 
- <i>G</i>, you're not upset about some silly candles, are you? 
+<b>Rainbow Dash</b>: Hey  <i>G</i>, you're not upset about some silly candles, are you? 
 <b>Gilda</b>: No way, Dash. Like I said, I'm down with a good prank. 
 <b>Rainbow Dash</b>: Come on then, let's have some cake. 
 <b>Gilda</b>: Hey, I'm watching you. Like a hawk. 
 <b>Pinkie Pie</b>: Why? Can't you watch me like a griffon? 
 <b>Applejack</b>: Hey y'all, it's pin the tail on the pony. Let's play. 
 <b>Rarity</b>: Oh, my favorite game. Can I go first? Can I have the purple tail? 
-<b>Gilda</b>: Well, 
- <i>I</i> am the guest of honor, and I'll have the purple tail. 
+<b>Gilda</b>: Well,  <i>I</i> am the guest of honor, and I'll have the purple tail. 
 <b>Pinkie Pie</b>: Yeah, Gilda should definitely go first. Let's get you blindfolded. 
 <b>Gilda</b>: Hey what-- ugh-- what are you doing? Rrrah. 
 <b>Pinkie Pie</b>: We're spinning you around and around and then you can pin the tail on the pony. Now just walk straight ahead and pin the tail. 
-<b>Gilda</b>: [mockingly] 
- <i>Now just walk straight ahead and pin the tail.</i> Hmph, yeah, right. This is another prank, isn't it? I'm going this way. 
+<b>Gilda</b>: [mockingly]  <i>Now just walk straight ahead and pin the tail.</i> Hmph, yeah, right. This is another prank, isn't it? I'm going this way. 
 <b>Pinkie Pie</b>: Wait. The poster is this-- 
 <b>Gilda</b>: Whoa whaa waah waah waaaaah [groan] 
 <b>Pinkie Pie</b>: Uh, Gilda? You pinned the tail on the wrong end. 
 [ponies laugh] 
-<b>Gilda</b>: [roar] 
- <i>This</i> is your idea of a good time? I've never met a lamer bunch of dweebs in all my life. And Pinkie Pie, you! You are queen lame-o with your weak little party pranks. Did you really think you could make me lose my cool? Well, Dash and I have ten times as much cool as the rest of you put together. Come on Dash, we're bailing on this pathetic scene. 
- <i>Come on</i> Rainbow Dash. 
- <i>I said</i>, we're leaving. 
-<b>Rainbow Dash</b>: You know Gilda, 
- <i>I</i> was the one who set up all those weak pranks at this party. 
-<b>Gilda</b>: [gasp] 
- <i>What</i>? 
+<b>Gilda</b>: [roar]  <i>This</i> is your idea of a good time? I've never met a lamer bunch of dweebs in all my life. And Pinkie Pie, you! You are queen lame-o with your weak little party pranks. Did you really think you could make me lose my cool? Well, Dash and I have ten times as much cool as the rest of you put together. Come on Dash, we're bailing on this pathetic scene.  <i>Come on</i> Rainbow Dash.  <i>I said</i>, we're leaving. 
+<b>Rainbow Dash</b>: You know Gilda,  <i>I</i> was the one who set up all those weak pranks at this party. 
+<b>Gilda</b>: [gasp]  <i>What</i>? 
 <b>Pinkie Pie</b>: Ooh. 
-<b>Rainbow Dash</b>: So I guess 
- <i>I'm</i> queen lame-o. 
+<b>Rainbow Dash</b>: So I guess  <i>I'm</i> queen lame-o. 
 <b>Gilda</b>: Come on, Dash, you're joshing me. 
 <b>Rainbow Dash</b>: They weren't all meant for you specifically, it was just dumb luck that you set them all off. 
 <b>Pinkie Pie</b>: I shoulda known, that dribble cup had Rainbow Dash written all over it. 
 <b>Gilda</b>: No way. It was Pinkie Pie. She set up this party to trip me up, to make a fool of me. 
 <b>Pinkie Pie</b>: Me? I threw this party to improve your attitude. I thought a good party might turn that frown upside down. 
-<b>Rainbow Dash</b>: And you sure didn't need any help making a fool of yourself. You know, this is not how I thought my 
- <i>old</i> friends would treat my 
- <i>new</i> friends. If being cool is all you care about, maybe you should go find some new 
- <i>cool</i> friends someplace else. 
+<b>Rainbow Dash</b>: And you sure didn't need any help making a fool of yourself. You know, this is not how I thought my  <i>old</i> friends would treat my  <i>new</i> friends. If being cool is all you care about, maybe you should go find some new  <i>cool</i> friends someplace else. 
 <b>Gilda</b>: Rrgh. Yeah? Well you, you, you are such a, a flip-flop: cool one minute and lame the next. When you decide not to be lame anymore, gimme a call. [bird of prey shriek] 
-<b>Rainbow Dash</b>: 
- <i>Not</i> cool. 
+<b>Rainbow Dash</b>:  <i>Not</i> cool. 
 <b>Spike</b>: Wow, talk about a party pooper. 
 <b>Twilight Sparkle</b>: Wow, what was that about? 
 [ponies talking indistinctly] 
@@ -343,14 +233,8 @@
 [laughter] 
 <b>Twilight Sparkle</b>: Hey Pinkie. Sorry I accused you of misjudging Gilda. Looks like I'm the one who misjudged you. 
 <b>Pinkie Pie</b>: It's okay Twilight, even you can't be a super smart smarty smart-pants all the time. Come on everypony, there's still a whole lotta party to finish. 
-[ponies cheer] 
-<b>Twilight Sparkle</b>: 
- <i>Dearest Princess Celestia,</i> 
-<i>Today I learned that it's hard to accept when somepony you like wants to spend time with somepony who's not so nice. Though it's impossible to control who your friends hang out with, it is possible to control your own behavior. Just continue to be a good friend. In the end, the difference between a false friend and one who's true will surely come to light.</i> 
-<i>Your faithful student,</i> 
-<i>Twilight Sparkle</i> 
-<b>Princess Celestia</b>: 
- <i>Dear Twilight Sparkle,</i> 
-<i>My most faithful student...</i> Oh! Heh, wrong ink. [sigh] [chuckles] 
-[music] 
+[ponies cheer] <b>Twilight Sparkle</b>:  <i>Dearest Princess Celestia,</i> 
+<i>Today I learned that it's hard to accept when somepony you like wants to spend time with somepony who's not so nice. Though it's impossible to control who your friends hang out with, it is possible to control your own behavior. Just continue to be a good friend. In the end, the difference between a false friend and one who's true will surely come to light.</i> <i>Your faithful student,</i> 
+<i>Twilight Sparkle</i> <b>Princess Celestia</b>:  <i>Dear Twilight Sparkle,</i> 
+<i>My most faithful student...</i> Oh! Heh, wrong ink. [sigh] [chuckles] [music] 
 [credits] 

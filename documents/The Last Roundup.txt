@@ -1,0 +1,239 @@
+[galloping] 
+[tap on wood] 
+<b>Apple Bloom</b>: Whoo-- Whoa! Whoo-hoo! Applejack, you're sure to knock everypony's hat off at the Equestria Rodeo competition! 
+<b>Applejack</b>: Aw shucks, Apple Bloom. I sure hope so. 
+<b>Apple Bloom</b>: Hope so? I know so! After all, you're the ten-time rodeo champeen of Ponyville! Why, you've got more blue ribbons than anypony in Ponyville  <i>ever</i>! And I can't wait for my big sis to win every blue ribbon in Equestria and bring home the title of Equestria Rodeo champeen! <b>Rainbow Dash</b>: Huh? Now,  <span title="&quot;be careful&quot; in the updated iTunes re-release and just &quot;careful&quot; on subsequent television airings" style="cursor:help; border-bottom:1px dotted">careful, Derpy</span>! Don't want to do any more damage than you've already done. 
+[crash] 
+<b>Derpy</b>: I just don't know what went wrong. 
+[lightning zaps] 
+<b>Rainbow Dash</b>: Yeah. It's a mystery. 
+<b>Derpy</b>: Nice work, Rainbow Dash. 
+[thud] 
+[wood splintering] 
+<b>Rainbow Dash</b>: [yelps] 
+<b>Derpy</b>: You okay, Rainbow Dash? Anything I can do to help? 
+<b>Rainbow Dash</b>: No! Nothing! In the name of Celestia, just sit there and do nothing! 
+[wood splintering] 
+[crash] 
+<b>Derpy</b>: Oops. My bad. 
+<b>Crowd</b>: Applejack! Applejack! Applejack! Applejack! [continues chanting] 
+<b>Mayor Mare</b>: Everypony, can I get your attention? Attention please! 
+<b>Crowd</b>: [stops chanting] 
+<b>Mayor Mare</b>: Yes, we are all here to send Applejack to compete in this year's Equestria Rodeo competition in Canterlot. 
+<b>Crowd</b>: [cheering and applause] 
+<b>Mayor Mare</b>: And I want to thank Applejack in advance for generously offering up her prize money to fix town hall. 
+<b>Derpy</b>: Yeah, Applejack! Whoo-hoo! 
+[thud] 
+<b>Crowd</b>: [cheering and stomping] 
+<b>Pinkie Pie</b>: Speech! Speech! 
+<b>Applejack</b>: Oh, shucks. I'm not much for speeches. 
+<b>Pinkie Pie</b>: Alright then, no speech! 
+<b>Applejack</b>: Buuut! This here is the nicest send off anypony could ask for. Y'all have been cheering me on in every rodeo since I was a  <i>little</i> little pony. So it seems only fittin' to use my winnings to fix up town hall. I promise to make Ponyville proud. 
+<b>Crowd</b>: [cheering] [bell ringing] 
+<b>Granny Smith</b>: I want you to show all them highfalutin rodeo ponies what a  <i>real</i> rodeo pony's like! 
+<b>Applejack</b>: You betcha, Granny Smith. 
+<b>Mayor Mare</b>: And bring back all that money! 
+<b>Applejack</b>: You betcha, Mayor. 
+<b>Pinkie Pie</b>: And have fun. And don't be nervous. Or if you are, use that nervous energy to do even better than you already would! And eat peanuts and popcorn and taffy. Taffy gives lots of nervous energy! [munching] 
+<b>Twilight Sparkle</b>: Just do your best, Applejack. 
+<b>Applejack</b>: I'll do better than my best! 
+<b>Conductor</b>: The train to Canterlot is about to leave! All aboard who's coming aboard! 
+<b>Applejack</b>: Guess that means me. 
+<b>Rainbow Dash</b>: Seeya in a week! 
+<b>Apple Bloom</b>: With lots of new blue ribbons! 
+<b>Mayor Mare</b>: And lots of money! 
+<b>Applejack</b>: Darn tootin'! See y'all in a week, with a big bag full of blue ribbons! 
+<b>Assembled ponies</b>: [Bye, etc.] 
+<b>Pinkie Pie</b>: And drink sarsaparilla! What? It gives you extra sass. <b>Fluttershy</b>: Oh, I hope Applejack is surprised by this surprise party! 
+<b>Rainbow Dash</b>: Well, that  <i>is</i> the point. 
+<b>Fluttershy</b>: I know, but I hope she isn't  <i>so</i> surprised she's startled, because while being surprised can be nice, being startled can be... very startling. 
+<b>Pinkie Pie</b>: Surprise! 
+[party whistle blows] 
+[thud] 
+<b>Fluttershy</b>: [gasps] Oh, Pinkie, you startled me. 
+<b>Pinkie Pie</b>: Sorry! I was just practicing my "surprise!" for when we surprise Applejack with this super cool party for becoming rodeo champeen of Equestria!  <i>Surprise</i>! 
+[party whistle blows] 
+[thud] 
+<b>Twilight Sparkle</b>: Quiet, Pinkie, I think Applejack's coming! 
+<b>Pinkie Pie</b>: Don't worry, Twilight. Got my lips all limbered up! [makes various noises with her mouth] 
+[door opens] 
+<b>Ponies</b>: Surprise! 
+<b>Big McIntosh</b>: [blows kazoo] 
+<b>Pinkie Pie</b>: Surprise! Shoot! 
+<b>Parcel Post</b>: Wow, this is the best surprise ever! How did you know it was my birthday? 
+[doors slam twice] 
+<b>Apple Bloom</b>: Who's it from, Twilight? What's it say? 
+<b>Twilight Sparkle</b>: It's from Applejack. " <i>Family and friends, not coming back to Ponyville.</i>" 
+<b>Ponies</b>: [gasp] 
+<b>Twilight Sparkle</b>: " <i>...Don't worry, will send money soon.</i>" That's all there is. 
+<b>Ponies</b>: [gasp] 
+<b>Apple Bloom</b>: Applejack's... not comin' back? 
+<b>Rainbow Dash</b>: What do you mean Applejack's not coming back?! She loves Ponyville! 
+<b>Granny Smith</b>: And she loves Sweet Apple Acres! 
+<b>Apple Bloom</b>: And she loves her family! 
+<b>Rarity</b>: [gasps] Something just dreadful must have happened to Applejack to make her not return! 
+<b>Fluttershy</b>: Maybe she's hurt, or sad, or scared! 
+<b>Rainbow Dash</b>: So, what are we waiting for? Let's go find her! 
+<b>Twilight Sparkle</b>: Don't worry. We'll search all of Equestria if we have to. We'll bring her back. 
+<b>Apple Bloom</b>: Y'all are the best. 
+<b>Granny Smith</b>: Thank you, girls! [to Big McIntosh] Our little bushel just lost one apple. 
+<b>Big McIntosh</b>: [sniffles] [train whistle blows] [ball deflates] [hawk cries] <b>Pinkie Pie</b>: [panicked sounds under] 
+<b>Rainbow Dash</b>: I hope this lead doesn't turn out to be a dead end. I don't wanna go home empty-hooved after promising we'd find her. 
+<b>Fluttershy</b>: I don't know how we'll break it to the Apple family. 
+<b>Twilight Sparkle</b>: I don't know how we'll break it to Ponyville! 
+<b>Pinkie Pie</b>: I don't know how I'll make it to the next stop! 
+<b>Twilight Sparkle</b>: This is Dodge Junction, girls. Applejack is supposed to have come here after the rodeo ended. Let's fan out and try to find her. 
+<b>Pinkie Pie</b>: Ooh, pickles! [knocking] Hurryhurryhurryhurryhurry! Hurry it up in there! 
+[toilet flushes] 
+<b>Applejack</b>: Huh, some ponies. Sheesh. 
+<b>Pinkie Pie</b>: Applejack! I found her, I found her, I found her, I found her, I found her! 
+<b>Rarity</b>: Oh, Applejack, thank heavens! 
+<b>Fluttershy</b>: We're so glad you're safe! 
+<b>Pinkie Pie</b>: I found her, I found her, I found her, I found her! Be right back. 
+[door shuts] 
+<b>Applejack</b>: Uh, hey, everypony. What's up? 
+<b>Rainbow Dash</b>: Why didn't you come back to Ponyville?! 
+<b>Rarity</b>: Yes, why are you here? 
+[toilet flushes] 
+<b>Fluttershy</b>: Are you okay? 
+<b>Pinkie Pie</b>: Do you have any snacks? 
+<b>Twilight Sparkle</b>: Tell us what happened, Applejack! 
+<b>Cherry Jubilee</b>: Applejack? Are these some of your Ponyville friends? 
+<b>Twilight Sparkle</b>: Yes, ma'am. 
+<b>Rarity</b>: And you are? 
+<b>Cherry Jubilee</b>: Why, I'm Cherry Jubilee, boss of Cherry Hill Ranch. Hasn't Applejack told ya? I saw her compete at the Equestria Rodeo. Never saw anypony win so many ribbons in all my life. 
+<b>Applejack</b>: Aw shucks, Miss Jubilee. You don't have to go into all that. 
+<b>Cherry Jubilee</b>: Oh, she's so modest. Anyway, I can always use a pony with quick hooves and a strong back. So, when I heard Applejack was looking for a change of scenery, I snapped her up as quick as I could and brought her to Dodge Junction. Well, I'll let you catch up with your friends. See you back at the ranch. 
+<b>Rainbow Dash</b>: " <i>Change of scenery</i>"? What's that supposed to mean? 
+<b>Applejack</b>: S'no big deal, guys. I thought cherries would be a nice change from apples, so I took the job and came here. That's it. End of story. 
+<b>Pinkie Pie</b>: That's it? Well, that's a terrible story! 
+<b>Applejack</b>: Sorry, but that's all there is to tell. Thanks for checkin' on me, but y'all can go home now. Tell my family hi, and that I'm doing a-okay. 
+<b>Rainbow Dash</b>: Excuse me, AJ, but we didn't travel  <i>all over Equestria</i> searching for you to come home without you! 
+<b>Applejack</b>: Well, I didn't ask you to come lookin' for me! There is nothin' to tell and I am  <i>not</i> going back to Ponyville! 
+<b>Twilight Sparkle</b>: I don't care what she says. Applejack's not telling us something. 
+<b>Rainbow Dash</b>: Twilight's right. We gotta get her to spill the beans. 
+<b>Pinkie Pie</b>:  <i>What</i>?! She had beans? Ugh, I told her I was snacky! <b>Cherry Jubilee</b>: You ready to put your back into it, Applejack? 
+<b>Applejack</b>: Sure am, Miss Jubilee. 
+<b>Cherry Jubilee</b>: Terr-ific. Come on in, girls! 
+<b>Applejack</b>: What are you all doing here? 
+<b>Twilight Sparkle</b>: We're your cherry sorters. Shall we get started? 
+<b>Applejack</b>: Fine. 
+<b>Cherry Jubilee</b>: Haha, red cherries go in one bin, and yellow cherries go in the other. Simple as cherry pie. Uh, just one teensy thing to remember – have fun! 
+<b>Applejack</b>: What are you five up to? 
+<b>Rarity</b>: Well, uh, you made working on a cherry orchard sound... so delightful. 
+<b>Applejack</b>: Uh-huh. Well, just remember: no talking about Ponyville. 
+<b>Rainbow Dash</b>: Fine! Why don't you quit talking and get walking? 
+[gears turning] 
+<b>Twilight Sparkle</b>: So, AJ, how was Canterlot? Not talking about Ponyville, talking about Canterlot, totally different town. 
+<b>Applejack</b>: Canterlot was fine. 
+<b>Twilight Sparkle</b>: Was the rodeo fun? 
+<b>Applejack</b>: Yes. 
+<b>Twilight Sparkle</b>: Did you meet some nice ponies there? 
+<b>Applejack</b>: Some. 
+<b>Rainbow Dash</b>: Really? Did you see Wild Bull Hickok? What about Calamity Mane? 
+<b>Applejack</b>: Yes, I saw 'em both. 
+<b>Rarity</b>: And how did you meet Miss Jubilee? 
+<b>Applejack</b>: Um, well, Miss Jubilee had a cherry stand at the rodeo. Real good treats. 
+<b>Fluttershy</b>: Um, excuse me? 
+<b>Applejack</b>: Cherry winks, cherry cheesecake, cherry tarts. We struck up a conversation, being orchard folk and all. 
+<b>Twilight Sparkle</b>: So you told her about Sweet Apple Acres? 
+<b>Applejack</b>: Yes. 
+<b>Rainbow Dash</b>: Did you tell  <i>her</i> why you weren't going back? 
+<b>Applejack</b>: No, 'cuz it was none of  <i>her</i> business! 
+<b>Fluttershy</b>: Ooh... Can you  <i>please</i> slow down? 
+<b>Rainbow Dash</b>: Is it because I made it rain on you that  <i>one time</i>? 
+<b>Applejack</b>: No! 
+<b>Fluttershy</b>: Help! 
+<b>Twilight Sparkle</b>: Is it because you were insulted when I gave you that book on organized orchards? 
+<b>Applejack</b>: NO! 
+[gears turning] 
+<b>Rarity</b>: Is it because you were insulted when I insulted your hair? 
+<b>Applejack</b>: No, no, NO! I'm not telling you why, so just– 
+<b>Fluttershy</b>:  <i>STOP</i>! 
+[screech] 
+[splat] 
+<b>Rest of main cast</b>: [gasp] <b>Twilight Sparkle</b>: Well, girls, we seem to be striking out. 
+<b>Rainbow Dash</b>: That's 'cause we're playing too nice. 
+<b>Rarity</b>: Yes. Desperate times do call for desperate measures. 
+<b>Rainbow Dash</b>: It's time to call in the big guns. [five thumps] 
+<b>Pinkie Pie</b>: Hey, Applejack. Need some help? 
+<b>Applejack</b>: You promise not to ask me any questions? 
+<b>Pinkie Pie</b>: I promise. 
+[thump] 
+<b>Pinkie Pie</b>: Have you ever had a cherrychanga? Ooh! Sorry, that was a question. 
+<b>Applejack</b>: That kind of question is fine, Pinkie. No, I-I never had a cherrychanga. 
+<b>Pinkie Pie</b>: Well, no wonder, because I made it up myself! A cherrychanga is mashed up cherries in a tortilla that's deep fried. Cherrychanga. Great name, huh? Oh, but maybe I should call it a chimicherry. Ooh, that's good too. Which do you think sounds better? Cherrychanga or chimicherry? Or what if I combine them? Chimicherrychanga! What sounds the funniest? I like funny words! One of my favorite funny words is 'kumquat'! I didn't make that one up. I would work in a kumquat orchard just so I could say 'kumquat' all day! Kumquat, kumquat, kumquat! And 'pickle barrel'! Isn't that just the funnest thing to say? Pickle barrel, pickle barrel, pickle barrel! Say it with me! Pickle barrel, kumquat, pickle barrel, kumquat, pickle barrel, kumquat, chimicherrychanga! 
+<b>Applejack</b>:  <i>No</i>! Make it stop, make it stop! 
+<b>Pinkie Pie</b>: [continues chant, muffled by Rainbow Dash] 
+<b>Rainbow Dash</b>: The only way to make it stop is for you to spill the beans! 
+<b>Applejack</b>: Never! 
+<b>Pinkie Pie</b>: Speaking of beans, did you ever realize how many words rhyme with 'beans'? Lean, mean, spleen, unclean, bean... [continues under] 
+<b>Applejack</b>: Alright, alright! I'll tell everypony what's goin' on! Just  <i>please</i> stop talkin'! But... can it wait 'til tomorrow at breakfast? I'm plum tuckered out. 
+<b>Rainbow Dash</b>: Tomorrow, huh? I don't know... 
+<b>Pinkie Pie</b>: Do you Pinkie promise? 
+<b>Applejack</b>: [sighs] I will tell you the whole truth at breakfast. Pinkie promise. [rooster crows] 
+<b>Twilight Sparkle</b>: I'm glad we're finally gonna get some answers from Applejack. 
+<b>Rainbow Dash</b>: Yeah, maybe. 
+<b>Pinkie Pie</b>: Don't worry, Rainbow. She's gotta 'fess up after making a Pinkie promise. 
+[knocking] 
+<b>Pinkie Pie</b>: Good morning, Applejack. You ready for br– [gasps] 
+[sound of kettle boiling] 
+<b>Pinkie Pie</b>:  <i>Nopony breaks a Pinkie promise</i>! <b>Pinkie Pie</b>:  <i>Applejack</i>! [slightly distorted]  <i>You Pinkie promised</i>! 
+<b>Applejack</b>: [yelps] 
+<b>Pinkie Pie</b>: Applejack, come back here! 
+<b>Applejack</b>: Giddy up, fellas, I gotta get the heck out of Dodge! 
+<b>Coach ponies</b>: [neighs] 
+<b>Pinkie Pie</b>: She's gonna get away! 
+<b>Twilight Sparkle</b>: Oh no, she won't! Look, girls! 
+<b>Pinkie Pie</b>: Follow that stagecoach! Oh, we have you now! 
+[screeching] 
+<b>Rabbit</b>: [sniffs] <b>Applejack</b>: Whoa! What the hay? 
+<b>Rainbow Dash</b>: Pull over! 
+<b>Applejack</b>: Hey! Cut that out! Whoa! [to coach ponies] I'll pay you double to outrun them. 
+<b>Twilight Sparkle</b>: We'll pay you triple to slow down! 
+<b>Applejack</b>: I'll pay you quadruple to leave them in the dust! 
+[horses neighing, engine revving] 
+<b>Rest of main cast</b>: [coughing] 
+<b>Rarity</b>: That was rude! 
+<b>Pinkie Pie</b>: Get them!  <i>Get them</i>! 
+<b>Rainbow Dash</b>: Come on, Fluttershy! 
+<b>Applejack</b>: Hyah! C'mon, y'all! Go, go! 
+<b>Pinkie Pie</b>: Applejack, you broke your Pinkie promise! Apologize! 
+<b>Applejack</b>: Pinkie, I did not break my promise! 
+<b>Pinkie Pie</b>: Wha? 
+<b>Applejack</b>: If y'all reckon back, I told you that I would tell you everything  <i>at breakfast</i>. But I didn't come for breakfast. I couldn't come to that breakfast, not if it meant telling y'all what happened. 
+<b>Pinkie Pie</b>: Well, I... I... 
+<b>Applejack</b>: I'm sorry, Pinkie, but I can't tell y'all the truth. I just can't! 
+<b>Pinkie Pie</b>: Well I heard a "sorry" in there, so that'll have to do for now. I'll get a real apology later. Rarity, catch me. 
+<b>Rarity</b>: What? Pinkie– [screams] 
+[crunch] 
+<b>Twilight Sparkle</b>: Rainbow, go back! 
+<b>Rainbow Dash</b>: No time! They knew what they were getting into! 
+<b>Rarity</b>: [coughs] [railway crossing bells] 
+<b>Applejack</b>: Yes. Hyah! 
+[train whistle] 
+[crunches] 
+<b>Applejack</b>: Yee-haw! 
+<b>Coach ponies</b>: [in unison] Lady, you're trouble. 
+<b>Applejack</b>: Ha, try and catch me now. Oh, nuts. 
+<b>Fluttershy</b>: [panting] 
+<b>Rainbow Dash</b>: Not so fast! 
+[thump] 
+<b>Applejack</b>: Fine. Now you know. 
+<b>Twilight Sparkle</b>: Know what? 
+<b>Applejack</b>: Well, just look! 
+<b>Twilight Sparkle</b>: I am. You won an amazing number of ribbons, just like Miss Jubilee said! 
+<b>Applejack</b>: Don't you get it? There's every color of ribbon down there. Every color... but... blue. I came in fourth, third, even second, but I didn't win  <i>one</i> first prize, and I certainly didn't win any prize money. 
+<b>Rainbow Dash</b>: But the telegram said you were gonna  <i>send</i> money. 
+<b>Applejack</b>: That's why I came here. I wanted to  <i>earn</i> some money. After that big old send off Ponyville gave me, I just didn't have the nerve to come home empty-hooved. I couldn't come home a failure. 
+<b>Twilight Sparkle</b>: Applejack, you're not a failure. 
+<b>Rainbow Dash</b>: And we're your friends! We don't care if you came in fiftieth place! You're still number one in our books. 
+<b>Applejack</b>: So... you're not upset or disappointed? 
+<b>Fluttershy</b>,  <b>Rainbow Dash</b> and  <b>Twilight Sparkle</b>: Nn-nn. 
+<b>Applejack</b>: But what about the mayor? I don't think I can face her and tell her I didn't get that money to fix the broken roof. 
+<b>Fluttershy</b>: Applejack, we can always find a way to fix that hole in the roof. But if you don't come back, we'll never be able to fix the hole in our hearts. 
+<b>Rainbow Dash</b>: [sniffles] Darn it! Now you got me acting all sappy! <b>Applejack</b>:  <i>Dear Princess Celestia,</i> 
+<i>It's a tad easier to be proud when you come in first than it is when you finish further back. But there's no reason to hide when you don't do as well as you'd hoped. You can't run away from your problems. Better to run </i>to <i> your friends and family.</i> <b>Pinkie Pie</b>: What do you think, Rarity? Chimicherry or cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga? Chimicherry, cherrychanga? [continues under] 
+<b>Rarity</b>: When I get back, you're gonna get it, Rainbow Dash! [grumbles] 
+<b>Pinkie Pie</b>: [continues repeating question to fadeout] [music] 
+[credits] 

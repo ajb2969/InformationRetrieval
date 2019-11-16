@@ -7,8 +7,7 @@
 <b>Starlight Glimmer</b>: Wow, I still can't believe my friends and I are getting medals... 
 <b>Twilight Sparkle</b>: Shhh! 
 <b>Starlight Glimmer</b>: ...of honor. 
-<b>Spike</b>: Are you kidding? You 
- <i>totally</i> deserve it! After all, you... saved Equestria from... Queen Chrysalis! With the help of Trixie and Thorax and Discord and... 
+<b>Spike</b>: Are you kidding? You  <i>totally</i> deserve it! After all, you... saved Equestria from... Queen Chrysalis! With the help of Trixie and Thorax and Discord and... 
 <b>Starlight Glimmer</b>: Uh, yeah. I know what happened. I was kinda there. 
 <b>Spike</b>: Uh, right. Uh, so... what are you wearin'? 
 <b>Starlight Glimmer</b>: Not sure. Why? Am I supposed to dress up? 
@@ -19,19 +18,16 @@
 <b>Spike</b>: 'Cause there was a spider there, but it's, uh, gone now, so, uh... thanks, Starlight! Byeeee! 
 [zip] 
 <b>Starlight Glimmer</b>: Huh? 
-[door closes] 
-<b>Spike</b>: Ha-ha! She had no idea. We're a good team, Sparkle! 
+[door closes] <b>Spike</b>: Ha-ha! She had no idea. We're a good team, Sparkle! 
 <b>Twilight Sparkle</b>: "Sparkle"? [laughs] Yeah, we are. So do you think she'll like it? I want this present to say, "I'm so proud of you both as a mentor and a friend. Equestria is safer thanks to you." 
 <b>Spike</b>: Oh. I thought you were getting her a mirror like yours. 
 <b>Twilight Sparkle</b>: I am. 
 <b>Spike</b>: Uh, maybe you should get her a card 'cause I don't think the mirror will say all that. But I think she'll like it. 
 <b>Twilight Sparkle</b>: It's just what her room needs. The first thing she'll see when she wakes up is herself surrounded by all her friends. I plan on giving it to her after the ceremony. 
 <b>Spike</b>: Yeah, about that. Don't you need to get the castle ready for the celebration? 
-<b>Twilight Sparkle</b>: Nah. Pinkie Pie's got that covered. 
-<b>Pinkie Pie</b>: Hmmm. 
+<b>Twilight Sparkle</b>: Nah. Pinkie Pie's got that covered. <b>Pinkie Pie</b>: Hmmm. 
 [party cannon squeak] 
-<b>Pinkie Pie</b>: Phew! 
-<b>Twilight Sparkle</b>: Starlight, Trixie, Thorax, and Discord were brave in the face of danger, resourceful when things got challenging, and proved that the bonds of friendship, no matter how unlikely, are stronger than any adversity. By stopping Queen Chrysalis, not only did they save Equestria; they set the changelings free from her reign. 
+<b>Pinkie Pie</b>: Phew! <b>Twilight Sparkle</b>: Starlight, Trixie, Thorax, and Discord were brave in the face of danger, resourceful when things got challenging, and proved that the bonds of friendship, no matter how unlikely, are stronger than any adversity. By stopping Queen Chrysalis, not only did they save Equestria; they set the changelings free from her reign. 
 [zap] 
 <b>Discord</b>: Go, Discord! Yahoo! [laughs] 
 <b>Starlight Glimmer</b>: [giggles] 
@@ -42,11 +38,9 @@
 [pop] 
 <b>Pinkie Pie</b>: Yay! 
 <b>Twilight Sparkle</b>: We are so proud of you all! 
-[cheers and applause] 
-[house music playing] 
+[cheers and applause] [house music playing] 
 <b>Trixie</b>: It was the Great and Powerful Trrrrixie's pleasure to save you from your imminent doom. 
-<b>Discord</b>: Yes, because 
- <i>you</i> did it all by yourself. 
+<b>Discord</b>: Yes, because  <i>you</i> did it all by yourself. 
 <b>Starlight Glimmer</b>: [giggles] 
 <b>Sunburst</b>: I can't believe you managed to do it without magic. 
 <b>Changeling</b>: It was amazing! 
@@ -60,13 +54,9 @@
 <b>Twilight Sparkle</b>: Oh, don't you worry. I've planned enough friendship lessons to cover the next three years. 
 <b>Discord</b>: [laughs] 
 <b>Twilight Sparkle</b>: What's so funny? 
-<b>Discord</b>: No, no. Clearly, Starlight is beyond basic friendship lessons. She just won a medal, for Equestria's sake. I thought you were joking. You 
- <i>are</i> joking, right? 
+<b>Discord</b>: No, no. Clearly, Starlight is beyond basic friendship lessons. She just won a medal, for Equestria's sake. I thought you were joking. You  <i>are</i> joking, right? 
 <b>Twilight Sparkle</b>: [nervous laugh] Of course I was. 
-<b>Discord</b>: Obviously, 
- <i>you</i> should have a grand master plan for her, the same way Celestia set 
- <i>you</i> on the path that eventually made 
- <i>you</i> a princess. 
+<b>Discord</b>: Obviously,  <i>you</i> should have a grand master plan for her, the same way Celestia set  <i>you</i> on the path that eventually made  <i>you</i> a princess. 
 <b>Twilight Sparkle</b>: Yep. 
 <b>Discord</b>: Oh, good. I'm sure she can't wait to hear all about it. 
 [zap] 
@@ -82,47 +72,35 @@
 <b>Discord</b>: Well, Twilight was just about to reveal her grand master plan for you. 
 <b>Starlight Glimmer</b>: Really? I was kind of wondering what we were gonna do next. 
 <b>Discord</b>: Yes. I'd say we were both fairly interested. 
-<b>Twilight Sparkle</b>: [nervous] Of course you are. And I 
- <i>do</i> have a plan, obviously. But now is clearly not the time to do it. You should enjoy your party. [sips punch] 
-<b>Trixie</b>: Starlight, come on! The 
- <i>Ponyville Chronicle</i> wants to take our picture! Ugh. You, too, Discord. 
+<b>Twilight Sparkle</b>: [nervous] Of course you are. And I  <i>do</i> have a plan, obviously. But now is clearly not the time to do it. You should enjoy your party. [sips punch] 
+<b>Trixie</b>: Starlight, come on! The  <i>Ponyville Chronicle</i> wants to take our picture! Ugh. You, too, Discord. 
 <b>Twilight Sparkle</b>: [sipping punch, sighs] 
 [zap] 
 <b>Discord</b>: Psst! I see what you're doing. 
 <b>Twilight Sparkle</b>: You do? 
 <b>Discord</b>: You already planned the perfect moment during the party to make the grand announcement to everypony about your plan. Brava, Twilight! I can't wait to tell your plan to Fluttershy and the others! 
 [zap] 
-<b>Twilight Sparkle</b>: Discord, no! 
-[door creaks] 
+<b>Twilight Sparkle</b>: Discord, no! [door creaks] 
 <b>Spike</b>: Twilight, are you reading during a party... again? 
 [papers rustling] 
-<b>Twilight Sparkle</b>: No, no, no! She's already good at that! She mastered 
- <i>this</i>! She taught 
- <i>me</i> about this one! 
+<b>Twilight Sparkle</b>: No, no, no! She's already good at that! She mastered  <i>this</i>! She taught  <i>me</i> about this one! 
 <b>Spike</b>: Wild guess – something's wrong. 
 <b>Twilight Sparkle</b>: Spike, I'm a terrible mentor! Why didn't I come up with a path for Starlight? Princess Celestia had it all figured out for me! [gasps] That's it! [excited squeal] 
-<b>Spike</b>: Whoa! 
-<b>Twilight Sparkle</b>: I had years worth of friendship lessons ready to go, but when we were captured by Chrysalis, Starlight took charge and really stepped up. I don't think friendship lessons are enough for her anymore. 
+<b>Spike</b>: Whoa! <b>Twilight Sparkle</b>: I had years worth of friendship lessons ready to go, but when we were captured by Chrysalis, Starlight took charge and really stepped up. I don't think friendship lessons are enough for her anymore. 
 <b>Princess Celestia</b>: So you have an overachieving student. Sounds familiar. 
 <b>Spike</b>: [chuckles] 
 <b>Twilight Sparkle</b>: That's why I had to talk to you. You, of all ponies, would know what to do. I mean, you were me and I was Starlight. But, for now, I need you to pretend you're you and I'm me. 
 <b>Spike</b>: Huh? 
 <b>Princess Celestia</b>: Heh. Go on. 
-<b>Twilight Sparkle</b>: When I was your student, and you were in 
- <i>this</i> place, you— Oh, no! You sent me to Ponyville! Which means it's time for me to send Starlight Glimmer away! 
-<b>Twilight Sparkle</b>: I can't believe it! It's really time for Starlight to go, isn't it? 
+<b>Twilight Sparkle</b>: When I was your student, and you were in  <i>this</i> place, you— Oh, no! You sent me to Ponyville! Which means it's time for me to send Starlight Glimmer away! <b>Twilight Sparkle</b>: I can't believe it! It's really time for Starlight to go, isn't it? 
 <b>Princess Celestia</b>: Only you can make that decision. It's a difficult one, but your heart knows what's right, even as it hurts. 
 <b>Spike</b>: Where're you gonna send her? Uh, too soon? 
-<b>Twilight Sparkle</b>: No. This is something I have to do. Oh, boy. 
-<b>Fluttershy</b>: Oh, boy! 
+<b>Twilight Sparkle</b>: No. This is something I have to do. Oh, boy. <b>Fluttershy</b>: Oh, boy! 
 <b>Discord</b>: Whatever Twilight's planning for Starlight is going to be so exciting! 
-<b>Applejack</b>: Hmm. Wonder why she didn't tell any of 
- <i>us</i> about it. 
+<b>Applejack</b>: Hmm. Wonder why she didn't tell any of  <i>us</i> about it. 
 <b>Discord</b>: Probably because you're not as close as you think you are. [laughs] Just kidding. She wanted it to be a big surprise. Just between us, she's getting ready to make a big announcement! 
 <b>Pinkie Pie</b>: [squeals] That's so exciting! And surprising. Usually, you tell your party planner about all your plans for your party. 
-<b>Rainbow Dash</b>: Well, she definitely has one. I mean when has Twilight 
- <i>not</i> had a plan? 
-<b>Twilight Sparkle</b>: [low muttering] Gosh, I don't know... I just don't want to send her to the wrong place... [sighs] I just, I just don't know... [gasps] I got it! Since defeating Chrysalis, Starlight's given the changelings an opportunity to revolutionize their society. Maybe I can send her there. 
+<b>Rainbow Dash</b>: Well, she definitely has one. I mean when has Twilight  <i>not</i> had a plan? <b>Twilight Sparkle</b>: [low muttering] Gosh, I don't know... I just don't want to send her to the wrong place... [sighs] I just, I just don't know... [gasps] I got it! Since defeating Chrysalis, Starlight's given the changelings an opportunity to revolutionize their society. Maybe I can send her there. 
 [magic sounds] 
 <b>Spike</b>: Cool spell. 
 <b>Twilight Sparkle</b>: If Starlight goes to the changeling hive, she can help them adjust to their new way of life. 
@@ -131,12 +109,10 @@
 <b>Starlight Glimmer</b>: [stiltedly] I would like a sandwich. Oh, no. What should we do? 
 <b>Changeling 1</b>: Attack! The winner gets to choose! 
 [changelings clamoring in agreement] 
-<b>Starlight Glimmer</b>: Or... Thorax and I can talk about it and come up with a solution that works for 
- <i>every</i>pony. 
+<b>Starlight Glimmer</b>: Or... Thorax and I can talk about it and come up with a solution that works for  <i>every</i>pony. 
 <b>Thorax</b>: [stiltedly] Starlight, how do you feel about honeysuckle and peanut butter sandwiches? 
 <b>Starlight Glimmer</b>: [stiltedly] Why, that sounds dee-licious! 
-<b>Starlight Glimmer</b> and 
- <b>Thorax</b>: Compromise. 
+<b>Starlight Glimmer</b> and  <b>Thorax</b>: Compromise. 
 [changelings clamoring in agreement] 
 <b>Spike</b>: Uh, this doesn't seem like something Starlight and Thorax would do. 
 <b>Princess Celestia</b>: Uh, this is Twilight's fantasy, Spike. There is no wrong way to fantasize. 
@@ -146,8 +122,7 @@
 <b>Princess Celestia</b>: This seems like a lovely path for Starlight. The changelings have so much to learn about how to enjoy love through friendships. Starlight would be busy for a very long time, but her work there would be very rewarding. 
 <b>Twilight Sparkle</b>: Or dangerous. It would only take one changeling to deviate from the pack. 
 [transformation noise] 
-<b>Goofy Changeling</b>: [evil laugh] Hi, I'm Starlight Glimmer! What's 
- <i>your</i> name? 
+<b>Goofy Changeling</b>: [evil laugh] Hi, I'm Starlight Glimmer! What's  <i>your</i> name? 
 <b>Cornicle</b>: Uh, Cornicle? 
 <b>Goofy Changeling</b>: [laughs] What kind of name is that? Ah, your wings are so, um... see-through. I'm so glad I'm a pony. Are you, like, bugs, or what? 
 [zap] 
@@ -155,28 +130,23 @@
 <b>Cornicle</b>: [gasps] There she is! Get her! 
 [changelings clamoring angrily] 
 <b>Spike</b>: Uh, that probably won't happen. 
-<b>Twilight Sparkle</b>: But it 
- <i>could</i>! I can't just send her off to Celestia-knows-where without thinking it through! 
+<b>Twilight Sparkle</b>: But it  <i>could</i>! I can't just send her off to Celestia-knows-where without thinking it through! 
 <b>Princess Celestia</b>: Hmm. I was not aware that I was an expression. An appropriate one, of course, for even I don't know the answer. This is a momentous decision. You must consider all the possibilities. 
 <b>Twilight Sparkle</b>: Rethink, rethink, rethink! What about the dragons? I can send Starlight to the Dragon Lands! She and Ember would totally hit it off! 
 [magic sounds] 
 [teleportation zap] 
 <b>Starlight Glimmer</b>: Ember! 
 <b>Princess Ember</b>: Starlight! 
-<b>Starlight Glimmer</b> and 
- <b>Princess Ember</b>: [grunt] 
+<b>Starlight Glimmer</b> and  <b>Princess Ember</b>: [grunt] 
 <b>Princess Ember</b>: You ready to do some death-defying dragon stuff? 
 <b>Starlight Glimmer</b>: Ah, totally! 
-<b>Spike</b>: Okay, that doesn't sound anything like Ember 
- <i>or</i> Starlight. 
-<b>Twilight Sparkle</b>: Who 
- <i>knows</i> what their dynamic would be, Spike? 
+<b>Spike</b>: Okay, that doesn't sound anything like Ember  <i>or</i> Starlight. 
+<b>Twilight Sparkle</b>: Who  <i>knows</i> what their dynamic would be, Spike? 
 [zaps and torches] 
 <b>Spike</b>: [gasps] 
 [tap, tap] 
 <b>Spike</b>: Freaky. 
-<b>Twilight Sparkle</b>: Starlight will 
- <i>love</i> it in the Dragon Lands. In her letters, Ember said dragons do a lot of fun things. The Feast of Fire, the Dragon Bowl, Claw-chella. 
+<b>Twilight Sparkle</b>: Starlight will  <i>love</i> it in the Dragon Lands. In her letters, Ember said dragons do a lot of fun things. The Feast of Fire, the Dragon Bowl, Claw-chella. 
 <b>Starlight Glimmer</b>: Whoo! [laughs] 
 <b>Twilight Sparkle</b>: Starlight could be there for a really long time. But then again, not all dragons like ponies as much as Ember does. 
 <b>Garble</b>: Hey, Twinkle Star! 
@@ -201,10 +171,7 @@
 <b>Starlight Glimmer</b>: We did it! Quick, what's next? 
 <b>Twilight Sparkle</b>: Of course, the study of magic is a lifelong pursuit, and Starlight could be there for a while, especially once they start attempting the really complicated stuff! 
 <b>Spike</b>: Three, two, one... 
-<b>Twilight Sparkle</b>: What if they become too ambitious?! 
-<b>Starlight Glimmer</b>: I never would've thought to combine Star Swirl's apparition spell with 
- <i>Spacium Flexibus</i>! But what would happen if we added Somnambula's 
- <i>Tempus Objectus</i>? 
+<b>Twilight Sparkle</b>: What if they become too ambitious?! <b>Starlight Glimmer</b>: I never would've thought to combine Star Swirl's apparition spell with  <i>Spacium Flexibus</i>! But what would happen if we added Somnambula's  <i>Tempus Objectus</i>? 
 <b>Sunburst</b>: If we do it just right, it should allow us to materialize an object that was lost in the past. 
 [chalk drawing] 
 <b>Twilight Sparkle</b>: No! Don't do it! 
@@ -212,55 +179,38 @@
 <b>Starlight Glimmer</b>: [screams] 
 <b>Sunburst</b>: [screams] 
 <b>Starlight Glimmer</b>: [screams] 
-<b>Sunburst</b> and 
- <b>Twilight Sparkle</b>: Starlight, noooooo! 
+<b>Sunburst</b> and  <b>Twilight Sparkle</b>: Starlight, noooooo! 
 <b>Spike</b>: Twilight, snap out of it! 
 [magic sounds] 
 <b>Spike</b>: Easy, Twilight. It didn't happen. 
-<b>Twilight Sparkle</b>: But it 
- <i>could</i>! I just don't think I can send her anywhere. What am I gonna do? 
+<b>Twilight Sparkle</b>: But it  <i>could</i>! I just don't think I can send her anywhere. What am I gonna do? 
 <b>Princess Celestia</b>: [laughs heartily] 
-<b>Twilight Sparkle</b>: Are you laughing at me? 
-<b>Princess Celestia</b>: [continues laughing] 
+<b>Twilight Sparkle</b>: Are you laughing at me? <b>Princess Celestia</b>: [continues laughing] 
 <b>Twilight Sparkle</b>: I can't believe you're laughing at me. 
-<b>Princess Celestia</b>: Oh, Twilight, I'm not. I'm laughing because I had the exact same fears 
- <i>you're</i> having. 
+<b>Princess Celestia</b>: Oh, Twilight, I'm not. I'm laughing because I had the exact same fears  <i>you're</i> having. 
 <b>Twilight Sparkle</b>: What?! 
-<b>Princess Celestia</b>: Let me tell you a story. Once upon a time, there was a very bright young filly. 
-<b>Princess Celestia</b>: [voiceover] She was truly one of my best students. 
+<b>Princess Celestia</b>: Let me tell you a story. Once upon a time, there was a very bright young filly. <b>Princess Celestia</b>: [voiceover] She was truly one of my best students. 
 <b>Spike</b>: [voiceover] Are you talking about Twilight? I can't see what you're thinking about. 
 <b>Princess Celestia</b>: [voiceover] Yes, Spike. I was constantly surprised and impressed with her discoveries. But I noticed that her pursuit of academia was preventing her from reaching her full potential. 
 <b>Spike</b>: [voiceover] You mean it was keeping her isolated and alone? 
-<b>Princess Celestia</b>: [voiceover] Uh, yes, Spike. I had a decision to make. Oh, but it wasn't easy. 
-<b>Princess Celestia</b>: Maybe I could close the library or throw a party in the castle. Oh, she'd have to talk to the other fillies then! Oh. I must send her away. 
-<b>Princess Celestia</b>: [voiceover] I knew there was a special group of fillies in Ponyville, but I kept inventing all kinds of reasons why I shouldn't send you. 
-<b>Princess Celestia</b>: What if she runs into a manticore? Or what if she gets pulled into Tartarus? Or, worst of all, what if she doesn't get along with anypony?! 
+<b>Princess Celestia</b>: [voiceover] Uh, yes, Spike. I had a decision to make. Oh, but it wasn't easy. <b>Princess Celestia</b>: Maybe I could close the library or throw a party in the castle. Oh, she'd have to talk to the other fillies then! Oh. I must send her away. <b>Princess Celestia</b>: [voiceover] I knew there was a special group of fillies in Ponyville, but I kept inventing all kinds of reasons why I shouldn't send you. <b>Princess Celestia</b>: What if she runs into a manticore? Or what if she gets pulled into Tartarus? Or, worst of all, what if she doesn't get along with anypony?! 
 <b>Guard 1</b>: Are we supposed to say something? 
-<b>Guard 2</b>: I don't think so. 
-<b>Princess Celestia</b>: [voiceover] I kept you in Canterlot longer than I should have. 
-<b>Princess Celestia</b>: Eventually, I realized all the anxiety I felt was because 
- <i>I</i> didn't want you to go. 
+<b>Guard 2</b>: I don't think so. <b>Princess Celestia</b>: [voiceover] I kept you in Canterlot longer than I should have. <b>Princess Celestia</b>: Eventually, I realized all the anxiety I felt was because  <i>I</i> didn't want you to go. 
 <b>Twilight Sparkle</b>: Really? 
-<b>Princess Celestia</b>: I loved having you as a student. You challenged me and taught 
- <i>me</i> just as much as I taught 
- <i>you</i>. I am embarrassed to admit it, but I was afraid if you made friends, you wouldn't need me anymore. 
-<b>Twilight Sparkle</b>: Princess Celestia, that is so not true. I will 
- <i>always</i> need you. 
-<b>Princess Celestia</b>: I think Starlight Glimmer might feel the same way about 
- <i>you</i>. If that is what you're afraid of. 
+<b>Princess Celestia</b>: I loved having you as a student. You challenged me and taught  <i>me</i> just as much as I taught  <i>you</i>. I am embarrassed to admit it, but I was afraid if you made friends, you wouldn't need me anymore. 
+<b>Twilight Sparkle</b>: Princess Celestia, that is so not true. I will  <i>always</i> need you. 
+<b>Princess Celestia</b>: I think Starlight Glimmer might feel the same way about  <i>you</i>. If that is what you're afraid of. 
 <b>Twilight Sparkle</b>: Maybe it is. Just a little. 
 <b>Spike</b>: [chuckles] Oh, it definitely is. Like, a lot. 
 <b>Princess Celestia</b>: Here we are after all these years, Twilight. We are living proof that letting someone spread their wings doesn't mean you no longer have a place in their lives. 
 <b>Twilight Sparkle</b>: Thank you. 
 <b>Princess Celestia</b>: And if you're still worried, you can always make her write you letters. 
-<b>Spike</b>: [chuckles] 
-[ponies conversing] 
+<b>Spike</b>: [chuckles] [ponies conversing] 
 [spotlight turns on] 
 [boom mic bump] 
 <b>Discord</b>: I may have let it slip that you'd be unveiling your big plan for Starlight tonight. Silly me. But we're all very excited to hear what you've cooked up. 
 [beat] 
-<b>Discord</b>: You weren't coming up with a plan just 
- <i>now</i>, were you? Oh, dear. This could be pretty embarrassing for you. 
+<b>Discord</b>: You weren't coming up with a plan just  <i>now</i>, were you? Oh, dear. This could be pretty embarrassing for you. 
 <b>Twilight Sparkle</b>: [sarcastically] Gee, thanks, Discord. 
 <b>Discord</b>: Anytime. I really do love being helpful. 
 [zap] 
@@ -272,16 +222,14 @@
 <b>Pinkie Pie</b>: [squeals, giggles] What a great surprise! 
 <b>Twilight Sparkle</b>: [to Starlight] The future's in your own hooves now. 
 <b>Starlight Glimmer</b>: Wow. I was not expecting this! 
-<b>Trixie</b> and 
- <b>Thorax</b>: Mmm... [giggles] 
+<b>Trixie</b> and  <b>Thorax</b>: Mmm... [giggles] 
 <b>Discord</b>: Darn it. I was hoping you would send her to my realm. We could've been roomies. Way to not pick up what I was putting down. 
 <b>Trixie</b>: How do you want to celebrate? Girls' trip to Las Pegasus? 
 <b>Thorax</b>: We could throw you a changeling Gorbfest! Uh, it's more fun than it sounds. 
 [tap, tap] 
 <b>Discord</b>: Or we could go cause a little mischief. I know a trick that'll turn Celestia's castle into cheese. Do you think it's a "gouda" idea? [laughs] That's just the first of many cheese jokes if we go down this path. 
 <b>Starlight Glimmer</b>: Well, that all sounds wonderful. But, um, give me a minute, would ya? 
-<b>Twilight Sparkle</b> and 
- <b>Spike</b>: [giggling] 
+<b>Twilight Sparkle</b> and  <b>Spike</b>: [giggling] 
 <b>Twilight Sparkle</b>: Congratulations. 
 <b>Starlight Glimmer</b>: Thanks. 
 <b>Twilight Sparkle</b>: So how do you feel? 
@@ -299,9 +247,7 @@
 <b>Twilight Sparkle</b>: I may not know what comes next for you, but whatever it is, I promise I'll always be there for you. 
 <b>Starlight Glimmer</b>: Oh. 
 <b>Twilight Sparkle</b>: Oh. 
-[indistinct conversations] 
-[whoosh] 
+[indistinct conversations] [whoosh] 
 [wheeling in] 
 [vacuum whirring] 
-<b>Pinkie Pie</b>: Phee-yew! 
-[end credits] 
+<b>Pinkie Pie</b>: Phee-yew! [end credits] 

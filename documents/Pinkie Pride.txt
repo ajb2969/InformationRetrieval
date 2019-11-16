@@ -3,107 +3,21 @@
 [sloop] 
 <b>Cheese Sandwich</b>: Yep, those ponies never partied so hard. Thanks to me: Cheese. Cheese Sandwich. 
 [tingling, accordion playing] 
-<b>Cheese Sandwich</b>: Woo-hoo-hoo! That was a doozy! Well, Boneless. Looks like our next party is gonna be in... Ponyville. 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Every single day there's something new you can plan for 
-  </dd>
-  <dd>
-   Every single day there's something wonderful to do 
-  </dd>
-  <dd>
-   But nothing makes me happy like a day that I can say 
-  </dd>
-  <dd>
-   "Today I planned a party, and it's just for you!" 
-  </dd>
- </dl> 
-<b>Vendor Pony</b>: How's it going today, Pinkie? 
+<b>Cheese Sandwich</b>: Woo-hoo-hoo! That was a doozy! Well, Boneless. Looks like our next party is gonna be in... Ponyville. <b>[Pinkie Pie]</b>  <dl>  <dd>   Every single day there's something new you can plan for   </dd>  <dd>   Every single day there's something wonderful to do   </dd>  <dd>   But nothing makes me happy like a day that I can say   </dd>  <dd>   "Today I planned a party, and it's just for you!"   </dd> </dl> <b>Vendor Pony</b>: How's it going today, Pinkie? 
 <b>Pinkie Pie</b>: Great, thanks! Got any streamers today? 
 <b>Vendor Pony</b>: [chuckles] You betcha! Big party planned? 
-<b>Pinkie Pie</b>: Don't you know it! 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Don't have much time to gather all the things I need 
-  </dd>
-  <dd>
-   If I'm really gonna make this party fly 
-  </dd>
-  <dd>
-   For today's another day that all of Ponyville will say 
-  </dd>
- </dl> 
-<b>[Crowd]</b> 
- <dl>
-  <dd>
-   There goes the super party pony Pinkie Pie! 
-  </dd>
- </dl> 
-<b>[Mr. and Mrs. Cake]</b> 
- <dl>
-  <dd>
-   She planned our first foal shower where we played all sorts of games 
-  </dd>
-  <dd>
-   Having so much fun as we chose Pound and Pumpkin's names 
-  </dd>
- </dl> 
-<b>[Diamond Tiara]</b> 
- <dl>
-  <dd>
-   She planned my cute-ceañera my dad made me, I won't lie 
-  </dd>
-  <dd>
-   I demanded all the best, I suppose she passed the test 
-  </dd>
-  <dd>
-   Sure it was pretty good all thanks to Pinkie Pie 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: Thanks, I guess? 
+<b>Pinkie Pie</b>: Don't you know it! <b>[Pinkie Pie]</b>  <dl>  <dd>   Don't have much time to gather all the things I need   </dd>  <dd>   If I'm really gonna make this party fly   </dd>  <dd>   For today's another day that all of Ponyville will say   </dd> </dl> <b>[Crowd]</b>  <dl>  <dd>   There goes the super party pony Pinkie Pie!   </dd> </dl> <b>[Mr. and Mrs. Cake]</b>  <dl>  <dd>   She planned our first foal shower where we played all sorts of games   </dd>  <dd>   Having so much fun as we chose Pound and Pumpkin's names   </dd> </dl> <b>[Diamond Tiara]</b>  <dl>  <dd>   She planned my cute-ceañera my dad made me, I won't lie   </dd>  <dd>   I demanded all the best, I suppose she passed the test   </dd>  <dd>   Sure it was pretty good all thanks to Pinkie Pie   </dd> </dl> <b>Pinkie Pie</b>: Thanks, I guess? 
 <b>Art Vendor</b>: What color paints do you need? 
 <b>Pinkie Pie</b>: I'm gonna need the full rainbow! 
 <b>Art Vendor</b>: A paintbrush too? 
 <b>Pinkie Pie</b>: Yes, if you please! 
 <b>Peachy Pitt</b>: And what from me? 
 <b>Pinkie Pie</b>: Your biggest banner! This party's gonna be the best! 
-<b>Peachy Pitt</b>: Haha I don't doubt it! 
-<b>[Crowd]</b> 
- <dl>
-  <dd>
-   Every single day there's something new we can plan for 
-  </dd>
-  <dd>
-   Every single day there's something wonderful to try 
-  </dd>
-  <dd>
-   But nothing makes us happy like a day that we can say 
-  </dd>
-  <dd>
-   "Today there'll be a party planned by Pinkie Pie!" 
-  </dd>
- </dl> 
-<b>Rarity</b>: I don't know how she does it. 
+<b>Peachy Pitt</b>: Haha I don't doubt it! <b>[Crowd]</b>  <dl>  <dd>   Every single day there's something new we can plan for   </dd>  <dd>   Every single day there's something wonderful to try   </dd>  <dd>   But nothing makes us happy like a day that we can say   </dd>  <dd>   "Today there'll be a party planned by Pinkie Pie!"   </dd> </dl> <b>Rarity</b>: I don't know how she does it. 
 <b>Twilight Sparkle</b>: Wow, look at her go! 
 <b>Applejack</b>: Oh, boy! This is gonna be good! 
-<b>Fluttershy</b>: Go, Pinkie, go! 
-<b>[Crowd]</b> 
- <dl>
-  <dd>
-   There's no other pony like her, no pony that could be 
-  </dd>
-  <dd>
-   As great! (As great!) As fun! (As fun!) 
-  </dd>
-  <dd>
-   As our super party pony Pinkie! 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: Ooh, I am so, so, 
- <i>SO</i> excited because today I'm planning the birthday bash of... 
- <i>Rainbow Dash</i>! 
+<b>Fluttershy</b>: Go, Pinkie, go! <b>[Crowd]</b>  <dl>  <dd>   There's no other pony like her, no pony that could be   </dd>  <dd>   As great! (As great!) As fun! (As fun!)   </dd>  <dd>   As our super party pony Pinkie!   </dd> </dl> 
+<b>Pinkie Pie</b>: Ooh, I am so, so,  <i>SO</i> excited because today I'm planning the birthday bash of...  <i>Rainbow Dash</i>! 
 <b>Rainbow Dash</b>: Yeah! 
 <b>Pinkie Pie</b>: Rainbow Dash. 
 <b>Rainbow Dash</b>: Yes, Pinkie? 
@@ -121,150 +35,23 @@
 <b>Cheese Sandwich</b>: [blows party horn] 
 <b>Pinkie Pie</b>: Who are you, stranger? 
 <b>Cheese Sandwich</b>: Name's Cheese Sandwich. I plan parties. 
-<b>Pinkie Pie</b>: What an amazing coincidence! I'm Pinkie Pie, and 
- <i>I'm</i> planning a party! 
+<b>Pinkie Pie</b>: What an amazing coincidence! I'm Pinkie Pie, and  <i>I'm</i> planning a party! 
 <b>Cheese Sandwich</b>: Oh, it's no coincidence, my little pony. My cheesy sense was a-tingling, telling me a party was in the works. 
 <b>Pinkie Pie</b>: A cheesy sense? Ah! Double amazing! I have a Pinkie Sense! 
 <b>Cheese Sandwich</b>: Yes. I sensed you did. And I happen to be the premiere party planner in all of Equestria. If there's a party in need, there I'll be. Be it wingding, hoedown, hootenanny, or shindig, I'm your pony. 
 <b>Pinkie Pie</b>: A pair of party pony planners in Ponyville?! What can be more perfect?! 
-<b>Rainbow Dash</b>: I'll tell you what -- making this party epic! 'Cause this isn't just 
- <i>any</i> birthday. It's also the anniversary of when I moved to Ponyville! 
+<b>Rainbow Dash</b>: I'll tell you what -- making this party epic! 'Cause this isn't just  <i>any</i> birthday. It's also the anniversary of when I moved to Ponyville! 
 <b>Rarity</b>: Good heavens, Rainbow Dash. It's your "birth-iversary"! 
 <b>Rainbow Dash</b>: Exactly! So what do you say, party planners? 
 <b>Pinkie Pie</b>: Oh, I think we can do it! 
-<b>Cheese Sandwich</b>: Oh, I don't 
- <i>think</i> so. 
-<b>Rainbow Dash</b> and 
- <b>Pinkie Pie</b>: [gasps] 
-<b>Cheese Sandwich</b>: I 
- <i>know</i> so! After all... 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   The super-duper party pony–that pony is me 
-  </dd>
-  <dd>
-   I always knew that was the kind of pony I would be 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: Me too! 
-<b>Cheese Sandwich</b>: Come on, ponies! Who here likes to party? Ha-ha! You do! I can tell! 
-<dl>
-  <dd>
-   When I was but a little colt, I just wanted to play 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: Like me! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   But everypony told me, "Cheese, that fun just wastes the day" 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: As if! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   But when I threw a party and I busted out some moves 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: Uh-huh! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   The ponies finally saw the light and got into the groove 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: You know it! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   The super-duper party pony–that pony is me 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: And me! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   You'll never meet another party pony quite like Cheese! 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: Uh, Pinkie? 
-<b>Cheese Sandwich</b>: Hey, good-lookin', want some mayonnaise? 
-<dl>
-  <dd>
-   My parties are all off the hook 
-  </dd>
-  <dd>
-   I never plan them by the book 
-  </dd>
-  <dd>
-   I start out fun, then whoopsie-daisy 
-  </dd>
-  <dd>
-   Everybody just gets crazy! 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Bored of snacks made by your mom? 
-  </dd>
-  <dd>
-   How about a giant party bomb? 
-  </dd>
-  <dd>
-   Huge piñatas filled with cake 
-  </dd>
-  <dd>
-   Or dive into my fruit punch lake! 
-  </dd>
- </dl> 
-<b>Goldengrape</b>: Geronimo! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   The super-duper party pony–that pony is me 
-  </dd>
-  <dd>
-   You'll never meet another party pony quite like Cheese 
-  </dd>
- </dl> 
-C'mon, kid, take it for a spin! 
-<b>Colt</b>: Golly! Thanks, mister! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   Oh, when I throw a Cheese party, be sure to not be lame 
-  </dd>
-  <dd>
-   And miss my pie fights, wacky kites, and streamers in your mane 
-  </dd>
-  <dd>
-   Fizzy drinks, Hawaiian shirts, and brie fondue delight 
-  </dd>
-  <dd>
-   You know that with Cheese Sandwich, you'll be partying all night! 
-  </dd>
- </dl> 
-<b>Rainbow Dash</b>: C'mon, everypony! Let's party down with Cheese! 
+<b>Cheese Sandwich</b>: Oh, I don't  <i>think</i> so. 
+<b>Rainbow Dash</b> and  <b>Pinkie Pie</b>: [gasps] 
+<b>Cheese Sandwich</b>: I  <i>know</i> so! After all... <b>[Cheese Sandwich]</b>  <dl>  <dd>   The super-duper party pony–that pony is me   </dd>  <dd>   I always knew that was the kind of pony I would be   </dd> </dl> <b>Pinkie Pie</b>: Me too! 
+<b>Cheese Sandwich</b>: Come on, ponies! Who here likes to party? Ha-ha! You do! I can tell! <dl>  <dd>   When I was but a little colt, I just wanted to play   </dd> </dl> <b>Pinkie Pie</b>: Like me! <b>[Cheese Sandwich]</b>  <dl>  <dd>   But everypony told me, "Cheese, that fun just wastes the day"   </dd> </dl> <b>Pinkie Pie</b>: As if! <b>[Cheese Sandwich]</b>  <dl>  <dd>   But when I threw a party and I busted out some moves   </dd> </dl> <b>Pinkie Pie</b>: Uh-huh! <b>[Cheese Sandwich]</b>  <dl>  <dd>   The ponies finally saw the light and got into the groove   </dd> </dl> <b>Pinkie Pie</b>: You know it! <b>[Cheese Sandwich]</b>  <dl>  <dd>   The super-duper party pony–that pony is me   </dd> </dl> <b>Pinkie Pie</b>: And me! <b>[Cheese Sandwich]</b>  <dl>  <dd>   You'll never meet another party pony quite like Cheese!   </dd> </dl> <b>Pinkie Pie</b>: Uh, Pinkie? 
+<b>Cheese Sandwich</b>: Hey, good-lookin', want some mayonnaise? <dl>  <dd>   My parties are all off the hook   </dd>  <dd>   I never plan them by the book   </dd>  <dd>   I start out fun, then whoopsie-daisy   </dd>  <dd>   Everybody just gets crazy!   </dd> </dl> <dl>  <dd>   Bored of snacks made by your mom?   </dd>  <dd>   How about a giant party bomb?   </dd>  <dd>   Huge piñatas filled with cake   </dd>  <dd>   Or dive into my fruit punch lake!   </dd> </dl> <b>Goldengrape</b>: Geronimo! <b>[Cheese Sandwich]</b>  <dl>  <dd>   The super-duper party pony–that pony is me   </dd>  <dd>   You'll never meet another party pony quite like Cheese   </dd> </dl> C'mon, kid, take it for a spin! 
+<b>Colt</b>: Golly! Thanks, mister! <b>[Cheese Sandwich]</b>  <dl>  <dd>   Oh, when I throw a Cheese party, be sure to not be lame   </dd>  <dd>   And miss my pie fights, wacky kites, and streamers in your mane   </dd>  <dd>   Fizzy drinks, Hawaiian shirts, and brie fondue delight   </dd>  <dd>   You know that with Cheese Sandwich, you'll be partying all night!   </dd> </dl> <b>Rainbow Dash</b>: C'mon, everypony! Let's party down with Cheese! 
 <b>Fluttershy</b>: You're really a certified party pony? 
-<b>Cheese Sandwich</b>: That's right! That's my guarantee! 
-<dl>
-  <dd>
-   The super-duper party pony–that pony is me-e-e-e-e 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   But what about the super party pony named Pinkie...? 
-  </dd>
- </dl> 
-<b>Cheese Sandwich</b>: 
- <i>[indistinct]</i> Thanks buddy! You're gonna 
- <i>love</i> this party! Hey kid, have a streamer, on me! 
-<b>Rainbow Dash</b>: Yeah! Hah, now 
- <i>that's</i> what I'm talking about! I'm so stoked you're here, Cheese Sandwich! 
+<b>Cheese Sandwich</b>: That's right! That's my guarantee! <dl>  <dd>   The super-duper party pony–that pony is me-e-e-e-e   </dd> </dl> <b>[Pinkie Pie]</b>  <dl>  <dd>   But what about the super party pony named Pinkie...?   </dd> </dl> <b>Cheese Sandwich</b>:  <i>[indistinct]</i> Thanks buddy! You're gonna  <i>love</i> this party! Hey kid, have a streamer, on me! <b>Rainbow Dash</b>: Yeah! Hah, now  <i>that's</i> what I'm talking about! I'm so stoked you're here, Cheese Sandwich! 
 <b>Applejack</b>: Yeah. You sure did come on the right day. 
 <b>Rarity</b>: [sighs] Your party sounds simply divine. 
 <b>Twilight Sparkle</b>: We're so lucky to have you here. 
@@ -274,98 +61,14 @@ C'mon, kid, take it for a spin!
 <b>Rainbow Dash</b>: You said it! Oh, yeah! 
 <b>Cheese Sandwich</b>: Feels gouda! 
 <b>Rainbow Dash</b>: Uh, heh, no offense, Pinkie. 
-<b>Pinkie Pie</b>: Uh, n-none taken. [squee] 
-<b>Rainbow Dash</b>: My birth-iversary's already looking 
- <i>way</i> cooler! You are my kind of party pony, Cheese Sandwich. 
+<b>Pinkie Pie</b>: Uh, n-none taken. [squee] <b>Rainbow Dash</b>: My birth-iversary's already looking  <i>way</i> cooler! You are my kind of party pony, Cheese Sandwich. 
 <b>Cheese Sandwich</b>: [chuckles] You got that right, Rainbow Dash. All right, party ponies, I've got some planning to do! 
-[cheering] 
-<b>Twilight Sparkle</b>: Pinkie! Aren't you gonna help Cheese Sandwich plan the party? 
+[cheering] <b>Twilight Sparkle</b>: Pinkie! Aren't you gonna help Cheese Sandwich plan the party? 
 <b>Pinkie Pie</b>: That's okay. [chuckles nervously] He obviously has what it takes to do it all by himself. Heh. 
 <b>Twilight Sparkle</b>: Really? 
-<b>Pinkie Pie</b>: Yes, indeedy! [chuckles nervously] After all, if Cheese really is the super duperiest partying-est pony of them all, maybe that means... I'm... not. 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   For all my life, all I've wanted to do 
-  </dd>
-  <dd>
-   Was make my friends want to smile true 
-  </dd>
-  <dd>
-   But maybe I was wrong 
-  </dd>
-  <dd>
-   And Pinkie Pie shouldn't plan parties at all 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I'll try to get up on my hooves 
-  </dd>
-  <dd>
-   And try a different task 
-  </dd>
-  <dd>
-   I'll find something new to do 
-  </dd>
-  <dd>
-   There's gotta be more to me than planning a party or two 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I put away my party cannon, I deflated all my balloons 
-  </dd>
-  <dd>
-   The bubbles all burst, now what is next for you? 
-  </dd>
-  <dd>
-   For you... 
-  </dd>
- </dl> 
-Oh, I remember this one: my first party ever. My whole family was there. And that's Twilight's welcome-to-Ponyville party. She didn't even expect that one. [giggles] Oh, look at Gummy! He just looks so excited for this birthday party! Hmm. Shining Armor and Cadance's wedding sure was special, especially once 
- <i>I</i> got a hold of the music. 
-<dl>
-  <dd>
-   Oh, look at those happy faces 
-  </dd>
-  <dd>
-   All the parties that I had thrown 
-  </dd>
-  <dd>
-   I made them laugh, had such a blast 
-  </dd>
-  <dd>
-   A smile that's all their own 
-  </dd>
-  <dd>
-   They loved seeing me, the real Pinkie 
-  </dd>
-  <dd>
-   Show them the time of their life like they've never known 
-  </dd>
-  <dd>
-   Like they've never kno-o-own 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I've got to get back out there, have to show them that I've tried 
-  </dd>
-  <dd>
-   For there's only one great party pony -- that is Pinkie Pie 
-  </dd>
-  <dd>
-   Won't let Cheese Sandwich beat me, won't let him get me down 
-  </dd>
-  <dd>
-   For I am Pinkie, the bestest party pony around! 
-  </dd>
- </dl> 
-<b>Rarity</b>: I must say I marvel at your superior party planning expertise, Cheese Sandwich. [giggles] 
+<b>Pinkie Pie</b>: Yes, indeedy! [chuckles nervously] After all, if Cheese really is the super duperiest partying-est pony of them all, maybe that means... I'm... not. <b>[Pinkie Pie]</b>  <dl>  <dd>   For all my life, all I've wanted to do   </dd>  <dd>   Was make my friends want to smile true   </dd>  <dd>   But maybe I was wrong   </dd>  <dd>   And Pinkie Pie shouldn't plan parties at all   </dd> </dl> <dl>  <dd>   I'll try to get up on my hooves   </dd>  <dd>   And try a different task   </dd>  <dd>   I'll find something new to do   </dd>  <dd>   There's gotta be more to me than planning a party or two   </dd> </dl> <dl>  <dd>   I put away my party cannon, I deflated all my balloons   </dd>  <dd>   The bubbles all burst, now what is next for you?   </dd>  <dd>   For you...   </dd> </dl> Oh, I remember this one: my first party ever. My whole family was there. And that's Twilight's welcome-to-Ponyville party. She didn't even expect that one. [giggles] Oh, look at Gummy! He just looks so excited for this birthday party! Hmm. Shining Armor and Cadance's wedding sure was special, especially once  <i>I</i> got a hold of the music. <dl>  <dd>   Oh, look at those happy faces   </dd>  <dd>   All the parties that I had thrown   </dd>  <dd>   I made them laugh, had such a blast   </dd>  <dd>   A smile that's all their own   </dd>  <dd>   They loved seeing me, the real Pinkie   </dd>  <dd>   Show them the time of their life like they've never known   </dd>  <dd>   Like they've never kno-o-own   </dd> </dl> <dl>  <dd>   I've got to get back out there, have to show them that I've tried   </dd>  <dd>   For there's only one great party pony -- that is Pinkie Pie   </dd>  <dd>   Won't let Cheese Sandwich beat me, won't let him get me down   </dd>  <dd>   For I am Pinkie, the bestest party pony around!   </dd> </dl> <b>Rarity</b>: I must say I marvel at your superior party planning expertise, Cheese Sandwich. [giggles] 
 <b>Applejack</b>: Well, they don't call him the super duper party planner for nothin'. 
-<b>Pinkie Pie</b>: That's it! This pony has gotta get her title back! And I know just what to do! 
-<b>Rainbow Dash</b>: Totally awesome! 
+<b>Pinkie Pie</b>: That's it! This pony has gotta get her title back! And I know just what to do! <b>Rainbow Dash</b>: Totally awesome! 
 <b>Applejack</b>: Huh. Best I've ever seen. 
 <b>Twilight Sparkle</b>: I can't believe it! 
 [ponies awing] 
@@ -375,8 +78,7 @@ Oh, I remember this one: my first party ever. My whole family was there. And tha
 <b>Applejack</b>: [whispering] What's a goof off? 
 <b>Fluttershy</b>: I have no idea, hehe. 
 <b>Cheese Sandwich</b>: This Cheese has stood alone a long time, Pinkie Pie. You think you can out-goof me? 
-<b>Pinkie Pie</b>: Oh, I don't think so. I 
- <i>know</i> so! And the stakes are high, Cheese Sandwich. Whoever wins will be dubbed the ultimate super duper party pony and headline the Rainbow Dash birth-iversary bash! 
+<b>Pinkie Pie</b>: Oh, I don't think so. I  <i>know</i> so! And the stakes are high, Cheese Sandwich. Whoever wins will be dubbed the ultimate super duper party pony and headline the Rainbow Dash birth-iversary bash! 
 <b>Twilight Sparkle</b>: And the loser? 
 <b>Pinkie Pie</b>: Doesn't! 
 <b>Rainbow Dash</b>: [gasps] 
@@ -385,299 +87,55 @@ Oh, I remember this one: my first party ever. My whole family was there. And tha
 <b>Cheese Sandwich</b>: Nopony calls me boneless. Right, Boneless? 
 <b>Pinkie Pie</b>: Then the goof off is on for high noon! 
 <b>Twilight Sparkle</b>: Um, Pinkie? It's already 3 o'clock. 
-<b>Pinkie Pie</b>: Oh. Oh, well then. Make it 3:10 to goof off! 
-[eagle screeches] 
+<b>Pinkie Pie</b>: Oh. Oh, well then. Make it 3:10 to goof off! [eagle screeches] 
 [clock ticks] 
 [spurs jangling] 
 [squeaking] 
 <b>Pinkie Pie</b>: [blows party horn] 
 <b>Twilight Sparkle</b>: All right, everypony. According to my official goof off rulebook... 
-<b>Rainbow Dash</b>: She actually 
- <i>has</i> a goof off rulebook? 
+<b>Rainbow Dash</b>: She actually  <i>has</i> a goof off rulebook? 
 <b>Spike</b>: Are you kidding? Twilight can find a rulebook for everything! 
 <b>Matilda</b>: Shhh. 
 <b>Twilight Sparkle</b>: The two competitors have free range to goof about -- be it by singing, dancing, playing, prancing, joking, or performing -- to make the judge chortle, chuckle, giggle, guffaw, hoot and holler, whoop it up, and party down. 
 [tuba sounds] 
-<b>Twilight Sparkle</b>: The funnier, sillier, wilder, and goofier, the better. Rainbow Dash, since the winner will be headlining your party, 
- <i>you</i> are the judge. 
+<b>Twilight Sparkle</b>: The funnier, sillier, wilder, and goofier, the better. Rainbow Dash, since the winner will be headlining your party,  <i>you</i> are the judge. 
 <b>Rainbow Dash</b>: Heh. Big tense competition on my birth-iversary. What could be better? 
 <b>Twilight Sparkle</b>: Cheese Sandwich, Pinkie Pie, are you ready? 
-<b>Pinkie Pie</b>: I was 
- <i>born</i> ready! 
-<b>Cheese Sandwich</b>: I was ready 
- <i>before</i> I was born! 
+<b>Pinkie Pie</b>: I was  <i>born</i> ready! 
+<b>Cheese Sandwich</b>: I was ready  <i>before</i> I was born! 
 <b>Twilight Sparkle</b>: Then... Let the goofing begin! 
-[bouncing, squeaking] 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   It's your birthday party, a very special day 
-  </dd>
-  <dd>
-   I've got a song, it won't take long, I just wanted to say 
-  </dd>
-  <dd>
-   Happy, happy, happy, happy 
-  </dd>
-  <dd>
-   Happy, happy, happy, happy 
-  </dd>
-  <dd>
-   Happy, happy, happy, happy birthday to you! 
-  </dd>
- </dl> 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   If you wanna be the life of the party 
-  </dd>
-  <dd>
-   But you're feeling just a little uptight 
-  </dd>
-  <dd>
-   Call the doctor, beg and plead 
-  </dd>
-  <dd>
-   "Doctor, tell me what I need" 
-  </dd>
-  <dd>
-   Try to put a little cheese in your knees! 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Bubbles and balloons, bubbles and balloons 
-  </dd>
-  <dd>
-   What's a birthday party without bubbles and balloons? 
-  </dd>
-  <dd>
-   Star-shaped or trapezoid, look what I can do 
-  </dd>
-  <dd>
-   Only Pinkie Pie can make a bubble shaped like you! 
-  </dd>
- </dl> 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   Just let yourself go floppy, for now this is your chance 
-  </dd>
-  <dd>
-   Pretend you have no bones and do the rubber chicken dance! 
-  </dd>
- </dl> 
-Hit it, Boneless! 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Cooler than a rubber chicken and tastier than cake 
-  </dd>
-  <dd>
-   Come on, you, let's party down and do the Gummy shake! 
-  </dd>
- </dl> 
-Hit it, Gummy! Uh-huh! You know it! Shake it! 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   'Cause I like to make you smile, smile, smile 
-  </dd>
-  <dd>
-   Yes I do 
-  </dd>
-  <dd>
-   It fills my heart with sunshine all the while 
-  </dd>
-  <dd>
-   Yes it does 
-  </dd>
-  <dd>
-   'Cause all I really need's a smile, smile, smile 
-  </dd>
-  <dd>
-   From these happy friends of mine 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: That's 
- <i>my</i> song! 
+[bouncing, squeaking] <b>[Pinkie Pie]</b>  <dl>  <dd>   It's your birthday party, a very special day   </dd>  <dd>   I've got a song, it won't take long, I just wanted to say   </dd>  <dd>   Happy, happy, happy, happy   </dd>  <dd>   Happy, happy, happy, happy   </dd>  <dd>   Happy, happy, happy, happy birthday to you!   </dd> </dl> <b>[Cheese Sandwich]</b>  <dl>  <dd>   If you wanna be the life of the party   </dd>  <dd>   But you're feeling just a little uptight   </dd>  <dd>   Call the doctor, beg and plead   </dd>  <dd>   "Doctor, tell me what I need"   </dd>  <dd>   Try to put a little cheese in your knees!   </dd> </dl> <b>[Pinkie Pie]</b>  <dl>  <dd>   Bubbles and balloons, bubbles and balloons   </dd>  <dd>   What's a birthday party without bubbles and balloons?   </dd>  <dd>   Star-shaped or trapezoid, look what I can do   </dd>  <dd>   Only Pinkie Pie can make a bubble shaped like you!   </dd> </dl> <b>[Cheese Sandwich]</b>  <dl>  <dd>   Just let yourself go floppy, for now this is your chance   </dd>  <dd>   Pretend you have no bones and do the rubber chicken dance!   </dd> </dl> Hit it, Boneless! <b>[Pinkie Pie]</b>  <dl>  <dd>   Cooler than a rubber chicken and tastier than cake   </dd>  <dd>   Come on, you, let's party down and do the Gummy shake!   </dd> </dl> Hit it, Gummy! Uh-huh! You know it! Shake it! <b>[Cheese Sandwich]</b>  <dl>  <dd>   'Cause I like to make you smile, smile, smile   </dd>  <dd>   Yes I do   </dd>  <dd>   It fills my heart with sunshine all the while   </dd>  <dd>   Yes it does   </dd>  <dd>   'Cause all I really need's a smile, smile, smile   </dd>  <dd>   From these happy friends of mine   </dd> </dl> <b>Pinkie Pie</b>: That's  <i>my</i> song! 
 <b>Cheese Sandwich</b>: What do you mean? I have no idea what you're talking about. 
-<b>Pinkie Pie</b>: THAT'S IT! 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Roll out the party cannon 
-  </dd>
-  <dd>
-   When you hear the party cannon song 
-  </dd>
-  <dd>
-   Ka-BOOM! 
-  </dd>
- </dl> 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   Why should you compromise? Try this one on for size 
-  </dd>
-  <dd>
-   'Cause nothing quite says cheer like the ringing in your ear 
-  </dd>
-  <dd>
-   Of the cheese supreme cannonball surprise! 
-  </dd>
- </dl> 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   <i>¡Dale, dale, dale</i> 
-  </dd>
-  <dd>
-   <i>No pierdas el tino!</i> 
-  </dd>
-  <dd>
-   <i>Porque si lo pierdes</i> 
-  </dd>
-  <dd>
-   <i>¡Pierdes el camino!</i> 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: [gasps] Rainbow's not having the best party ever! I... I broke the Pinkie Party Promise! 
- <i>Stop</i>! The goof off is off! 
+<b>Pinkie Pie</b>: THAT'S IT! <b>[Pinkie Pie]</b>  <dl>  <dd>   Roll out the party cannon   </dd>  <dd>   When you hear the party cannon song   </dd>  <dd>   Ka-BOOM!   </dd> </dl> <b>[Cheese Sandwich]</b>  <dl>  <dd>   Why should you compromise? Try this one on for size   </dd>  <dd>   'Cause nothing quite says cheer like the ringing in your ear   </dd>  <dd>   Of the cheese supreme cannonball surprise!   </dd> </dl> <b>[Pinkie Pie]</b>  <dl>  <dd>   <i>¡Dale, dale, dale</i>   </dd>  <dd>   <i>No pierdas el tino!</i>   </dd>  <dd>   <i>Porque si lo pierdes</i>   </dd>  <dd>   <i>¡Pierdes el camino!</i>   </dd> </dl> 
+<b>Pinkie Pie</b>: [gasps] Rainbow's not having the best party ever! I... I broke the Pinkie Party Promise!  <i>Stop</i>! The goof off is off! 
 [ponies murmuring confused] 
 <b>Rainbow Dash</b>: But I haven't named a winner. 
 <b>Pinkie Pie</b>: You don't have to. I forfeit. Which means... Cheese Sandwich wins. 
 <b>Cheese Sandwich</b>: [laughs] [sighs] ...I do? 
 <b>Pinkie Pie</b>: Yes. You get to headline Rainbow Dash's party. 
 <b>Twilight Sparkle</b>: But, what about you, Pinkie? 
-<b>Pinkie Pie</b>: I... [sniffles] I don't. 
-<b>Rainbow Dash</b>: Pinkie, wait! I'm sorry I got all swept away by Cheese Sandwich. 
+<b>Pinkie Pie</b>: I... [sniffles] I don't. <b>Rainbow Dash</b>: Pinkie, wait! I'm sorry I got all swept away by Cheese Sandwich. 
 <b>Twilight Sparkle</b>: We all are. 
 <b>Rest of main cast</b>: [general agreement] 
 <b>Spike</b>: [sighs] Sorry, Pinkie. 
-<b>Pinkie Pie</b>: No. 
- <i>I'm</i> sorry I let my pride get in the way of you having the best birth-iversary ever. Cheese Sandwich really is a super duper party planner, and he'll be a terrific headliner. I should've been a big enough pony to admit that and let you have your day. 
-<b>Rainbow Dash</b>: But don't you get it? You're 
- <i>both</i> super duper party ponies. Sure, Cheese Sandwich is a great 
- <i>guest</i> party pony, but you're Ponyville's 
- <i>permanent</i> party pony. Nopony could ever take your place, and we could never have a party without you. 
-<b>Cheese Sandwich</b>: Rainbow Dash is right. I never meant to take your place in Ponyville. I just wanted to show 
- <i>you</i> what a great party pony I am, Pinkie. 
+<b>Pinkie Pie</b>: No.  <i>I'm</i> sorry I let my pride get in the way of you having the best birth-iversary ever. Cheese Sandwich really is a super duper party planner, and he'll be a terrific headliner. I should've been a big enough pony to admit that and let you have your day. 
+<b>Rainbow Dash</b>: But don't you get it? You're  <i>both</i> super duper party ponies. Sure, Cheese Sandwich is a great  <i>guest</i> party pony, but you're Ponyville's  <i>permanent</i> party pony. Nopony could ever take your place, and we could never have a party without you. 
+<b>Cheese Sandwich</b>: Rainbow Dash is right. I never meant to take your place in Ponyville. I just wanted to show  <i>you</i> what a great party pony I am, Pinkie. 
 <b>Pinkie Pie</b>: Why me? 
-<b>Cheese Sandwich</b>: Well... 
-<b>[Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   I fear I told a little fib about my pony past 
-  </dd>
-  <dd>
-   I hope that when you hear the truth, you will not be aghast 
-  </dd>
-  <dd>
-   I wasn't quite the super party pony like I claimed 
-  </dd>
-  <dd>
-   The fact is that I was so shy, nopony knew my name 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I stumbled into Ponyville one afternoon by chance 
-  </dd>
-  <dd>
-   And found the biggest ever celebration party dance 
-  </dd>
-  <dd>
-   Everything was perfect, cheer was filling up the place 
-  </dd>
-  <dd>
-   And I saw that everypony had a smile upon their face 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   I vowed that day to change my life, the past I did set free 
-  </dd>
-  <dd>
-   For now Cheese Sandwich was a party pony full of glee 
-  </dd>
-  <dd>
-   A super duper party pony -- that's what I became 
-  </dd>
-  <dd>
-   I traveled all Equestria, and all did know my name 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   But that never would have happened on my own, I'll tell you why 
-  </dd>
-  <dd>
-   For the one who threw that party, it was you, Pinkie Pie 
-  </dd>
- </dl> 
-<b>Pinkie Pie</b>: Me? 
+<b>Cheese Sandwich</b>: Well... <b>[Cheese Sandwich]</b>  <dl>  <dd>   I fear I told a little fib about my pony past   </dd>  <dd>   I hope that when you hear the truth, you will not be aghast   </dd>  <dd>   I wasn't quite the super party pony like I claimed   </dd>  <dd>   The fact is that I was so shy, nopony knew my name   </dd> </dl> <dl>  <dd>   I stumbled into Ponyville one afternoon by chance   </dd>  <dd>   And found the biggest ever celebration party dance   </dd>  <dd>   Everything was perfect, cheer was filling up the place   </dd>  <dd>   And I saw that everypony had a smile upon their face   </dd> </dl> <dl>  <dd>   I vowed that day to change my life, the past I did set free   </dd>  <dd>   For now Cheese Sandwich was a party pony full of glee   </dd>  <dd>   A super duper party pony -- that's what I became   </dd>  <dd>   I traveled all Equestria, and all did know my name   </dd> </dl> <dl>  <dd>   But that never would have happened on my own, I'll tell you why   </dd>  <dd>   For the one who threw that party, it was you, Pinkie Pie   </dd> </dl> <b>Pinkie Pie</b>: Me? 
 <b>Cheese Sandwich</b>: Yes! 
 <b>Pinkie Pie</b>: Hah, really?! 
 <b>Cheese Sandwich</b>: Really! 
-<b>Pinkie Pie</b>: So 
- <i>I</i> was the pony that threw the awesomely spectacular party that inspired you to become an awesome spectacular party thrower? 
+<b>Pinkie Pie</b>: So  <i>I</i> was the pony that threw the awesomely spectacular party that inspired you to become an awesome spectacular party thrower? 
 <b>Cheese Sandwich</b>: Swear on Camembert! 
 [music warps down] 
 <b>Rainbow Dash</b>: Enough with the warm fuzzy stuff, you two. It's my birth-iversary, and you gotta throw me a bash! 
 <b>Pinkie Pie</b>: Yeah! 
-<b>Cheese Sandwich</b>: Let's go! 
-<b>[Pinkie Pie and Cheese Sandwich]</b> 
- <dl>
-  <dd>
-   Super duper party ponies -- that is me and you 
-  </dd>
-  <dd>
-   A party thrown by one is good, but not as great as two 
-  </dd>
-  <dd>
-   Come on and let's join forces, have twice the expertise 
-  </dd>
-  <dd>
-   Now let's all go to the party planned by Pinkie Pie and Cheese! 
-  </dd>
- </dl> 
-[dance music, rattling, cheering, splash, explosion with kazoos] 
+<b>Cheese Sandwich</b>: Let's go! <b>[Pinkie Pie and Cheese Sandwich]</b>  <dl>  <dd>   Super duper party ponies -- that is me and you   </dd>  <dd>   A party thrown by one is good, but not as great as two   </dd>  <dd>   Come on and let's join forces, have twice the expertise   </dd>  <dd>   Now let's all go to the party planned by Pinkie Pie and Cheese!   </dd> </dl> [dance music, rattling, cheering, splash, explosion with kazoos] 
 <b>Cheese Sandwich</b>: All right, everypony! We are here to celebrate the birthday... 
 <b>Pinkie Pie</b>: ...and anniversary... 
-<b>Pinkie Pie</b> and 
- <b>Cheese Sandwich</b>: ...of Rainbow Dash! 
-<b>Rainbow Dash</b>: Hey, everypony! Who's ready to get their party on?! Hit it! 
-<b>[Pinkie Pie]</b> 
- <dl>
-  <dd>
-   Get your hooves up, party's starting out right now 
-  </dd>
-  <dd>
-   Everypony, everypony get down 
-  </dd>
-  <dd>
-   Time to make a wish, better make it right now 
-  </dd>
-  <dd>
-   It's been a year and today is your birthday party 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   Make a wish, it's your birthday 
-  </dd>
-  <dd>
-   Make a wish, it's your birthday party 
-  </dd>
-  <dd>
-   Make a wish, it's your birthday 
-  </dd>
-  <dd>
-   Make a wish, it's your birthday party 
-  </dd>
- </dl> 
+<b>Pinkie Pie</b> and  <b>Cheese Sandwich</b>: ...of Rainbow Dash! 
+<b>Rainbow Dash</b>: Hey, everypony! Who's ready to get their party on?! Hit it! <b>[Pinkie Pie]</b>  <dl>  <dd>   Get your hooves up, party's starting out right now   </dd>  <dd>   Everypony, everypony get down   </dd>  <dd>   Time to make a wish, better make it right now   </dd>  <dd>   It's been a year and today is your birthday party   </dd> </dl> <dl>  <dd>   Make a wish, it's your birthday   </dd>  <dd>   Make a wish, it's your birthday party   </dd>  <dd>   Make a wish, it's your birthday   </dd>  <dd>   Make a wish, it's your birthday party   </dd> </dl> 
 <b>Rainbow Dash</b>: Cheese Sandwich! Oh, I gotta tell ya, you and Pinkie have totally made this the best birthday/anniversary super combo ever! Hah, it's totally-- 
 <b>Cheese Sandwich</b>: Epic? 
 <b>Rainbow Dash</b>: Yeah, it is! 
@@ -685,7 +143,5 @@ Hit it, Gummy! Uh-huh! You know it! Shake it!
 <b>Pinkie Pie</b>: You're giving me your special rubber chicken friend? 
 <b>Cheese Sandwich</b>: Oh, he's not the only one. Well, Boneless Two, another job well done. But it's time we mosey along. Another town, another party. 
 <b>Pinkie Pie</b>: I never did get that pony's name. 
-<b>Rest of main cast</b>: 
- <i>Cheese Sandwich</i>! 
-<b>Pinkie Pie</b>: [giggles] Oh, yeah! 
-[Instrumental version of The Goof Off plays over credits] 
+<b>Rest of main cast</b>:  <i>Cheese Sandwich</i>! 
+<b>Pinkie Pie</b>: [giggles] Oh, yeah! [Instrumental version of The Goof Off plays over credits] 

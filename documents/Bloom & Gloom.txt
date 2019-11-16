@@ -3,15 +3,11 @@
 [beat] 
 <b>Scootaloo</b>: I'm pretty sure we're all here. 
 <b>Sweetie Belle</b>: Yeah. Apple Bloom, what's this all about? 
-<b>Apple Bloom</b>: Oh, 
- <i>nothin'</i>... except this letter from Babs Seed sayin' she's got her cutie mark! 
-<b>Scootaloo</b> and 
- <b>Sweetie Belle</b>: 
- <i>What?!</i> 
+<b>Apple Bloom</b>: Oh,  <i>nothin'</i>... except this letter from Babs Seed sayin' she's got her cutie mark! 
+<b>Scootaloo</b> and  <b>Sweetie Belle</b>:  <i>What?!</i> 
 <b>Apple Bloom</b>: She says it's a pair of scissors! 
 <b>Scootaloo</b>: So... she's good at cutting stuff? 
-<b>Sweetie Belle</b>: Of 
- <i>course</i>! She was always fussing with her bangs and tail! I'll bet she grows up to be a celebrity stylist! 
+<b>Sweetie Belle</b>: Of  <i>course</i>! She was always fussing with her bangs and tail! I'll bet she grows up to be a celebrity stylist! 
 <b>Apple Bloom</b>: But if she spends all her time cuttin' hair, who's gonna run the Manehattan CMCs? 
 <b>Scootaloo</b>: Well, not Babs. She can't be a Cutie Mark Crusader if she's already got her cutie mark. 
 <b>Apple Bloom</b>: Oh, wow. I guess you're right. 
@@ -19,66 +15,28 @@
 <b>Apple Bloom</b>: No... or at least I hadn't... 
 <b>Sweetie Belle</b>: Don't worry, Apple Bloom. Most of your family has apple-related cutie marks. I bet yours will be, too. And what's not to like about apples? 
 <b>Scootaloo</b>: There's the core, and sour apples, and rotten apples, and apples with worms in them— What? 
-<b>Sweetie Belle</b>: Not helping. 
-<b>Apple Bloom</b>: I guess I just spent so much time worryin' about how to get a cutie mark, I never even thought about what would happen after. There's just so many things I never considered. 
+<b>Sweetie Belle</b>: Not helping. <b>Apple Bloom</b>: I guess I just spent so much time worryin' about how to get a cutie mark, I never even thought about what would happen after. There's just so many things I never considered. 
 <b>Applejack</b>: I'm sure there are, but you don't need to— 
-<b>Apple Bloom</b>: What if I finally get my cutie mark and I don't like it? What if I get my cutie mark and nopony likes 
- <i>me</i>? 
+<b>Apple Bloom</b>: What if I finally get my cutie mark and I don't like it? What if I get my cutie mark and nopony likes  <i>me</i>? 
 <b>Applejack</b>: Well, that's just ridicu— 
-<b>Apple Bloom</b>: What if the Crusaders drift apart? I mean, we won't really be the Cutie Mark Crusaders anymore! [gasps] What if it's not an apple?! Will I have to move out?! 
- <i>Where will I live?!</i> 
+<b>Apple Bloom</b>: What if the Crusaders drift apart? I mean, we won't really be the Cutie Mark Crusaders anymore! [gasps] What if it's not an apple?! Will I have to move out?!  <i>Where will I live?!</i> 
 <b>Applejack</b>: All right, that's enough, sugarcube. Those are way too many questions to answer all in one night. 
 <b>Apple Bloom</b>: But— 
 <b>Applejack</b>: And nopony's gonna make ya move out. 
 <b>Apple Bloom</b>: Are you sure, Applejack? 
-<b>Applejack</b>: Of course, I'm sure. Now get some sleep. You'll see. Everything will be better in the mornin'. 
- <dl>
-  <dd>
-   Hush now, little sister 
-  </dd>
-  <dd>
-   You're loved by all you know 
-  </dd>
-  <dd>
-   You'll never lose their friendship 
-  </dd>
-  <dd>
-   No matter where you go 
-  </dd>
- </dl> 
-<dl>
-  <dd>
-   There ain't no call to worry 
-  </dd>
-  <dd>
-   So don't you cry or fret 
-  </dd>
-  <dd>
-   A cutie mark won't change you 
-  </dd>
-  <dd>
-   No matter what you get 
-  </dd>
- </dl> 
+<b>Applejack</b>: Of course, I'm sure. Now get some sleep. You'll see. Everything will be better in the mornin'.  <dl>  <dd>   Hush now, little sister   </dd>  <dd>   You're loved by all you know   </dd>  <dd>   You'll never lose their friendship   </dd>  <dd>   No matter where you go   </dd> </dl> <dl>  <dd>   There ain't no call to worry   </dd>  <dd>   So don't you cry or fret   </dd>  <dd>   A cutie mark won't change you   </dd>  <dd>   No matter what you get   </dd> </dl> 
 [light clicks] 
-<b>Apple Bloom</b>: [yawns] No matter what I get. 
-<b>Apple Bloom</b>: [snoring] 
+<b>Apple Bloom</b>: [yawns] No matter what I get. <b>Apple Bloom</b>: [snoring] 
 [rooster crows] 
 <b>Apple Bloom</b>: Hoo-ee! Nothin' like a good night's sleep! 
-<b>Applejack</b>: [muffled] Breakfast! 
-<b>Apple Bloom</b>: You were right, Applejack! I feel much better! I don't know what I was so worried about last night! 
+<b>Applejack</b>: [muffled] Breakfast! <b>Apple Bloom</b>: You were right, Applejack! I feel much better! I don't know what I was so worried about last night! 
 <b>Applejack</b>: See, now what did I tell you? A good night's sleep'll fix just about an— Well, no wonder you were so worked up! 
 <b>Apple Bloom</b>: What? What is it? 
-<b>Applejack</b>: Looks like 
- <i>somepony</i> got her cutie mark! 
-<b>Apple Bloom</b>: [gasps] I can't believe it! I got my cutie mark! 
- <i>I got my cutie mark!</i> [rumbling and echoing] 
- <i>I got my cutie mark!</i> Wait 'til I tell the others that my cutie mark is a... a... What is it? 
+<b>Applejack</b>: Looks like  <i>somepony</i> got her cutie mark! 
+<b>Apple Bloom</b>: [gasps] I can't believe it! I got my cutie mark!  <i>I got my cutie mark!</i> [rumbling and echoing]  <i>I got my cutie mark!</i> Wait 'til I tell the others that my cutie mark is a... a... What is it? 
 <b>Applejack</b>: I have no idea what it means. 
-<b>Pest Control Pony</b>: [muffled] I know what it means! [breathing through gas mask] It means I can retire! [laughs] 
-<b>Apple Bloom</b>: Infestations? You mean like... parasprites? 
-<b>Pest Control Pony</b>: Hah, please. Anypony with a trombone can get rid of parasprites. I'm talking about the serious stuff! You ever hear of... 
- <i>twittermites</i>? 
+<b>Pest Control Pony</b>: [muffled] I know what it means! [breathing through gas mask] It means I can retire! [laughs] <b>Apple Bloom</b>: Infestations? You mean like... parasprites? 
+<b>Pest Control Pony</b>: Hah, please. Anypony with a trombone can get rid of parasprites. I'm talking about the serious stuff! You ever hear of...  <i>twittermites</i>? 
 [lightning cracks] 
 <b>Apple Bloom</b>: Twittermites? 
 <b>Pest Control Pony</b>: Pest ponies like you and me are the only things keeping these live wires from destroying half of Equestria! 
@@ -89,8 +47,7 @@
 <b>Apple Bloom</b>: I'm sorry. I guess this just wasn't what I was expectin'. 
 <b>Pest Control Pony</b>: Don't worry. With a cutie mark like that I'm sure you've got the touch. 
 <b>Apple Bloom</b>: The touch? Oh, sorry. 
-<b>Pest Control Pony</b>: Now, you're gonna need to be quick. Once these things get out, it can get 
- <i>pretty shocking</i>. 
+<b>Pest Control Pony</b>: Now, you're gonna need to be quick. Once these things get out, it can get  <i>pretty shocking</i>. 
 [twittermites buzzing] 
 <b>Apple Bloom</b>: Wait, what do you mean? 
 [zap!] 
@@ -105,37 +62,27 @@
 <b>Apple Bloom</b>: Bugbugbugbugbugbugbug! 
 [vacuuming noise] 
 <b>Pest Control Pony</b>: Well, looks like you're all set. Drop me a note sometime at the Piney Shade Retirement Community. 
-<b>Apple Bloom</b>: Now, hold on! I'm sure this job is 
- <i>real</i> important, but... I don't think I wanna call bugs for the rest of my life. Hey, where'd he go? 
-<b>Diamond Tiara</b>: Well, well, well! Look at the new 
- <i>bug</i> pony! 
-<b>Apple Bloom</b>: It's 
- <i>pest</i> pony. 
+<b>Apple Bloom</b>: Now, hold on! I'm sure this job is  <i>real</i> important, but... I don't think I wanna call bugs for the rest of my life. Hey, where'd he go? 
+<b>Diamond Tiara</b>: Well, well, well! Look at the new  <i>bug</i> pony! 
+<b>Apple Bloom</b>: It's  <i>pest</i> pony. 
 <b>Silver Spoon</b>: Eh, it sure is! Ew! 
-<b>Diamond Tiara</b>: I might've known you'd end up with the worst cutie mark 
- <i>ever</i>! 
-<b>Diamond Tiara</b> and 
- <b>Silver Spoon</b>: [laughing] 
+<b>Diamond Tiara</b>: I might've known you'd end up with the worst cutie mark  <i>ever</i>! 
+<b>Diamond Tiara</b> and  <b>Silver Spoon</b>: [laughing] 
 <b>Silver Spoon</b>: But look on the bright side! Whenever you need a friend, you can just go out and catch one! 
 <b>Apple Bloom</b>: That's not funny. 
 <b>Diamond Tiara</b>: Heeere, friendfriendfriendfriendfrieeend! 
 <b>Apple Bloom</b>: Stop it! 
-<b>Silver Spoon</b>: Here, bug! Here, bug! Will you be my friend, bug? Because 
- <i>nopony else</i> will! [laughing] 
+<b>Silver Spoon</b>: Here, bug! Here, bug! Will you be my friend, bug? Because  <i>nopony else</i> will! [laughing] 
 <b>Apple Bloom</b>: You know what? My cutie mark isn't the worst! You two are! 
-<b>Diamond Tiara</b> and 
- <b>Silver Spoon</b>: [laughing] 
-[glass cracking] 
-<b>Apple Bloom</b>: [sighs] I hate to think that Diamond Tiara is right, but... this cutie mark sure isn't what I was hoping for. 
+<b>Diamond Tiara</b> and  <b>Silver Spoon</b>: [laughing] 
+[glass cracking] <b>Apple Bloom</b>: [sighs] I hate to think that Diamond Tiara is right, but... this cutie mark sure isn't what I was hoping for. 
 <b>Mysterious Voice</b>: Why should you have to keep it, then? 
 <b>Apple Bloom</b>: Who's there?! What do you mean?! 
 <b>Mysterious Voice</b>: If your cutie mark bothers you so much, get rid of it! 
 <b>Apple Bloom</b>: Well, if you know how to wave a hoof and erase a terrible cutie mark, you go right ahead! 
 <b>Mysterious Voice</b>: As easily said as done. 
 [wind blows] 
-<b>Apple Bloom</b>: Huh. Now 
- <i>that</i> is some serious magic. 
-[ponies panicked] 
+<b>Apple Bloom</b>: Huh. Now  <i>that</i> is some serious magic. [ponies panicked] 
 <b>Apple Bloom</b>: Hey! Where's everypony goin'?! 
 [ponies panicked] 
 [Wilhelm scream] 
@@ -156,28 +103,24 @@
 <b>Apple Bloom</b>: But I've gotta do somethin'! 
 <b>Applejack</b>: Are you crazy?! 
 [twittermites buzzing] 
-[zap!] 
-<b>Apple Bloom</b>: [gasps] 
+[zap!] <b>Apple Bloom</b>: [gasps] 
 [zap!] 
 <b>Apple Bloom</b>: Aaaaaaahhh! 
 [rooster crows] 
 [glass squeaking] 
 <b>Apple Bloom</b>: Whoo-ee. That's what I call a nightmare. It seemed so real. 
-<b>Applejack</b>: [muffled] Breakfast! 
-<b>Apple Bloom</b>: Applejack! You are not gonna believe the dream I just had! I guess I needed more sleep than I thought! 
+<b>Applejack</b>: [muffled] Breakfast! <b>Apple Bloom</b>: Applejack! You are not gonna believe the dream I just had! I guess I needed more sleep than I thought! 
 <b>Applejack</b>: See, now what did I tell you? A good night's sleep'll fix just about— [gasps] Well, no wonder you were so worked up! 
 <b>Apple Bloom</b>: What? 
 <b>Applejack</b>: Looks like somepony got her cutie mark! 
 <b>Apple Bloom</b>: Again?! I mean... I did? Woo-hoo! Potion making! Now that's more like it! 
 <b>Applejack</b>: More like what? 
 <b>Apple Bloom</b>: Never mind. I'm just glad Princess Twilight's lessons finally paid off! 
-<b>Applejack</b>: I expect you want to run off to the clubhouse and tell your friends all about your new cutie mark. But before you go, make sure you do all your... chores...? 
-[horseshoe clinking] 
+<b>Applejack</b>: I expect you want to run off to the clubhouse and tell your friends all about your new cutie mark. But before you go, make sure you do all your... chores...? [horseshoe clinking] 
 <b>Apple Bloom</b>: Whooo! 
 <b>Scootaloo</b>: Why all the excitement? 
 <b>Sweetie Belle</b>: Yeah, what's going on? 
-<b>Apple Bloom</b>: [coyly] Oh, 
- <i>nothin'</i>... except this brand new cutie mark! 
+<b>Apple Bloom</b>: [coyly] Oh,  <i>nothin'</i>... except this brand new cutie mark! 
 <b>Scootaloo</b>: That's amazing! 
 <b>Sweetie Belle</b>: Wow! 
 <b>Apple Bloom</b>: I know! 
@@ -210,15 +153,12 @@
 <b>Mysterious Voice</b>: Sounds to me like cutie marks and trouble are two peas in the same pod. 
 <b>Apple Bloom</b>: I guess so... I mean, if I was a blank flank again, there wouldn't be a problem! 
 <b>Mysterious Voice</b>: Your wish is my command. 
-[wind blows] 
-[crunch] 
+[wind blows] [crunch] 
 <b>Scootaloo</b>: Hey, Apple Bloom. Why'd you want to meet here? 
 <b>Apple Bloom</b>: Well, us blank flanks have to meet somewhere! 
 <b>Scootaloo</b>: Um, actually, Apple Bloom, we... both sort of got our cutie marks. 
-<b>Apple Bloom</b>: You 
- <i>did</i>?! What are they? 
-<b>Scootaloo</b>: Oh, we don't have time to go into all 
- <i>that</i>. 
+<b>Apple Bloom</b>: You  <i>did</i>?! What are they? 
+<b>Scootaloo</b>: Oh, we don't have time to go into all  <i>that</i>. 
 <b>Sweetie Belle</b>: And we certainly don't have time to hang out at an old clubhouse. 
 <b>Scootaloo</b>: Yeah, we've got responsibilities now. 
 <b>Sweetie Belle</b>: But maybe we'll see you later. 
@@ -227,9 +167,7 @@
 [rooster crows] 
 <b>Apple Bloom</b>: What in Equestria's goin' on?! 
 <b>Applejack</b>: [muffled] Breakfast! 
-<b>Apple Bloom</b>: I'm not so sure sleep is the cure-all Applejack thinks it is. 
-<b>Apple Bloom</b>: Uh... Applejack? I know you said sleep is supposed to make me feel better, but I'm pretty sure it's makin' me feel 
- <i>worse</i>. 
+<b>Apple Bloom</b>: I'm not so sure sleep is the cure-all Applejack thinks it is. <b>Apple Bloom</b>: Uh... Applejack? I know you said sleep is supposed to make me feel better, but I'm pretty sure it's makin' me feel  <i>worse</i>. 
 <b>Applejack</b>: See, now what did I tell you? A good night's sleep'll fix— Well, no wonder you were so worked up... 
 <b>Apple Bloom</b>: Wh— Didn't you hear what I said?! I was trying to— 
 <b>Granny Smith</b>: Weeeell, what do we have here? 
@@ -243,8 +181,7 @@
 <b>Big McIntosh</b>: [echoing] Well, I can tell you what it ain't. It ain't no apple. 
 <b>Granny Smith</b>: Nnope! 
 <b>Apple Bloom</b>: What?! 
-<b>Applejack</b>: [in Big McIntosh's voice] And we don't have room for 
- <i>non</i>-apples. 
+<b>Applejack</b>: [in Big McIntosh's voice] And we don't have room for  <i>non</i>-apples. 
 <b>Big McIntosh</b>: [in Applejack's voice] Nnope. 
 <b>Granny Smith</b>: [in Big McIntosh's voice] Time for you to mosey on. You can't stay here. 
 <b>Apple Bloom</b>: But this is my home! 
@@ -253,13 +190,10 @@
 <b>Big McIntosh</b>: I think just 'Bloom' has a nice ring to it, don't you, Applejack? 
 <b>Applejack</b>: Eeyup! 
 [wind blows] 
-<b>Apple Bloom</b>: Noooooooooo! 
-[thump] 
+<b>Apple Bloom</b>: Noooooooooo! [thump] 
 <b>Apple Bloom</b>: Ugh! 
 <b>Pinkie Pie</b>: [gives rooster crow] 
-<b>Apple Bloom</b>: Alright, this is getting 
- <i>ridiculous</i>. [pause] Whoo-ee! I never thought I'd be so happy to 
- <i>not</i> get a cutie mark. What the?! 
+<b>Apple Bloom</b>: Alright, this is getting  <i>ridiculous</i>. [pause] Whoo-ee! I never thought I'd be so happy to  <i>not</i> get a cutie mark. What the?! 
 [music playing backwards] 
 <b>Apple Bloom</b>: [frustrated grunt] I don't wanna see another cutie mark as long as I live! 
 <b>Mysterious Voice</b>: Back so soon? 
@@ -280,8 +214,7 @@
 <b>Apple Bloom</b>: Then it doesn't matter what my cutie mark is! 
 <b>Princess Luna</b>: Indeed. 
 <b>Apple Bloom</b>: But that's so simple! I must be the only pony in the universe this worried about her cutie mark. 
-<b>Princess Luna</b>: Oh, I wouldn't say 
- <i>that</i>. 
+<b>Princess Luna</b>: Oh, I wouldn't say  <i>that</i>. 
 [door opens] 
 <b>Sweetie Belle</b>: [exhales] [inhales] 
 [cutie mark pinging] 
@@ -295,13 +228,11 @@
 <b>Apple Bloom</b>: Scootaloo and Sweetie Belle are havin' nightmares too? 
 <b>Princess Luna</b>: It's been a busy night for us all, but I think it's time to bring it to a close. 
 [door opens] 
-<b>Scootaloo</b> and 
- <b>Sweetie Belle</b>: Princess Luna! 
+<b>Scootaloo</b> and  <b>Sweetie Belle</b>: Princess Luna! 
 <b>Princess Luna</b>: I know you've all had a lot on your minds tonight, but I think Apple Bloom has something she'd like to share before you wake. 
 <b>Sweetie Belle</b>: We're still asleep? 
 <b>Scootaloo</b>: Cool! 
-<b>Apple Bloom</b>: Well, I guess I should call this 
- <i>dream</i> meeting of the Cutie Mark Crusaders to order! 
+<b>Apple Bloom</b>: Well, I guess I should call this  <i>dream</i> meeting of the Cutie Mark Crusaders to order! 
 [podium honks] 
 <b>Apple Bloom</b>: I know we all got pretty anxious when we found out Babs got her cutie mark, but I for one don't want to have nightmares every night from now until we get ours! 
 <b>Scootaloo</b>: Me neither! 
@@ -313,31 +244,12 @@
 <b>Apple Bloom</b>: I know! Let's put together a care package for her! 
 <b>Sweetie Belle</b>: That way she'll know she isn't alone! 
 <b>Apple Bloom</b>: We wouldn't want her to think that just because she isn't a Crusader, we can't still be friends! But, uh... maybe we should wait 'til we wake up. 
-<b>Princess Luna</b>: Good idea. 
-<b>Apple Bloom</b>: [gasps] 
+<b>Princess Luna</b>: Good idea. <b>Apple Bloom</b>: [gasps] 
 [rooster crows] 
-<b>Apple Bloom</b>: [sighs] 
-[pancakes splatting] 
-<b>[Applejack]</b> 
- <dl>
-  <dd>
-   There ain't no call to worry 
-  </dd>
-  <dd>
-   So don't you cry or fret 
-  </dd>
- </dl> 
-<b>[Apple Bloom]</b> 
- <dl>
-  <dd>
-   A cutie mark won't change me 
-  </dd>
-  <dd>
-   No matter what I get 
-  </dd>
- </dl> 
+<b>Apple Bloom</b>: [sighs] [pancakes splatting] 
+<b>[Applejack]</b>  <dl>  <dd>   There ain't no call to worry   </dd>  <dd>   So don't you cry or fret   </dd> </dl> 
+<b>[Apple Bloom]</b>  <dl>  <dd>   A cutie mark won't change me   </dd>  <dd>   No matter what I get   </dd> </dl> 
 <b>Applejack</b>: Well, sure looks like somepony's feelin' better. 
 <b>Apple Bloom</b>: You have no idea. 
 <b>Applejack</b>: See, now what did I tell you? A good night's sleep cures just about everythin'. 
-<b>Apple Bloom</b>: I guess so. I just wish it hadn't been so exhaustin'. 
-[credits] 
+<b>Apple Bloom</b>: I guess so. I just wish it hadn't been so exhaustin'. [credits] 

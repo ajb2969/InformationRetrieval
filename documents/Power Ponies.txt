@@ -2,9 +2,7 @@
 <b>Twilight Sparkle</b>: Spike, you really need to go to sleep! 
 <b>Spike</b>: Aw, two more minutes, Twilight! I'm just getting to the really good part! The Mane-iac is about to— 
 <b>Twilight Sparkle</b>: "The Mane-iac"? 
-<b>Spike</b>: The Power Ponies' most evil nemesis! She was the power-mad owner of a hair-care product company. A tragic accident at her shampoo factory in Maretropolis not only gave her mane strange new powers, but also caused her to go 
- <i>completely insane</i>! She and her henchponies are planning to break into the Maretropolis Museum and steal the Electro-Orb, so she can use it to power up her doomsday device! Of course, the Mane-iac wouldn't have even known if Hum Drum hadn't slipped up and told her 
- <i>all</i> about it. 
+<b>Spike</b>: The Power Ponies' most evil nemesis! She was the power-mad owner of a hair-care product company. A tragic accident at her shampoo factory in Maretropolis not only gave her mane strange new powers, but also caused her to go  <i>completely insane</i>! She and her henchponies are planning to break into the Maretropolis Museum and steal the Electro-Orb, so she can use it to power up her doomsday device! Of course, the Mane-iac wouldn't have even known if Hum Drum hadn't slipped up and told her  <i>all</i> about it. 
 <b>Twilight Sparkle</b>: Hum Drum? 
 <b>Spike</b>: Nah, the guy in the blue boots and pointless red cape. The Power Ponies' bumbling and totally useless sidekick. The Power Ponies have to stop the Mane-iac or Maretropolis is doo-hoo-hoo-hoomed! 
 <b>Twilight Sparkle</b>: Believe me, Spike. If anypony understands what it's like to get caught up in a really good book, it's me. But if we're going to make any progress fixing up Luna and Celestia's old castle tomorrow, we all have to do our part. We don't want to be too tired to lend a hoof... or claw. 
@@ -12,8 +10,7 @@
 [click] 
 [patting] 
 <b>Twilight Sparkle</b>: Two more minutes. 
-<b>Spike</b>: Yes! 
-<b>Twilight Sparkle</b>: Looking good, everypony! Let's keep this magical makeover moving! 
+<b>Spike</b>: Yes! <b>Twilight Sparkle</b>: Looking good, everypony! Let's keep this magical makeover moving! 
 <b>Rainbow Dash</b>: You got it! 
 <b>Spike</b>: Good old Spike is here, ready to do his part! 
 <b>Pinkie Pie</b>: A little more to the left! No, the other left! [quickly] Awesome! That's perfect right where it is! On to the next painting! 
@@ -22,51 +19,38 @@
 <b>Pinkie Pie</b>: [quickly] We have everything under control! 
 <b>Spike</b>: Dash? 
 <b>Rainbow Dash</b>: I'm good! 
-<b>Spike</b>: [sighs] Isn't there 
- <i>anything</i> I can help you with, Twilight? 
+<b>Spike</b>: [sighs] Isn't there  <i>anything</i> I can help you with, Twilight? 
 <b>Pinkie Pie</b>: [quickly] Don't worry about it, Spike! It's all good! 
 <b>Twilight Sparkle</b>: I think she's right. It looks like we've got it, Spike. Looking great, everypony! Why don't you find a quiet spot and finish reading your comic? Aren't you right at the part where Hum Drum was about to stop the villain? 
-<b>Spike</b>: Hum Drum 
- <i>never</i> stops the villain. He's just there for comic relief. [splash and clatter] [grunts] 
+<b>Spike</b>: Hum Drum  <i>never</i> stops the villain. He's just there for comic relief. [splash and clatter] [grunts] 
 <b>Twilight Sparkle</b>: Rarity, lemme give you a hoof with that! 
-<b>Spike</b>: 
- <i>I</i> could do it! 
+<b>Spike</b>:  <i>I</i> could do it! 
 <b>Twilight Sparkle</b>: That's okay, Spike. 
 <b>Pinkie Pie</b>: Pony power! Weehee!! 
 <b>Spike</b>: [sigh] 
-[bucket clatters] 
-<b>Spike</b>: [to himself] Mane-iac breaks into the museum... Okay, here we go. ...Ugh, what a surprise! Hum Drum is in the way again while the Power Ponies do all the work! I guess I know what that feels like... [gasps] Wait. What? How can that be the end?! What's... that? "You can... retr-" What? "You can... return..." Urgh! I 
- <i>know</i> I saw a magnifying glass laying around the last time I was here... 
+[bucket clatters] <b>Spike</b>: [to himself] Mane-iac breaks into the museum... Okay, here we go. ...Ugh, what a surprise! Hum Drum is in the way again while the Power Ponies do all the work! I guess I know what that feels like... [gasps] Wait. What? How can that be the end?! What's... that? "You can... retr-" What? "You can... return..." Urgh! I  <i>know</i> I saw a magnifying glass laying around the last time I was here... 
 <b>Applejack</b>: Spike! Where are ya, Spike? 
 <b>Rarity</b>: We're breaking for tea and biscuits! 
 <b>Rainbow Dash</b>: Spike! 
 <b>Spike</b>: [reading] "You can return to the place you started when the Mane-iac is... defeated." Huh? "Take a closer look to join the adventure in this book"? What does that even mean? Whoa! Cool! 
 <b>Twilight Sparkle</b>: Spike! What are you— 
-<b>Spike</b>: 
- <i>Heeeeeelp!</i> 
+<b>Spike</b>:  <i>Heeeeeelp!</i> 
 <b>Twilight Sparkle</b>: Spike! [straining noises] 
 <b>Rainbow Dash</b>: [straining noises] 
-<b>Fluttershy</b> and 
- <b>Rarity</b>: [gasps] [screaming] 
-<b>Pinkie Pie</b>: Weehee! 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Is this... Maretropolis? 
+<b>Fluttershy</b> and  <b>Rarity</b>: [gasps] [screaming] 
+<b>Pinkie Pie</b>: Weehee! <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Is this... Maretropolis? 
 <span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Somepony wanna tell me what the hay is goin' on? 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Holy new personas, ponies! You're the... Masked Matter-Horn! Fili-Second! Zapp! R-Radiance! Mistress Mare-velous! Saddle Rager! You're the... 
- <i>Power Ponies</i>! 
+<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Holy new personas, ponies! You're the... Masked Matter-Horn! Fili-Second! Zapp! R-Radiance! Mistress Mare-velous! Saddle Rager! You're the...  <i>Power Ponies</i>! 
 [thud] 
 [whipping noises] 
 <b>Mane-iac</b>: Power Ponies! [laughs] How kind of you to join us! 
 <span title="as Power Ponies" style="cursor:help; border-bottom:1px dotted"><b>Main cast</b></span>: Huh? 
-<b>Mane-iac</b>: [evil laughter] 
-<b>Mane-iac</b>: [evil laughter] 
-<span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Did she just call us... 
- <i>Power Ponies</i>? 
+<b>Mane-iac</b>: [evil laughter] <b>Mane-iac</b>: [evil laughter] 
+<span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Did she just call us...  <i>Power Ponies</i>? 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: You're the... the superheroes from my comic book! It somehow zapped us all in here! 
 <span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: So somepony zap us back out! 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: My comic book! It said the way to get back to where we started was to defeat the Mane-iac! Your 
- <i>arch-nemesis</i>! 
-<b>Mane-iac</b>: Time for the 
- <i>mane</i> event! 
+<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: My comic book! It said the way to get back to where we started was to defeat the Mane-iac! Your  <i>arch-nemesis</i>! 
+<b>Mane-iac</b>: Time for the  <i>mane</i> event! 
 [crash] 
 <span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Pinkie! Where'd she go?! 
 <span title="as Fili-Second" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Wheeeeeeee! 
@@ -76,8 +60,7 @@
 <span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Whoa! [straining noises] 
 <b>Mane-iac</b>: [cackles] 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Twilight! Freeze her mane! 
-<span title="as Masked Matter-Horn" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Do 
- <i>what</i>? 
+<span title="as Masked Matter-Horn" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Do  <i>what</i>? 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: You're the Masked Matter-Horn! You can shoot all kinds of crazy power beams from your horn! 
 [magic fizzling out] 
 <b>Mane-iac</b>: You know, I'm beginning to enjoy this. [cackles] 
@@ -96,15 +79,12 @@
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Oh, gosh! That wouldn't... be very... polite! 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Ugh! Rarity! Use your jewelry to create attack constructs! 
 <span title="as Radiance" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: What's an attack construct?! 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Just think of something, 
- <i>anything</i>, and your bracelet makes it appear! 
+<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Just think of something,  <i>anything</i>, and your bracelet makes it appear! 
 [smashing crockery] 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Something 
- <i>useful</i>! 
+<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Something  <i>useful</i>! 
 [thud] 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: The Electro-Orb! 
-<b>Mane-iac</b>: Well, this has been quite the 
- <i>mane-raising</i> experience. But I really must be going. [laughs] 
+<b>Mane-iac</b>: Well, this has been quite the  <i>mane-raising</i> experience. But I really must be going. [laughs] 
 [thud] 
 <b>Mane-iac</b>: Why, thank you, Hum Drum! [evil laughter] 
 [whipping noises] 
@@ -114,8 +94,7 @@
 [lasso whipping] 
 [thud] 
 <span title="as Fili-Second" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: [giggles] That was spin-tastic! 
-<span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Lemme get this straight: We've been sucked into some kind of 
- <i>comic-book world</i>? 
+<span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Lemme get this straight: We've been sucked into some kind of  <i>comic-book world</i>? 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Technically, it's called Maretropolis. And if we wanna get back to Ponyville, I think we have to stop the Mane-iac from using her doomsday device to destroy it! 
 <span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: No biggie. I was already awesome. And now we've all got superpowers! 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Almost all of us have superpowers... 
@@ -128,8 +107,7 @@
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Her top-secret headquarters! But you'd better get there quick. That glowing orb she just stole is what she's going to use to power it up! 
 <span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Lead the way, Spike! 
 <span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Then leave the rest to us! 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: [sighs] 
-[neon light humming] 
+<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: [sighs] [neon light humming] 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: There it is! 
 <span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Is that a... shampoo factory? 
 <span title="as Masked Matter-Horn" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: All right, Power Ponies, here's the plan. Rarity, you, me and— 
@@ -151,13 +129,11 @@
 <span title="as Fili-Second" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: [giggles] 
 [banging] 
 [crash] 
-<span title="as Radiance" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Ooh, I do 
- <i>so</i> love a functional accessory! 
+<span title="as Radiance" style="cursor:help; border-bottom:1px dotted"><b>Rarity</b></span>: Ooh, I do  <i>so</i> love a functional accessory! 
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: [whimpering] 
 [lightning strikes] 
 <b>Henchpony</b>: My hair! 
-<span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Seriously? You aren't even just a 
- <i>little</i> angry right now? 
+<span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Seriously? You aren't even just a  <i>little</i> angry right now? 
 <span title="as Masked Matter-Horn" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Nice work, Power Ponies! Now let's take care of the Mane-iac and get ourselves home! 
 <b>Mane-iac</b>: I don't think so! I have a city to destroy, and I'm not about to let the Power Ponies stop me! Not this time! 
 <span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Just watch us! 
@@ -173,39 +149,26 @@
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Well, I'm not so much angry as I am concerned, bordering on terrified! 
 [hairspray hissing] 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Don't spray! 
-<b>Mane-iac</b>: [cackles] Oh, Hum Drum, why in all of Maretropolis would I use the Hairspray Ray of Doom on 
- <i>you</i>? Rather pointless, don't you think? 
+<b>Mane-iac</b>: [cackles] Oh, Hum Drum, why in all of Maretropolis would I use the Hairspray Ray of Doom on  <i>you</i>? Rather pointless, don't you think? 
 <span title="as Power Ponies" style="cursor:help; border-bottom:1px dotted"><b>Main cast</b></span>: [shouts of concern] 
 [door slamming] 
-[clang] 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: What am 
- <i>I</i> supposed to do? I'm useless. No wonder my friends never need me to do anything important. 
- <i>They're</i> the ones with superpowers. They've probably already figured out how to escape. 
+[clang] <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: What am  <i>I</i> supposed to do? I'm useless. No wonder my friends never need me to do anything important.  <i>They're</i> the ones with superpowers. They've probably already figured out how to escape. 
 [clang] 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Or not! 
 [cracking] 
 [timer ringing] 
 [hairspray hissing] 
 [cracking] 
-<b>Mane-iac</b>: Congratulations, Power Ponies! [laughs] You shall live just long enough to see me fire... the instrument of your destruction! [cackles] Once the Electro-Orb has powered it up completely, this cannon will amplify the power of my mane one 
- <i>million</i> times, expelling an energy blast that will cause everypony in Maretropolis's mane to grow wild! [laughs] You will be my weapon's first victims, and there is nopony who can save you from this fate! [evil laughter] 
+<b>Mane-iac</b>: Congratulations, Power Ponies! [laughs] You shall live just long enough to see me fire... the instrument of your destruction! [cackles] Once the Electro-Orb has powered it up completely, this cannon will amplify the power of my mane one  <i>million</i> times, expelling an energy blast that will cause everypony in Maretropolis's mane to grow wild! [laughs] You will be my weapon's first victims, and there is nopony who can save you from this fate! [evil laughter] 
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Ahem. I don't mean to interrupt, but aren't you forgetting about somepony? 
-<b>Mane-iac</b>: Hum Drum? Little guy? No superpowers whatsoever? [laughs] 
- <i>He's utterly useless</i>! 
+<b>Mane-iac</b>: Hum Drum? Little guy? No superpowers whatsoever? [laughs]  <i>He's utterly useless</i>! 
 [timer ringing] 
 [hairspray hissing] 
-<b>Mane-iac</b>: 
- <i>Puh-lease</i>. Everypony knows you just keep him around because you [condescending tone] feel sowwy for him. Wah. Wah. 
-<span title="as Masked Matter-Horn" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Maybe in 
- <i>your</i> world. But in 
- <i>our</i> world, Spike— uh, Hum Drum always comes through when we need him! 
- <i>Always</i>! 
+<b>Mane-iac</b>:  <i>Puh-lease</i>. Everypony knows you just keep him around because you [condescending tone] feel sowwy for him. Wah. Wah. 
+<span title="as Masked Matter-Horn" style="cursor:help; border-bottom:1px dotted"><b>Twilight Sparkle</b></span>: Maybe in  <i>your</i> world. But in  <i>our</i> world, Spike— uh, Hum Drum always comes through when we need him!  <i>Always</i>! 
 <b>Rest of Power Ponies</b>: [agreements] 
-<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: I'm 
- <i>not</i> like Hum Drum! When my friends really need me, I 
- <i>do</i> come through! And they need me now! 
-<b>Mane-iac</b>: [laughs] I see dementia must be a side-effect of prolonged exposure to the Hairspray Ray of Doom. [laughs] Tonight, we stand upon the brink of immortality, for we collectively – though, mostly me – have finally defeated our most hated nemeses! We have hurled the brush of badness into the now fearful face of [laughs] goodness, and have struck a blow for freedom in the name of oppression! And 
- <i>nothing will stop us</i>! [laughs] 
+<span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: I'm  <i>not</i> like Hum Drum! When my friends really need me, I  <i>do</i> come through! And they need me now! 
+<b>Mane-iac</b>: [laughs] I see dementia must be a side-effect of prolonged exposure to the Hairspray Ray of Doom. [laughs] Tonight, we stand upon the brink of immortality, for we collectively – though, mostly me – have finally defeated our most hated nemeses! We have hurled the brush of badness into the now fearful face of [laughs] goodness, and have struck a blow for freedom in the name of oppression! And  <i>nothing will stop us</i>! [laughs] 
 [chain rattling] 
 <b>Henchponies</b>: [yelping] 
 [whinny] 
@@ -219,17 +182,12 @@
 <span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Get mad! 
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: I'm trying! [straining noises] 
 <span title="as Fili-Second" style="cursor:help; border-bottom:1px dotted"><b>Pinkie Pie</b></span>: Tag you're it! Tag you're it! Tag you're it! Tag you're it! 
-<b>Mane-iac</b>: Over 
- <i>there</i>! 
- <i>There</i>! 
- <i>There</i>! 
- <i>Idiots!</i> 
+<b>Mane-iac</b>: Over  <i>there</i>!  <i>There</i>!  <i>There</i>!  <i>Idiots!</i> 
 [ice cracking] 
 [thud] 
 [electricity crackling] 
 [lightning crackling] 
-<span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Need a place to put 
- <i>these</i> guys! 
+<span title="as Zapp" style="cursor:help; border-bottom:1px dotted"><b>Rainbow Dash</b></span>: Need a place to put  <i>these</i> guys! 
 [clanging] 
 [thudding] 
 <span title="as Mistress Mare-velous" style="cursor:help; border-bottom:1px dotted"><b>Applejack</b></span>: Hold it right there, partner! 
@@ -243,13 +201,7 @@
 [firefly buzzing] 
 [smack] 
 [firefly squealing] 
-<span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Oh, goodness! Are you okay? [to the Mane-iac] Are you 
- <i>kidding me</i>? I mean, I know you're evil and everything, but [getting frustrated] you hurt a teensy, 
- <i>little, harmless firefly</i>?! 
- <i>Really?!</i> Well you're just a 
- <i>great, big, meanie!</i> [voice getting deeper] 
- <i>There! I said it! What makes you think <b>you're</b> so special?! Like the rules of <b>common courtesy</b> don't apply to you?!</i> [voice getting even deeper] 
- <i>Why don't you pick on <b>somepony your own size?!</b></i> [roars] 
+<span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: Oh, goodness! Are you okay? [to the Mane-iac] Are you  <i>kidding me</i>? I mean, I know you're evil and everything, but [getting frustrated] you hurt a teensy,  <i>little, harmless firefly</i>?!  <i>Really?!</i> Well you're just a  <i>great, big, meanie!</i> [voice getting deeper]  <i>There! I said it! What makes you think <b>you're</b> so special?! Like the rules of <b>common courtesy</b> don't apply to you?!</i> [voice getting even deeper]  <i>Why don't you pick on <b>somepony your own size?!</b></i> [roars] 
 [controls buzzing] 
 [laser firing] 
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: [roars] 
@@ -257,13 +209,11 @@
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: [roaring] 
 [smashing noises] 
 <span title="as Saddle Rager" style="cursor:help; border-bottom:1px dotted"><b>Fluttershy</b></span>: [spits] 
-<b>Mane-iac</b>: My mane! [laughs] My 
- <i>maaaaaane</i>! [laughs insanely] 
+<b>Mane-iac</b>: My mane! [laughs] My  <i>maaaaaane</i>! [laughs insanely] 
 [thud] 
 [electricity crackling] 
 <span title="as Hum Drum" style="cursor:help; border-bottom:1px dotted"><b>Spike</b></span>: Once again, the day is saved by— 
-<span title="as Power Ponies" style="cursor:help; border-bottom:1px dotted"><b>Main cast</b></span>: [yelping] 
-[thud] 
+<span title="as Power Ponies" style="cursor:help; border-bottom:1px dotted"><b>Main cast</b></span>: [yelping] [thud] 
 <b>Rainbow Dash</b>: Awesome! 
 <b>Applejack</b>: Whoo-ee! 
 <b>Main cast</b>: [excited chattering] 
@@ -277,9 +227,7 @@
 <b>Spike</b>: And that you don't have to have superpowers to be a super friend. 
 <b>Main cast</b>: ["Mm-hmm!", "Yeah!", "You got it!", general agreement] 
 <b>Twilight Sparkle</b>: But I do have one question. Where exactly did you get that comic book? 
-<b>Spike</b>: This one I got in Canterlot at the House of Enchanted Comics. Well, I didn't know it meant they were 
- <i>literally</i> enchanted! 
+<b>Spike</b>: This one I got in Canterlot at the House of Enchanted Comics. Well, I didn't know it meant they were  <i>literally</i> enchanted! 
 <b>Main cast</b>: ["Aw, come on!", overlapping disbelief] 
 <b>Spike</b>: I thought it just meant, like, the comics they sold there had really enchanting storylines! Hey, wait up! I'm an important part of this team, remember?! 
-[magic zapping] 
-[credits] 
+[magic zapping] [credits] 

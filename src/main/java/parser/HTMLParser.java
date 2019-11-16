@@ -82,6 +82,11 @@ class HTMLParser {
                     System.err.println("Unknown tag " + tag.toString());
                     throw new RuntimeException();
             }
+
+            if (currentTitle.equals("My Little Pony Equestria Girls")) {
+                // end of friendship is magic
+                break;
+            }
         }
         return titleToScriptElements;
     }
@@ -102,8 +107,9 @@ class HTMLParser {
         if (TranscriptTag.from(section.tagName()) == TranscriptTag.PARAGRAPH_TAG){
             List<String> lines = section.children().stream()
                 .map(line -> trimDDTag(line.toString()))
+                .map(line -> line.replace("\n", ""))
                 .collect(Collectors.toList());
-            return String.join("", lines);
+            return String.join("\n", lines);
         } else {
             System.err.println("Invalid element");
             throw new RuntimeException();
