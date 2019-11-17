@@ -14,7 +14,6 @@ public class TfIdf extends Models {
 
     private static double termFrequency(String term,
                                         String document) {
-
         int totalTerms = fileTermSize.get(document);
         int occurences = documents.get(term).getFileOccurrences().stream()
                 .filter(e -> e.getFilename().equals(document))

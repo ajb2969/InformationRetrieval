@@ -19,13 +19,11 @@ public class BM25 extends Models {
     public ArrayList<Similarity> retrieve(String query) {
         ArrayList<String> keywords = Lists.newArrayList(super.extractTerms(query));
         Set<String> relevantDocuments = getRelevantDocuments(keywords);
-        System.out.println("Got relevant documents for query");
         ArrayList<String> documentCollection = getDocumentList();
 
         Map<String, Double> scoredDocuments = Maps.newHashMap();
-        documentCollection.parallelStream()
+        documentCollection.stream()
             .forEach(document -> scoredDocuments.put(document, getScore(keywords, document, relevantDocuments)));
-        System.out.println("Scored documents based on bm25 score");
 
         return (ArrayList<Similarity>) scoredDocuments.entrySet().stream()
             .map(entry -> new Similarity(entry.getKey(), entry.getValue()))
@@ -35,18 +33,17 @@ public class BM25 extends Models {
     }
 
     private Set<String> getRelevantDocuments(List<String> keywords) {
-        double threshold = keywords.parallelStream()
+        double threshold = keywords.stream()
             .mapToDouble(this::getAverageTfIdfForCollection)
             .average()
             .orElse(1); // highest threshold if no keywords
-        System.out.println("Computed Threshold for relevance");
-        return getDocumentList().parallelStream()
+        return getDocumentList().stream()
             .filter(document -> getAverageTfIdfForTerms(keywords, document) > threshold)
             .collect(Collectors.toSet());
     }
 
     private double getAverageTfIdfForTerms(List<String> keywords, String document) {
-        return keywords.parallelStream()
+        return keywords.stream()
             .mapToDouble(term -> TfIdf.tfidf(term, document))
             .average()
             .orElse(0);
@@ -66,8 +63,7 @@ public class BM25 extends Models {
     }
 
     private double getScore(List<String> keywords, String filename, Set<String> relevantDocuments) {
-        System.out.println("Scoring file " + filename);
-        return keywords.parallelStream()
+        return keywords.stream()
             .mapToDouble(word -> getScore(word, filename, relevantDocuments, keywords))
             .sum();
     }
@@ -126,7 +122,7 @@ public class BM25 extends Models {
     }
 
     private double getNumberOfDocumentsContainingTerm(String term, Set<String> documents) {
-        return get_doc_indicies().get(term).getFileOccurrences().parallelStream()
+        return get_doc_indicies().get(term).getFileOccurrences().stream()
             .map(FileOccurrence::getFilename)
             .filter(documents::contains)
             .count();

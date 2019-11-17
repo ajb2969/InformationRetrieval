@@ -37,7 +37,7 @@ abstract public class Models {
         File index = new File(fileTermSizePath);
 
         try {
-            Files.readLines(index, Charset.defaultCharset()).parallelStream().forEach(entry -> {
+            Files.readLines(index, Charset.defaultCharset()).stream().forEach(entry -> {
                 fileSize.put(entry.split("\t")[0], Integer.parseInt(entry.split(
                         "\t")[1]));
             });
