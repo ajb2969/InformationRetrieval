@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
+import java.util.stream.Collectors;
 
 public class TfIdf extends Models {
     public TfIdf() {
@@ -45,7 +46,6 @@ public class TfIdf extends Models {
 
     @Override
     public ArrayList<String> retrieve(String query) {
-        System.out.println("Executed TfIdf");
         HashMap<String, Entry> index = super.get_doc_indicies();
         ArrayList<String> documents = super.getDocumentList();
         String[] query_elements = super.extractTerms(query);
@@ -78,12 +78,7 @@ public class TfIdf extends Models {
         }
         Collections.sort(docSimilarities, Collections.reverseOrder());
 
-
-        // return first 10 documents
-        // map term -> document, term freq, inverse doc freq.
-
-
-        return null;
+        return (ArrayList<String>) docSimilarities.stream().limit(15).map(Similarity::getDocument_name).collect(Collectors.toList());
     }
 
     private double cosineSimilarity(int[] vectorSpace, int[] vector_query) {
