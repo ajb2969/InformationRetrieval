@@ -72,7 +72,7 @@ public class QueryController {
             //TODO add query expansion here
             ArrayList<Similarity> documents =
                     m.retrieve(query.getContent());
-            for (Similarity sim : documents) {
+            for ( Similarity sim : documents) {
                 sim.setPreview(getLongestIncreasingSequence(sim.getDocument_name(), query.getContent()));
             }
             //if the first document isn't relevant or similar send back no

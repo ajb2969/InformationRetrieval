@@ -26,14 +26,14 @@ public class TfIdf extends Models {
                 .orElse(new FileOccurrence("", 0))
                 .getOccurrences();
 
-        return (double)occurences/ totalTerms;
+        return (double) occurences / totalTerms;
     }
 
     private static double inverseDocumentFrequency(String term,
                                                    String document) {
         int totalDocuments = fileTermSize.keySet().size();
         int documentsWithTerm = docIndicies.get(term).getSize();
-        return Math.log((double)totalDocuments/documentsWithTerm);
+        return Math.log((double) totalDocuments / documentsWithTerm);
     }
 
     public static double tfidf(String term, String document) {
