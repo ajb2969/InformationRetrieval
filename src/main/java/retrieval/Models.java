@@ -10,18 +10,22 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
+import java.util.stream.Collectors;
 
 abstract public class Models {
     private static final String indicies_path = Index.output_dir;
     private static final String fileTermSizePath = Index.docSize;
     private HashMap<String, Entry> documents;
     private HashMap<String, Integer> fileTermSize;
+    private Map<String, Map<String, Integer>> termToFileAndOccurrence;
 
     Models() {
         try {
             this.documents = parse_doc_indicies();
             this.fileTermSize = parseDocSize();
+            this.termToFileAndOccurrence = createIndexMap();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -88,12 +92,30 @@ abstract public class Models {
         return terms;
     }
 
+    private Map<String, Map<String, Integer>> createIndexMap() {
+        return this.documents.entrySet().stream()
+            .collect(Collectors.toMap(
+                Map.Entry::getKey,
+                entry -> convertToMap(entry.getValue())));
+    }
+
+    private Map<String, Integer> convertToMap(Entry indexEntry) {
+        return indexEntry.fileOccurrences.stream()
+            .collect(Collectors.toMap(
+                FileOccurrence::getFilename,
+                FileOccurrence::getOccurrences));
+    }
+
     public HashMap<String, Integer> getFileTermSize() {
         return fileTermSize;
     }
 
     public void setFileTermSize(HashMap<String, Integer> fileTermSize) {
         this.fileTermSize = fileTermSize;
+    }
+
+    public int getOccurrencesInFile(String term, String filename) {
+        return this.termToFileAndOccurrence.getOrDefault(term, new HashMap<>()).getOrDefault(filename, 0);
     }
 
     class Entry {
