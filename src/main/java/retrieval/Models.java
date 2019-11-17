@@ -56,7 +56,7 @@ abstract public class Models {
         return documents;
     }
 
-    HashMap<String, Entry> get_doc_indicies() {
+    public static HashMap<String, Entry> get_doc_indicies() {
         return documents;
     }
 
