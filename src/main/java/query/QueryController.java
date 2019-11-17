@@ -15,6 +15,7 @@ import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 import org.thymeleaf.templateresolver.ITemplateResolver;
 import retrieval.BM25;
 import retrieval.Models;
+import retrieval.Similarity;
 import retrieval.TfIdf;
 
 import java.io.File;
@@ -69,9 +70,9 @@ public class QueryController {
                     query.getSelectedModel().toLowerCase().equals("tfidf") ?
                             new TfIdf() : new BM25();
             //TODO add query expansion here
-            ArrayList<TfIdf.Similarity> documents =
+            ArrayList<Similarity> documents =
                     m.retrieve(query.getContent());
-            for (TfIdf.Similarity sim : documents) {
+            for (Similarity sim : documents) {
                 sim.setPreview(getLongestIncreasingSequence(sim.getDocument_name(), query.getContent()));
             }
             //if the first document isn't relevant or similar send back no
