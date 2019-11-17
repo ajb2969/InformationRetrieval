@@ -17,18 +17,20 @@ import retrieval.BM25;
 import retrieval.Models;
 import retrieval.TfIdf;
 
+import javax.print.DocFlavor;
 import java.io.File;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Set;
 import java.util.stream.Collectors;
 
 
 @Controller
 public class QueryController {
-
+    private final String documentsPath = "documents/";
     @GetMapping("/")
     public String welcome(Model model) {
         model.addAttribute("query", new query.Querycontainer());
@@ -60,11 +62,18 @@ public class QueryController {
             Models m =
                     query.getSelectedModel().toLowerCase().equals("tfidf") ?
                             new TfIdf() : new BM25();
-            ArrayList<TfIdf.Similarity> documents = m.retrieve(query.getContent());
-            for(TfIdf.Similarity sim: documents) {
+            //TODO add query expansion here
+            ArrayList<TfIdf.Similarity> documents =
+                    m.retrieve(query.getContent());
+            for (TfIdf.Similarity sim : documents) {
                 sim.setPreview(getLongestIncreasingSequence(sim.getDocument_name(), query.getContent()));
             }
-            model.addAttribute("results", documents);
+            //if the first document isn't relevant or similar send back no results available
+            if(documents.get(0).getSimilarity() == 1) {
+                model.addAttribute("results", new ArrayList<>());
+            } else {
+                model.addAttribute("results", documents);
+            }
         } else {
             return "index";
         }
@@ -75,13 +84,21 @@ public class QueryController {
     @ResponseBody
     public FileSystemResource getDocument(@RequestParam(required = true) String doc,
                                           Model model) {
-        return new FileSystemResource(new File("documents/" + doc));
+        return new FileSystemResource(new File(documentsPath + doc));
     }
 
     private String getLongestIncreasingSequence(String docName, String query) {
         try {
-            String file = new String(Files.readAllBytes(Paths.get("documents/" + docName)));
+            String file = new String(Files.readAllBytes(Paths.get(documentsPath + docName)));
             file = file.replaceAll("<[^>]*>", "");
+            ArrayList<String> tokens = (ArrayList<String>) Arrays.stream(file.split(" "))
+                    .filter(token -> !token.isEmpty() || !token.equals(""))
+                    .map(token -> token.replaceAll("[.,!?:\\[\\]]", ""))
+                    .map(String::toLowerCase)
+                    .collect(Collectors.toList());
+
+
+
 
         } catch (IOException e) {
             e.printStackTrace();
@@ -90,7 +107,6 @@ public class QueryController {
     }
 
 }
-
 
 
 @Configuration
@@ -104,7 +120,8 @@ class ThymeleafConfig {
     }
 
     private ITemplateResolver textTemplateResolver() {
-        ClassLoaderTemplateResolver templateResolver = new ClassLoaderTemplateResolver();
+        ClassLoaderTemplateResolver templateResolver =
+                new ClassLoaderTemplateResolver();
         templateResolver.setPrefix("/documents/");
         templateResolver.setSuffix(".txt");
         templateResolver.setTemplateMode(TemplateMode.TEXT);

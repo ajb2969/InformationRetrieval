@@ -21,6 +21,10 @@ public class TfIdf extends Models {
         return 0.0;
     }
 
+    public double tfidf(String term, Entry index) {
+        return termFrequency(term, index) * inverseDocumentFrequency(term, index);
+    }
+
     private int[][] documentVectorizor(HashMap<String, Entry> index,
                                        String document, int[][] vectorSpace,
                                        int i, int j) {
@@ -76,7 +80,7 @@ public class TfIdf extends Models {
         for (i = 0; i < vectorSpace.length; i++) {
             docSimilarities.add(new Similarity(documents.get(i), cosineSimilarity(vectorSpace[i], vector_query)));
         }
-        Collections.sort(docSimilarities, Collections.reverseOrder());
+        Collections.sort(docSimilarities);
 
         return (ArrayList<Similarity>) docSimilarities.stream().limit(15).collect(Collectors.toList());
     }
