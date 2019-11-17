@@ -16,7 +16,7 @@ public class BM25 extends Models {
     }
 
     @Override
-    public ArrayList<TfIdf.Similarity> retrieve(String query) {
+    public ArrayList<Similarity> retrieve(String query) {
         ArrayList<String> keywords = Lists.newArrayList(super.extractTerms(query));
         Set<String> relevantDocuments = getRelevantDocuments(keywords);
         ArrayList<String> documentCollection = getDocumentList();
@@ -25,14 +25,17 @@ public class BM25 extends Models {
         documentCollection.parallelStream()
             .forEach(document -> scoredDocuments.put(document, getScore(keywords, document, relevantDocuments)));
 
-        System.out.println("Executed BM25");
-        return null;
+
+        return (ArrayList<Similarity>) scoredDocuments.entrySet().stream()
+            .map(entry -> new Similarity(entry.getKey(), entry.getValue()))
+            .limit(15)
+            .sorted(Comparator.reverseOrder())
+            .collect(Collectors.toList());
     }
 
     private Set<String> getRelevantDocuments(List<String> keywords) {
-        TfIdf tfidfModel = new TfIdf();
         double threshold = keywords.parallelStream()
-            .mapToDouble(term -> getAverageTfIdf(term, tfidfModel))
+            .mapToDouble(this::getAverageTfIdfForCollection)
             .average()
             .orElse(1); // highest threshold if no keywords
 
@@ -43,30 +46,28 @@ public class BM25 extends Models {
 
     private double getAverageTfIdfForTerms(List<String> keywords, String document) {
         return keywords.parallelStream()
-            .mapToDouble(term -> getTfIdf(term, document))
+            .mapToDouble(term -> TfIdf.tfidf(term, document))
             .average()
             .orElse(0);
     }
 
-    private double getTfIdf(String term, String document) {
-        return 0.0;
-    }
-
-    private double getAverageTfIdf(String term, TfIdf tfIdfModel) {
+    private double getAverageTfIdfForCollection(String term) {
         if (!get_doc_indicies().containsKey(term)) {
             return 0; // if term isnt in collection, term frequency = 0
         }
-        Entry filesContainingTerm = get_doc_indicies().get(term);
-        double tfidf = tfIdfModel.tfidf(term, filesContainingTerm);
+        double tfidfSum = get_doc_indicies().get(term).getFileOccurrences().stream()
+            .map(FileOccurrence::getFilename)
+            .mapToDouble(document -> TfIdf.tfidf(term, document))
+            .sum();
+
         double numberOfDocuments = getNumberOfDocuments();
-        return tfidf / numberOfDocuments;
+        return tfidfSum / numberOfDocuments;
     }
 
     private double getScore(List<String> keywords, String filename, Set<String> relevantDocuments) {
-        double sum = keywords.parallelStream()
+        return keywords.parallelStream()
             .mapToDouble(word -> getScore(word, filename, relevantDocuments, keywords))
             .sum();
-        return sum;
     }
 
     private double getScore(String term, String filename, Set<String> relevantDocuments, List<String> keywords) {
@@ -109,9 +110,9 @@ public class BM25 extends Models {
 
     private double averageDocLength() {
         return getFileTermSize().values().stream()
-            .mapToInt(Integer::intValue)
+            .mapToDouble(Integer::doubleValue)
             .average()
-            .getAsDouble();
+            .orElse(0);
     }
 
     private double getNumberOfDocuments() {
