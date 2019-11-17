@@ -1,10 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
-    <meta charset="UTF-8">
-    <title>Results</title>
-</head>
-<body>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
 
+    <title>Results</title>
+
+    <link rel="canonical" href="https://getbootstrap.com/docs/4.0/examples/cover/">
+
+    <!-- Bootstrap core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="../css/cover.css" rel="stylesheet">
+</head>
+<body class="align-content-center text-left" style="background-color: floralwhite; margin-left: 25px; margin-right: 25px; margin-top: 10px; ">
+    <table class="table">
+        <thead>
+        <tr>
+            <th class="col"> <h2>Documents</h2> </th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr th:if="${results.isEmpty()}">
+            <td style="align-content: left;" colspan="2"> No Results Available </td>
+        </tr>
+        <tr th:each="result,iter : ${results}">
+            <td><a style="color: black" th:href="@{/document/(doc=${result})}"><span th:text="${result}"> Episode </span></a></td>
+        </tr>
+        </tbody>
+    </table>
 </body>
 </html>
