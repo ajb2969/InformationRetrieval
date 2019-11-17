@@ -13,8 +13,8 @@ import java.util.HashMap;
 import java.util.Objects;
 
 abstract public class Models {
-    private static final String indicies_path = Index.output_dir;
-    private static final String fileTermSizePath = Index.docSize;
+    static final String indicies_path = Index.output_dir;
+    static final String fileTermSizePath = Index.docSize;
     private HashMap<String, Entry> documents;
     private HashMap<String, Integer> fileTermSize;
 
@@ -25,6 +25,14 @@ abstract public class Models {
         } catch (IOException e) {
             e.printStackTrace();
         }
+    }
+
+    String getIndicies_path() {
+        return indicies_path;
+    }
+
+    String getFileTermSizePath() {
+        return fileTermSizePath;
     }
 
     private HashMap<String, Integer> parseDocSize() throws IOException {
@@ -51,7 +59,7 @@ abstract public class Models {
         return documents;
     }
 
-    public abstract ArrayList<TfIdf.Similarity> retrieve(String query);
+    public abstract ArrayList<Similarity> retrieve(String query);
 
     String[] extractTerms(String query) {
         return query.toLowerCase().split("\\s+");

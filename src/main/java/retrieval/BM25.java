@@ -9,7 +9,7 @@ public class BM25 extends Models {
     }
 
     @Override
-    public ArrayList<TfIdf.Similarity> retrieve(String query) {
+    public ArrayList<Similarity> retrieve(String query) {
         System.out.println("Executed BM25");
         HashMap<String, Entry> index = super.get_doc_indicies();
         String[] keywords = super.extractTerms(query);
