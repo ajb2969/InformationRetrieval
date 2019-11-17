@@ -18,16 +18,10 @@ abstract public class Models {
     static final String indicies_path = Index.output_dir;
     static final String fileTermSizePath = Index.docSize;
     static final HashMap<String, Integer> fileTermSize = parseDocSize();
-    private HashMap<String, Entry> documents;
-    private Map<String, Map<String, Integer>> termToFileAndOccurrence;
+    static final HashMap<String, Entry> documents = parse_doc_indicies();
+    static final Map<String, Map<String, Integer>> termToFileAndOccurrence = createIndexMap();
 
     Models() {
-        try {
-            this.documents = parse_doc_indicies();
-            this.termToFileAndOccurrence = createIndexMap();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
     }
 
     String getIndicies_path() {
@@ -73,43 +67,48 @@ abstract public class Models {
     }
 
 
-    private HashMap<String, Entry> parse_doc_indicies() throws IOException {
-        HashMap<String, Entry> terms = new HashMap<>();
-        File index = new File(indicies_path);
-        BufferedReader br = new BufferedReader(new FileReader(index));
-        String line;
+    private static HashMap<String, Entry> parse_doc_indicies() {
+        try {
+            HashMap<String, Entry> terms = new HashMap<>();
+            File index = new File(indicies_path);
+            BufferedReader br = new BufferedReader(new FileReader(index));
+            String line;
 
-        while ((line = br.readLine()) != null) {
-            String[] parsed_line = line.split("\t");
-            String term = parsed_line[0];
-            int quantity = Integer.parseInt(parsed_line[1]);
-            ArrayList<FileOccurrence> documents = new ArrayList<>();
-            for (int i = 2; i < parsed_line.length; i++) {
-                String[] fileAndOccurrence = parsed_line[i].split(":");
-                if (fileAndOccurrence.length == 3) {
-                    documents.add(new FileOccurrence(fileAndOccurrence[0] +
+            while ((line = br.readLine()) != null) {
+                String[] parsed_line = line.split("\t");
+                String term = parsed_line[0];
+                int quantity = Integer.parseInt(parsed_line[1]);
+                ArrayList<FileOccurrence> documents = new ArrayList<>();
+                for (int i = 2; i < parsed_line.length; i++) {
+                    String[] fileAndOccurrence = parsed_line[i].split(":");
+                    if (fileAndOccurrence.length == 3) {
+                        documents.add(new FileOccurrence(fileAndOccurrence[0] +
                             ":" + fileAndOccurrence[1],
                             Integer.valueOf(fileAndOccurrence[2])));
-                } else {
-                    documents.add(new FileOccurrence(fileAndOccurrence[0],
+                    } else {
+                        documents.add(new FileOccurrence(fileAndOccurrence[0],
                             Integer.valueOf(fileAndOccurrence[1])));
+                    }
                 }
+                terms.put(term, new Entry(quantity, documents));
             }
-            terms.put(term, new Entry(quantity, documents));
-        }
 
-        return terms;
+            return terms;
+        } catch (IOException e) {
+            e.printStackTrace();
+            throw new RuntimeException();
+        }
     }
 
-    private Map<String, Map<String, Integer>> createIndexMap() {
-        return this.documents.entrySet().stream()
+    private static Map<String, Map<String, Integer>> createIndexMap() {
+        return documents.entrySet().stream()
             .collect(Collectors.toMap(
                 Map.Entry::getKey,
                 entry -> convertToMap(entry.getValue())));
     }
 
-    private Map<String, Integer> convertToMap(Entry indexEntry) {
-        return indexEntry.fileOccurrences.stream()
+    private static Map<String, Integer> convertToMap(Entry indexEntry) {
+        return indexEntry.getFileOccurrences().stream()
             .collect(Collectors.toMap(
                 FileOccurrence::getFilename,
                 FileOccurrence::getOccurrences));
@@ -120,10 +119,10 @@ abstract public class Models {
     }
 
     public int getOccurrencesInFile(String term, String filename) {
-        return this.termToFileAndOccurrence.getOrDefault(term, new HashMap<>()).getOrDefault(filename, 0);
+        return termToFileAndOccurrence.getOrDefault(term, new HashMap<>()).getOrDefault(filename, 0);
     }
 
-    class Entry {
+    static class Entry {
         private int size;
         private ArrayList<FileOccurrence> fileOccurrences;
 

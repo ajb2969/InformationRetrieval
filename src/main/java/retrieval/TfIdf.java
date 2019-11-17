@@ -7,18 +7,16 @@ import java.util.HashMap;
 import java.util.stream.Collectors;
 
 public class TfIdf extends Models {
-    private static HashMap<String, Entry> docIndicies;
 
     public TfIdf() {
         super();
-        docIndicies = super.get_doc_indicies();
     }
 
     private static double termFrequency(String term,
                                         String document) {
 
-        int totalTerms = Models.getFileTermSize().get(document);
-        int occurences = docIndicies.get(term).getFileOccurrences().stream()
+        int totalTerms = fileTermSize.get(document);
+        int occurences = documents.get(term).getFileOccurrences().stream()
                 .filter(e -> e.getFilename().equals(document))
                 .findFirst()
                 .orElse(new FileOccurrence("", 0))
@@ -30,7 +28,7 @@ public class TfIdf extends Models {
     private static double inverseDocumentFrequency(String term,
                                                    String document) {
         int totalDocuments = fileTermSize.keySet().size();
-        int documentsWithTerm = docIndicies.get(term).getSize();
+        int documentsWithTerm = documents.get(term).getSize();
         return Math.log((double) totalDocuments / documentsWithTerm);
     }
 

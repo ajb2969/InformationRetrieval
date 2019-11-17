@@ -19,12 +19,13 @@ public class BM25 extends Models {
     public ArrayList<Similarity> retrieve(String query) {
         ArrayList<String> keywords = Lists.newArrayList(super.extractTerms(query));
         Set<String> relevantDocuments = getRelevantDocuments(keywords);
+        System.out.println("Got relevant documents for query");
         ArrayList<String> documentCollection = getDocumentList();
 
         Map<String, Double> scoredDocuments = Maps.newHashMap();
         documentCollection.parallelStream()
             .forEach(document -> scoredDocuments.put(document, getScore(keywords, document, relevantDocuments)));
-
+        System.out.println("Scored documents based on bm25 score");
 
         return (ArrayList<Similarity>) scoredDocuments.entrySet().stream()
             .map(entry -> new Similarity(entry.getKey(), entry.getValue()))
@@ -38,7 +39,7 @@ public class BM25 extends Models {
             .mapToDouble(this::getAverageTfIdfForCollection)
             .average()
             .orElse(1); // highest threshold if no keywords
-
+        System.out.println("Computed Threshold for relevance");
         return getDocumentList().parallelStream()
             .filter(document -> getAverageTfIdfForTerms(keywords, document) > threshold)
             .collect(Collectors.toSet());
@@ -65,6 +66,7 @@ public class BM25 extends Models {
     }
 
     private double getScore(List<String> keywords, String filename, Set<String> relevantDocuments) {
+        System.out.println("Scoring file " + filename);
         return keywords.parallelStream()
             .mapToDouble(word -> getScore(word, filename, relevantDocuments, keywords))
             .sum();
