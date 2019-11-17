@@ -114,7 +114,7 @@ abstract public class Models {
                 FileOccurrence::getOccurrences));
     }
 
-    public HashMap<String, Integer> getFileTermSize() {
+    public static HashMap<String, Integer> getFileTermSize() {
         return fileTermSize;
     }
 
