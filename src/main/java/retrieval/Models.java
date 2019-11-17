@@ -10,18 +10,21 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Map;
 import java.util.Objects;
+import java.util.stream.Collectors;
 
 abstract public class Models {
     static final String indicies_path = Index.output_dir;
     static final String fileTermSizePath = Index.docSize;
+    static final HashMap<String, Integer> fileTermSize = parseDocSize();
     private HashMap<String, Entry> documents;
-    private HashMap<String, Integer> fileTermSize;
+    private Map<String, Map<String, Integer>> termToFileAndOccurrence;
 
     Models() {
         try {
             this.documents = parse_doc_indicies();
-            this.fileTermSize = parseDocSize();
+            this.termToFileAndOccurrence = createIndexMap();
         } catch (IOException e) {
             e.printStackTrace();
         }
@@ -35,14 +38,18 @@ abstract public class Models {
         return fileTermSizePath;
     }
 
-    private HashMap<String, Integer> parseDocSize() throws IOException {
+    private static HashMap<String, Integer> parseDocSize() {
         HashMap<String, Integer> fileSize = new HashMap<>();
         File index = new File(fileTermSizePath);
 
-        Files.readLines(index, Charset.defaultCharset()).parallelStream().forEach(entry -> {
-            fileSize.put(entry.split("\t")[0], Integer.parseInt(entry.split(
-                    "\t")[1]));
-        });
+        try {
+            Files.readLines(index, Charset.defaultCharset()).parallelStream().forEach(entry -> {
+                fileSize.put(entry.split("\t")[0], Integer.parseInt(entry.split(
+                        "\t")[1]));
+            });
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
         return fileSize;
     }
 
@@ -94,12 +101,26 @@ abstract public class Models {
         return terms;
     }
 
+    private Map<String, Map<String, Integer>> createIndexMap() {
+        return this.documents.entrySet().stream()
+            .collect(Collectors.toMap(
+                Map.Entry::getKey,
+                entry -> convertToMap(entry.getValue())));
+    }
+
+    private Map<String, Integer> convertToMap(Entry indexEntry) {
+        return indexEntry.fileOccurrences.stream()
+            .collect(Collectors.toMap(
+                FileOccurrence::getFilename,
+                FileOccurrence::getOccurrences));
+    }
+
     public HashMap<String, Integer> getFileTermSize() {
         return fileTermSize;
     }
 
-    public void setFileTermSize(HashMap<String, Integer> fileTermSize) {
-        this.fileTermSize = fileTermSize;
+    public int getOccurrencesInFile(String term, String filename) {
+        return this.termToFileAndOccurrence.getOrDefault(term, new HashMap<>()).getOrDefault(filename, 0);
     }
 
     class Entry {
