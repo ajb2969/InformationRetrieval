@@ -28,7 +28,10 @@
             <td style="align-content: left;" colspan="2"> No Results Available </td>
         </tr>
         <tr th:each="result,iter : ${results}">
-            <td><a style="color: black" th:href="@{/document/(doc=${result})}"><span th:text="${result}"> Episode </span></a></td>
+            <td>
+                <a style="color: black" th:href="@{/document/(doc=${result.getDocument_name()})}"><span th:text="${result.getDocument_name()}"> Episode </span></a>
+                <p th:text="${result.getPreview()}"></p>
+            </td>
         </tr>
         </tbody>
     </table>

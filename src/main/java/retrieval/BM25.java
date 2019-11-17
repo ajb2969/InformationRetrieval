@@ -16,7 +16,7 @@ public class BM25 extends Models {
     }
 
     @Override
-    public ArrayList<String> retrieve(String query) {
+    public ArrayList<TfIdf.Similarity> retrieve(String query) {
         System.out.println("Executed BM25");
         ArrayList<String> keywords = Lists.newArrayList(super.extractTerms(query));
         return null;
