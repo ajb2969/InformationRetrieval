@@ -45,7 +45,7 @@ public class TfIdf extends Models {
     }
 
     @Override
-    public ArrayList<String> retrieve(String query) {
+    public ArrayList<Similarity> retrieve(String query) {
         HashMap<String, Entry> index = super.get_doc_indicies();
         ArrayList<String> documents = super.getDocumentList();
         String[] query_elements = super.extractTerms(query);
@@ -78,7 +78,7 @@ public class TfIdf extends Models {
         }
         Collections.sort(docSimilarities, Collections.reverseOrder());
 
-        return (ArrayList<String>) docSimilarities.stream().limit(15).map(Similarity::getDocument_name).collect(Collectors.toList());
+        return (ArrayList<Similarity>) docSimilarities.stream().limit(15).collect(Collectors.toList());
     }
 
     private double cosineSimilarity(int[] vectorSpace, int[] vector_query) {
@@ -101,13 +101,15 @@ public class TfIdf extends Models {
     }
 
 
-    class Similarity implements Comparable<Similarity> {
+    public class Similarity implements Comparable<Similarity> {
         private String document_name;
+        private String preview;
         private double similarity;
 
         Similarity(String document, double similarity) {
             this.document_name = document;
             this.similarity = similarity;
+            this.preview = "";
         }
 
         public String getDocument_name() {
@@ -121,6 +123,14 @@ public class TfIdf extends Models {
         @Override
         public int compareTo(Similarity o) {
             return Double.compare(this.getSimilarity(), o.getSimilarity());
+        }
+
+        public String getPreview() {
+            return preview;
+        }
+
+        public void setPreview(String preview) {
+            this.preview = preview;
         }
     }
 }

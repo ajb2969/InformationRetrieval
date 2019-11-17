@@ -18,8 +18,12 @@ import retrieval.Models;
 import retrieval.TfIdf;
 
 import java.io.File;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Set;
+import java.util.stream.Collectors;
 
 
 @Controller
@@ -56,7 +60,10 @@ public class QueryController {
             Models m =
                     query.getSelectedModel().toLowerCase().equals("tfidf") ?
                             new TfIdf() : new BM25();
-            ArrayList<String> documents = m.retrieve(query.getContent());
+            ArrayList<TfIdf.Similarity> documents = m.retrieve(query.getContent());
+            for(TfIdf.Similarity sim: documents) {
+                sim.setPreview(getLongestIncreasingSequence(sim.getDocument_name(), query.getContent()));
+            }
             model.addAttribute("results", documents);
         } else {
             return "index";
@@ -69,6 +76,17 @@ public class QueryController {
     public FileSystemResource getDocument(@RequestParam(required = true) String doc,
                                           Model model) {
         return new FileSystemResource(new File("documents/" + doc));
+    }
+
+    private String getLongestIncreasingSequence(String docName, String query) {
+        try {
+            String file = new String(Files.readAllBytes(Paths.get("documents/" + docName)));
+            file = file.replaceAll("<[^>]*>", "");
+
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return "Document Preview";
     }
 
 }

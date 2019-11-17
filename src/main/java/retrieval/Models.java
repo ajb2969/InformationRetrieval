@@ -51,7 +51,7 @@ abstract public class Models {
         return documents;
     }
 
-    public abstract ArrayList<String> retrieve(String query);
+    public abstract ArrayList<TfIdf.Similarity> retrieve(String query);
 
     String[] extractTerms(String query) {
         return query.toLowerCase().split("\\s+");
