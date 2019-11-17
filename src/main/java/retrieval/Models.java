@@ -63,8 +63,6 @@ abstract public class Models {
 
 
     private HashMap<String, Entry> parse_doc_indicies() throws IOException {
-        //TODO update for parsing document-level TSV, will need to be
-        // over-written for other indicies (i.e. window)
         HashMap<String, Entry> terms = new HashMap<>();
         File index = new File(indicies_path);
         BufferedReader br = new BufferedReader(new FileReader(index));
