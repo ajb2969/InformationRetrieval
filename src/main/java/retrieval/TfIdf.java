@@ -17,7 +17,7 @@ public class TfIdf extends Models {
     private static double termFrequency(String term,
                                         String document) {
 
-        int totalTerms = fileTermSize.get(document);
+        int totalTerms = Models.getFileTermSize().get(document);
         int occurences = docIndicies.get(term).getFileOccurrences().stream()
                 .filter(e -> e.getFilename().equals(document))
                 .findFirst()
@@ -63,7 +63,6 @@ public class TfIdf extends Models {
         int i = 0;
         //go through each document
         for (String document : documents) {
-            System.out.println("Processing document: " + document);
             int j = 0;
             //go through every element in the index, columns
             vectorSpace = documentVectorizor(index, document, vectorSpace, i,
