@@ -11,9 +11,9 @@ import java.util.Map.Entry;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class Index {
-    private static String docs_file_path = "documents/";
+    public static String docs_file_path = "documents/";
     public static String output_dir = "indicies/doc-index.tsv";
-    private static String docSize = "indicies/doc-size-index.tsv";
+    public static String docSize = "indicies/doc-size-index.tsv";
 
     private static void document_level() {
         // Map of Filename -> <word, occurrences in file>
