@@ -8,12 +8,10 @@ import java.util.stream.Collectors;
 
 public class TfIdf extends Models {
     private static HashMap<String, Entry> docIndicies;
-    private static HashMap<String, Integer> fileTermSize;
 
     public TfIdf() {
         super();
         docIndicies = super.get_doc_indicies();
-        fileTermSize = super.getFileTermSize();
     }
 
     private static double termFrequency(String term,
