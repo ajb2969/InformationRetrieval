@@ -73,7 +73,7 @@ public class QueryController {
             ArrayList<Similarity> documents =
                     m.retrieve(query.getContent());
             for ( Similarity sim : documents) {
-                sim.setPreview(getLongestIncreasingSequence(sim.getDocument_name(), query.getContent()));
+                sim.setPreview(getLongestIncreasingSequence(sim.getDocumentLink(), query.getContent()));
             }
             //if the first document isn't relevant or similar send back no
             // results available

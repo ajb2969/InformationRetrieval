@@ -35,7 +35,7 @@
         </tr>
         <tr th:each="result,iter : ${results}">
             <td>
-                <h5><a style="color: dodgerblue" target="_blank" th:href="@{/document/(doc=${result.getDocument_name()})}"><span th:text="${result.getDocument_name()}"> Episode </span></a></h5>
+                <h5><a style="color: dodgerblue" target="_blank" th:href="@{/document/(doc=${result.getDocumentLink()})}"><span th:text="${result.getDocument_name()}"> Episode </span></a></h5>
                 <p style="margin-left: 5px" th:text="${result.getPreview()}"></p>
             </td>
         </tr>

@@ -12,6 +12,10 @@ public class Similarity implements Comparable<Similarity> {
     }
 
     public String getDocument_name() {
+        return document_name.replace(".txt", "");
+    }
+
+    public String getDocumentLink() {
         return document_name;
     }
 
