@@ -16,6 +16,9 @@ public class TfIdf extends Models {
                                         String document) {
         int totalTerms = fileTermSize.get(document);
         int occurences = documents.get(term).getFileOccurrences().stream()
+
+        int totalTerms = getFileTermSize().get(document);
+        int occurences = get_doc_indicies().get(term).getFileOccurrences().stream()
                 .filter(e -> e.getFilename().equals(document))
                 .findFirst()
                 .orElse(new FileOccurrence("", 0))
