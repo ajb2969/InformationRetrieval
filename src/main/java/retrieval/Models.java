@@ -60,6 +60,10 @@ abstract public class Models {
         return documents;
     }
 
+    public static boolean occursInDocuments(String term) {
+        return get_doc_indicies().containsKey(term);
+    }
+
     public abstract ArrayList<Similarity> retrieve(String query);
 
     String[] extractTerms(String query) {
