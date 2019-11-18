@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class BM25 extends Models {
-    private static final double K1 = 1.2;
+    private static final double K1 = .8;
     private static final double K2 = 500; // typical values range from 0 to 1000
     private static final double B = 0.75; // normalizes the tf componenet of the doc frequencies
 
@@ -27,8 +27,8 @@ public class BM25 extends Models {
 
         return (ArrayList<Similarity>) scoredDocuments.entrySet().stream()
             .map(entry -> new Similarity(entry.getKey(), entry.getValue()))
-            .limit(15)
             .sorted(Comparator.reverseOrder())
+            .limit(15)
             .collect(Collectors.toList());
     }
 
@@ -118,11 +118,11 @@ public class BM25 extends Models {
     }
 
     private double getNumberOfDocuments(String term) {
-        return get_doc_indicies().get(term).getSize();
+        return occursInDocuments(term) ? get_doc_indicies().get(term).getSize() : 0;
     }
 
     private double getNumberOfDocumentsContainingTerm(String term, Set<String> documents) {
-        return get_doc_indicies().get(term).getFileOccurrences().stream()
+        return !occursInDocuments(term) ? 0 : get_doc_indicies().get(term).getFileOccurrences().stream()
             .map(FileOccurrence::getFilename)
             .filter(documents::contains)
             .count();
