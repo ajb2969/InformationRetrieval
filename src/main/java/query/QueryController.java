@@ -63,7 +63,7 @@ public class QueryController {
     public String querySubmit(@ModelAttribute("query") Querycontainer query,
                               Model model) {
         if (query != null) {
-            if(temp.exists()) {
+            if (temp.exists()) {
                 temp.delete();
             }
             Models m =
@@ -72,7 +72,7 @@ public class QueryController {
             //TODO add query expansion here
             ArrayList<Similarity> documents =
                     m.retrieve(query.getContent());
-            for ( Similarity sim : documents) {
+            for (Similarity sim : documents) {
                 sim.setPreview(getLongestIncreasingSequence(sim.getDocumentLink(), query.getContent()));
             }
             //if the first document isn't relevant or similar send back no
@@ -116,43 +116,44 @@ public class QueryController {
             file = file.replaceAll("<[^>]*>", "");
             // get file tokens
             ArrayList<String> tokens =
-                    (ArrayList<String>) Arrays.stream(file.split(" ")).collect(Collectors.toList());
+                    (ArrayList<String>) Arrays.stream(file.split("[ \n]")).collect(Collectors.toList());
             // get query terms
             String[] terms = query.split(" ");
 
             int maxTerms = 0;
-            String[] bestWindow = new String[0];
+            int start = 0, end = 0;
             do {
                 //populate window
-                String[] window = IntStream.range(currStart,
-                        currStart + 20 < tokens.size() ?
+                int currMatching = 0;
+                ArrayList<String> window = (ArrayList<String>) IntStream.range(currStart,
+                        currStart + WINDOWSIZE < tokens.size() ?
                                 currStart + WINDOWSIZE :
-                                tokens.size() - currStart).mapToObj(tokens::get).map(String::toLowerCase).filter(token -> !token.isEmpty() || !token.equals(""))
-                        .map(token -> token.replaceAll("[.,!?:\\[\\]]", "")).collect(Collectors.toList()).toArray(new String[WINDOWSIZE]);
-                if (maxTerms == terms.length) {
-                    bestWindow = window;
-                    break;
-                } else {
-                    int contains = 0;
-                    for (String term : terms) {
-                        if (Arrays.asList(window).contains(term.toLowerCase())) {
-                            contains += 1;
+                                tokens.size() - currStart).mapToObj(tokens::get)
+                        .map(String::toLowerCase).filter(token -> !token.isEmpty())
+                        .map(token -> token.replaceAll("[.,!?:\\[\\]\n]", " "))
+                        .map(String::trim)
+                        .collect(Collectors.toList());
+
+
+                for(String token: window) {
+                    for(String term: terms) {
+                        if(token.toLowerCase().equals(term.toLowerCase())) {
+                            currMatching+=1;
                         }
                     }
-                    if (contains > maxTerms) {
-                        maxTerms = contains;
-                        bestWindow = window;
-                    }
-                    currStart += 1;
                 }
+                maxTerms = currMatching > maxTerms ? currMatching : maxTerms;
+                if(maxTerms == currMatching && maxTerms != 0) {
+                    start = currStart;
+                    end = currStart + WINDOWSIZE < tokens.size() ? currStart + WINDOWSIZE : tokens.size() - currStart;
+                }
+                currStart += 1;
             } while (currStart + WINDOWSIZE < tokens.size());
-            if (maxTerms == 0) {
+            if (maxTerms == 0 || true) {
                 return tokens.stream().limit(WINDOWSIZE).collect(Collectors.joining(" "));
             }
 
-            return Arrays.stream(bestWindow).map(Object::toString)
-                    .collect(Collectors.joining(" "));
-
+            //TODO figure out previews
         } catch (IOException e) {
             e.printStackTrace();
         }

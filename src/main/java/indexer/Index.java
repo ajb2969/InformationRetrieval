@@ -31,7 +31,7 @@ public class Index {
                 while ((line = br.readLine()) != null) {
                     //String [] split = line.split("[.\\[\\]!.:\"?,\s]");
 
-                    line = line.replaceAll("<[^>]*>", "");
+                    line = line.replaceAll("<[^>]*>", "").replaceAll("\\p{Punct}", "");
                     String[] split = line.split(" ");
                     Arrays.stream(split)
                             .filter(token -> !token.isEmpty() || !token.equals(""))

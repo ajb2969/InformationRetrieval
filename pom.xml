@@ -46,6 +46,15 @@
     </dependencies>
 
     <build>
+        <resources>
+            <resource>
+                <directory>indicies/</directory>
+            </resource>
+            <resource>
+                <directory>documents/</directory>
+            </resource>
+
+        </resources>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
