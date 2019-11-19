@@ -1,5 +1,6 @@
 package retrieval;
 
+import javax.jws.WebParam;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
@@ -24,7 +25,7 @@ public class TfIdf extends Models {
         return (double) occurrences / totalTerms;
     }
 
-    private static double inverseDocumentFrequency(String term) {
+    private static double inverseDocumentFrequency(String term ) {
         int totalDocuments = fileTermSize.keySet().size();
         int documentsWithTerm = documents.get(term).getSize();
         return Math.log((double) totalDocuments / documentsWithTerm);
@@ -83,7 +84,7 @@ public class TfIdf extends Models {
         }
         Collections.sort(docSimilarities);
 
-        return (ArrayList<Similarity>) docSimilarities.stream().limit(15).collect(Collectors.toList());
+        return (ArrayList<Similarity>) docSimilarities.stream().limit(Models.DOCUMENTSRETURNED).collect(Collectors.toList());
     }
 
     private double cosineSimilarity(double[] vectorSpace, int[] vector_query) {

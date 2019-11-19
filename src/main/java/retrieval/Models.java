@@ -19,6 +19,7 @@ abstract public class Models {
     static final String fileTermSizePath = Index.docSize;
     static final HashMap<String, Integer> fileTermSize = parseDocSize();
     static final HashMap<String, Entry> documents = parse_doc_indicies();
+    static final int DOCUMENTSRETURNED = 30;
     static final Map<String, Map<String, Integer>> termToFileAndOccurrence = createIndexMap();
 
     Models() {
