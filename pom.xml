@@ -53,6 +53,9 @@
             <resource>
                 <directory>documents/</directory>
             </resource>
+            <resource>
+                <directory>src/resources</directory>
+            </resource>
 
         </resources>
         <plugins>
