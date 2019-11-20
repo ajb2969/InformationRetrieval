@@ -3,9 +3,10 @@ package retrieval;
 public class Similarity implements Comparable<Similarity> {
     private String document_name;
     private String preview;
+    private int season;
     private double similarity;
 
-    Similarity(String document, double similarity) {
+    Similarity(String document, double similarity, int season) {
         this.document_name = document;
         this.similarity = similarity;
         this.preview = "";
@@ -34,5 +35,13 @@ public class Similarity implements Comparable<Similarity> {
 
     public void setPreview(String preview) {
         this.preview = preview;
+    }
+
+    public int getSeason() {
+        return season;
+    }
+
+    public void setSeason(int season) {
+        this.season = season;
     }
 }
