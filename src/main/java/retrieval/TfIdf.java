@@ -2,7 +2,6 @@ package retrieval;
 
 import java.io.*;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.stream.Collectors;
@@ -108,7 +107,7 @@ public class TfIdf extends Models {
         ArrayList<Similarity> docSimilarities = new ArrayList<>();
         for (int i = 0; i < vectorSpace.length; i++) {
             docSimilarities.add(new Similarity(documents.get(i),
-                    cosineSimilarity(vectorSpace[i], vector_query)));
+                    cosineSimilarity(vectorSpace[i], vector_query), 0));
         }
         Collections.sort(docSimilarities);
 
