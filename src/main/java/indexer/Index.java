@@ -14,11 +14,13 @@ public class Index {
     public static String docs_file_path = "documents/";
     public static String output_dir = "indicies/doc-index.tsv";
     public static String docSize = "indicies/doc-size-index.tsv";
+    private static final String SEASON_INDEX = "indicies/season-index.tsv";
 
     private static void document_level() {
         // Map of Filename -> <word, occurrences in file>
         HashMap<String, Map<String, Integer>> doc_index = new HashMap<>();
         HashMap<String, Integer> totalTokens = new HashMap<>();
+        HashMap<String, Integer> titleToSeason = new HashMap<>();
         File[] files = new File(docs_file_path).listFiles();
         //brackets, parenthesis, colons, periods, commas, html tags, split on
         // spaces, remove new-line
@@ -28,7 +30,17 @@ public class Index {
                 BufferedReader br = new BufferedReader(new FileReader(f));
                 String line;
                 Map<String, Integer> wordOccurrences = Maps.newHashMap();
+                int metaDataCounter = 0;
+                String title = "";
+                int season = 0;
                 while ((line = br.readLine()) != null) {
+                    if (metaDataCounter == 0) {
+                        // title
+                        title = line;
+                    } else if (metaDataCounter == 1) {
+                        // season
+                        season = Integer.parseInt(line.split(" ")[1]);
+                    }
                     //String [] split = line.split("[.\\[\\]!.:\"?,\s]");
 
                     line = line.replaceAll("<[^>]*>", "").replaceAll("\\p{Punct}", "");
@@ -41,9 +53,12 @@ public class Index {
                                 sum.addAndGet(1);
                                 addOccurrence(token, wordOccurrences);
                             });
+
+                    metaDataCounter++;
                 }
                 doc_index.put(f.getName(), wordOccurrences);
                 totalTokens.put(f.getName(), sum.intValue());
+                titleToSeason.put(title, season);
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -71,7 +86,8 @@ public class Index {
 
         try {
             write_index(index);
-            writeSizeIndex(totalTokens);
+            writeEpisodeIndex(totalTokens, docSize);
+            writeEpisodeIndex(titleToSeason, SEASON_INDEX);
         } catch (IOException e) {
             System.err.println("Unable to create index file");
         }
@@ -99,8 +115,8 @@ public class Index {
         }
     }
 
-    private static void writeSizeIndex(HashMap<String, Integer> index) throws IOException {
-        File output_file = new File(docSize);
+    private static void writeEpisodeIndex(HashMap<String, Integer> index, String path) throws IOException {
+        File output_file = new File(path);
         BufferedWriter bw = new BufferedWriter(new FileWriter(output_file));
         for (String file : index.keySet()) {
             bw.write(file + "\t" + index.get(file));
@@ -109,11 +125,7 @@ public class Index {
         }
     }
 
-
-
-
     public static void main(String[] args) {
         document_level();
     }
-
 }
