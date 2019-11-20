@@ -14,7 +14,7 @@ public class Index {
     public static String docs_file_path = "documents/";
     public static String output_dir = "indicies/doc-index.tsv";
     public static String docSize = "indicies/doc-size-index.tsv";
-    private static final String SEASON_INDEX = "indicies/season-index.tsv";
+    public static final String SEASON_INDEX_PATH = "indicies/season-index.tsv";
 
     private static void document_level() {
         // Map of Filename -> <word, occurrences in file>
@@ -34,10 +34,7 @@ public class Index {
                 String title = "";
                 int season = 0;
                 while ((line = br.readLine()) != null) {
-                    if (metaDataCounter == 0) {
-                        // title
-                        title = line;
-                    } else if (metaDataCounter == 1) {
+                    if (metaDataCounter == 1) {
                         // season
                         season = Integer.parseInt(line.split(" ")[1]);
                     }
@@ -58,7 +55,7 @@ public class Index {
                 }
                 doc_index.put(f.getName(), wordOccurrences);
                 totalTokens.put(f.getName(), sum.intValue());
-                titleToSeason.put(title, season);
+                titleToSeason.put(f.getName(), season);
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -87,7 +84,7 @@ public class Index {
         try {
             write_index(index);
             writeEpisodeIndex(totalTokens, docSize);
-            writeEpisodeIndex(titleToSeason, SEASON_INDEX);
+            writeEpisodeIndex(titleToSeason, SEASON_INDEX_PATH);
         } catch (IOException e) {
             System.err.println("Unable to create index file");
         }
