@@ -107,7 +107,7 @@ public class TfIdf extends Models {
         ArrayList<Similarity> docSimilarities = new ArrayList<>();
         for (int i = 0; i < vectorSpace.length; i++) {
             docSimilarities.add(new Similarity(documents.get(i),
-                    cosineSimilarity(vectorSpace[i], vector_query), 0));
+                    cosineSimilarity(vectorSpace[i], vector_query), DOCS_TO_SEASONS.get(documents.get(i))));
         }
         Collections.sort(docSimilarities);
 

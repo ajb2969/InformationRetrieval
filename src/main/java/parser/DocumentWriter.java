@@ -9,13 +9,16 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
+import java.util.List;
 
 class DocumentWriter {
     private static final String DOC_DIR = System.getProperty("user.dir") + "/documents";
 
     static void writeDocumentToFile(EpisodeDocument document) {
+        String season = "Season " + String.valueOf(document.getSeason());
+
         new File(DOC_DIR).mkdir();
-        ArrayList<String> lines = Lists.newArrayList(document.getBody().split("\n"));
+        List<String> lines = Lists.asList(document.getTitle(), season, document.getBody().split("\n"));
         Path path = Paths.get(DOC_DIR + "/" + document.getTitle() + ".txt");
         try {
             Files.write(path, lines, StandardCharsets.UTF_8);
