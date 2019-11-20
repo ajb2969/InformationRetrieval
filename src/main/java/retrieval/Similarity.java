@@ -10,6 +10,7 @@ public class Similarity implements Comparable<Similarity> {
         this.document_name = document;
         this.similarity = similarity;
         this.preview = "";
+        this.season = season;
     }
 
     public String getDocument_name() {

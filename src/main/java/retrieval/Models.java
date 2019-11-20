@@ -15,37 +15,29 @@ import java.util.Objects;
 import java.util.stream.Collectors;
 
 abstract public class Models {
-    static final String indicies_path = Index.output_dir;
-    static final String fileTermSizePath = Index.docSize;
-    static final HashMap<String, Integer> fileTermSize = parseDocSize();
+    private static final String indicies_path = Index.output_dir;
+    private static final String FILE_TERM_SIZE_PATH = Index.docSize;
+    static final HashMap<String, Integer> fileTermSize = parseDocumentIndexFile(FILE_TERM_SIZE_PATH);
     static final HashMap<String, Entry> documents = parse_doc_indicies();
+    static final HashMap<String, Integer> DOCS_TO_SEASONS = parseDocumentIndexFile(Index.SEASON_INDEX_PATH);
     static final int DOCUMENTSRETURNED = 30;
     static final Map<String, Map<String, Integer>> termToFileAndOccurrence = createIndexMap();
 
     Models() {
     }
 
-    String getIndicies_path() {
-        return indicies_path;
-    }
-
-    String getFileTermSizePath() {
-        return fileTermSizePath;
-    }
-
-    private static HashMap<String, Integer> parseDocSize() {
-        HashMap<String, Integer> fileSize = new HashMap<>();
-        File index = new File(fileTermSizePath);
+    private static HashMap<String, Integer> parseDocumentIndexFile(String path) {
+        HashMap<String, Integer> docMap = new HashMap<>();
+        File index = new File(path);
 
         try {
-            Files.readLines(index, Charset.defaultCharset()).stream().forEach(entry -> {
-                fileSize.put(entry.split("\t")[0], Integer.parseInt(entry.split(
-                        "\t")[1]));
-            });
+            Files.readLines(index, Charset.defaultCharset())
+                .forEach(entry -> docMap.put(entry.split("\t")[0], Integer.parseInt(entry.split("\t")[1])));
         } catch (IOException e) {
             e.printStackTrace();
+            throw new RuntimeException(e);
         }
-        return fileSize;
+        return docMap;
     }
 
     ArrayList<String> getDocumentList() {

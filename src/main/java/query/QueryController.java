@@ -100,6 +100,7 @@ public class QueryController {
             }
             model.addAttribute("selected",
                     Active.relevance.toString().toLowerCase());
+            model.addAttribute("season", "-1");
             model.addAttribute("seasons", new ArrayList<>(seasons));
         } else {
             return "index";
@@ -120,6 +121,7 @@ public class QueryController {
                 Active.reverse.toString().toLowerCase());
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("results", temp);
+        model.addAttribute("season", "-1");
         model.addAttribute("seasons", new ArrayList<>(seasons));
         return "result";
     }
@@ -130,15 +132,20 @@ public class QueryController {
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("selected",
                 Active.relevance.toString().toLowerCase());
+        model.addAttribute("season", "-1");
         model.addAttribute("seasons", new ArrayList<>(seasons));
         return "result";
     }
 
     @GetMapping("/seasons")
-    public String seasons(Model model) {
-        model.addAttribute("results", this.currDocuments);
+    public String seasons(@RequestParam(required = true) String season, Model model) {
+        ArrayList<Similarity> temp = Lists.newArrayList(this.currDocuments);
+        temp = (ArrayList<Similarity>) temp.stream()
+                .filter(e -> e.getSeason() == Integer.parseInt(season))
+                .collect(Collectors.toList());
+        model.addAttribute("results", temp);
         model.addAttribute("query", new Querycontainer());
-
+        model.addAttribute("season", season);
         model.addAttribute("seasons", new ArrayList<>(seasons));
         model.addAttribute("selected",
                 Active.seasons.toString().toLowerCase());

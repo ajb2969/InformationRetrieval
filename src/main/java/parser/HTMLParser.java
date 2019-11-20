@@ -12,16 +12,15 @@ import org.jsoup.select.Elements;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Set;
+import java.util.*;
 import java.util.stream.Collectors;
 
 class HTMLParser {
     private static final String HTML_LOCATION = System.getProperty("user.dir") + "/data/transcripts.html";
     private static final String HTML_TRANSCRIPT_ID = "mw-content-text";
+    private static final String HTML_TOC_ID = "transcripts-toc";
     private static final Set<String> IGNORED_TAGS = ImmutableSet.of("p", "div", "noscript", "h3", "h4");
+    private Map<String, Integer> titleToSeason = Maps.newHashMap();
 
     Document getDocument() {
         File transcriptsFile = new File(HTML_LOCATION);
@@ -34,25 +33,29 @@ class HTMLParser {
     }
 
     List<EpisodeDocument> getEpisodeTranscripts(Document transciptsDoc) {
+        Element tableOfContents = transciptsDoc.getElementById(HTML_TOC_ID);
+        Elements seasonLists = tableOfContents.getElementsByAttributeValue("style", "vertical-align:top;");
+        seasonLists.forEach(this::processSeasonList);
+
         Element mainContent = transciptsDoc.getElementById(HTML_TRANSCRIPT_ID);
         Elements contentList = mainContent.children();
 
-        List<Element> transcriptElements = Lists.newArrayList();
-        for (Element htmlElement : contentList) {
-            String tagName = htmlElement.tagName();
-            if (!IGNORED_TAGS.contains(tagName)) {
-                transcriptElements.add(htmlElement);
-            }
-        }
+        List<Element> transcriptElements = contentList.stream()
+            .filter(htmlElement -> !IGNORED_TAGS.contains(htmlElement.tagName()))
+            .collect(Collectors.toList());
 
         HashMap<String, List<Element>> titleTranscriptElementsMap = convertToTitleScriptMap(transcriptElements);
 
-        List<EpisodeDocument> documents = titleTranscriptElementsMap.entrySet().stream()
+        return titleTranscriptElementsMap.entrySet().stream()
             .map(entry -> convert(entry.getKey(), entry.getValue()))
             .collect(Collectors.toList());
+    }
 
-        return documents;
-
+    private void processSeasonList(Element seasonList) {
+        int seasonNum = Integer.parseInt(seasonList.getElementsByTag("h3").first().text().split(" ")[1]);
+        seasonList.getElementsByTag("a").stream()
+            .map(Element::text)
+            .forEach(ep -> titleToSeason.put(ep, seasonNum));
     }
 
     private HashMap<String, List<Element>> convertToTitleScriptMap(List<Element> transcriptElements) {
@@ -96,7 +99,8 @@ class HTMLParser {
         List<String> bodySections = htmlTranscript.stream()
             .map(this::extractText)
             .collect(Collectors.toList());
-        return new EpisodeDocument(title, String.join("", bodySections));
+        int season = titleToSeason.get(title);
+        return new EpisodeDocument(title, String.join("", bodySections), season);
     }
 
     private String extractText(Element section) {

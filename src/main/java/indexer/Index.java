@@ -1,10 +1,8 @@
 package indexer;
 
 import com.google.common.collect.Maps;
-import javafx.geometry.Pos;
 
 import java.io.*;
-import java.lang.reflect.Array;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
@@ -17,6 +15,7 @@ public class Index {
     public static String output_dir = "indicies/doc-index.tsv";
     public static String docSize = "indicies/doc-size-index.tsv";
     public static String tokenPositionsFile = "indicies/token-pos.tsv";
+    public static final String SEASON_INDEX_PATH = "indicies/season-index.tsv";
 
     private static void document_level() {
         // Map of Filename -> <word, occurrences in file>
@@ -25,6 +24,7 @@ public class Index {
         HashMap<String, Integer> totalTokens = new HashMap<>();
         HashMap<String, HashMap<String, ArrayList<Integer>>> tokenPositions =
                 new HashMap<>();
+        HashMap<String, Integer> titleToSeason = new HashMap<>();
         File[] files = new File(docs_file_path).listFiles();
         //brackets, parenthesis, colons, periods, commas, html tags, split on
         // spaces, remove new-line
@@ -34,7 +34,14 @@ public class Index {
                 BufferedReader br = new BufferedReader(new FileReader(f));
                 String line;
                 Map<String, Integer> wordOccurrences = Maps.newHashMap();
+                int metaDataCounter = 0;
+                String title = "";
+                int season = 0;
                 while ((line = br.readLine()) != null) {
+                    if (metaDataCounter == 1) {
+                        // season
+                        season = Integer.parseInt(line.split(" ")[1]);
+                    }
                     //String [] split = line.split("[.\\[\\]!.:\"?,\s]");
 
                     line = line.replaceAll("<[^>]*>", "").replaceAll("\\p" +
@@ -73,9 +80,12 @@ public class Index {
                                 sum.addAndGet(1);
                                 addOccurrence(token, wordOccurrences);
                             });
+
+                    metaDataCounter++;
                 }
                 doc_index.put(f.getName(), wordOccurrences);
                 totalTokens.put(f.getName(), sum.intValue());
+                titleToSeason.put(f.getName(), season);
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -107,6 +117,8 @@ public class Index {
             write_index(index);
             writeSizeIndex(totalTokens);
             writePositionIndex(tokenPositions);
+            writeEpisodeIndex(totalTokens, docSize);
+            writeEpisodeIndex(titleToSeason, SEASON_INDEX_PATH);
         } catch (IOException e) {
             System.err.println("Unable to create index file");
         }
@@ -130,6 +142,16 @@ public class Index {
             for (String file : index.get(term)) {
                 bw.write(file + "\t");
             }
+            bw.write("\n");
+            bw.flush();
+        }
+    }
+
+    private static void writeEpisodeIndex(HashMap<String, Integer> index, String path) throws IOException {
+        File output_file = new File(path);
+        BufferedWriter bw = new BufferedWriter(new FileWriter(output_file));
+        for (String file : index.keySet()) {
+            bw.write(file + "\t" + index.get(file));
             bw.write("\n");
             bw.flush();
         }
@@ -213,5 +235,4 @@ public class Index {
     public static void main(String[] args) {
         document_level();
     }
-
 }
