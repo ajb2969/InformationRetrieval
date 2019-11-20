@@ -1,6 +1,7 @@
 package query;
 
 import com.google.common.collect.Lists;
+import indexer.Index;
 import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider;
@@ -25,7 +26,6 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 
 @Controller
@@ -40,7 +40,9 @@ public class QueryController {
         alphabet,
         reverse,
         seasons,
-    };
+    }
+
+    ;
 
     @GetMapping("/")
     public String welcome(Model model) {
@@ -91,7 +93,8 @@ public class QueryController {
             } else {
                 model.addAttribute("results", documents);
             }
-            model.addAttribute("selected", Active.relevance.toString().toLowerCase());
+            model.addAttribute("selected",
+                    Active.relevance.toString().toLowerCase());
         } else {
             return "index";
         }
@@ -117,7 +120,9 @@ public class QueryController {
                 }
             });
         }
-        model.addAttribute("selected", !backward ? Active.alphabet.toString().toLowerCase() : Active.reverse.toString().toLowerCase());
+        model.addAttribute("selected", !backward ?
+                Active.alphabet.toString().toLowerCase() :
+                Active.reverse.toString().toLowerCase());
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("results", temp);
         return "result";
@@ -127,7 +132,8 @@ public class QueryController {
     public String relevance(Model model) {
         model.addAttribute("results", this.currDocuments);
         model.addAttribute("query", new Querycontainer());
-        model.addAttribute("selected", Active.relevance.toString().toLowerCase());
+        model.addAttribute("selected",
+                Active.relevance.toString().toLowerCase());
         return "result";
     }
 
@@ -153,7 +159,6 @@ public class QueryController {
     private String getLongestIncreasingSequence(String docName, String query) {
         try {
             final int WINDOWSIZE = 20;
-            int currStart = 0;
             String file =
                     new String(Files.readAllBytes(Paths.get(documentsPath + docName)));
             file = file.replaceAll("<[^>]*>", "");
@@ -162,42 +167,10 @@ public class QueryController {
                     (ArrayList<String>) Arrays.stream(file.split("[ \n]")).collect(Collectors.toList());
             // get query terms
             String[] terms = query.split(" ");
+            HashMap<String, ArrayList<Index.Positions>> termPositions = Index.readQueryPositions((ArrayList<String>)Arrays.stream(query.split(" ")).collect(Collectors.toList()));
 
-            int maxTerms = 0;
-            int start = 0, end = 0;
-            do {
-                //populate window
-                int currMatching = 0;
-                ArrayList<String> window =
-                        (ArrayList<String>) IntStream.range(currStart,
-                                currStart + WINDOWSIZE < tokens.size() ?
-                                        currStart + WINDOWSIZE :
-                                        tokens.size() - currStart).mapToObj(tokens::get)
-                                .map(String::toLowerCase).filter(token -> !token.isEmpty())
-                                .map(token -> token.replaceAll("[.," +
-                                        "!?:\\[\\]\n]", " "))
-                                .map(String::trim)
-                                .collect(Collectors.toList());
+            return tokens.stream().limit(WINDOWSIZE).collect(Collectors.joining(" "));
 
-
-                for (String token : window) {
-                    for (String term : terms) {
-                        if (token.toLowerCase().equals(term.toLowerCase())) {
-                            currMatching += 1;
-                        }
-                    }
-                }
-                maxTerms = currMatching > maxTerms ? currMatching : maxTerms;
-                if (maxTerms == currMatching && maxTerms != 0) {
-                    start = currStart;
-                    end = currStart + WINDOWSIZE < tokens.size() ?
-                            currStart + WINDOWSIZE : tokens.size() - currStart;
-                }
-                currStart += 1;
-            } while (currStart + WINDOWSIZE < tokens.size());
-            if (maxTerms == 0 || true) {
-                return tokens.stream().limit(WINDOWSIZE).collect(Collectors.joining(" "));
-            }
 
             //TODO figure out previews
         } catch (IOException e) {
