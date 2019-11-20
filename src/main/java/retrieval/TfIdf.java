@@ -86,7 +86,7 @@ public class TfIdf extends Models {
                 e.printStackTrace();
             }
         }
-
+        query = query.toLowerCase();
         double[] vector_query = new double[index.size()];
         int position = 0;
         double denominator = 0;

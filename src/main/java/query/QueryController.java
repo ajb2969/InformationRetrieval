@@ -32,7 +32,8 @@ import java.util.stream.Collectors;
 public class QueryController {
     private final String documentsPath = "documents/";
     final File temp = new File(documentsPath + "temp.txt");
-    ArrayList<Similarity> currDocuments = new ArrayList<>();
+    private ArrayList<Similarity> currDocuments = new ArrayList<>();
+    private HashSet<Integer> seasons = new HashSet<>();
 
 
     enum Active {
@@ -86,6 +87,10 @@ public class QueryController {
             }
 
             this.currDocuments = documents;
+            for(Similarity s: this.currDocuments) {
+                seasons.add(s.getSeason());
+            }
+
             //if the first document isn't relevant or similar send back no
             // results available
             if (documents.get(0).getSimilarity() == 1) {
@@ -95,6 +100,7 @@ public class QueryController {
             }
             model.addAttribute("selected",
                     Active.relevance.toString().toLowerCase());
+            model.addAttribute("seasons", new ArrayList<>(seasons));
         } else {
             return "index";
         }
@@ -105,26 +111,16 @@ public class QueryController {
     public String alphabetically(@RequestParam(required = true) boolean backward, Model model) {
         ArrayList<Similarity> temp = Lists.newArrayList(this.currDocuments);
         if (backward) {
-            Collections.sort(temp, new Comparator<Similarity>() {
-
-                @Override
-                public int compare(Similarity o1, Similarity o2) {
-                    return o2.getDocument_name().compareTo(o1.getDocument_name());
-                }
-            });
+            Collections.sort(temp, (o1, o2) -> o2.getDocument_name().compareTo(o1.getDocument_name()));
         } else {
-            Collections.sort(temp, new Comparator<Similarity>() {
-                @Override
-                public int compare(Similarity o1, Similarity o2) {
-                    return o1.getDocument_name().compareTo(o2.getDocument_name());
-                }
-            });
+            Collections.sort(temp, Comparator.comparing(Similarity::getDocument_name));
         }
         model.addAttribute("selected", !backward ?
                 Active.alphabet.toString().toLowerCase() :
                 Active.reverse.toString().toLowerCase());
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("results", temp);
+        model.addAttribute("seasons", new ArrayList<>(seasons));
         return "result";
     }
 
@@ -134,6 +130,18 @@ public class QueryController {
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("selected",
                 Active.relevance.toString().toLowerCase());
+        model.addAttribute("seasons", new ArrayList<>(seasons));
+        return "result";
+    }
+
+    @GetMapping("/seasons")
+    public String seasons(Model model) {
+        model.addAttribute("results", this.currDocuments);
+        model.addAttribute("query", new Querycontainer());
+
+        model.addAttribute("seasons", new ArrayList<>(seasons));
+        model.addAttribute("selected",
+                Active.seasons.toString().toLowerCase());
         return "result";
     }
 
@@ -168,7 +176,7 @@ public class QueryController {
             // get query terms
             String[] terms = query.split(" ");
             HashMap<String, ArrayList<Index.Positions>> termPositions = Index.readQueryPositions((ArrayList<String>)Arrays.stream(query.split(" ")).collect(Collectors.toList()));
-
+            //ArrayList<Index.Positions> positions = Arrays.stream(terms).map(termPositions::get).flatMap(Collection::stream).map(e -> e.getPositions()).flatMap(Collection::stream).
             return tokens.stream().limit(WINDOWSIZE).collect(Collectors.joining(" "));
 
 

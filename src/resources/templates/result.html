@@ -105,7 +105,12 @@
                             <span data-feather="layers"></span>
                             Seasons
                         </a>
+                        <li class="nav-item" style="padding-left: 15px;" th:each="number : ${seasons}">
+                            <a class="nav-link" href="#" th:text="${'Season ' + number}" th:href="@{/seasons}"></a>
+                        </li>
                     </li>
+
+
 
 
                 </ul>
