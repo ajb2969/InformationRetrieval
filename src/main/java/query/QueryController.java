@@ -170,7 +170,7 @@ public class QueryController {
 
     private String getLongestIncreasingSequence(String docName, String query) {
         try {
-            final int WINDOWSIZE = 20;
+            final int WINDOWSIZE = 40;
             String file =
                     new String(Files.readAllBytes(Paths.get(documentsPath + docName)));
             file = file.replaceAll("<[^>]*>", "");
@@ -179,12 +179,48 @@ public class QueryController {
                     (ArrayList<String>) Arrays.stream(file.split("[ \n]")).collect(Collectors.toList());
             // get query terms
             String[] terms = query.split(" ");
-            HashMap<String, ArrayList<Index.Positions>> termPositions = Index.readQueryPositions((ArrayList<String>)Arrays.stream(query.split(" ")).collect(Collectors.toList()));
-            //ArrayList<Index.Positions> positions = Arrays.stream(terms).map(termPositions::get).flatMap(Collection::stream).map(e -> e.getPositions()).flatMap(Collection::stream).
-            return tokens.stream().limit(WINDOWSIZE).collect(Collectors.joining(" "));
+            ArrayList<Integer> termPositions = Index.readQueryPositions((ArrayList<String>)Arrays.stream(query.split(" ")).collect(Collectors.toList()), docName);
+            int max = 0;
+            int maxIndex = 0;
+            for(int index = 0; index < termPositions.size(); index++) {
+                int temp = index + 1;
+                while(temp < termPositions.size() && termPositions.get(temp) < termPositions.get(index)) {
+                    termPositions.size();
+                    temp += 1;
+                }
+                if(temp - index > max) {
+                    max = temp - index;
+                    maxIndex = index;
+                }
+            }
 
+            String returnedString = "";
+            if(termPositions.size() == 0) {
+                returnedString = tokens.subList(0, WINDOWSIZE * 2).stream().collect(Collectors.joining(" "));
+            } else if(termPositions.size() < 5) {
+                returnedString = tokens.subList(termPositions.get(0) - WINDOWSIZE >= 0 ? termPositions.get(0) - WINDOWSIZE: termPositions.get(0),
+                        termPositions.get(0) + WINDOWSIZE ).stream()
+                        .collect(Collectors.joining(" "));
+            } else {
+                returnedString = tokens.subList(maxIndex - WINDOWSIZE >= 0 ? maxIndex - WINDOWSIZE : maxIndex, maxIndex + WINDOWSIZE).stream().collect(Collectors.joining(" "));
+            }
+            int x = 1;
+            for(String term: terms) {
+                for(int i = 0; i < returnedString.length(); i++) {
 
-            //TODO figure out previews
+                    int index = returnedString.toLowerCase().indexOf(term, i);
+                    if(index != -1) {
+                        returnedString = returnedString.substring(0, index) +
+                                "<b>" + returnedString.substring(index, index + term.length()) + "</b>"
+                                + returnedString.substring(index + term.length());
+                        i = index + term.length();
+                    } else {
+                        index = 0;
+                    }
+                }
+            }
+            return returnedString;
+
         } catch (IOException e) {
             e.printStackTrace();
         }
