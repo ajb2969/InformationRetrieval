@@ -52,30 +52,62 @@
                             <span data-feather="plus-circle"></span>
                         </a>
                     </h6>
-                    <li class="nav-item">
-                        <a class="nav-link active" href="#">
+                    <!--If relevance is selected-->
+                    <li class="nav-item" th:if="${selected} == 'relevance'">
+                        <a class="nav-link active"  th:href="@{/relevance/}" th:method="get">
                             <span data-feather="home"></span>
                             Relevance <span class="sr-only">(current)</span>
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
+                    <!--If relevance is not selected-->
+                    <li class="nav-item" th:unless="${selected} == 'relevance'">
+                        <a class="nav-link" th:href="@{/relevance/}" th:method="get">
+                            <span data-feather="home"></span>
+                            Relevance <span class="sr-only">(current)</span>
+                        </a>
+                    </li>
+
+                    <!--If alphabetic order is selected-->
+                    <li class="nav-item" th:if="${selected} == 'alphabet'">
+                        <a class="nav-link active" th:href="@{/alphabetically/(backward=false)}" th:method="get">
                             <span data-feather="users"></span>
                             A-Z
                         </a>
                     </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="#">
+
+                    <!--If alphabetic is not selected-->
+                    <li class="nav-item" th:unless="${selected} == 'alphabet'">
+                        <a class="nav-link" th:href="@{/alphabetically/(backward=false)}" th:method="get">
+                            <span data-feather="users"></span>
+                            A-Z
+                        </a>
+                    </li>
+
+                    <!--If reverse order is selected-->
+                    <li class="nav-item active " th:if="${selected} == 'reverse'">
+                        <a class="nav-link active" th:href="@{/alphabetically/(backward=true)}" th:method="get">
                             <span data-feather="bar-chart-2"></span>
                             Z-A
                         </a>
                     </li>
+
+                    <!--If reverse is not selected-->
+                    <li class="nav-item" th:unless="${selected} == 'reverse'">
+                        <a class="nav-link" th:href="@{/alphabetically/(backward=true)}" th:method="get">
+                            <span data-feather="bar-chart-2"></span>
+                            Z-A
+                        </a>
+                    </li>
+
+
                     <li class="nav-item">
                         <a class="nav-link" href="#">
                             <span data-feather="layers"></span>
                             Seasons
                         </a>
                     </li>
+
+
                 </ul>
             </div>
         </nav>
