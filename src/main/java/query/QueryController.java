@@ -34,7 +34,7 @@ public class QueryController {
     final File temp = new File(documentsPath + "temp.txt");
     private ArrayList<Similarity> currDocuments = new ArrayList<>();
     private HashSet<Integer> seasons = new HashSet<>();
-
+    private Models m;
 
     enum Active {
         relevance,
@@ -76,9 +76,9 @@ public class QueryController {
             if (temp.exists()) {
                 temp.delete();
             }
-            Models m =
-                    query.getSelectedModel().toLowerCase().equals("tfidf") ?
-                            new TfIdf() : new BM25();
+            if (m == null || query.getSelectedModel() != "") {
+                m = query.getSelectedModel().toLowerCase().equals("tfidf") ? new TfIdf() : new BM25();
+            }
             //TODO add query expansion here
             ArrayList<Similarity> documents =
                     m.retrieve(query.getContent());
@@ -93,15 +93,12 @@ public class QueryController {
 
             //if the first document isn't relevant or similar send back no
             // results available
-            if (documents.get(0).getSimilarity() == 1) {
-                model.addAttribute("results", new ArrayList<>());
-            } else {
-                model.addAttribute("results", documents);
-            }
+            model.addAttribute("results", documents);
             model.addAttribute("selected",
                     Active.relevance.toString().toLowerCase());
             model.addAttribute("season", "-1");
             model.addAttribute("seasons", new ArrayList<>(seasons));
+            model.addAttribute("query", new Querycontainer());
         } else {
             return "index";
         }

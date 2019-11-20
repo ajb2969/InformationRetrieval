@@ -1,9 +1,7 @@
 package retrieval;
 
 import java.io.*;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.HashMap;
+import java.util.*;
 import java.util.stream.Collectors;
 
 public class TfIdf extends Models {
@@ -86,32 +84,41 @@ public class TfIdf extends Models {
                 e.printStackTrace();
             }
         }
+
+        //creating the query vector
         query = query.toLowerCase();
+        List<String> splitQuery = new ArrayList<String>();
+        splitQuery.addAll(Arrays.asList(query.split(" ")));
         double[] vector_query = new double[index.size()];
         int position = 0;
         double denominator = 0;
         ArrayList<String> terms = new ArrayList<>(index.keySet());
         Collections.sort(terms);
+        ArrayList<Double> numerators = new ArrayList<>();
         for (String term : terms) {
-            double numerator = query.contains(term)? (Math.log(termQueryOccur(term, query) + 1) * inverseDocumentFrequency(term)) : 0;
-            denominator += Math.pow(numerator, 2);
+            numerators.add(splitQuery.contains(term)? (Math.log(termQueryOccur(term, query) + 1) * inverseDocumentFrequency(term)) : 0);
+            denominator += Math.pow(numerators.get(numerators.size() -1), 2);
         }
         denominator = Math.sqrt(denominator);
 
-        for (String term : terms) {
-            double numerator = query.contains(term)? (Math.log(termQueryOccur(term, query) + 1) * inverseDocumentFrequency(term)) : 0;
-            vector_query[position] = numerator / denominator;
+        for (Double numerator : numerators) {
+            vector_query[position] = denominator == 0 ? 0 : numerator / denominator;
             position += 1;
         }
 
         ArrayList<Similarity> docSimilarities = new ArrayList<>();
-        for (int i = 0; i < vectorSpace.length; i++) {
-            docSimilarities.add(new Similarity(documents.get(i),
-                    cosineSimilarity(vectorSpace[i], vector_query), DOCS_TO_SEASONS.get(documents.get(i))));
-        }
-        Collections.sort(docSimilarities);
 
-        return (ArrayList<Similarity>) docSimilarities.stream().filter(e -> !Double.isNaN(e.getSimilarity())).limit(Models.DOCUMENTSRETURNED).collect(Collectors.toList());
+        int i = 0;
+        for(String document: documents) {
+            docSimilarities.add(new Similarity(document,
+                    cosineSimilarity(vectorSpace[i], vector_query), DOCS_TO_SEASONS.get(document)));
+            i += 1;
+        }
+        Collections.sort(docSimilarities, Collections.reverseOrder());
+
+        return (ArrayList<Similarity>) docSimilarities.stream().limit(Models.DOCUMENTSRETURNED).collect(Collectors.toList());
+
+
     }
 
     private double termQueryOccur(String term, String query) {
@@ -121,7 +128,7 @@ public class TfIdf extends Models {
                 count += 1;
             }
         }
-        return count;
+        return count/(double)extractTerms(query).length;
     }
 
 
@@ -167,10 +174,8 @@ public class TfIdf extends Models {
             querySum += Math.pow(vector_query[position], 2);
         }
         double denom = Math.sqrt(spaceSum * querySum);
-        if (spaceSum * querySum == 0) {
-            return 0;
-        }
-        return numerator / (denom);
+
+        return denom == 0 ? 0 : numerator / (denom);
     }
 
 
