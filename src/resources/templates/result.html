@@ -13,7 +13,7 @@
 <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
     <a class="navbar-brand col-sm-3 col-md-2 mr-0" href="#">Results</a>
     <form class="form-control form-control-dark w-100" style="padding: inherit; height: auto;" action="#" th:action="@{/query}" th:object="${query}" method="post">
-        <input class="form-control-dark w-100" type="text" placeholder="Search" aria-label="Search" th:field="*{content}"/>
+        <input class="form-control-dark w-100" type="text" th:placeholder="${queryContents}" aria-label="Search" th:field="*{content}"/>
     </form>
     <ul class="navbar-nav px-3">
         <li class="nav-item text-nowrap">
@@ -115,7 +115,7 @@
                             <h5><a style="color: dodgerblue" target="_blank"
                                    th:href="@{/document/(doc=${result.getDocumentLink()})}"><span
                                     th:text="${result.getDocument_name()}"> Episode </span></a></h5>
-                            <p style="margin-left: 5px" th:utext="${result.getPreview()}"></p>
+                            <p  style="margin-left: 5px" th:onload="'bolding(\''+ ${queryContents} +'\');'" th:utext="${result.getPreview()}"></p>
                         </td>
                     </tr>
                     </tbody>
@@ -124,6 +124,21 @@
         </main>
     </div>
 </div>
+
+<script th:inline="javascript">
+    <![CDATA[
+    var bolding = function(query) {
+        var search = document.getElementsByTagName("p");
+        var regex = new RegExp(search, query);
+        forEach(search => {
+            search.innerHTML = str.replace(regex, '<b>' + search.innerHTML + '</b>');
+        });
+    };
+
+    bolding(${queryContents}})
+    ]]>
+
+</script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
         crossorigin="anonymous"></script>

@@ -62,7 +62,27 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
             </plugin>
+
+                <plugin>
+                    <groupId>com.heroku.sdk</groupId>
+                    <artifactId>heroku-maven-plugin</artifactId>
+                    <version>2.0.13</version>
+                    <configuration>
+                        <processTypes>
+                            <web>java $JAVA_OPTS -cp target/classes:target/dependency/* query.Application</web>
+                        </processTypes>
+                        <appName>informationretrieval-mlp</appName>
+                        <includes>
+                            <include>indicies/</include>
+                            <include>documents/</include>
+                        </includes>
+                    </configuration>
+                </plugin>
         </plugins>
+
+
     </build>
+
+
 
 </project>

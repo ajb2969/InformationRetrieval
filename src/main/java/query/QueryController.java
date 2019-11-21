@@ -96,6 +96,7 @@ public class QueryController {
             model.addAttribute("results", documents);
             model.addAttribute("selected",
                     Active.relevance.toString().toLowerCase());
+            model.addAttribute("queryContents", query.getContent());
             model.addAttribute("season", "-1");
             model.addAttribute("seasons", new ArrayList<>(seasons));
             model.addAttribute("query", new Querycontainer());
@@ -203,21 +204,6 @@ public class QueryController {
                         .collect(Collectors.joining(" "));
             } else {
                 returnedString = tokens.subList(maxIndex - WINDOWSIZE >= 0 ? maxIndex - WINDOWSIZE : maxIndex, maxIndex + WINDOWSIZE).stream().collect(Collectors.joining(" "));
-            }
-            int x = 1;
-            for(String term: terms) {
-                for(int i = 0; i < returnedString.length(); i++) {
-
-                    int index = returnedString.toLowerCase().indexOf(term, i);
-                    if(index != -1) {
-                        returnedString = returnedString.substring(0, index) +
-                                "<b>" + returnedString.substring(index, index + term.length()) + "</b>"
-                                + returnedString.substring(index + term.length());
-                        i = index + term.length();
-                    } else {
-                        index = 0;
-                    }
-                }
             }
             return returnedString;
 
