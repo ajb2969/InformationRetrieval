@@ -56,7 +56,6 @@
             <resource>
                 <directory>src/resources</directory>
             </resource>
-
         </resources>
         <plugins>
             <plugin>

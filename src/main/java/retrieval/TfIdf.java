@@ -105,7 +105,7 @@ public class TfIdf extends Models {
             vector_query[position] = denominator == 0 ? 0 : numerator / denominator;
             position += 1;
         }
-
+        System.out.println("The index is size " + index.keySet().size());
         ArrayList<Similarity> docSimilarities = new ArrayList<>();
 
         int i = 0;
@@ -163,6 +163,7 @@ public class TfIdf extends Models {
 
     private double cosineSimilarity(double[] vectorSpace, double[] vector_query) {
         double numerator = 0;
+        System.out.println(vector_query.length + " + " + vectorSpace.length);
         for (int position = 0; position < vectorSpace.length; position++) {
             numerator += (vectorSpace[position] * vector_query[position]);
         }
