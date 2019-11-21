@@ -115,7 +115,7 @@
                             <h5><a style="color: dodgerblue" target="_blank"
                                    th:href="@{/document/(doc=${result.getDocumentLink()})}"><span
                                     th:text="${result.getDocument_name()}"> Episode </span></a></h5>
-                            <p  style="margin-left: 5px" th:onload="'bolding(\''+ ${queryContents} +'\');'" th:utext="${result.getPreview()}"></p>
+                            <p  style="margin-left: 5px" th:utext="${result.getPreview()}"></p>
                         </td>
                     </tr>
                     </tbody>
@@ -125,19 +125,19 @@
     </div>
 </div>
 
-<script th:inline="javascript">
-    <![CDATA[
-    var bolding = function(query) {
-        var search = document.getElementsByTagName("p");
-        var regex = new RegExp(search, query);
-        forEach(search => {
-            search.innerHTML = str.replace(regex, '<b>' + search.innerHTML + '</b>');
-        });
+<script>
+
+    var bolding = function() {
+        console.log("Running bolding function");
+        let terms = "[[${queryContents}]]".toLowerCase().split(" ");
+        let previews = document.getElementsByTagName("p");
+        for(let index = 0; index < previews.length; index++) {
+            let regex = new RegExp('(' + terms.join('|') + ')', 'ig');
+            previews[index].innerHTML = previews[index].innerHTML.replace(regex, '<b>$1</b>');
+        }
     };
 
-    bolding(${queryContents}})
-    ]]>
-
+    window.addEventListener('load', bolding);
 </script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
         integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"

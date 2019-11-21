@@ -33,6 +33,7 @@ public class QueryController {
     private final String documentsPath = "documents/";
     final File temp = new File(documentsPath + "temp.txt");
     private ArrayList<Similarity> currDocuments = new ArrayList<>();
+    private String currQuery = "";
     private HashSet<Integer> seasons = new HashSet<>();
     private Models m;
 
@@ -79,6 +80,7 @@ public class QueryController {
             if (m == null || query.getSelectedModel() != "") {
                 m = query.getSelectedModel().toLowerCase().equals("tfidf") ? new TfIdf() : new BM25();
             }
+            currQuery = query.getContent();
             //TODO add query expansion here
             ArrayList<Similarity> documents =
                     m.retrieve(query.getContent());
@@ -96,7 +98,7 @@ public class QueryController {
             model.addAttribute("results", documents);
             model.addAttribute("selected",
                     Active.relevance.toString().toLowerCase());
-            model.addAttribute("queryContents", query.getContent());
+            model.addAttribute("queryContents", currQuery);
             model.addAttribute("season", "-1");
             model.addAttribute("seasons", new ArrayList<>(seasons));
             model.addAttribute("query", new Querycontainer());
@@ -109,6 +111,7 @@ public class QueryController {
     @GetMapping("/alphabetically")
     public String alphabetically(@RequestParam(required = true) boolean backward, Model model) {
         ArrayList<Similarity> temp = Lists.newArrayList(this.currDocuments);
+
         if (backward) {
             Collections.sort(temp, (o1, o2) -> o2.getDocument_name().compareTo(o1.getDocument_name()));
         } else {
@@ -120,6 +123,7 @@ public class QueryController {
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("results", temp);
         model.addAttribute("season", "-1");
+        model.addAttribute("queryContents", currQuery);
         model.addAttribute("seasons", new ArrayList<>(seasons));
         return "result";
     }
@@ -131,6 +135,7 @@ public class QueryController {
         model.addAttribute("selected",
                 Active.relevance.toString().toLowerCase());
         model.addAttribute("season", "-1");
+        model.addAttribute("queryContents", currQuery);
         model.addAttribute("seasons", new ArrayList<>(seasons));
         return "result";
     }
@@ -145,6 +150,7 @@ public class QueryController {
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("season", season);
         model.addAttribute("seasons", new ArrayList<>(seasons));
+        model.addAttribute("queryContents", currQuery);
         model.addAttribute("selected",
                 Active.seasons.toString().toLowerCase());
         return "result";
