@@ -187,8 +187,8 @@ public class Index {
         }
     }
 
-    public static HashMap<String, ArrayList<Positions>> readQueryPositions(ArrayList<String> terms) throws IOException {
-        HashMap<String, ArrayList<Positions>> queryPositions = new HashMap<>();
+    public static ArrayList<Integer> readQueryPositions(ArrayList<String> terms, String docName) throws IOException {
+
         File inputFile = new File(tokenPositionsFile);
         List<String> lines = Files.readAllLines(Paths.get(inputFile.getCanonicalPath()));
         ArrayList<String> selectedLines = new ArrayList<>();
@@ -198,18 +198,20 @@ public class Index {
                 selectedLines.add(line);
             }
         }
-
+        ArrayList<Integer> positions = new ArrayList<>();
         for(String selected: selectedLines) {
-            ArrayList<Positions> positions = new ArrayList<>();
             String token = selected.split("\t")[0];
             String[] filePositionsLine = selected.split("\t");
             for(int i = 1; i < filePositionsLine.length; i++) {
-                positions.add(new Positions(filePositionsLine[i]));
+                if (filePositionsLine[i].split(":")[0].equals(docName)) {
+                    for(String position: filePositionsLine[i].split(":")[1].split(",")) {
+                        positions.add(Integer.parseInt(position));
+                    }
+                }
             }
-            queryPositions.put(token, positions);
-        }
 
-        return queryPositions;
+        }
+        return positions;
     }
 
     public static class Positions {
