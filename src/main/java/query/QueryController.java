@@ -15,13 +15,11 @@ import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.templatemode.TemplateMode;
 import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 import org.thymeleaf.templateresolver.ITemplateResolver;
-import retrieval.BM25;
-import retrieval.Models;
-import retrieval.Similarity;
-import retrieval.TfIdf;
+import retrieval.*;
 
 import java.io.File;
 import java.io.IOException;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
@@ -35,7 +33,7 @@ public class QueryController {
     private ArrayList<Similarity> currDocuments = new ArrayList<>();
     private String currQuery = "";
     private HashSet<Integer> seasons = new HashSet<>();
-    private Models m;
+    private Pooling m;
 
     enum Active {
         relevance,
@@ -77,13 +75,10 @@ public class QueryController {
             if (temp.exists()) {
                 temp.delete();
             }
-            if (m == null || query.getSelectedModel() != "") {
-                m = query.getSelectedModel().toLowerCase().equals("tfidf") ? new TfIdf() : new BM25();
-            }
+
+            m = new Pooling(query.getContent());
             currQuery = query.getContent();
-            //TODO add query expansion here
-            ArrayList<Similarity> documents =
-                    m.retrieve(query.getContent());
+            ArrayList<Similarity> documents = m.retrieve();
             for (Similarity sim : documents) {
                 sim.setPreview(getLongestIncreasingSequence(sim.getDocumentLink(), query.getContent()));
             }
@@ -238,9 +233,9 @@ class ThymeleafConfig {
         templateResolver.setPrefix("/documents/");
         templateResolver.setSuffix(".txt");
         templateResolver.setTemplateMode(TemplateMode.TEXT);
-        templateResolver.setCharacterEncoding("UTF8");
+        templateResolver.setCharacterEncoding(StandardCharsets.UTF_8.name());
         templateResolver.setCheckExistence(true);
-        templateResolver.setCacheable(false);
+        templateResolver.setCacheable(true);
         return templateResolver;
     }
 }

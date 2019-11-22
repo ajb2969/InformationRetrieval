@@ -30,13 +30,6 @@
 
         <form action="#" th:action="@{/query}" th:object="${query}" method="post">
             <p><input type="text" th:field="*{content}" /></p>
-
-            <select th:field="*{selectedModel}">
-                <option th:each="dropdownValue: ${getModels}"
-                        th:value="${dropdownValue}"
-                        th:text="${dropdownValue}" ></option>
-            </select>
-
             <p><input type="submit" value="Submit" />
         </form>
     </main>

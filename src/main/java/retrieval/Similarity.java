@@ -1,5 +1,7 @@
 package retrieval;
 
+import java.util.Objects;
+
 public class Similarity implements Comparable<Similarity> {
     private String document_name;
     private String preview;
@@ -44,5 +46,23 @@ public class Similarity implements Comparable<Similarity> {
 
     public void setSeason(int season) {
         this.season = season;
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hashCode(this.getDocument_name());
+    }
+
+    @Override
+    public boolean equals(Object obj) {
+        if(obj instanceof Similarity) {
+            if(this.getDocument_name().equals(((Similarity) obj).getDocument_name())) {
+                return true;
+            } else {
+                return false;
+            }
+        } else {
+            return false;
+        }
     }
 }
