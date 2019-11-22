@@ -29,8 +29,9 @@
         <img src="../img/b4a7f0e8fc4682a68c391401608ea396.png" class="img-fluid" style="margin-bottom: 20px;" alt="Responsive image">
 
         <form action="#" th:action="@{/query}" th:object="${query}" method="post">
-            <p><input type="text" th:field="*{content}" /></p>
-            <p><input type="submit" value="Submit" />
+
+            <p style="display:inline-block"><input style="width: 500px; height: 30px;" type="text" th:field="*{content}" /></p>
+            <button type="submit">Submit</button>
         </form>
     </main>
 

@@ -35,11 +35,10 @@ public class TfIdf extends Models {
     }
 
     private double[][] documentVectorizor(HashMap<String, Entry> index,
+                                          ArrayList<String> terms,
                                           String document,
                                           double[][] vectorSpace,
                                           int i, int j) {
-        ArrayList<String> terms = new ArrayList<>(index.keySet());
-        Collections.sort(terms);
         double denominator = 0;
         for (String term : terms) {
             double numerator =
@@ -62,7 +61,8 @@ public class TfIdf extends Models {
     public ArrayList<Similarity> retrieve(String query) {
         HashMap<String, Entry> index = super.get_doc_indicies();
         ArrayList<String> documents = super.getDocumentList();
-
+        ArrayList<String> terms = new ArrayList<>(index.keySet());
+        Collections.sort(terms);
         double[][] vectorSpace = new double[documents.size()][index.size()];
         if(!f.exists()) {
             // space is documents x terms in index
@@ -71,7 +71,7 @@ public class TfIdf extends Models {
             for (String document : documents) {
                 int j = 0;
                 //go through every element in the index, columns
-                vectorSpace = documentVectorizor(index, document, vectorSpace, i,
+                vectorSpace = documentVectorizor(index, terms, document, vectorSpace, i,
                         j);
                 i += 1;
             }
@@ -92,8 +92,6 @@ public class TfIdf extends Models {
         double[] vector_query = new double[index.size()];
         int position = 0;
         double denominator = 0;
-        ArrayList<String> terms = new ArrayList<>(index.keySet());
-        Collections.sort(terms);
         ArrayList<Double> numerators = new ArrayList<>();
         for (String term : terms) {
             numerators.add(splitQuery.contains(term)? (Math.log(termQueryOccur(term, query) + 1) * inverseDocumentFrequency(term)) : 0);
@@ -132,11 +130,23 @@ public class TfIdf extends Models {
 
 
     private void writeMatrix(double[][] vectorspace) {
+        StringBuilder fileBuilder = new StringBuilder();
         if (!f.exists()) {
+            for(int row = 0; row < vectorspace.length; row++) {
+                for(int col = 0; col < vectorspace[0].length; col++) {
+                    fileBuilder.append(vectorspace[row][col]);
+                    if(col != vectorspace[0].length - 1) {
+                        fileBuilder.append(",");
+                    } else {
+                        fileBuilder.append("\n");
+                    }
+                }
+            }
+
             try {
-                ObjectOutputStream bw =
-                        new ObjectOutputStream(new FileOutputStream(f));
-                bw.writeObject(vectorspace);
+                BufferedWriter fileWriter = new BufferedWriter(new FileWriter(f));
+                fileWriter.write(fileBuilder.toString());
+                fileWriter.close();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -145,11 +155,20 @@ public class TfIdf extends Models {
 
     private double[][] readMatrix() throws IOException {
         if (f.exists()) {
+            ArrayList<double[]> lines = new ArrayList<>();
             try {
-                ObjectInputStream bw =
-                        new ObjectInputStream(new FileInputStream(f));
-                return (double[][]) bw.readObject();
-            } catch (IOException | ClassNotFoundException e) {
+                BufferedReader fileReader = new BufferedReader(new FileReader(f));
+                String documentLine;
+                while((documentLine = fileReader.readLine()) != null) {
+                    double[] document = Arrays.stream(documentLine.split(",")).mapToDouble(Double::parseDouble).toArray();
+                    lines.add(document);
+                }
+                double [][] vectorSpace = new double[lines.size()][lines.get(0).length];
+                for(int line = 0; line < lines.size(); line++) {
+                    vectorSpace[line] = lines.get(line);
+                }
+                return vectorSpace;
+            } catch (IOException e) {
                 e.printStackTrace();
             }
         } else {

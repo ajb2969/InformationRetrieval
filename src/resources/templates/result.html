@@ -126,17 +126,26 @@
 </div>
 
 <script>
-
     var bolding = function() {
         console.log("Running bolding function");
         let terms = "[[${queryContents}]]".toLowerCase().split(" ");
         let previews = document.getElementsByTagName("p");
+        termRegex = "";
+        for(let termindex = 0; termindex < terms.length; termindex++) {
+            // if-elif-else for pipe
+            if(termindex === 0) {
+                termRegex += "\\b" + terms[termindex] + "\\b|"
+            } else if(termindex === terms.length - 1) {
+                termRegex += "\\b" + terms[termindex] + "\\b"
+            } else {
+                termRegex += "\\b" + terms[termindex] + "\\b|"
+            }
+        }
         for(let index = 0; index < previews.length; index++) {
-            let regex = new RegExp('(' + terms.join('|') + ')', 'ig');
+            let regex = new RegExp('(' +  termRegex + ')', 'ig');
             previews[index].innerHTML = previews[index].innerHTML.replace(regex, '<b>$1</b>');
         }
     };
-
     window.addEventListener('load', bolding);
 </script>
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
