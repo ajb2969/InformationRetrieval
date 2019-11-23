@@ -17,8 +17,8 @@
 
 <body class="text-center" style="height: inherit; width: inherit; all:inherit; background-color: lightpink">
 
-<div class="cover-container d-flex h-100 p-3 mx-auto flex-column" style="max-width: max-content">
-    <header class="masthead mb-auto">
+<div class="cover-container d-flex h-100 p-3 mx-auto flex-column" style="max-width: max-content;">
+    <header class="masthead mb-auto" style="margin-bottom: 0!important;">
         <div class="inner">
             <h3 align="center" class="masthead-brand"></h3>
         </div>
@@ -26,12 +26,24 @@
 
 
     <main class="inner cover" role="main">
-        <img src="../img/b4a7f0e8fc4682a68c391401608ea396.png" class="img-fluid" style="margin-bottom: 20px;" alt="Responsive image">
+        <img src="../img/b4a7f0e8fc4682a68c391401608ea396.png" class="img-fluid" style="margin-bottom: 20px;"
+             alt="Responsive image">
 
         <form action="#" th:action="@{/query}" th:object="${query}" method="post">
+            <p style="display:inline-block"><input style="width: 500px; height: 30px;" type="text"
+                                                   th:field="*{content}"/></p>
 
-            <p style="display:inline-block"><input style="width: 500px; height: 30px;" type="text" th:field="*{content}" /></p>
-            <button type="submit">Submit</button>
+            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Filter By</button>
+            <div class="dropdown-menu" id="filterList" >
+                <div th:each="season: ${getSeasons}">
+                    <label class="checkbox">
+                        <input type="checkbox" th:text="'Season ' + ${season}" th:field="*{selectedSeason}" th:name="${season}" th:value="${season}">
+                    </label>
+                </div>
+            </div>
+
+            <button class="btn btn-primary" type="submit">Submit</button>
+
         </form>
     </main>
 
@@ -41,7 +53,6 @@
         </div>
     </footer>
 </div>
-
 
 <!-- Bootstrap core JavaScript
 ================================================== -->

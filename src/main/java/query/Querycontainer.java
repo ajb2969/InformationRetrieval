@@ -1,12 +1,14 @@
 package query;
 
+import java.util.ArrayList;
+
 public class Querycontainer {
     public String content;
-    public String selectedModel;
+    public ArrayList<Integer> selectedSeason;
 
     Querycontainer() {
         this.content = "";
-        this.selectedModel = "";
+        this.selectedSeason = new ArrayList<>();
     }
 
     public String getContent() {
@@ -17,11 +19,15 @@ public class Querycontainer {
         this.content = content;
     }
 
-    public String getSelectedModel() {
-        return selectedModel;
+    public ArrayList<Integer> getSelectedSeason() {
+        return selectedSeason;
     }
 
-    public void setSelectedModel(String selectedModel) {
-        this.selectedModel = selectedModel;
+    public void addSeason(Integer season) {
+        this.selectedSeason.add(season);
+    }
+
+    public void setSelectedSeason(ArrayList<Integer> selectedModel) {
+        this.selectedSeason = selectedModel;
     }
 }

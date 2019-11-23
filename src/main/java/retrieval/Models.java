@@ -19,7 +19,7 @@ abstract public class Models {
     private static final String FILE_TERM_SIZE_PATH = Index.docSize;
     static final HashMap<String, Integer> fileTermSize = parseDocumentIndexFile(FILE_TERM_SIZE_PATH);
     static final HashMap<String, Entry> documents = parse_doc_indicies();
-    static final HashMap<String, Integer> DOCS_TO_SEASONS = parseDocumentIndexFile(Index.SEASON_INDEX_PATH);
+    public static final HashMap<String, Integer> DOCS_TO_SEASONS = parseDocumentIndexFile(Index.SEASON_INDEX_PATH);
     static final int DOCUMENTSRETURNED = 30;
     static final Map<String, Map<String, Integer>> termToFileAndOccurrence = createIndexMap();
 

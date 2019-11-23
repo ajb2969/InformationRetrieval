@@ -1,5 +1,6 @@
 package query;
 
+import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
 import indexer.Index;
 import org.springframework.beans.factory.config.BeanDefinition;
@@ -24,6 +25,9 @@ import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
+
+import static com.google.common.collect.ImmutableList.*;
+import static java.util.Collections.*;
 
 
 @Controller
@@ -50,21 +54,9 @@ public class QueryController {
         return "index";
     }
 
-    @ModelAttribute("getModels")
-    public String[] getExtendedModels() throws ClassNotFoundException {
-        ClassPathScanningCandidateComponentProvider provider =
-                new ClassPathScanningCandidateComponentProvider(false);
-        provider.addIncludeFilter(new AssignableTypeFilter(Models.class));
-        ArrayList<String> possibleModels = new ArrayList<>();
-        Set<BeanDefinition> components = provider.findCandidateComponents(
-                "retrieval");
-        for (BeanDefinition component : components) {
-            Class cls = Class.forName(component.getBeanClassName());
-            possibleModels.add(cls.getName().substring(cls.getName().indexOf(
-                    ".") + 1));
-            // use class cls found
-        }
-        return possibleModels.toArray(new String[possibleModels.size()]);
+    @ModelAttribute("getSeasons")
+    public int[] getSeasonNumbers() {
+        return Models.DOCS_TO_SEASONS.values().stream().mapToInt(Integer::intValue).distinct().sorted().toArray();
     }
 
 
@@ -79,6 +71,19 @@ public class QueryController {
             m = new Pooling(query.getContent());
             currQuery = query.getContent();
             ArrayList<Similarity> documents = m.retrieve();
+
+            if(query.selectedSeason.size() != 0) {
+                documents = (ArrayList<Similarity>) documents.stream().filter(document -> query.selectedSeason.contains(document.getSeason())).collect(Collectors.toList());
+                seasons = new HashSet<>(query.getSelectedSeason());
+                model.addAttribute("seasons", seasons);
+            } else {
+                int [] seasonsNumbers = getSeasonNumbers();
+                ArrayList<Integer> seasons = new ArrayList<>();
+                for(int i = 0; i < seasonsNumbers.length; i++){seasons.add(seasonsNumbers[i]);}
+                seasons = new ArrayList<>(seasons);
+                model.addAttribute("seasons", seasons);
+            }
+
             for (Similarity sim : documents) {
                 sim.setPreview(getLongestIncreasingSequence(sim.getDocumentLink(), query.getContent()));
             }
@@ -95,7 +100,6 @@ public class QueryController {
                     Active.relevance.toString().toLowerCase());
             model.addAttribute("queryContents", currQuery);
             model.addAttribute("season", "-1");
-            model.addAttribute("seasons", new ArrayList<>(seasons));
             model.addAttribute("query", new Querycontainer());
         } else {
             return "index";
@@ -108,9 +112,9 @@ public class QueryController {
         ArrayList<Similarity> temp = Lists.newArrayList(this.currDocuments);
 
         if (backward) {
-            Collections.sort(temp, (o1, o2) -> o2.getDocument_name().compareTo(o1.getDocument_name()));
+            sort(temp, (o1, o2) -> o2.getDocument_name().compareTo(o1.getDocument_name()));
         } else {
-            Collections.sort(temp, Comparator.comparing(Similarity::getDocument_name));
+            sort(temp, Comparator.comparing(Similarity::getDocument_name));
         }
         model.addAttribute("selected", !backward ?
                 Active.alphabet.toString().toLowerCase() :
@@ -119,7 +123,7 @@ public class QueryController {
         model.addAttribute("results", temp);
         model.addAttribute("season", "-1");
         model.addAttribute("queryContents", currQuery);
-        model.addAttribute("seasons", new ArrayList<>(seasons));
+        model.addAttribute("seasons", seasons);
         return "result";
     }
 
@@ -131,7 +135,7 @@ public class QueryController {
                 Active.relevance.toString().toLowerCase());
         model.addAttribute("season", "-1");
         model.addAttribute("queryContents", currQuery);
-        model.addAttribute("seasons", new ArrayList<>(seasons));
+        model.addAttribute("seasons", seasons);
         return "result";
     }
 
@@ -144,7 +148,7 @@ public class QueryController {
         model.addAttribute("results", temp);
         model.addAttribute("query", new Querycontainer());
         model.addAttribute("season", season);
-        model.addAttribute("seasons", new ArrayList<>(seasons));
+        model.addAttribute("seasons", seasons);
         model.addAttribute("queryContents", currQuery);
         model.addAttribute("selected",
                 Active.seasons.toString().toLowerCase());
