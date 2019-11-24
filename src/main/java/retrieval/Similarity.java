@@ -32,6 +32,10 @@ public class Similarity implements Comparable<Similarity> {
         return Double.compare(this.getSimilarity(), o.getSimilarity());
     }
 
+    public void setSimilarity(double similarity) {
+        this.similarity = similarity;
+    }
+
     public String getPreview() {
         return preview;
     }
