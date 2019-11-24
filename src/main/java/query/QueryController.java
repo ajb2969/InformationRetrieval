@@ -1,14 +1,11 @@
 package query;
 
-import com.google.common.collect.ImmutableList;
 import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
 import indexer.Index;
-import org.springframework.beans.factory.config.BeanDefinition;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.FileSystemResource;
-import org.springframework.core.type.filter.AssignableTypeFilter;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
@@ -16,7 +13,9 @@ import org.thymeleaf.TemplateEngine;
 import org.thymeleaf.templatemode.TemplateMode;
 import org.thymeleaf.templateresolver.ClassLoaderTemplateResolver;
 import org.thymeleaf.templateresolver.ITemplateResolver;
-import retrieval.*;
+import retrieval.Models;
+import retrieval.Pooling;
+import retrieval.Similarity;
 
 import java.io.File;
 import java.io.IOException;
@@ -26,12 +25,12 @@ import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
 
-import static com.google.common.collect.ImmutableList.*;
-import static java.util.Collections.*;
+import static java.util.Collections.sort;
 
 
 @Controller
 public class QueryController {
+    private static final int HALF_WINDOW_SIZE = 20;
     private final String documentsPath = "documents/";
     final File temp = new File(documentsPath + "temp.txt");
     private ArrayList<Similarity> currDocuments = new ArrayList<>();
@@ -175,49 +174,44 @@ public class QueryController {
     }
 
     private String getLongestIncreasingSequence(String docName, String query) {
+        ArrayList<String> terms = (ArrayList<String>) Lists.newArrayList(query.split("\\s+")).stream()
+            .filter(term -> !term.isEmpty())
+            .collect(Collectors.toList());
+        String fileContent;
+        List<Integer> termTokenPositionsInFile;
         try {
-            final int WINDOWSIZE = 40;
-            String file =
-                    new String(Files.readAllBytes(Paths.get(documentsPath + docName)));
-            file = file.replaceAll("<[^>]*>", "");
-            // get file tokens
-            ArrayList<String> tokens =
-                    (ArrayList<String>) Arrays.stream(file.split("[ \n]")).collect(Collectors.toList());
-            // get query terms
-            String[] terms = query.split(" ");
-            ArrayList<Integer> termPositions = Index.readQueryPositions((ArrayList<String>)Arrays.stream(query.split(" ")).collect(Collectors.toList()), docName);
-            int max = 0;
-            int maxIndex = 0;
-            for(int index = 0; index < termPositions.size(); index++) {
-                int temp = index + 1;
-                while(temp < termPositions.size() && termPositions.get(temp) < termPositions.get(index)) {
-                    termPositions.size();
-                    temp += 1;
-                }
-                if(temp - index > max) {
-                    max = temp - index;
-                    maxIndex = index;
-                }
-            }
-
-            String returnedString = "";
-            if(termPositions.size() == 0) {
-                returnedString = tokens.subList(0, WINDOWSIZE * 2).stream().collect(Collectors.joining(" "));
-            } else if(termPositions.size() < 5) {
-                returnedString = tokens.subList(termPositions.get(0) - WINDOWSIZE >= 0 ? termPositions.get(0) - WINDOWSIZE: termPositions.get(0),
-                        termPositions.get(0) + WINDOWSIZE ).stream()
-                        .collect(Collectors.joining(" "));
-            } else {
-                returnedString = tokens.subList(maxIndex - WINDOWSIZE >= 0 ? maxIndex - WINDOWSIZE : maxIndex, maxIndex + WINDOWSIZE).stream().collect(Collectors.joining(" "));
-            }
-            return returnedString;
-
+            fileContent = new String(Files.readAllBytes(Paths.get(documentsPath + docName)));
+            termTokenPositionsInFile = Index.readQueryPositions(terms, docName);
         } catch (IOException e) {
-            e.printStackTrace();
+            throw new RuntimeException(e);
         }
-        return "Document Preview";
-    }
+        fileContent = fileContent.replaceAll("<[^>]*>", "");
+        List<String> fileTokens = Arrays.stream(fileContent.split("\\s+"))
+            .collect(Collectors.toList());
 
+        HashMap<Integer, Integer> windowCenterTermCounts = Maps.newHashMap();
+        for (Integer termPosition : termTokenPositionsInFile) {
+            int lowerBound = termPosition - HALF_WINDOW_SIZE < 0 ? 0 : termPosition - HALF_WINDOW_SIZE;
+            int upperBound =  termPosition + HALF_WINDOW_SIZE > fileTokens.size() ? fileTokens.size() : termPosition + HALF_WINDOW_SIZE;
+            for (int i = lowerBound; i < upperBound; i++) {
+                if (windowCenterTermCounts.containsKey(i)) {
+                    Integer currVote = windowCenterTermCounts.get(i);
+                    windowCenterTermCounts.put(i, currVote + 1);
+                } else {
+                    windowCenterTermCounts.put(i, 1);
+                }
+            }
+        }
+
+        Integer bestWindowCenter = windowCenterTermCounts.entrySet().stream()
+            .max((center1, center2) -> center1.getValue() > center2.getValue() ? 1 : -1)
+            .map(Map.Entry::getKey)
+            .orElse(HALF_WINDOW_SIZE);
+
+        int lowerBound = bestWindowCenter - HALF_WINDOW_SIZE < 0 ? 0 : bestWindowCenter - HALF_WINDOW_SIZE;
+        int upperBound = bestWindowCenter + HALF_WINDOW_SIZE > fileTokens.size() ? fileTokens.size() : bestWindowCenter + HALF_WINDOW_SIZE;
+        return String.join(" ", fileTokens.subList(lowerBound, upperBound));
+    }
 }
 
 
