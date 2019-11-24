@@ -24,6 +24,6 @@ Run the command
 $java -jar target/*.jar
 ```
 
-This java command will start the program and open tomcat to listen on port 65000. 
+This java command will start the program and open tomcat to listen on port 8080. 
 
-To view the webpage, visit ` http://localhost:65000 ` in your browser.
+To view the webpage, visit ` http://localhost:8080 ` in your browser.
