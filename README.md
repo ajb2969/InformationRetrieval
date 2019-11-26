@@ -16,5 +16,5 @@ To view the webpage, visit ` http://localhost:8080 ` in your browser.
 
 ## Download
 
-A link to where maven can be downloaded can be found below
+A link to where maven can be downloaded can be found at:  
 https://maven.apache.org/download.cgi
