@@ -30,10 +30,16 @@
              alt="Responsive image">
 
         <form action="#" th:action="@{/query}" th:object="${query}" method="post">
+            <select class="btn btn-primary" th:field="*{model}">
+                <option th:value="Pool" th:text="Pool" ></option>
+                <option th:value="TF.IDF" th:text="TF.IDF" ></option>
+                <option th:value="BM25" th:text="BM25" ></option>
+            </select>
+
             <p style="display:inline-block"><input style="width: 500px; height: 30px;" type="text"
                                                    th:field="*{content}"/></p>
 
-            <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Filter By</button>
+            <button type="button" style="margin-left: 10px;" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Filter By</button>
             <div class="dropdown-menu" id="filterList" >
                 <div th:each="season: ${getSeasons}">
                     <label class="checkbox">
