@@ -31,9 +31,10 @@
 
         <form action="#" th:action="@{/query}" th:object="${query}" method="post">
             <select class="btn btn-primary" th:field="*{model}">
-                <option th:value="Pool" th:text="Pool" ></option>
-                <option th:value="TF.IDF" th:text="TF.IDF" ></option>
-                <option th:value="BM25" th:text="BM25" ></option>
+                <option th:value="Pool" th:text="Bestest" ></option>
+                <option th:value="BM25" th:text="Bester" ></option>
+                <option th:value="TF.IDF" th:text="Best" ></option>
+
             </select>
 
             <p style="display:inline-block"><input style="width: 500px; height: 30px;" type="text"

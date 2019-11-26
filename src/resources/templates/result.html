@@ -37,14 +37,14 @@
                     <li class="nav-item" th:if="${selected} == 'relevance'">
                         <a class="nav-link active"  th:href="@{/relevance/}" th:method="get">
                             <span data-feather="home"></span>
-                            Relevance <span class="sr-only">(current)</span>
+                            Best Episodes <span class="sr-only">(current)</span>
                         </a>
                     </li>
                     <!--If relevance is not selected-->
                     <li class="nav-item" th:unless="${selected} == 'relevance'">
                         <a class="nav-link" th:href="@{/relevance/}" th:method="get">
                             <span data-feather="home"></span>
-                            Relevance <span class="sr-only">(current)</span>
+                            Best Episodes <span class="sr-only">(current)</span>
                         </a>
                     </li>
 
