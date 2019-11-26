@@ -14,7 +14,7 @@ This java command will start the program and open tomcat to listen on port 8080.
 
 To view the webpage, visit ` http://localhost:8080 ` in your browser.
 
-##Download
+## Download
 
 A link to where maven can be downloaded can be found below
 https://maven.apache.org/download.cgi
