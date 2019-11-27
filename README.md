@@ -18,3 +18,18 @@ To view the webpage, visit ` http://localhost:8080 ` in your browser.
 
 A link to where maven can be downloaded can be found at:  
 https://maven.apache.org/download.cgi
+
+## Code Organization  
+
+The code is organized into 4 modules  
+* Indexer - The Java code to build the index files  
+* Parser - The Java code to turn the HTML file into documents  
+* Query - The controller for the web server  
+* Retrieval - Where the IR retrieval algorithms are stored  
+
+### Resources:  
+The front-end UI code is stored under `src/resources`, which is then broken into 4 directories  
+* CSS - Where all the styling code is stored
+* IMG - Where the images are stored
+* JS - Where the Javascript code is stored
+* Templates - Where the HTML files that get rendered are stored

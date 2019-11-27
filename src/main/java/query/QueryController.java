@@ -37,6 +37,7 @@ public class QueryController {
     private String currQuery = "";
     private HashSet<Integer> seasons = new HashSet<>();
     private Pooling m;
+    private ModelTypes currModel;
 
     enum Active {
         relevance,
@@ -73,15 +74,19 @@ public class QueryController {
 
             if(query.getModel().equals("Pool")) {
                 System.out.println("Pooling");
+                this.currModel = ModelTypes.Pool;
                 m = new Pooling(query.getContent(), ModelTypes.Pool);
             } else if(query.getModel().equals("TF.IDF")) {
                 System.out.println("TF.IDF");
+                this.currModel = ModelTypes.TFIDF;
                 m = new Pooling(query.getContent(), ModelTypes.TFIDF);
             } else if(query.getModel().equals("BM25")) {
+                this.currModel = ModelTypes.BM25;
                 System.out.println("BM25");
                 m = new Pooling(query.getContent(), ModelTypes.BM25);
             } else {
-                System.out.println("Model was null");
+                System.out.println("The current model is " + this.currModel.toString());
+                m = new Pooling(query.getContent(), this.currModel);
             }
             currQuery = query.getContent();
             ArrayList<Similarity> documents = m.retrieve();
